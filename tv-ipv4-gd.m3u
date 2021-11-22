@@ -160,7 +160,7 @@ http://218.204.171.201/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8?p=GITV&area=GD_C
 #EXTINF:-1 tvg-id="btvjishi" tvg-logo="btvjishi.png",北京纪实
 http://218.204.171.201/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8?p=GITV&area=GD_CMCC
 
-#EXTINF:-1 tvg-id="btvdajishi" tvg-logo="btvdajishi.png",北京冬奥纪实
+#EXTINF:-1 tvg-id="北京纪实" tvg-logo="btvdajishi.png",北京冬奥纪实
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226075/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="tianjin" tvg-logo="tianjin.png",天津卫视
@@ -271,13 +271,13 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Sup
 #EXTINF:-1 tvg-id="hmdh" tvg-logo="hmdh.png",NewTV黑莓动画
 http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
 
-#EXTINF:-1 tvg-id="btvchild" tvg-logo="btvchild.png",卡酷少儿
+#EXTINF:-1 tvg-id="btvchild" tvg-logo="btvchild.png",卡酷卡通
 http://218.204.171.201/gitv_live/G_KAKU/G_KAKU.m3u8?p=GITV&area=GD_CMCC
 
 #EXTINF:-1 tvg-id="jjkt" tvg-logo="jjkt.png",嘉佳卡通
 http://39.134.39.39/PLTV/88888888/224/3221225643/index.m3u8
 
-#EXTINF:-1 tvg-id="xdkt" tvg-logo="xdkt.png",炫动卡通
+#EXTINF:-1 tvg-id="xdkt" tvg-logo="xdkt.png",哈哈炫动
 http://218.204.171.201/gitv_live/G_XUANDONG/G_XUANDONG.m3u8?p=GITV&area=GD_CMCC
 
 #EXTINF:-1 tvg-id="jykt" tvg-logo="jykt.png",金鹰卡通
@@ -286,7 +286,7 @@ http://218.204.171.201/gitv_live/G_JINYING/G_JINYING.m3u8?p=GITV&area=GD_CMCC
 #EXTINF:-1 tvg-id="JSTV-youmankatong" tvg-logo="ymkt.png",优漫卡通
 http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
 
-#EXTINF:-1 tvg-id="4K" tvg-logo="4K.png",纯享4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-logo="4K.png",纯享4K
 http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
 
 #EXTINF:-1 tvg-id="爱上4K" tvg-logo="4K.png",爱上4K-22M
@@ -307,5 +307,5 @@ http://39.134.19.244:6610/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-id="newtvjpzh" tvg-logo="chcdzdy.png",精彩综艺
 http://39.134.19.244:6610/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="meishi" tvg-logo="meishi.png",凤凰中文资讯
+#EXTINF:-1 tvg-id="凤凰中文" tvg-logo="meishi.png",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
