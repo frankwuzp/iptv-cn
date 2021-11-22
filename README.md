@@ -1,4 +1,11 @@
 # iptv-cn
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/frankwuzp/iptv-cn/main?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/frankwuzp/iptv-cn?style=flat-square)
+
+[![](https://data.jsdelivr.com/v1/package/gh/frankwuzp/iptv-cn/badge)](https://www.jsdelivr.com/package/gh/frankwuzp/iptv-cn)
+![GitHub watchers](https://img.shields.io/github/watchers/frankwuzp/iptv-cn?style=social)
+
+
 ## 简介
 
 亲测 **广东** 可用的 IPTV 资源，适用于Jellyfin 的电视直播。
@@ -42,7 +49,7 @@
 
 - **jsDelivr CDN (optimized for mainland users)**
 
-  `https://cdn.jsdelivr.net/gh/frankwuzp/iptv-cn@main/guide.xml`
+  `https://cdn.jsdelivr.net/gh/frankwuzp/iptv-cn@latest/guide.xml`
 
 ![jellyfin-epg](./image/jellyfin-epg.png)
 
