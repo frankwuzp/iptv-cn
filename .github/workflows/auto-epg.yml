@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-  - cron: "0 0 17,22 * *" # auto update at 1 and 6 o'clock Beijing time
+  - cron: "0 17,22 * * *" # auto update at 1 and 6 o'clock Beijing time
 
 jobs:
   build:
