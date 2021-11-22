@@ -36,13 +36,14 @@ jobs:
         run: |
           pwd
           python get-epg.py
-#      - name: Push to built branch
-#        uses: Automattic/action-commit-to-branch@master
-#        with:
-#          branch: 'main'
-#          commit_message: '🚀 update hosts'
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push to built branch
+        uses: Automattic/action-commit-to-branch@master
+        with:
+          branch: 'main'
+          commit_message: '🚀 update tv-guide'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+'''
       - name: Git Commit and Push
         # You may pin to the exact commit or the version.
         # uses: github-actions-x/commit@5cf7985b07155682f82d02b6c2188d90cebeb0c8
@@ -66,3 +67,4 @@ jobs:
           email: # optional
           # Committer name. Default is name of the person or app that initiated the workflow.
           name: # optional
+'''
