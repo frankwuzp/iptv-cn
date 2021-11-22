@@ -1,16 +1,13 @@
 #EXTM3U url-logos="https://raw.githubusercontent.com/BurningC4/tvg-logo/master/"
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
-#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
-#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 
 #EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3 综艺
-#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 
 #EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
@@ -22,8 +19,7 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
 
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
-#http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="cctv7.png",CCTV-7 国防军事
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
@@ -32,12 +28,10 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
 
 #EXTINF:-1 tvg-id="cctvjilu" tvg-logo="cctv9.png",CCTV-9 纪录
-#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
 
 #EXTINF:-1 tvg-id="cctv10" tvg-logo="cctv10.png",CCTV-10 科教
-#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
 
 #EXTINF:-1 tvg-id="cctv11" tvg-logo="cctv11.png",CCTV-11 戏曲
 http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
@@ -46,8 +40,7 @@ http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
 
 #EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
-#http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
 
 #EXTINF:-1 tvg-id="cctvchild" tvg-logo="cctvchild.png",CCTV-14 少儿
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
@@ -129,9 +122,6 @@ http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv
 
 #EXTINF:-1 tvg-id="yunnan" tvg-logo="yunnan.png",云南卫视
 http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1
-
-#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
-http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
 
 #EXTINF:-1 tvg-id="bingtuan" tvg-logo="bingtuan.png",兵团卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv

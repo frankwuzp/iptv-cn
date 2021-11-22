@@ -1,29 +1,44 @@
 # iptv-cn
 ## 简介
 
-亲测境内可用的 IPTV 资源，适用于 Jellyfin 的电视直播资源
+亲测 **广东** 可用的 IPTV 资源，适用于Jellyfin 的电视直播。
 
 ## 如何使用
 
-## Channel lists
+### 文件说明
+
+`tv-ipv4-cn` => 境内通用 `m3u` 文件
+
+`tv-ipv4-gd` => 广东省内使用，优选 ✅
+
+`tv-ipv4-old` => 参考 [BurningC4](https://github.com/BurningC4/Chinese-IPTV) 的仓库，两年前的原始数据，部分可用，存在延迟和卡顿
+
+### Channel lists (以广东为例)
 
 - **Github**
 
-  `https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/tv-ipv4.m3u`
+  `https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/tv-ipv4-gd.m3u`
 
-- **jsDelivr CDN** (optimized for mainland users)
+- **jsDelivr CDN** (CDN 加速，大陆用户可选用)
 
-  `https://cdn.jsdelivr.net/gh/frankwuzp/iptv-cn@latest/tv-ipv4.m3u`
+  `https://cdn.jsdelivr.net/gh/frankwuzp/iptv-cn@latest/tv-ipv4-gd.m3u`
 
-可保存本仓库的 `tv-ipv4.m3u` 文件，或将以上网址（二选一）填入 Jellyfin 的电视直播协调器：
+可保存本仓库的 `tv-ipv4-gd.m3u` 文件，或将以上网址（二选一）填入 Jellyfin 的电视直播协调器：
 
 ![jellyfin-setting](./image/jellyfin-settings.png)
 
-## Guide file (EPG)
+### Guide file (三选一)
+
+- 大神版
+
+  `http://epg.51zmt.top:8000/e.xml`
 
 - **Github**
+
   `https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml`
+
 - **jsDelivr CDN (optimized for mainland users)**
+
   `https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml`
 
 ![jellyfin-epg](./image/jellyfin-epg.png)
@@ -38,4 +53,5 @@
 
 ## Changelog
 
+- 211122 分为国内通用版、广东省内专用版
 - 211121 init
