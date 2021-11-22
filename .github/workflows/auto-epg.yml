@@ -35,7 +35,7 @@ jobs:
       - name: Update tv-guide
         run: |
           pwd
-          python getepg.py
+          python get-epg.py
 #      - name: Push to built branch
 #        uses: Automattic/action-commit-to-branch@master
 #        with:
