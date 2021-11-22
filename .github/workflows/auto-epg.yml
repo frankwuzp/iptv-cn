@@ -1,0 +1,68 @@
+name: auto update
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+  - cron: "0 0 17,22 * *" # auto update at 1 and 6 o'clock Beijing time
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - uses: actions/cache@v1
+        if: startsWith(runner.os, 'Linux')
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Update tv-guide
+        run: |
+          pwd
+          python getepg.py
+#      - name: Push to built branch
+#        uses: Automattic/action-commit-to-branch@master
+#        with:
+#          branch: 'main'
+#          commit_message: '🚀 update hosts'
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Git Commit and Push
+        # You may pin to the exact commit or the version.
+        # uses: github-actions-x/commit@5cf7985b07155682f82d02b6c2188d90cebeb0c8
+        uses: github-actions-x/commit@v2.8
+        with:
+          # Github Token with commit access
+          github-token:  ${{ secrets.GITHUB_TOKEN }}
+          # Override branch to push to
+          push-branch: 'main' # optional
+          # Specify commit message
+          commit-message: '🚀 update tv-guide' # optional, default is autocommit
+          # Force add files, useful for adding ignored files.
+          force-add: # optional, default is false
+          # Force push.
+          force-push: true # optional, default is false
+          # Pull and rebase before commiting. Useful when using commit inside matrix.
+          rebase: # optional, default is false
+          # Specific files to add.
+          files: # optional
+          # Committer email. Default is ${name}@users.noreply.github.com
+          email: # optional
+          # Committer name. Default is name of the person or app that initiated the workflow.
+          name: # optional
