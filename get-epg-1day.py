@@ -62,12 +62,12 @@ def getChannelCNTV(fhandle, channelID):
             fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
             fhandle.write('        <title lang="cn">%s</title>\n' % detail['t'])
             fhandle.write('    </programme>\n')
-
+'''
+# 本段内容适用电视猫，备份使用，先注释掉
 def getChannelTVsou(fhandle, channelID):
-    '''
-    获取TVSOU的节目单和节目信息，先获取所有台的ID，再通过ID获取每个台每天节目单
 
-    '''
+    # 获取TVSOU的节目单和节目信息，先获取所有台的ID，再通过ID获取每个台每天节目单
+
     #获取tvsou每个台的地址
     session = requests.Session()
     base_url = 'https://www.tvsou.com'
@@ -122,9 +122,9 @@ def getChannelTVsou(fhandle, channelID):
             fhandle.write('        <title lang="cn">%s</title>\n' % epgname[n].strip())
             #fhandle.write('        <desc lang="cn">%s</desc>\n' % epgname[n].strip())
             fhandle.write('    </programme>\n')
+'''
 
-
-with open('guide.xml','at', encoding='utf-8') as fhandle:
+with open('guide.xml','w', encoding='utf-8') as fhandle:
     fhandle.write('<?xml version="1.0" encoding="utf-8" ?>\n')
     fhandle.write('<tv>\n')
 #    getChannelTVsou(fhandle,cctv_channel_tvsou)

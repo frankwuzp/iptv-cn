@@ -37,9 +37,9 @@
 
 ![jellyfin-setting](./image/jellyfin-settings.png)
 
-### Guide file (三选一)
+### Guide file (四选一)
 
-- 某神秘大神版
+- **某神秘大神版**
 
   `http://epg.51zmt.top:8000/e.xml`
 
@@ -50,6 +50,11 @@
 - **jsDelivr CDN (optimized for mainland users)**
 
   `https://cdn.jsdelivr.net/gh/frankwuzp/iptv-cn@latest/guide.xml`
+
+- **iptv-org**
+  
+  `https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml`
+
 
 ![jellyfin-epg](./image/jellyfin-epg.png)
 
@@ -65,6 +70,7 @@
 
 ## Changelog
 
+- 211123 解决更新 epg 时不能删除旧内容的问题 & 补充一个新的 epg 源
 - 211122 新增 EPG 指南文件 `guide.xml`，并实现自动更新(每天凌晨1点、6点)
 - 211122 分为国内通用版、广东省内专用版
 - 211121 init
