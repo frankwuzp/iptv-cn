@@ -23,9 +23,6 @@ jobs:
         with:
           python-version: 3.8
 
-      - name: Set Timezone
-        run: sudo timedatectl set-timezone 'Asia/Shanghai'
-      
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -45,7 +42,7 @@ jobs:
         uses: Automattic/action-commit-to-branch@master
         with:
           branch: "main"
-          commit_message: "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
+          commit_message: "🚀 update tv-guide"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
