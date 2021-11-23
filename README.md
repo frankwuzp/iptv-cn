@@ -63,6 +63,7 @@
 - [BurningC4/Chinese-IPTV](https://github.com/BurningC4/Chinese-IPTV)
 - [SoPudge/kodi_iptv_epg](https://github.com/SoPudge/kodi_iptv_epg)
 - [BurningC4/getepg](https://github.com/BurningC4/getepg)
+- [3mile/cctv_api_get_EPG](https://github.com/3mile/cctv_api_get_EPG)
 - [国内高清直播live - TV001](http://www.tv001.vip/forum.php?mod=viewthread&tid=3)
 - [广东移动某河全套 - 恩山无线论坛](https://www.right.com.cn/forum/thread-6809023-1-1.html)
 

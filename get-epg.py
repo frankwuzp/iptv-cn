@@ -16,7 +16,7 @@ cctv_channel_tvsou = ['cctv-1','cctv-2','cctv-3','cctv-4','cctv-5','cctv5+','cct
 sat_channel = ['cetv1','cetv2','cetv3','cetv4','btv1','btvjishi','dongfang', \
         'hunan','shandong','zhejiang','jiangsu','guangdong','dongnan','anhui', \
         'gansu','liaoning','travel','neimenggu','ningxia','qinghai','xiamen', \
-        'yunnan','chongqing','jiangxi','shan1xi','shenzhen','sichuan','tianjin', \
+        'yunnan','chongqing','jiangxi','shan1xi','shan3xi','shenzhen','sichuan','tianjin', \
         'guangxi','guizhou','hebei','henan','heilongjiang','hubei','jilin', \
         'yanbian','xizang','xinjiang','bingtuan','btvchild','gaoerfu','sdetv']
 sat_channel_tvsou = ['hubei','hunan','zhejiang','jiangsu','dongfang','btv1','guangdong',\
@@ -166,7 +166,7 @@ def getChannelTVsou(fhandle, channelID):
 
 with open('guide.xml','w', encoding='utf-8') as fhandle: # 参数 w 表示覆盖，追加用 at (追加+文本)
     fhandle.write('<?xml version="1.0" encoding="utf-8" ?>\n')
-    fhandle.write('<tv>\n')
+    fhandle.write('<tv generator-info-name="frankwuzp" generator-info-url="https://github.com/frankwuzp/iptv-cn">\n')
 #    getChannelTVsou(fhandle,cctv_channel_tvsou)
 #    getChannelTVsou(fhandle, 'weishi')
     getChannelCNTV(fhandle, cctv_channel)
