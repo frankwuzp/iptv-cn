@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<tv>
+<tv generator-info-name="frankwuzp" generator-info-url="https://github.com/frankwuzp/iptv-cn">
     <channel id="cctv1">
         <display-name lang="cn">CCTV-1 综合</display-name>
     </channel>
@@ -128,6 +128,9 @@
     </channel>
     <channel id="shan1xi">
         <display-name lang="cn">山西卫视</display-name>
+    </channel>
+    <channel id="shan3xi">
+        <display-name lang="cn">陕西卫视</display-name>
     </channel>
     <channel id="shenzhen">
         <display-name lang="cn">深圳卫视</display-name>
@@ -12638,6 +12641,285 @@
     </programme>
     <programme start="20211125155500" stop="20211125155900" channel="shan1xi">
         <title lang="zh">电视剧:亮剑</title>
+    </programme>
+    <programme start="20211122165500" stop="20211122174500" channel="shan3xi">
+        <title lang="zh">华山论鉴</title>
+    </programme>
+    <programme start="20211122174500" stop="20211122181400" channel="shan3xi">
+        <title lang="zh">纪录时间</title>
+    </programme>
+    <programme start="20211122181400" stop="20211122185900" channel="shan3xi">
+        <title lang="zh">丝路新周刊</title>
+    </programme>
+    <programme start="20211122185900" stop="20211122194600" channel="shan3xi">
+        <title lang="zh">秦之声</title>
+    </programme>
+    <programme start="20211122194600" stop="20211122203100" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211122203100" stop="20211122213400" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211122213400" stop="20211122222900" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211122222900" stop="20211122230000" channel="shan3xi">
+        <title lang="zh">纪录时间</title>
+    </programme>
+    <programme start="20211122230000" stop="20211122232700" channel="shan3xi">
+        <title lang="zh">陕西新闻联播</title>
+    </programme>
+    <programme start="20211122232700" stop="20211123002200" channel="shan3xi">
+        <title lang="zh">电视剧:飞虎队(33)</title>
+    </programme>
+    <programme start="20211123002200" stop="20211123011500" channel="shan3xi">
+        <title lang="zh">电视剧:飞虎队(34)</title>
+    </programme>
+    <programme start="20211123011500" stop="20211123021100" channel="shan3xi">
+        <title lang="zh">电视剧:飞虎队(35)</title>
+    </programme>
+    <programme start="20211123021100" stop="20211123031000" channel="shan3xi">
+        <title lang="zh">电视剧:飞虎队(36)</title>
+    </programme>
+    <programme start="20211123031000" stop="20211123041500" channel="shan3xi">
+        <title lang="zh">电视剧:飞虎队(37)</title>
+    </programme>
+    <programme start="20211123041500" stop="20211123044700" channel="shan3xi">
+        <title lang="zh">对话书记</title>
+    </programme>
+    <programme start="20211123044700" stop="20211123050300" channel="shan3xi">
+        <title lang="zh">TV一周刊</title>
+    </programme>
+    <programme start="20211123050300" stop="20211123055300" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(32)</title>
+    </programme>
+    <programme start="20211123055300" stop="20211123065100" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(33)</title>
+    </programme>
+    <programme start="20211123065100" stop="20211123074900" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(34)</title>
+    </programme>
+    <programme start="20211123074900" stop="20211123085100" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(35)</title>
+    </programme>
+    <programme start="20211123085100" stop="20211123094700" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(36)</title>
+    </programme>
+    <programme start="20211123094700" stop="20211123102400" channel="shan3xi">
+        <title lang="zh">电视剧:机灵宠物车</title>
+    </programme>
+    <programme start="20211123102400" stop="20211123103000" channel="shan3xi">
+        <title lang="zh">旅游天气预报</title>
+    </programme>
+    <programme start="20211123103000" stop="20211123110000" channel="shan3xi">
+        <title lang="zh">陕西新闻联播</title>
+    </programme>
+    <programme start="20211123110000" stop="20211123113200" channel="shan3xi">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20211123113200" stop="20211123122100" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211123122100" stop="20211123131000" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211123131000" stop="20211123140000" channel="shan3xi">
+        <title lang="zh">我的家乡在陕西</title>
+    </programme>
+    <programme start="20211123140000" stop="20211123144000" channel="shan3xi">
+        <title lang="zh">今日点击</title>
+    </programme>
+    <programme start="20211123144000" stop="20211123144600" channel="shan3xi">
+        <title lang="zh">晚间天气预报</title>
+    </programme>
+    <programme start="20211123144600" stop="20211123155800" channel="shan3xi">
+        <title lang="zh">电视剧:安家(35)</title>
+    </programme>
+    <programme start="20211123155800" stop="20211123155900" channel="shan3xi">
+        <title lang="zh">电视剧:安家(36)</title>
+    </programme>
+    <programme start="20211123160400" stop="20211123170400" channel="shan3xi">
+        <title lang="zh">电视剧:安家(37)</title>
+    </programme>
+    <programme start="20211123170400" stop="20211123174500" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211123174500" stop="20211123182600" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211123182600" stop="20211123220000" channel="shan3xi">
+        <title lang="zh">静屏</title>
+    </programme>
+    <programme start="20211123220000" stop="20211123222700" channel="shan3xi">
+        <title lang="zh">陕西新闻联播</title>
+    </programme>
+    <programme start="20211123222700" stop="20211123230100" channel="shan3xi">
+        <title lang="zh">纪录时间</title>
+    </programme>
+    <programme start="20211123230100" stop="20211123232700" channel="shan3xi">
+        <title lang="zh">好管家</title>
+    </programme>
+    <programme start="20211123232700" stop="20211124002200" channel="shan3xi">
+        <title lang="zh">电视剧:飞虎队(38)</title>
+    </programme>
+    <programme start="20211124002200" stop="20211124011500" channel="shan3xi">
+        <title lang="zh">电视剧:飞虎队(39)</title>
+    </programme>
+    <programme start="20211124011500" stop="20211124021100" channel="shan3xi">
+        <title lang="zh">电视剧:飞虎队(40)</title>
+    </programme>
+    <programme start="20211124021100" stop="20211124031000" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211124031000" stop="20211124041500" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211124041500" stop="20211124050200" channel="shan3xi">
+        <title lang="zh">我的家乡在陕西</title>
+    </programme>
+    <programme start="20211124050200" stop="20211124055300" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(37)</title>
+    </programme>
+    <programme start="20211124055300" stop="20211124065100" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(38)</title>
+    </programme>
+    <programme start="20211124065100" stop="20211124074900" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(39)</title>
+    </programme>
+    <programme start="20211124074900" stop="20211124085000" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(40)</title>
+    </programme>
+    <programme start="20211124085000" stop="20211124094700" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(41)</title>
+    </programme>
+    <programme start="20211124094700" stop="20211124102400" channel="shan3xi">
+        <title lang="zh">电视剧:机灵宠物车</title>
+    </programme>
+    <programme start="20211124102400" stop="20211124103000" channel="shan3xi">
+        <title lang="zh">旅游天气预报</title>
+    </programme>
+    <programme start="20211124103000" stop="20211124110000" channel="shan3xi">
+        <title lang="zh">陕西新闻联播</title>
+    </programme>
+    <programme start="20211124110000" stop="20211124113200" channel="shan3xi">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20211124113200" stop="20211124122500" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211124122500" stop="20211124132000" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211124132000" stop="20211124140000" channel="shan3xi">
+        <title lang="zh">好管家</title>
+    </programme>
+    <programme start="20211124140000" stop="20211124143200" channel="shan3xi">
+        <title lang="zh">今日点击</title>
+    </programme>
+    <programme start="20211124143200" stop="20211124143600" channel="shan3xi">
+        <title lang="zh">晚间天气预报</title>
+    </programme>
+    <programme start="20211124143600" stop="20211124155800" channel="shan3xi">
+        <title lang="zh">电视剧:安家(38)</title>
+    </programme>
+    <programme start="20211124155800" stop="20211124155900" channel="shan3xi">
+        <title lang="zh">电视剧:安家(39)</title>
+    </programme>
+    <programme start="20211124165100" stop="20211124173600" channel="shan3xi">
+        <title lang="zh">好管家</title>
+    </programme>
+    <programme start="20211124173600" stop="20211124180600" channel="shan3xi">
+        <title lang="zh">纪录时间</title>
+    </programme>
+    <programme start="20211124180600" stop="20211124185100" channel="shan3xi">
+        <title lang="zh">我的家乡在陕西</title>
+    </programme>
+    <programme start="20211124185100" stop="20211124194900" channel="shan3xi">
+        <title lang="zh">秦之声</title>
+    </programme>
+    <programme start="20211124194900" stop="20211124203100" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211124203100" stop="20211124213400" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211124213400" stop="20211124222900" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211124222900" stop="20211124230000" channel="shan3xi">
+        <title lang="zh">纪录时间</title>
+    </programme>
+    <programme start="20211124230000" stop="20211124230100" channel="shan3xi">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme start="20211124230100" stop="20211124232700" channel="shan3xi">
+        <title lang="zh">陕西新闻联播</title>
+    </programme>
+    <programme start="20211124232700" stop="20211125002200" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211125002200" stop="20211125011500" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211125011500" stop="20211125021100" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211125021100" stop="20211125031000" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211125031000" stop="20211125041500" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211125041500" stop="20211125050200" channel="shan3xi">
+        <title lang="zh">好管家</title>
+    </programme>
+    <programme start="20211125050200" stop="20211125055300" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(42)</title>
+    </programme>
+    <programme start="20211125055300" stop="20211125065100" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(43)</title>
+    </programme>
+    <programme start="20211125065100" stop="20211125074900" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(44)</title>
+    </programme>
+    <programme start="20211125074900" stop="20211125084700" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(45)</title>
+    </programme>
+    <programme start="20211125084700" stop="20211125094700" channel="shan3xi">
+        <title lang="zh">电视剧:薛平贵与王宝钏(46)</title>
+    </programme>
+    <programme start="20211125094700" stop="20211125102400" channel="shan3xi">
+        <title lang="zh">电视剧:机灵宠物车</title>
+    </programme>
+    <programme start="20211125102400" stop="20211125103000" channel="shan3xi">
+        <title lang="zh">旅游天气预报</title>
+    </programme>
+    <programme start="20211125103000" stop="20211125110000" channel="shan3xi">
+        <title lang="zh">陕西新闻联播</title>
+    </programme>
+    <programme start="20211125110000" stop="20211125113200" channel="shan3xi">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20211125113200" stop="20211125122500" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211125122500" stop="20211125132500" channel="shan3xi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20211125132500" stop="20211125140000" channel="shan3xi">
+        <title lang="zh">警察故事</title>
+    </programme>
+    <programme start="20211125140000" stop="20211125144000" channel="shan3xi">
+        <title lang="zh">今日点击</title>
+    </programme>
+    <programme start="20211125144000" stop="20211125144500" channel="shan3xi">
+        <title lang="zh">晚间天气预报</title>
+    </programme>
+    <programme start="20211125144500" stop="20211125155800" channel="shan3xi">
+        <title lang="zh">电视剧:安家(40)</title>
+    </programme>
+    <programme start="20211125155800" stop="20211125155900" channel="shan3xi">
+        <title lang="zh">电视剧:安家(41)</title>
     </programme>
     <programme start="20211122161200" stop="20211122171700" channel="shenzhen">
         <title lang="zh">决胜制高点</title>
