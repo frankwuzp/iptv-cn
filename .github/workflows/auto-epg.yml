@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-  # auto update at 1,6,12 o'clock Beijing time
+  # auto update at 1,7,12 o'clock Beijing time
   # check at https://crontab.guru/
   - cron: "0 17,23,4 * * *" 
   
@@ -55,7 +55,6 @@ jobs:
           git config --local user.email "frankwuzp@users.noreply.github.com"
           git config --local user.name "frankwuzp"
           git stash
-          git commit
           git pull
           git stash pop
           git add .
