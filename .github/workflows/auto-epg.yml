@@ -6,9 +6,9 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-  # auto update at 1 and 6 o'clock Beijing time
+  # auto update at 1,6,12 o'clock Beijing time
   # check at https://crontab.guru/
-  - cron: "0 17,22 * * *" 
+  - cron: "0 17,22,4 * * *" 
   
 jobs:
   build:
@@ -34,6 +34,9 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
+      
       - name: Update tv-guide
         run: |
           pwd
