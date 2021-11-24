@@ -54,6 +54,7 @@ jobs:
           git config core.ignorecase false
           git config --local user.email "frankwuzp@users.noreply.github.com"
           git config --local user.name "frankwuzp"
+          git pull
           git add .
           git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
           git push
