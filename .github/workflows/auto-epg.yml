@@ -8,7 +8,7 @@ on:
   schedule:
   # auto update at 1,6,12 o'clock Beijing time
   # check at https://crontab.guru/
-  - cron: "0 17,22,4 * * *" 
+  - cron: "0 17,23,4 * * *" 
   
 jobs:
   build:
@@ -55,6 +55,7 @@ jobs:
           git config --local user.email "frankwuzp@users.noreply.github.com"
           git config --local user.name "frankwuzp"
           git stash
+          git commit
           git pull
           git stash pop
           git add .
