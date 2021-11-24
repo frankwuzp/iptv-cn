@@ -52,8 +52,8 @@ jobs:
       - name: Git Commit and Push 
         run: |
           git config core.ignorecase false
-          git config --local user.email "frankwuzp@users.noreply.github.com"
-          git config --local user.name "frankwuzp"
+          git config --local user.email "github-actions-bot@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git stash
           git pull
           git stash pop
