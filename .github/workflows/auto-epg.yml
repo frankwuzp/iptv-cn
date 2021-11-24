@@ -61,10 +61,10 @@ jobs:
           # Force push.
           force-push: true # optional, default is false
           # Pull and rebase before commiting. Useful when using commit inside matrix.
-#          rebase: # optional, default is false
+          rebase: # optional, default is false
           # Specific files to add.
-#          files: # optional, default is 
+          files: # optional, default is 
           # Committer email. Default is ${name}@users.noreply.github.com
-#          email: # optional, default is 
+          email: # optional, default is 
           # Committer name. Default is name of the person or app that initiated the workflow.
-#          name: # optional, default is 
+          name: # optional, default is 
