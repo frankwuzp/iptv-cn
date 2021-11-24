@@ -6,9 +6,9 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-  # auto update at 1,7,12 o'clock Beijing time
+  # auto update at 1,7,12,18 o'clock Beijing time
   # check at https://crontab.guru/
-  - cron: "0 17,23,4 * * *" 
+  - cron: "0 17,23,4,10 * * *" 
   
 jobs:
   build:
@@ -41,22 +41,28 @@ jobs:
         run: |
           pwd
           python get-epg.py
-#      - name: Push to built branch
-#        uses: Automattic/action-commit-to-branch@master
-#        with:
-#          branch: 'main'
-#          commit_message: '🚀 update tv-guide'
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Git Commit and Push 
+      - name: Commit changes
         run: |
-          git config core.ignorecase false
           git config --local user.email "github-actions-bot@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git stash
-          git pull
-          git stash pop
-          git add .
-          git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
+      - name: Pull changes
+        run: git pull -r
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+#      - name: Git Commit and Push 
+#        run: |
+#          git config core.ignorecase false
+#          git config --local user.email "github-actions-bot@users.noreply.github.com"
+#          git config --local user.name "github-actions[bot]"
+#          git stash
+#          git pull
+#          git stash pop
+#          git add .
+#          git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
+#          git push
