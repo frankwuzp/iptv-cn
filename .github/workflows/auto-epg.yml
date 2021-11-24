@@ -47,10 +47,10 @@ jobs:
 #          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Git Commit and Push 
-          run: |
-             git config core.ignorecase false
-             git config --local user.email "frankwuzp@users.noreply.github.com"
-             git config --local user.name "frankwuzp"
-             git add .
-             git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
-             git push
+        run: |
+          git config core.ignorecase false
+          git config --local user.email "frankwuzp@users.noreply.github.com"
+          git config --local user.name "frankwuzp"
+          git add .
+          git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
