@@ -18,7 +18,9 @@
 
 ~~- `tv-ipv4-gd` => 广东省内使用，优选 ✅~~
 
-> 20211126 测试结果：`tv-ipv4-gd` 无法播放，请使用 `tv-ipv4-cn`
+> 20211126 测试结果：`tv-ipv4-gd` 无法播放，请使用 `tv-ipv4-cn` 或 `tv-ipv4-cmcc`
+
+- `tv-ipv4-cmcc` => 211126 新增的移动信号源，亲测可用 ✅
 
 - `tv-ipv4-old` => 参考 [BurningC4](https://github.com/BurningC4/Chinese-IPTV) 的仓库，两年前的原始数据，部分可用，存在延迟和卡顿
 
@@ -29,13 +31,13 @@
 
 - **Github**
 
-  `https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/tv-ipv4-gd.m3u`
+  `https://raw.githubusercontent.com/frankwuzp/iptv-cn/main/tv-ipv4-cmcc.m3u`
 
 - **jsDelivr CDN** (CDN 加速，大陆用户可选用)
 
-  `https://cdn.jsdelivr.net/gh/frankwuzp/iptv-cn@latest/tv-ipv4-gd.m3u`
+  `https://cdn.jsdelivr.net/gh/frankwuzp/iptv-cn@latest/tv-ipv4-cmcc.m3u`
 
-可保存本仓库的 `tv-ipv4-gd.m3u` 文件，或将以上网址（二选一）填入 Jellyfin 的电视直播协调器：
+可保存本仓库的 `tv-ipv4-cmcc.m3u` 文件，或将以上网址（二选一）填入 Jellyfin 的电视直播协调器：
 
 ![jellyfin-setting](./image/jellyfin-settings.png)
 
@@ -73,7 +75,7 @@
 
 ## Changelog
 
-- 211126 备注不可使用的直播源
+- 211126 备注不可使用的直播源，新增移动信号源
 - 211123 解决更新 epg 时不能删除旧内容的问题 & 补充一个新的 epg 源
 - 211122 新增 EPG 指南文件 `guide.xml`，并实现自动更新(每天凌晨1点、6点)
 - 211122 分为国内通用版、广东省内专用版
