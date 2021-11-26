@@ -1,4 +1,4 @@
-#EXTM3U url-logos="https://cdn.jsdelivr.net/gh/frankwuzp/iptv-cn@latest/tvg-logo/"
+#EXTM3U url-logos="https://gitee.com/frankwuzp/iptv/raw/master/tvg-logo/"
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV1
 http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/index.m3u8?fmt=ts2hls

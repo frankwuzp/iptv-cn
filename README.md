@@ -16,7 +16,7 @@
 
 - `tv-ipv4-cn` => 境内通用 `m3u` 文件
 
-~~- `tv-ipv4-gd` => 广东省内使用，优选 ✅~~
+- ~~`tv-ipv4-gd` => 广东省内使用，优选 ✅~~
 
 > 20211126 测试结果：`tv-ipv4-gd` 无法播放，请使用 `tv-ipv4-cn` 或 `tv-ipv4-cmcc`
 
@@ -39,7 +39,7 @@
 
 可保存本仓库的 `tv-ipv4-cmcc.m3u` 文件，或将以上网址（二选一）填入 Jellyfin 的电视直播协调器：
 
-![jellyfin-setting](./image/jellyfin-settings.png)
+![jellyfin-setting](./image/jellyfin-settings.jpg)
 
 ### Guide file (四选一)
 
@@ -60,7 +60,7 @@
   `https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml`
 
 
-![jellyfin-epg](./image/jellyfin-epg.png)
+![jellyfin-epg](./image/jellyfin-epg.jpg)
 
 ## Ref
 
