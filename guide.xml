@@ -192,22 +192,22 @@
     <programme start="20211208014000" stop="20211208021000" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20211208021000" stop="20211208024200" channel="cctv1">
+    <programme start="20211208021000" stop="20211208024000" channel="cctv1">
         <title lang="zh">动物世界-2021-243</title>
     </programme>
-    <programme start="20211208024200" stop="20211208024600" channel="cctv1">
+    <programme start="20211208024000" stop="20211208024400" channel="cctv1">
         <title lang="zh">生活提示</title>
     </programme>
-    <programme start="20211208024600" stop="20211208025400" channel="cctv1">
+    <programme start="20211208024400" stop="20211208025100" channel="cctv1">
         <title lang="zh">精彩一刻-2020-180新航拍中国第三季山西塔寺</title>
     </programme>
-    <programme start="20211208025400" stop="20211208043200" channel="cctv1">
+    <programme start="20211208025100" stop="20211208042900" channel="cctv1">
         <title lang="zh">典籍里的中国-7</title>
     </programme>
-    <programme start="20211208043200" stop="20211208044700" channel="cctv1">
-        <title lang="zh">美术经典中的党史-94</title>
+    <programme start="20211208042900" stop="20211208045700" channel="cctv1">
+        <title lang="zh">今日说法-2021-341</title>
     </programme>
-    <programme start="20211208044700" stop="20211208052700" channel="cctv1">
+    <programme start="20211208045700" stop="20211208052700" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20211208052700" stop="20211208060000" channel="cctv1">
@@ -220,13 +220,13 @@
         <title lang="zh">生活早参考-特别节目（生活圈）2021-238</title>
     </programme>
     <programme start="20211208092700" stop="20211208101500" channel="cctv1">
-        <title lang="zh">大决战第7集</title>
+        <title lang="zh">大决战7/49</title>
     </programme>
     <programme start="20211208101500" stop="20211208110400" channel="cctv1">
-        <title lang="zh">大决战第8集</title>
+        <title lang="zh">大决战8/49</title>
     </programme>
     <programme start="20211208110400" stop="20211208115300" channel="cctv1">
-        <title lang="zh">大决战第9集</title>
+        <title lang="zh">大决战9/49</title>
     </programme>
     <programme start="20211208115300" stop="20211208120000" channel="cctv1">
         <title lang="zh">2021秘境之眼-250</title>
@@ -241,13 +241,13 @@
         <title lang="zh">闪亮的名字-最美大学生</title>
     </programme>
     <programme start="20211208145000" stop="20211208154000" channel="cctv1">
-        <title lang="zh">我和我的三个姐姐第36集</title>
+        <title lang="zh">我和我的三个姐姐36/38</title>
     </programme>
     <programme start="20211208154000" stop="20211208163100" channel="cctv1">
-        <title lang="zh">我和我的三个姐姐第37集</title>
+        <title lang="zh">我和我的三个姐姐37/38</title>
     </programme>
     <programme start="20211208163100" stop="20211208172200" channel="cctv1">
-        <title lang="zh">我和我的三个姐姐第38集</title>
+        <title lang="zh">我和我的三个姐姐38/38</title>
     </programme>
     <programme start="20211208172200" stop="20211208172700" channel="cctv1">
         <title lang="zh">综艺喜乐汇-2021-1600 第九批中国梦歌曲—灯火里的中国</title>
@@ -270,11 +270,23 @@
     <programme start="20211208190000" stop="20211208194000" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20211208194000" stop="20211208200600" channel="cctv1">
+    <programme start="20211208194000" stop="20211208200100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20211208200600" stop="20211208220000" channel="cctv1">
-        <title lang="zh">榜样6-1</title>
+    <programme start="20211208200100" stop="20211208200600" channel="cctv1">
+        <title lang="zh">前情提要-《香山叶正红》23/35</title>
+    </programme>
+    <programme start="20211208200600" stop="20211208205600" channel="cctv1">
+        <title lang="zh">香山叶正红23/35</title>
+    </programme>
+    <programme start="20211208205600" stop="20211208210100" channel="cctv1">
+        <title lang="zh">前情提要-《香山叶正红》24/35</title>
+    </programme>
+    <programme start="20211208210100" stop="20211208215300" channel="cctv1">
+        <title lang="zh">香山叶正红24/35</title>
+    </programme>
+    <programme start="20211208215300" stop="20211208220000" channel="cctv1">
+        <title lang="zh">2021秘境之眼-315</title>
     </programme>
     <programme start="20211208220000" stop="20211208223500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -864,10 +876,10 @@
     <programme start="20211208020500" stop="20211208024900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1512 吉他兄弟 27/43</title>
     </programme>
-    <programme start="20211208024900" stop="20211208033400" channel="cctv3">
+    <programme start="20211208024900" stop="20211208033300" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1513 吉他兄弟 28/43</title>
     </programme>
-    <programme start="20211208033400" stop="20211208043500" channel="cctv3">
+    <programme start="20211208033300" stop="20211208043500" channel="cctv3">
         <title lang="zh">艺览天下-2021-33</title>
     </programme>
     <programme start="20211208043500" stop="20211208055300" channel="cctv3">
@@ -1131,20 +1143,20 @@
     <programme start="20211210230500" stop="20211210235900" channel="cctv3">
         <title lang="zh">星光大道-2021-54</title>
     </programme>
-    <programme start="20211208004200" stop="20211208013000" channel="cctv4">
+    <programme start="20211208003200" stop="20211208012000" channel="cctv4">
         <title lang="zh">破阵第15集</title>
     </programme>
-    <programme start="20211208013000" stop="20211208020000" channel="cctv4">
+    <programme start="20211208012000" stop="20211208015000" channel="cctv4">
         <title lang="zh">中国文艺-2021-243</title>
     </programme>
-    <programme start="20211208020000" stop="20211208024000" channel="cctv4">
-        <title lang="zh">新闻联播</title>
-    </programme>
-    <programme start="20211208024000" stop="20211208025000" channel="cctv4">
+    <programme start="20211208015000" stop="20211208020000" channel="cctv4">
         <title lang="zh">记住乡愁2018片段展播-22</title>
     </programme>
-    <programme start="20211208025000" stop="20211208030000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-51</title>
+    <programme start="20211208020000" stop="20211208023000" channel="cctv4">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20211208023000" stop="20211208030000" channel="cctv4">
+        <title lang="zh">健康中国特别节目-2021-2</title>
     </programme>
     <programme start="20211208030000" stop="20211208031000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1179,17 +1191,11 @@
     <programme start="20211208080000" stop="20211208090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20211208090000" stop="20211208093100" channel="cctv4">
+    <programme start="20211208090000" stop="20211208093000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20211208093100" stop="20211208094100" channel="cctv4">
-        <title lang="zh">歌声里的追梦人-12</title>
-    </programme>
-    <programme start="20211208094100" stop="20211208095500" channel="cctv4">
-        <title lang="zh">歌声里的追梦人-8</title>
-    </programme>
-    <programme start="20211208095500" stop="20211208100000" channel="cctv4">
-        <title lang="zh">寻找两岸文化传人-传承-碎片5分钟版2</title>
+    <programme start="20211208093000" stop="20211208100000" channel="cctv4">
+        <title lang="zh">中国文艺-2021-243</title>
     </programme>
     <programme start="20211208100000" stop="20211208101200" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1261,7 +1267,7 @@
         <title lang="zh">荟萃节目-家在顺德1</title>
     </programme>
     <programme start="20211208234900" stop="20211208235900" channel="cctv4">
-        <title lang="zh">破阵第16集</title>
+        <title lang="zh">破阵16/34</title>
     </programme>
     <programme start="20211209003400" stop="20211209012000" channel="cctv4">
         <title lang="zh">破阵第17集</title>
@@ -1563,17 +1569,14 @@
     <programme start="20211208183500" stop="20211208193000" channel="cctv5">
         <title lang="zh">2021年荣誉殿堂周播版-5</title>
     </programme>
-    <programme start="20211208193000" stop="20211208213000" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季斯诺克英国锦标赛 决赛</title>
+    <programme start="20211208193000" stop="20211208211000" channel="cctv5">
+        <title lang="zh">2021年世界举重锦标赛-女子45公斤级决赛</title>
     </programme>
-    <programme start="20211208213000" stop="20211208222000" channel="cctv5">
+    <programme start="20211208211000" stop="20211208220000" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20211208222000" stop="20211208231500" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季跳台滑雪世界杯俄罗斯下塔吉尔站 女子个人标准台第二场</title>
-    </programme>
-    <programme start="20211208231500" stop="20211208235900" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季越野滑雪世界杯芬兰卢卡站 短距离传统式</title>
+    <programme start="20211208220000" stop="20211208235900" channel="cctv5">
+        <title lang="zh">2021年世界举重锦标赛-女子49公斤级决赛</title>
     </programme>
     <programme start="20211209001000" stop="20211209010500" channel="cctv5">
         <title lang="zh">实况录像-2021/2022赛季雪车世界杯奥地利因斯布鲁克第二站 男子钢架雪车</title>
@@ -1872,56 +1875,44 @@
     <programme start="20211208011800" stop="20211208024400" channel="cctv6">
         <title lang="zh">德令哈之夜</title>
     </programme>
-    <programme start="20211208024400" stop="20211208041700" channel="cctv6">
+    <programme start="20211208024400" stop="20211208064800" channel="cctv6">
         <title lang="zh">五十而立</title>
     </programme>
-    <programme start="20211208041700" stop="20211208060300" channel="cctv6">
-        <title lang="zh">长安道</title>
-    </programme>
-    <programme start="20211208060300" stop="20211208062700" channel="cctv6">
-        <title lang="zh">爸爸妈妈的橡树</title>
-    </programme>
-    <programme start="20211208062700" stop="20211208064700" channel="cctv6">
-        <title lang="zh">我和我的祖国：北京你好</title>
-    </programme>
-    <programme start="20211208064700" stop="20211208083300" channel="cctv6">
+    <programme start="20211208064800" stop="20211208083600" channel="cctv6">
         <title lang="zh">勃沙特的长征</title>
     </programme>
-    <programme start="20211208083300" stop="20211208102500" channel="cctv6">
+    <programme start="20211208083600" stop="20211208102600" channel="cctv6">
         <title lang="zh">21克拉</title>
     </programme>
-    <programme start="20211208102500" stop="20211208121000" channel="cctv6">
+    <programme start="20211208102600" stop="20211208121000" channel="cctv6">
         <title lang="zh">金牌律师之生死劫</title>
     </programme>
-    <programme start="20211208121000" stop="20211208121800" channel="cctv6">
+    <programme start="20211208121000" stop="20211208121600" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20211208121800" stop="20211208140800" channel="cctv6">
+    <programme start="20211208121600" stop="20211208135900" channel="cctv6">
         <title lang="zh">警花火龙驹</title>
     </programme>
-    <programme start="20211208140800" stop="20211208160900" channel="cctv6">
-        <title lang="zh">畸形屋</title>
+    <programme start="20211208135900" stop="20211208160500" channel="cctv6">
+        <title lang="zh">畸形屋（L)</title>
     </programme>
-    <programme start="20211208160900" stop="20211208175700" channel="cctv6">
+    <programme start="20211208160500" stop="20211208174800" channel="cctv6">
         <title lang="zh">广东十虎苏灿之卧龙在田</title>
     </programme>
-    <programme start="20211208175700" stop="20211208182500" channel="cctv6">
+    <programme start="20211208174800" stop="20211208181800" channel="cctv6">
         <title lang="zh">中国电影报道2021-342</title>
     </programme>
-    <programme start="20211208182500" stop="20211208201500" channel="cctv6">
+    <programme start="20211208181800" stop="20211208201500" channel="cctv6">
         <title lang="zh">广东十虎苏灿之亢龙有悔</title>
     </programme>
-    <programme start="20211208201500" stop="20211208222200" channel="cctv6">
-        <title lang="zh">八子</title>
+    <programme start="20211208201500" stop="20211208222400" channel="cctv6">
+        <title lang="zh">八子（L)</title>
     </programme>
-    <programme start="20211208222200" stop="20211208223000" channel="cctv6">
+    <programme start="20211208222400" stop="20211208223500" channel="cctv6">
         <title lang="zh">今日影评2021-244</title>
     </programme>
-    <programme start="20211208223000" stop="20211208235700" channel="cctv6">
-        <title lang="zh">金蝉脱壳 2</title>
-    </programme>
-    <programme start="20211208235700" stop="20211208235900" channel="cctv6">
-        <title lang="zh">今日影评2021-244</title>
+    <programme start="20211208223500" stop="20211208235900" channel="cctv6">
+        <title lang="zh">金蝉脱壳 2（L)</title>
     </programme>
     <programme start="20211209000500" stop="20211209002000" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
@@ -2028,10 +2019,10 @@
     <programme start="20211210221100" stop="20211210235900" channel="cctv6">
         <title lang="zh">黑豹</title>
     </programme>
-    <programme start="20211208002000" stop="20211208005800" channel="cctv7">
+    <programme start="20211208001000" stop="20211208004800" channel="cctv7">
         <title lang="zh">兵器面面观-2021-195</title>
     </programme>
-    <programme start="20211208005800" stop="20211208060300" channel="cctv7">
+    <programme start="20211208004800" stop="20211208060300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20211208060300" stop="20211208063400" channel="cctv7">
@@ -2368,61 +2359,61 @@
         <title lang="zh">星推荐-2021年12月-7</title>
     </programme>
     <programme start="20211208042500" stop="20211208051100" channel="cctv8">
-        <title lang="zh">初婚第14集</title>
+        <title lang="zh">初婚14/35</title>
     </programme>
     <programme start="20211208051100" stop="20211208055700" channel="cctv8">
-        <title lang="zh">初婚第15集</title>
+        <title lang="zh">初婚15/35</title>
     </programme>
     <programme start="20211208055700" stop="20211208064500" channel="cctv8">
-        <title lang="zh">初婚第16集</title>
+        <title lang="zh">初婚16/35</title>
     </programme>
     <programme start="20211208064500" stop="20211208073100" channel="cctv8">
-        <title lang="zh">初婚第17集</title>
+        <title lang="zh">初婚17/35</title>
     </programme>
     <programme start="20211208073100" stop="20211208073600" channel="cctv8">
         <title lang="zh">星推荐-2021年12月-7</title>
     </programme>
     <programme start="20211208073600" stop="20211208083200" channel="cctv8">
-        <title lang="zh">太行英雄传第17集</title>
+        <title lang="zh">太行英雄传17/40</title>
     </programme>
     <programme start="20211208083200" stop="20211208092700" channel="cctv8">
-        <title lang="zh">太行英雄传第18集</title>
+        <title lang="zh">太行英雄传18/40</title>
     </programme>
     <programme start="20211208092700" stop="20211208093100" channel="cctv8">
         <title lang="zh">插花-2015-3</title>
     </programme>
     <programme start="20211208093100" stop="20211208102600" channel="cctv8">
-        <title lang="zh">太行英雄传第19集</title>
+        <title lang="zh">太行英雄传19/40</title>
     </programme>
     <programme start="20211208102600" stop="20211208103100" channel="cctv8">
         <title lang="zh">插花-2015-3</title>
     </programme>
     <programme start="20211208103100" stop="20211208112600" channel="cctv8">
-        <title lang="zh">太行英雄传第20集</title>
+        <title lang="zh">太行英雄传20/40</title>
     </programme>
     <programme start="20211208112600" stop="20211208113100" channel="cctv8">
         <title lang="zh">插花-2015-3</title>
     </programme>
     <programme start="20211208113100" stop="20211208121700" channel="cctv8">
-        <title lang="zh">太行英雄传第21集</title>
+        <title lang="zh">太行英雄传21/40</title>
     </programme>
     <programme start="20211208121700" stop="20211208123200" channel="cctv8">
         <title lang="zh">星推荐-2021年12月-7</title>
     </programme>
     <programme start="20211208123200" stop="20211208132900" channel="cctv8">
-        <title lang="zh">正阳门下小女人第13集</title>
+        <title lang="zh">正阳门下小女人13/48</title>
     </programme>
     <programme start="20211208132900" stop="20211208142500" channel="cctv8">
-        <title lang="zh">正阳门下小女人第14集</title>
+        <title lang="zh">正阳门下小女人14/48</title>
     </programme>
     <programme start="20211208142500" stop="20211208151900" channel="cctv8">
-        <title lang="zh">正阳门下小女人第15集</title>
+        <title lang="zh">正阳门下小女人15/48</title>
     </programme>
     <programme start="20211208151900" stop="20211208152400" channel="cctv8">
         <title lang="zh">插花-2015-3</title>
     </programme>
     <programme start="20211208152400" stop="20211208161000" channel="cctv8">
-        <title lang="zh">正阳门下小女人第16集</title>
+        <title lang="zh">正阳门下小女人16/48</title>
     </programme>
     <programme start="20211208161000" stop="20211208162300" channel="cctv8">
         <title lang="zh">星推荐-2021年12月-7</title>
@@ -2431,46 +2422,46 @@
         <title lang="zh">插花-2015-3</title>
     </programme>
     <programme start="20211208162800" stop="20211208172800" channel="cctv8">
-        <title lang="zh">回家的路有多远第35集</title>
+        <title lang="zh">回家的路有多远35/45</title>
     </programme>
     <programme start="20211208172800" stop="20211208173300" channel="cctv8">
         <title lang="zh">插花-2015-3</title>
     </programme>
     <programme start="20211208173300" stop="20211208182500" channel="cctv8">
-        <title lang="zh">回家的路有多远第36集</title>
+        <title lang="zh">回家的路有多远36/45</title>
     </programme>
     <programme start="20211208182500" stop="20211208183400" channel="cctv8">
         <title lang="zh">星推荐-2021年12月-8</title>
     </programme>
     <programme start="20211208183400" stop="20211208192400" channel="cctv8">
-        <title lang="zh">回家的路有多远第37集</title>
+        <title lang="zh">回家的路有多远37/45</title>
     </programme>
     <programme start="20211208192400" stop="20211208192500" channel="cctv8">
         <title lang="zh">插花-2015-3</title>
     </programme>
     <programme start="20211208192500" stop="20211208193000" channel="cctv8">
-        <title lang="zh">本集提要- 《亲爱的孩子们》第19集</title>
+        <title lang="zh">本集提要-《亲爱的孩子们》19/40</title>
     </programme>
     <programme start="20211208193000" stop="20211208202400" channel="cctv8">
-        <title lang="zh">亲爱的孩子们第19集</title>
+        <title lang="zh">亲爱的孩子们19/40</title>
     </programme>
     <programme start="20211208202400" stop="20211208202900" channel="cctv8">
-        <title lang="zh">本集提要- 《亲爱的孩子们》第20集</title>
+        <title lang="zh">本集提要-《亲爱的孩子们》20/40</title>
     </programme>
     <programme start="20211208202900" stop="20211208212400" channel="cctv8">
-        <title lang="zh">亲爱的孩子们第20集</title>
+        <title lang="zh">亲爱的孩子们20/40</title>
     </programme>
     <programme start="20211208212400" stop="20211208212900" channel="cctv8">
-        <title lang="zh">本集提要- 《亲爱的孩子们》第21集</title>
+        <title lang="zh">本集提要-《亲爱的孩子们》21/40</title>
     </programme>
     <programme start="20211208212900" stop="20211208221900" channel="cctv8">
-        <title lang="zh">亲爱的孩子们第21集</title>
+        <title lang="zh">亲爱的孩子们21/40</title>
     </programme>
     <programme start="20211208221900" stop="20211208230600" channel="cctv8">
-        <title lang="zh">隐秘而伟大第28集</title>
+        <title lang="zh">隐秘而伟大28/51</title>
     </programme>
     <programme start="20211208230600" stop="20211208235200" channel="cctv8">
-        <title lang="zh">隐秘而伟大第29集</title>
+        <title lang="zh">隐秘而伟大29/51</title>
     </programme>
     <programme start="20211208235200" stop="20211208235900" channel="cctv8">
         <title lang="zh">星推荐-2021年12月-8</title>
@@ -3397,10 +3388,10 @@
         <title lang="zh">CCTV空中剧院-2020-192 越剧《孔雀东南飞》</title>
     </programme>
     <programme start="20211208120900" stop="20211208130000" channel="cctv11">
-        <title lang="zh">无名卫士第2集</title>
+        <title lang="zh">无名卫士2/42</title>
     </programme>
     <programme start="20211208130000" stop="20211208135000" channel="cctv11">
-        <title lang="zh">无名卫士第3集</title>
+        <title lang="zh">无名卫士3/42</title>
     </programme>
     <programme start="20211208135000" stop="20211208154200" channel="cctv11">
         <title lang="zh">黄梅戏电影《牛郎织女》</title>
@@ -3409,10 +3400,10 @@
         <title lang="zh">梨园闯关我挂帅2021--46</title>
     </programme>
     <programme start="20211208170300" stop="20211208175300" channel="cctv11">
-        <title lang="zh">鸡毛飞上天第17集</title>
+        <title lang="zh">鸡毛飞上天17/58</title>
     </programme>
     <programme start="20211208175300" stop="20211208185000" channel="cctv11">
-        <title lang="zh">鸡毛飞上天第18集</title>
+        <title lang="zh">鸡毛飞上天18/58</title>
     </programme>
     <programme start="20211208185000" stop="20211208192000" channel="cctv11">
         <title lang="zh">典藏-2021-171</title>
@@ -3424,13 +3415,13 @@
         <title lang="zh">CCTV空中剧院-2021-126 淮剧《赵五娘》</title>
     </programme>
     <programme start="20211208220700" stop="20211208225700" channel="cctv11">
-        <title lang="zh">大侠霍元甲第41集</title>
+        <title lang="zh">大侠霍元甲41/45</title>
     </programme>
     <programme start="20211208225700" stop="20211208234800" channel="cctv11">
-        <title lang="zh">大侠霍元甲第42集</title>
+        <title lang="zh">大侠霍元甲42/45</title>
     </programme>
     <programme start="20211208234800" stop="20211208235900" channel="cctv11">
-        <title lang="zh">大侠霍元甲第43集</title>
+        <title lang="zh">大侠霍元甲43/45</title>
     </programme>
     <programme start="20211209003800" stop="20211209021800" channel="cctv11">
         <title lang="zh">中国京剧像音像集萃-2019-49京剧《李逵探母》</title>
@@ -4543,16 +4534,16 @@
         <title lang="zh">三农群英汇-2021-332</title>
     </programme>
     <programme start="20211208130000" stop="20211208135200" channel="cctv17">
-        <title lang="zh">大刀记第13集</title>
+        <title lang="zh">大刀记13/57</title>
     </programme>
     <programme start="20211208135200" stop="20211208144500" channel="cctv17">
-        <title lang="zh">大刀记第14集</title>
+        <title lang="zh">大刀记14/57</title>
     </programme>
     <programme start="20211208144500" stop="20211208153700" channel="cctv17">
-        <title lang="zh">大刀记第15集</title>
+        <title lang="zh">大刀记15/57</title>
     </programme>
     <programme start="20211208153700" stop="20211208163000" channel="cctv17">
-        <title lang="zh">大刀记第16集</title>
+        <title lang="zh">大刀记16/57</title>
     </programme>
     <programme start="20211208163000" stop="20211208170000" channel="cctv17">
         <title lang="zh">致富经-2021-259</title>
@@ -4879,10 +4870,10 @@
         <title lang="zh">4K节目垫播-美丽中国-云南（4K）</title>
     </programme>
     <programme start="20211208140000" stop="20211208144700" channel="cctv4k">
-        <title lang="zh">流金岁月-（4K）-7/38</title>
+        <title lang="zh">流金岁月-4K-7/38</title>
     </programme>
     <programme start="20211208144700" stop="20211208153300" channel="cctv4k">
-        <title lang="zh">流金岁月-（4K）-8/38</title>
+        <title lang="zh">流金岁月-4K-8/38</title>
     </programme>
     <programme start="20211208153300" stop="20211208153300" channel="cctv4k">
         <title lang="zh">4K标识演绎-2019-1</title>
