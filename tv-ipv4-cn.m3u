@@ -40,16 +40,16 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
-http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+http://223.110.242.134:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ
 
 #EXTINF:-1 tvg-id="cctvchild" tvg-logo="cctvchild.png",CCTV-14 少儿
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="cctv15.png",CCTV-15 音乐
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225693/index.m3u8
+http://ott.js.chinamobile.com/TVOD/3/224/3221227723/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv16" tvg-logo="cctv16.png",CCTV-16 奥林匹克
-http://218.204.171.201/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8?p=GITV&area=GD_CMCC
+http://223.110.242.133:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ
 
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png",CCTV-17 农业农村
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225693/index.m3u8
@@ -97,11 +97,11 @@ http://218.204.171.201/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV&area=GD_CMCC
 #EXTINF:-1 tvg-id="cetv4" tvg-logo="cetv4.png",中国教育4台
 http://218.204.171.201/gitv_live/G_CETV-4/G_CETV-4.m3u8?p=GITV&area=GD_CMCC
 
-#EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视-cn
+#EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 
 #EXTINF:-1 tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视
-http://39.135.249.20/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+http://223.110.242.133:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ/
 
 #EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
