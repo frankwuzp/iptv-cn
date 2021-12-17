@@ -438,8 +438,11 @@
     <programme start="20211219092600" stop="20211219101600" channel="cctv1">
         <title lang="zh">大决战44/49</title>
     </programme>
-    <programme start="20211219101600" stop="20211219115400" channel="cctv1">
-        <title lang="zh">我要上春晚-春晚有心意1</title>
+    <programme start="20211219101600" stop="20211219110500" channel="cctv1">
+        <title lang="zh">大决战45/49</title>
+    </programme>
+    <programme start="20211219110500" stop="20211219115400" channel="cctv1">
+        <title lang="zh">大决战46/49</title>
     </programme>
     <programme start="20211219115400" stop="20211219120000" channel="cctv1">
         <title lang="zh">2021秘境之眼-261</title>
@@ -483,10 +486,13 @@
     <programme start="20211219194000" stop="20211219200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20211219200600" stop="20211219214600" channel="cctv1">
+    <programme start="20211219200600" stop="20211219213300" channel="cctv1">
         <title lang="zh">故事里的中国（第三季）-3</title>
     </programme>
-    <programme start="20211219214600" stop="20211219215300" channel="cctv1">
+    <programme start="20211219213300" stop="20211219214400" channel="cctv1">
+        <title lang="zh">故事里的中国（第三季）-故事里的故事3</title>
+    </programme>
+    <programme start="20211219214400" stop="20211219215300" channel="cctv1">
         <title lang="zh">精彩一刻-2021-164美丽中国江西铜钹山草药(4K)</title>
     </programme>
     <programme start="20211219215300" stop="20211219220000" channel="cctv1">
@@ -1677,11 +1683,11 @@
     <programme start="20211218113500" stop="20211218123500" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季跳台滑雪世界杯德国克林根塔尔站 男子个人大跳台</title>
     </programme>
-    <programme start="20211218123500" stop="20211218133000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021年国际泳联世界游泳锦标赛（25米） 精选2</title>
+    <programme start="20211218123500" stop="20211218130000" channel="cctv5plus">
+        <title lang="zh">实况录像-2021/2022赛季花样滑冰大奖赛俄罗斯站 表演滑</title>
     </programme>
-    <programme start="20211218133000" stop="20211218143000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季单板滑雪世界杯俄罗斯班诺耶站 平行回转</title>
+    <programme start="20211218130000" stop="20211218143000" channel="cctv5plus">
+        <title lang="zh">2021年沃尔沃中国高尔夫球公开赛-1</title>
     </programme>
     <programme start="20211218143000" stop="20211218160000" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季花样滑冰大奖赛意大利站 精选2</title>
@@ -1702,7 +1708,7 @@
         <title lang="zh">2021/2202赛季雪车世界杯 德国阿腾堡站2-男子双人雪车决赛</title>
     </programme>
     <programme start="20211219000500" stop="20211219010500" channel="cctv5plus">
-        <title lang="zh">实况录像-第十四届全国运动会 跳水女子10米台决赛</title>
+        <title lang="zh">实况录像-2021/2022赛季单板滑雪世界杯俄罗斯班诺耶站 平行回转</title>
     </programme>
     <programme start="20211219010500" stop="20211219020500" channel="cctv5plus">
         <title lang="zh">实况录像-第十四届全国运动会 举重男子61公斤级决赛</title>
@@ -1717,7 +1723,7 @@
         <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 第十三轮1</title>
     </programme>
     <programme start="20211219073000" stop="20211219090000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-21-22赛季德甲联赛第16轮 门兴格拉德巴赫—法兰克福</title>
+        <title lang="zh">实况录像-2021/2022赛季花样滑冰大奖赛意大利站 精选2</title>
     </programme>
     <programme start="20211219090000" stop="20211219120500" channel="cctv5plus">
         <title lang="zh">2021/2022赛季北美冰球职业联赛-常规赛19（新泽西魔鬼-底特律红翼）</title>
@@ -1725,14 +1731,14 @@
     <programme start="20211219120500" stop="20211219123500" channel="cctv5plus">
         <title lang="zh">赛事集锦-NHL一周进球集锦4</title>
     </programme>
-    <programme start="20211219123500" stop="20211219133000" channel="cctv5plus">
+    <programme start="20211219123500" stop="20211219130000" channel="cctv5plus">
         <title lang="zh">实况录像-2021年国际泳联世界游泳锦标赛（25米） 精选3</title>
     </programme>
-    <programme start="20211219133000" stop="20211219153000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季斯诺克英国锦标赛 决赛</title>
+    <programme start="20211219130000" stop="20211219160500" channel="cctv5plus">
+        <title lang="zh">2021年沃尔沃中国高尔夫球公开赛-2</title>
     </programme>
-    <programme start="20211219153000" stop="20211219170000" channel="cctv5plus">
-        <title lang="zh">2021中国围棋甲级联赛季后赛-第三轮第一场</title>
+    <programme start="20211219160500" stop="20211219170000" channel="cctv5plus">
+        <title lang="zh">实况录像-2021年世界短池游泳锦标赛 精选3</title>
     </programme>
     <programme start="20211219170000" stop="20211219193000" channel="cctv5plus">
         <title lang="zh">2021/2202赛季雪车世界杯 德国阿腾堡站2-女子双人雪车决赛</title>
@@ -2004,13 +2010,13 @@
     <programme start="20211217234200" stop="20211217235900" channel="cctv7">
         <title lang="zh">觉醒年代23/43</title>
     </programme>
-    <programme start="20211218003300" stop="20211218010800" channel="cctv7">
+    <programme start="20211218003800" stop="20211218011300" channel="cctv7">
         <title lang="zh">军事纪实-2021-251</title>
     </programme>
-    <programme start="20211218010800" stop="20211218014600" channel="cctv7">
+    <programme start="20211218011300" stop="20211218015100" channel="cctv7">
         <title lang="zh">兵器面面观-2021-201</title>
     </programme>
-    <programme start="20211218014600" stop="20211218060300" channel="cctv7">
+    <programme start="20211218015100" stop="20211218060300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20211218060300" stop="20211218063400" channel="cctv7">
@@ -2446,13 +2452,13 @@
         <title lang="zh">本集提要- 《雪中悍刀行》第7集</title>
     </programme>
     <programme start="20211218212900" stop="20211218221800" channel="cctv8">
-        <title lang="zh">雪中悍刀行7/38</title>
+        <title lang="zh">雪中悍刀行第7集</title>
     </programme>
     <programme start="20211218221800" stop="20211218221900" channel="cctv8">
         <title lang="zh">本集提要- 《雪中悍刀行》第8集</title>
     </programme>
     <programme start="20211218221900" stop="20211218230600" channel="cctv8">
-        <title lang="zh">雪中悍刀行8/38</title>
+        <title lang="zh">雪中悍刀行第8集</title>
     </programme>
     <programme start="20211218230600" stop="20211218235200" channel="cctv8">
         <title lang="zh">隐秘而伟大第45集</title>
