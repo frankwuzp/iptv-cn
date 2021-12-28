@@ -294,13 +294,13 @@
     <programme start="20211228220000" stop="20211228223500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20211228223500" stop="20211228225000" channel="cctv1">
+    <programme start="20211228223500" stop="20211228225100" channel="cctv1">
         <title lang="zh">美术经典中的党史-101</title>
     </programme>
-    <programme start="20211228225000" stop="20211228235900" channel="cctv1">
+    <programme start="20211228225100" stop="20211228235900" channel="cctv1">
         <title lang="zh">典籍里的中国-11</title>
     </programme>
-    <programme start="20211229003400" stop="20211229011600" channel="cctv1">
+    <programme start="20211229003500" stop="20211229011600" channel="cctv1">
         <title lang="zh">中华民族-2021-41</title>
     </programme>
     <programme start="20211229011600" stop="20211229013600" channel="cctv1">
@@ -1338,20 +1338,20 @@
     <programme start="20211229080000" stop="20211229090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20211229090000" stop="20211229093000" channel="cctv4">
+    <programme start="20211229090000" stop="20211229092800" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20211229093000" stop="20211229100000" channel="cctv4">
+    <programme start="20211229092800" stop="20211229100000" channel="cctv4">
         <title lang="zh">中国文艺-2021-258</title>
     </programme>
-    <programme start="20211229100000" stop="20211229101200" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20211229100000" stop="20211229103100" channel="cctv4">
+        <title lang="zh">2021年国台办发布会-15</title>
     </programme>
-    <programme start="20211229101200" stop="20211229110000" channel="cctv4">
+    <programme start="20211229103100" stop="20211229112000" channel="cctv4">
         <title lang="zh">远方的家2021-142(4K)</title>
     </programme>
-    <programme start="20211229110000" stop="20211229113000" channel="cctv4">
-        <title lang="zh">国家记忆-2021-206</title>
+    <programme start="20211229112000" stop="20211229113000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-50</title>
     </programme>
     <programme start="20211229113000" stop="20211229120000" channel="cctv4">
         <title lang="zh">海峡两岸-2021-362</title>
@@ -1707,17 +1707,17 @@
     <programme start="20211230120000" stop="20211230123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20211230123500" stop="20211230133000" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季速度滑冰世界杯加拿大站 精选2</title>
+    <programme start="20211230123500" stop="20211230124500" channel="cctv5">
+        <title lang="zh">实况录像-2021/2022速度滑冰世界杯 宁忠岩赛季集锦</title>
     </programme>
-    <programme start="20211230133000" stop="20211230153500" channel="cctv5">
+    <programme start="20211230124500" stop="20211230130000" channel="cctv5">
+        <title lang="zh">实况录像-2021/2022短道速滑世界杯 中国队接力 赛季精彩</title>
+    </programme>
+    <programme start="20211230130000" stop="20211230150500" channel="cctv5">
         <title lang="zh">央视▪白沙杯全国男子拳击冠军赛-男子46-48公斤级半决赛等</title>
     </programme>
-    <programme start="20211230153500" stop="20211230163300" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季自由式滑雪世界杯美国铜山站 U型场地</title>
-    </programme>
-    <programme start="20211230163300" stop="20211230180000" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季花样滑冰大奖赛 日本站精选2</title>
+    <programme start="20211230150500" stop="20211230180000" channel="cctv5">
+        <title lang="zh">2021年冰壶奥运会选拔赛（第6轮）-队际赛2</title>
     </programme>
     <programme start="20211230180000" stop="20211230183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
@@ -2620,7 +2620,7 @@
         <title lang="zh">对手28/37</title>
     </programme>
     <programme start="20211229212400" stop="20211229212900" channel="cctv8">
-        <title lang="zh">本集提要-《雪中悍刀行》21/38</title>
+        <title lang="zh">本集提要- 《雪中悍刀行》第21集</title>
     </programme>
     <programme start="20211229212900" stop="20211229221900" channel="cctv8">
         <title lang="zh">雪中悍刀行21/38</title>
