@@ -523,7 +523,7 @@
         <title lang="zh">第一动画乐园-2021-979</title>
     </programme>
     <programme start="20211231180000" stop="20211231190000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20211231190000" stop="20211231194000" channel="cctv1">
         <title lang="zh">新闻联播</title>
@@ -1185,14 +1185,11 @@
     <programme start="20211229092800" stop="20211229100000" channel="cctv4">
         <title lang="zh">中国文艺-2021-258</title>
     </programme>
-    <programme start="20211229100000" stop="20211229103100" channel="cctv4">
+    <programme start="20211229100000" stop="20211229110300" channel="cctv4">
         <title lang="zh">2021年国台办发布会-15</title>
     </programme>
-    <programme start="20211229103100" stop="20211229112000" channel="cctv4">
-        <title lang="zh">远方的家2021-142(4K)</title>
-    </programme>
-    <programme start="20211229112000" stop="20211229113000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-50</title>
+    <programme start="20211229110300" stop="20211229113000" channel="cctv4">
+        <title lang="zh">国家记忆-2021-206</title>
     </programme>
     <programme start="20211229113000" stop="20211229120000" channel="cctv4">
         <title lang="zh">海峡两岸-2021-362</title>
@@ -1758,11 +1755,14 @@
     <programme start="20211230060000" stop="20211230073000" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 第十五轮2</title>
     </programme>
-    <programme start="20211230073000" stop="20211230083000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季单板滑雪世界杯意大利切尔维尼亚站 障碍追逐</title>
+    <programme start="20211230073000" stop="20211230080000" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2021-213-冰球 冰球（1）</title>
     </programme>
-    <programme start="20211230083000" stop="20211230113500" channel="cctv5plus">
-        <title lang="zh">2021/2022赛季北美冰球职业联赛-常规赛22（匹兹堡企鹅-多伦多枫叶）</title>
+    <programme start="20211230080000" stop="20211230110500" channel="cctv5plus">
+        <title lang="zh">2021/2022赛季北美冰球职业联赛-常规赛22（纳什维尔掠夺者-华盛顿首都人）</title>
+    </programme>
+    <programme start="20211230110500" stop="20211230113500" channel="cctv5plus">
+        <title lang="zh">实况录像-2021/2022赛季花样滑冰大奖赛加拿大站 表演滑</title>
     </programme>
     <programme start="20211230113500" stop="20211230120500" channel="cctv5plus">
         <title lang="zh">赛事集锦-冰球 冰球（1）</title>
@@ -3787,7 +3787,7 @@
         <title lang="zh">法律讲堂-2021-363</title>
     </programme>
     <programme start="20211231160000" stop="20211231160400" channel="cctv12">
-        <title lang="zh">2020最美人物专题片-最美科技工作者展播1</title>
+        <title lang="zh">2020最美人物专题片-最美退役军人展播1</title>
     </programme>
     <programme start="20211231160400" stop="20211231162700" channel="cctv12">
         <title lang="zh">生命线-2021-365</title>
@@ -4032,22 +4032,25 @@
     <programme start="20211229204600" stop="20211229215400" channel="cctv15">
         <title lang="zh">民歌·中国-2021-248幸福欢歌</title>
     </programme>
-    <programme start="20211229215400" stop="20211229224600" channel="cctv15">
+    <programme start="20211229215400" stop="20211229215800" channel="cctv15">
+        <title lang="zh">向远方-原创MV</title>
+    </programme>
+    <programme start="20211229215800" stop="20211229225000" channel="cctv15">
         <title lang="zh">音乐公开课-2021-74最美民族风</title>
     </programme>
-    <programme start="20211229224600" stop="20211229224800" channel="cctv15">
+    <programme start="20211229225000" stop="20211229225200" channel="cctv15">
         <title lang="zh">雪之圆舞曲-片段1</title>
     </programme>
-    <programme start="20211229224800" stop="20211229233700" channel="cctv15">
+    <programme start="20211229225200" stop="20211229234100" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2021-256-“青春之声”主题音乐会（上）</title>
     </programme>
-    <programme start="20211229233700" stop="20211229235900" channel="cctv15">
+    <programme start="20211229234100" stop="20211229235900" channel="cctv15">
         <title lang="zh">经典-2021-295</title>
     </programme>
-    <programme start="20211230004200" stop="20211230013400" channel="cctv15">
+    <programme start="20211230004600" stop="20211230013800" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2021-256-“青春之声”主题音乐会（上）</title>
     </programme>
-    <programme start="20211230013400" stop="20211230060000" channel="cctv15">
+    <programme start="20211230013800" stop="20211230060000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20211230060000" stop="20211230063100" channel="cctv15">
@@ -4087,7 +4090,7 @@
         <title lang="zh">精彩音乐汇-2021-359</title>
     </programme>
     <programme start="20211230173500" stop="20211230174500" channel="cctv15">
-        <title lang="zh">综艺喜乐汇-2021-1613 第九批中国梦歌曲—大道同行</title>
+        <title lang="zh">向远方-原创MV</title>
     </programme>
     <programme start="20211230174500" stop="20211230185700" channel="cctv15">
         <title lang="zh">民歌·中国-2021-219高唱幸福歌4</title>
