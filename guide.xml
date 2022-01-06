@@ -406,16 +406,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20220107200100" stop="20220107200600" channel="cctv1">
-        <title lang="zh">前情提要-《问天》35/36</title>
+        <title lang="zh">前情提要- 《问天》第35集</title>
     </programme>
     <programme start="20220107200600" stop="20220107205400" channel="cctv1">
-        <title lang="zh">问天35/36</title>
+        <title lang="zh">问天第35集</title>
     </programme>
     <programme start="20220107205400" stop="20220107205800" channel="cctv1">
         <title lang="zh">前情提要-《问天》36/36</title>
     </programme>
     <programme start="20220107205800" stop="20220107215000" channel="cctv1">
-        <title lang="zh">问天36/36</title>
+        <title lang="zh">问天第36集</title>
     </programme>
     <programme start="20220107215000" stop="20220107220000" channel="cctv1">
         <title lang="zh">2021秘境之眼-345</title>
@@ -1254,26 +1254,29 @@
     <programme start="20220106220000" stop="20220106223000" channel="cctv4">
         <title lang="zh">国宝发现-2021-48</title>
     </programme>
-    <programme start="20220106223000" stop="20220106230400" channel="cctv4">
+    <programme start="20220106223000" stop="20220106230000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220106230400" stop="20220106234500" channel="cctv4">
+    <programme start="20220106230000" stop="20220106230500" channel="cctv4">
+        <title lang="zh">荟萃节目-史话新疆23</title>
+    </programme>
+    <programme start="20220106230500" stop="20220106231600" channel="cctv4">
+        <title lang="zh">荟萃节目-史话新疆24</title>
+    </programme>
+    <programme start="20220106231600" stop="20220106235800" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-30/39</title>
     </programme>
-    <programme start="20220106234500" stop="20220106235900" channel="cctv4">
+    <programme start="20220106235800" stop="20220106235900" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-31/39</title>
     </programme>
-    <programme start="20220107002700" stop="20220107011500" channel="cctv4">
+    <programme start="20220107003900" stop="20220107012700" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-32/39</title>
     </programme>
-    <programme start="20220107011500" stop="20220107012000" channel="cctv4">
+    <programme start="20220107012700" stop="20220107013000" channel="cctv4">
         <title lang="zh">寻找两岸文化传人-传承-碎片5分钟版3</title>
     </programme>
-    <programme start="20220107012000" stop="20220107015000" channel="cctv4">
+    <programme start="20220107013000" stop="20220107020000" channel="cctv4">
         <title lang="zh">中国文艺-2022-4</title>
-    </programme>
-    <programme start="20220107015000" stop="20220107020000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-60</title>
     </programme>
     <programme start="20220107020000" stop="20220107023000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1383,26 +1386,29 @@
     <programme start="20220107220000" stop="20220107223000" channel="cctv4">
         <title lang="zh">鲁健访谈-2022-1</title>
     </programme>
-    <programme start="20220107223000" stop="20220107230400" channel="cctv4">
+    <programme start="20220107223000" stop="20220107230000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220107230400" stop="20220107234500" channel="cctv4">
+    <programme start="20220107230000" stop="20220107230600" channel="cctv4">
+        <title lang="zh">荟萃节目-史话新疆25</title>
+    </programme>
+    <programme start="20220107230600" stop="20220107231600" channel="cctv4">
+        <title lang="zh">荟萃节目-史话新疆26</title>
+    </programme>
+    <programme start="20220107231600" stop="20220107235700" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-33/39</title>
     </programme>
-    <programme start="20220107234500" stop="20220107235900" channel="cctv4">
+    <programme start="20220107235700" stop="20220107235900" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-34/39</title>
     </programme>
-    <programme start="20220108002700" stop="20220108011500" channel="cctv4">
+    <programme start="20220108003900" stop="20220108012500" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-35/39</title>
     </programme>
-    <programme start="20220108011500" stop="20220108012000" channel="cctv4">
+    <programme start="20220108012500" stop="20220108013000" channel="cctv4">
         <title lang="zh">寻找两岸文化传人-传承-碎片5分钟版4</title>
     </programme>
-    <programme start="20220108012000" stop="20220108015000" channel="cctv4">
+    <programme start="20220108013000" stop="20220108020000" channel="cctv4">
         <title lang="zh">中国文艺-2022-5</title>
-    </programme>
-    <programme start="20220108015000" stop="20220108020000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-61</title>
     </programme>
     <programme start="20220108020000" stop="20220108023000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1506,13 +1512,19 @@
     <programme start="20220108220000" stop="20220108223000" channel="cctv4">
         <title lang="zh">国家记忆-2021-112</title>
     </programme>
-    <programme start="20220108223000" stop="20220108230400" channel="cctv4">
+    <programme start="20220108223000" stop="20220108230000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220108230400" stop="20220108234500" channel="cctv4">
+    <programme start="20220108230000" stop="20220108230500" channel="cctv4">
+        <title lang="zh">荟萃节目-史话新疆27</title>
+    </programme>
+    <programme start="20220108230500" stop="20220108231500" channel="cctv4">
+        <title lang="zh">荟萃节目-史话新疆28</title>
+    </programme>
+    <programme start="20220108231500" stop="20220108235700" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-36/39</title>
     </programme>
-    <programme start="20220108234500" stop="20220108235900" channel="cctv4">
+    <programme start="20220108235700" stop="20220108235900" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-37/39</title>
     </programme>
     <programme start="20220106005500" stop="20220106015500" channel="cctv5">
@@ -1689,20 +1701,20 @@
     <programme start="20220108120000" stop="20220108123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20220108123500" stop="20220108140500" channel="cctv5">
+    <programme start="20220108123500" stop="20220108125500" channel="cctv5">
+        <title lang="zh">带你一起看冬奥-3</title>
+    </programme>
+    <programme start="20220108125500" stop="20220108142500" channel="cctv5">
         <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 第十九轮2</title>
     </programme>
-    <programme start="20220108140500" stop="20220108150500" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季单板滑雪世界杯意大利卡里扎站 平行大回转</title>
-    </programme>
-    <programme start="20220108150500" stop="20220108160500" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季高山滑雪世界杯法国库尔舍韦勒站 女子大回转第一场</title>
-    </programme>
-    <programme start="20220108160500" stop="20220108170500" channel="cctv5">
+    <programme start="20220108142500" stop="20220108152500" channel="cctv5">
         <title lang="zh">实况录像-2021/2022赛季单板滑雪世界杯美国铜山站 U型场地</title>
     </programme>
-    <programme start="20220108170500" stop="20220108180000" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季短道速滑世界杯荷兰站 精选1</title>
+    <programme start="20220108152500" stop="20220108174000" channel="cctv5">
+        <title lang="zh">2021中国平安中国足球协会超级联赛-附加赛第一回合（青岛队—浙江队）</title>
+    </programme>
+    <programme start="20220108174000" stop="20220108180000" channel="cctv5">
+        <title lang="zh">带你一起看冬奥-4</title>
     </programme>
     <programme start="20220108180000" stop="20220108183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
@@ -2997,8 +3009,11 @@
     <programme start="20220108180400" stop="20220108190300" channel="cctvjilu">
         <title lang="zh">魅力万象2022-8</title>
     </programme>
-    <programme start="20220108190300" stop="20220108192300" channel="cctvjilu">
-        <title lang="zh">9视频2022-8</title>
+    <programme start="20220108190300" stop="20220108191000" channel="cctvjilu">
+        <title lang="zh">荟萃节目-史话新疆25</title>
+    </programme>
+    <programme start="20220108191000" stop="20220108192300" channel="cctvjilu">
+        <title lang="zh">荟萃节目-史话新疆26</title>
     </programme>
     <programme start="20220108192300" stop="20220108200100" channel="cctvjilu">
         <title lang="zh">活力·源2022-8</title>
@@ -4399,7 +4414,7 @@
         <title lang="zh">奥林匹克频道一起上冰雪-20</title>
     </programme>
     <programme start="20220107194800" stop="20220107204500" channel="cctv16">
-        <title lang="zh">逐冰追雪-2022-1</title>
+        <title lang="zh">逐冰追雪-2022-2</title>
     </programme>
     <programme start="20220107204500" stop="20220107205500" channel="cctv16">
         <title lang="zh">奥林匹克人-2022-5</title>
@@ -4435,7 +4450,7 @@
         <title lang="zh">实况录像（奥林匹克）-2021年中国网球巡回赛总决赛 男单决赛</title>
     </programme>
     <programme start="20220108055600" stop="20220108065500" channel="cctv16">
-        <title lang="zh">逐冰追雪-2022-1</title>
+        <title lang="zh">逐冰追雪-2022-2</title>
     </programme>
     <programme start="20220108065500" stop="20220108070500" channel="cctv16">
         <title lang="zh">奥林匹克人-2021-34</title>
@@ -4459,7 +4474,7 @@
         <title lang="zh">带你一起看冬奥-4</title>
     </programme>
     <programme start="20220108123100" stop="20220108132900" channel="cctv16">
-        <title lang="zh">逐冰追雪-2022-1</title>
+        <title lang="zh">逐冰追雪-2022-2</title>
     </programme>
     <programme start="20220108132900" stop="20220108133500" channel="cctv16">
         <title lang="zh">奥林匹克人-2022-5</title>
