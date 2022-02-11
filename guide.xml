@@ -477,10 +477,10 @@
     <programme start="20220213220000" stop="20220213223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220213223400" stop="20220213233100" channel="cctv1">
+    <programme start="20220213223400" stop="20220213233800" channel="cctv1">
         <title lang="zh">等着我-2022-3</title>
     </programme>
-    <programme start="20220213233100" stop="20220213235900" channel="cctv1">
+    <programme start="20220213233800" stop="20220213235900" channel="cctv1">
         <title lang="zh">国际艺苑-2022-6</title>
     </programme>
     <programme start="20220211003700" stop="20220211011100" channel="cctv2">
@@ -648,14 +648,17 @@
     <programme start="20220212130700" stop="20220212133900" channel="cctv2">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选3（4K）</title>
     </programme>
-    <programme start="20220212133900" stop="20220212151500" channel="cctv2">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 花样滑冰男单自由滑（4K）</title>
+    <programme start="20220212133900" stop="20220212141100" channel="cctv2">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 高山滑雪女子大回转决赛(4K)</title>
     </programme>
-    <programme start="20220212151500" stop="20220212161300" channel="cctv2">
+    <programme start="20220212141100" stop="20220212151300" channel="cctv2">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪空中技巧混合团体决赛（4K）</title>
+    </programme>
+    <programme start="20220212151300" stop="20220212161100" channel="cctv2">
         <title lang="zh">2021秘密大改造（第五季）-7</title>
     </programme>
-    <programme start="20220212161300" stop="20220212162500" channel="cctv2">
-        <title lang="zh">周末特供2021-航拍中国第二季5-9分版</title>
+    <programme start="20220212161100" stop="20220212162500" channel="cctv2">
+        <title lang="zh">周末特供2021-航拍中国第二季1-11分钟版</title>
     </programme>
     <programme start="20220212162500" stop="20220212163500" channel="cctv2">
         <title lang="zh">周末特供-下饭菜1-8分版</title>
@@ -922,7 +925,7 @@
         <title lang="zh">综艺喜乐汇-2022-105</title>
     </programme>
     <programme start="20220212084400" stop="20220212101300" channel="cctv3">
-        <title lang="zh">幸福账单-为你买单2022-6</title>
+        <title lang="zh">幸福账单-为你买单2022-8</title>
     </programme>
     <programme start="20220212101300" stop="20220212102100" channel="cctv3">
         <title lang="zh">中国文艺报道-2022-29 歌曲《领航》MV</title>
@@ -975,8 +978,11 @@
     <programme start="20220213033000" stop="20220213041400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-130 明天我们好好过 20/42</title>
     </programme>
-    <programme start="20220213041400" stop="20220213052900" channel="cctv3">
-        <title lang="zh">幸福账单-为你买单2022-8</title>
+    <programme start="20220213041400" stop="20220213042900" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2022-81</title>
+    </programme>
+    <programme start="20220213042900" stop="20220213052900" channel="cctv3">
+        <title lang="zh">回声嘹亮-2022-4</title>
     </programme>
     <programme start="20220213052900" stop="20220213064700" channel="cctv3">
         <title lang="zh">越战越勇-2022-5</title>
@@ -1500,14 +1506,14 @@
     <programme start="20220212180000" stop="20220212183000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220212183000" stop="20220212220000" channel="cctv5">
+    <programme start="20220212183000" stop="20220212224000" channel="cctv5">
         <title lang="zh">北京冬奥会-花样滑冰冰舞韵律舞等</title>
     </programme>
-    <programme start="20220212220000" stop="20220212230700" channel="cctv5">
+    <programme start="20220212224000" stop="20220212233700" channel="cctv5">
         <title lang="zh">体育世界-全景冬奥会</title>
     </programme>
-    <programme start="20220212230700" stop="20220212235900" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 速度滑冰比赛精选1（4K）</title>
+    <programme start="20220212233700" stop="20220212235900" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 跳台滑雪女子个人标准台决赛（4K）</title>
     </programme>
     <programme start="20220213000900" stop="20220213011100" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 钢架雪车男子决赛（4K）</title>
@@ -1593,10 +1599,13 @@
     <programme start="20220211140000" stop="20220211150000" channel="cctv5plus">
         <title lang="zh">录像：北京冬奥会 自由式滑雪空中技巧混合团体</title>
     </programme>
-    <programme start="20220211150000" stop="20220211170600" channel="cctv5plus">
+    <programme start="20220211150000" stop="20220211163000" channel="cctv5plus">
         <title lang="zh">直播：北京冬奥会 越野滑雪男子传统技术</title>
     </programme>
-    <programme start="20220211170600" stop="20220211175500" channel="cctv5plus">
+    <programme start="20220211163000" stop="20220211170500" channel="cctv5plus">
+        <title lang="zh">《奥运典藏》</title>
+    </programme>
+    <programme start="20220211170500" stop="20220211175500" channel="cctv5plus">
         <title lang="zh">直播：北京冬奥会 速度滑冰男子10000米</title>
     </programme>
     <programme start="20220211175500" stop="20220211190000" channel="cctv5plus">
@@ -2178,14 +2187,17 @@
     <programme start="20220213204500" stop="20220213211500" channel="cctv7">
         <title lang="zh">军营的味道-2022-6(4K)</title>
     </programme>
-    <programme start="20220213211500" stop="20220213222400" channel="cctv7">
+    <programme start="20220213211500" stop="20220213221800" channel="cctv7">
+        <title lang="zh">战歌迎春-2022年文艺轻骑队网络春晚</title>
+    </programme>
+    <programme start="20220213221800" stop="20220213232900" channel="cctv7">
         <title lang="zh">谁是终极英雄-2022-7</title>
     </programme>
-    <programme start="20220213222400" stop="20220213231400" channel="cctv7">
-        <title lang="zh">暴风眼7/39</title>
+    <programme start="20220213232900" stop="20220213233500" channel="cctv7">
+        <title lang="zh">国防微视频-军歌嘹亮-前进吧 人民海军</title>
     </programme>
-    <programme start="20220213231400" stop="20220213235900" channel="cctv7">
-        <title lang="zh">暴风眼8/39</title>
+    <programme start="20220213233500" stop="20220213235900" channel="cctv7">
+        <title lang="zh">军事制高点-2022-14</title>
     </programme>
     <programme start="20220211000100" stop="20220211004700" channel="cctv8">
         <title lang="zh">绽放吧，百合第2集</title>
@@ -3940,18 +3952,21 @@
         <title lang="zh">经典-2022-39</title>
     </programme>
     <programme start="20220212220400" stop="20220212221400" channel="cctv15">
+        <title lang="zh">聆听时刻-2022-13唱响冬奥-谷爱凌</title>
+    </programme>
+    <programme start="20220212221400" stop="20220212222400" channel="cctv15">
         <title lang="zh">综艺喜乐汇-2022-106</title>
     </programme>
-    <programme start="20220212221400" stop="20220212231400" channel="cctv15">
+    <programme start="20220212222400" stop="20220212232400" channel="cctv15">
         <title lang="zh">乐享汇-2022-1乐享2022演唱会1（4K）</title>
     </programme>
-    <programme start="20220212231400" stop="20220212235900" channel="cctv15">
+    <programme start="20220212232400" stop="20220212235900" channel="cctv15">
         <title lang="zh">乐享汇-2022-2乐享2022演唱会2（4K）</title>
     </programme>
-    <programme start="20220213001600" stop="20220213011700" channel="cctv15">
+    <programme start="20220213002600" stop="20220213012700" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-55-“银幕新乐章”中国电影乐团音乐会（上）</title>
     </programme>
-    <programme start="20220213011700" stop="20220213060000" channel="cctv15">
+    <programme start="20220213012700" stop="20220213060000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220213060000" stop="20220213063200" channel="cctv15">
@@ -4518,143 +4533,71 @@
     <programme start="20220212060000" stop="20220212060100" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
     </programme>
-    <programme start="20220212060100" stop="20220212072100" channel="cctv4k">
-        <title lang="zh">实况录像-2019年法国女足世界杯半决赛 荷兰队-瑞典队（4K）</title>
-    </programme>
-    <programme start="20220212072100" stop="20220212072100" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
-    </programme>
-    <programme start="20220212072100" stop="20220212081000" channel="cctv4k">
-        <title lang="zh">大工告成-1（4K）</title>
-    </programme>
-    <programme start="20220212081000" stop="20220212085200" channel="cctv4k">
-        <title lang="zh">远方的家2021-130(4K)</title>
-    </programme>
-    <programme start="20220212085200" stop="20220212085700" channel="cctv4k">
-        <title lang="zh">如果国宝会说话（第三季）-15（4K）</title>
-    </programme>
-    <programme start="20220212085700" stop="20220212090000" channel="cctv4k">
-        <title lang="zh">4K节目垫播-美丽中国-新疆2</title>
-    </programme>
-    <programme start="20220212090000" stop="20220212094700" channel="cctv4k">
-        <title lang="zh">经山历海-（4K）-24/31</title>
-    </programme>
-    <programme start="20220212094700" stop="20220212103300" channel="cctv4k">
-        <title lang="zh">经山历海-（4K）-25/31</title>
-    </programme>
-    <programme start="20220212103300" stop="20220212103300" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
-    </programme>
-    <programme start="20220212103300" stop="20220212110000" channel="cctv4k">
-        <title lang="zh">4K超清精品-2018-19丛林星球19</title>
-    </programme>
-    <programme start="20220212110000" stop="20220212115000" channel="cctv4k">
+    <programme start="20220212060100" stop="20220212065100" channel="cctv4k">
         <title lang="zh">航拍中国（第三季）--一同飞越-8（4K）</title>
     </programme>
-    <programme start="20220212115000" stop="20220212115500" channel="cctv4k">
-        <title lang="zh">美丽中国：自然-2021-17</title>
-    </programme>
-    <programme start="20220212115500" stop="20220212115800" channel="cctv4k">
-        <title lang="zh">4K节目垫播-美丽中国-海南2</title>
-    </programme>
-    <programme start="20220212115800" stop="20220212115900" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
-    </programme>
-    <programme start="20220212115900" stop="20220212115900" channel="cctv4k">
-        <title lang="zh">4K节目预告</title>
-    </programme>
-    <programme start="20220212115900" stop="20220212122900" channel="cctv4k">
-        <title lang="zh">记住乡愁2021-33（第七季 4K）</title>
-    </programme>
-    <programme start="20220212122900" stop="20220212131800" channel="cctv4k">
-        <title lang="zh">大工告成-1（4K）</title>
-    </programme>
-    <programme start="20220212131800" stop="20220212131800" channel="cctv4k">
-        <title lang="zh">4K标识演绎-2019-1</title>
-    </programme>
-    <programme start="20220212131800" stop="20220212140000" channel="cctv4k">
-        <title lang="zh">远方的家2021-130(4K)</title>
-    </programme>
-    <programme start="20220212140000" stop="20220212144600" channel="cctv4k">
-        <title lang="zh">追梦-（4K）-4/31</title>
-    </programme>
-    <programme start="20220212144600" stop="20220212153200" channel="cctv4k">
-        <title lang="zh">追梦-（4K）-5/31</title>
-    </programme>
-    <programme start="20220212153200" stop="20220212153300" channel="cctv4k">
-        <title lang="zh">4K标识演绎-2019-2</title>
-    </programme>
-    <programme start="20220212153300" stop="20220212165300" channel="cctv4k">
-        <title lang="zh">实况录像-2019年法国女足世界杯半决赛 荷兰队-瑞典队（4K）</title>
-    </programme>
-    <programme start="20220212165300" stop="20220212165300" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
-    </programme>
-    <programme start="20220212165300" stop="20220212174300" channel="cctv4k">
-        <title lang="zh">航拍中国（第三季）--一同飞越-8（4K）</title>
-    </programme>
-    <programme start="20220212174300" stop="20220212174800" channel="cctv4k">
-        <title lang="zh">如果国宝会说话（第三季）-15（4K）</title>
-    </programme>
-    <programme start="20220212174800" stop="20220212175300" channel="cctv4k">
-        <title lang="zh">美丽中国：自然-2021-17</title>
-    </programme>
-    <programme start="20220212175300" stop="20220212175900" channel="cctv4k">
-        <title lang="zh">4K节目垫播-美丽中国-新疆</title>
-    </programme>
-    <programme start="20220212175900" stop="20220212175900" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
-    </programme>
-    <programme start="20220212175900" stop="20220212175900" channel="cctv4k">
-        <title lang="zh">4K节目预告</title>
-    </programme>
-    <programme start="20220212175900" stop="20220212182900" channel="cctv4k">
-        <title lang="zh">记住乡愁2021-34（第七季 4K）</title>
-    </programme>
-    <programme start="20220212182900" stop="20220212183000" channel="cctv4k">
-        <title lang="zh">4K标识演绎-2019-2</title>
-    </programme>
-    <programme start="20220212183000" stop="20220212193000" channel="cctv4k">
-        <title lang="zh">乐享汇-2022-29冰雪情缘（4K频道版）</title>
-    </programme>
-    <programme start="20220212193000" stop="20220212195200" channel="cctv4k">
-        <title lang="zh">军营的味道-2022-5(新4K)</title>
-    </programme>
-    <programme start="20220212195200" stop="20220212195700" channel="cctv4k">
+    <programme start="20220212065100" stop="20220212065600" channel="cctv4k">
         <title lang="zh">美丽中国：自然-2021-18</title>
     </programme>
-    <programme start="20220212195700" stop="20220212200000" channel="cctv4k">
-        <title lang="zh">4K垫播节目-2021坝上风光</title>
+    <programme start="20220212065600" stop="20220212070100" channel="cctv4k">
+        <title lang="zh">如果国宝会说话（第三季）-15（4K）</title>
     </programme>
-    <programme start="20220212200000" stop="20220212200100" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+    <programme start="20220212070100" stop="20220212070700" channel="cctv4k">
+        <title lang="zh">4K节目垫播-美丽中国-新疆</title>
     </programme>
-    <programme start="20220212200100" stop="20220212204800" channel="cctv4k">
-        <title lang="zh">经山历海-（4K）-26/31</title>
+    <programme start="20220212070700" stop="20220212074800" channel="cctv4k">
+        <title lang="zh">远方的家2021-130(4K)</title>
     </programme>
-    <programme start="20220212204800" stop="20220212213400" channel="cctv4k">
-        <title lang="zh">经山历海-（4K）-27/31</title>
-    </programme>
-    <programme start="20220212213400" stop="20220212213500" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
-    </programme>
-    <programme start="20220212213500" stop="20220212222500" channel="cctv4k">
-        <title lang="zh">航拍中国（第三季）--一同飞越-9（4K）</title>
-    </programme>
-    <programme start="20220212222500" stop="20220212223000" channel="cctv4k">
-        <title lang="zh">如果国宝会说话（第三季）-16（4K）</title>
-    </programme>
-    <programme start="20220212223000" stop="20220212223500" channel="cctv4k">
+    <programme start="20220212074800" stop="20220212075400" channel="cctv4k">
         <title lang="zh">美丽中国：自然-2021-19</title>
     </programme>
-    <programme start="20220212223500" stop="20220212223500" channel="cctv4k">
-        <title lang="zh">4K频道宣传片-标识演绎3</title>
+    <programme start="20220212075400" stop="20220212075900" channel="cctv4k">
+        <title lang="zh">如果国宝会说话（第三季）-15（4K）</title>
     </programme>
-    <programme start="20220212223500" stop="20220212235500" channel="cctv4k">
-        <title lang="zh">实况录像-2019年世界一级方程式锦标赛 中国站正赛（4K）</title>
+    <programme start="20220212075900" stop="20220212085900" channel="cctv4k">
+        <title lang="zh">乐享汇-2022-29冰雪情缘（4K频道版）</title>
     </programme>
-    <programme start="20220212235500" stop="20220212235900" channel="cctv4k">
-        <title lang="zh">4K垫播节目-2021丝绸之旅</title>
+    <programme start="20220212085900" stop="20220212090000" channel="cctv4k">
+        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+    </programme>
+    <programme start="20220212090000" stop="20220212190500" channel="cctv4k">
+        <title lang="zh">北京冬奥会-冰球男子小组赛 （德国-中国）等</title>
+    </programme>
+    <programme start="20220212190500" stop="20220212190500" channel="cctv4k">
+        <title lang="zh">4K标识演绎-2019-2</title>
+    </programme>
+    <programme start="20220212190500" stop="20220212193500" channel="cctv4k">
+        <title lang="zh">记住乡愁2021-34（第七季 4K）</title>
+    </programme>
+    <programme start="20220212193500" stop="20220212195700" channel="cctv4k">
+        <title lang="zh">军营的味道-2022-5(新4K)</title>
+    </programme>
+    <programme start="20220212195700" stop="20220212195900" channel="cctv4k">
+        <title lang="zh">4K节目垫播-美丽中国-新疆</title>
+    </programme>
+    <programme start="20220212195900" stop="20220212200000" channel="cctv4k">
+        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+    </programme>
+    <programme start="20220212200000" stop="20220212230000" channel="cctv4k">
+        <title lang="zh">北京冬奥会-冰壶女子循环赛（瑞典-中国）</title>
+    </programme>
+    <programme start="20220212230000" stop="20220212230100" channel="cctv4k">
+        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+    </programme>
+    <programme start="20220212230100" stop="20220212230600" channel="cctv4k">
+        <title lang="zh">美丽中国：自然-2021-18</title>
+    </programme>
+    <programme start="20220212230600" stop="20220212234700" channel="cctv4k">
+        <title lang="zh">远方的家2021-131(4K)</title>
+    </programme>
+    <programme start="20220212234700" stop="20220212235200" channel="cctv4k">
+        <title lang="zh">如果国宝会说话（第三季）-15（4K）</title>
+    </programme>
+    <programme start="20220212235200" stop="20220212235800" channel="cctv4k">
+        <title lang="zh">美丽中国：自然-2021-6</title>
+    </programme>
+    <programme start="20220212235800" stop="20220212235900" channel="cctv4k">
+        <title lang="zh">4K节目垫播-美丽中国:海南岛</title>
     </programme>
     <programme start="20220212235900" stop="20220212235900" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
@@ -4665,151 +4608,67 @@
     <programme start="20220213060000" stop="20220213060100" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
     </programme>
-    <programme start="20220213060100" stop="20220213072100" channel="cctv4k">
-        <title lang="zh">实况录像-2019年世界一级方程式锦标赛 中国站正赛（4K）</title>
-    </programme>
-    <programme start="20220213072100" stop="20220213072100" channel="cctv4k">
-        <title lang="zh">4K标识演绎-2019-1</title>
-    </programme>
-    <programme start="20220213072100" stop="20220213075100" channel="cctv4k">
-        <title lang="zh">记住乡愁2021-34（第七季 4K）</title>
-    </programme>
-    <programme start="20220213075100" stop="20220213084100" channel="cctv4k">
-        <title lang="zh">航拍中国（第三季）--一同飞越-9（4K）</title>
-    </programme>
-    <programme start="20220213084100" stop="20220213084600" channel="cctv4k">
-        <title lang="zh">如果国宝会说话（第三季）-16（4K）</title>
-    </programme>
-    <programme start="20220213084600" stop="20220213085200" channel="cctv4k">
-        <title lang="zh">美丽中国：自然-2021-18</title>
-    </programme>
-    <programme start="20220213085200" stop="20220213085600" channel="cctv4k">
-        <title lang="zh">听起来很好吃-6（4K）</title>
-    </programme>
-    <programme start="20220213085600" stop="20220213085900" channel="cctv4k">
-        <title lang="zh">4K节目垫播-美丽中国-云南滇金丝猴（4K）</title>
-    </programme>
-    <programme start="20220213085900" stop="20220213085900" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
-    </programme>
-    <programme start="20220213085900" stop="20220213094600" channel="cctv4k">
-        <title lang="zh">经山历海-（4K）-26/31</title>
-    </programme>
-    <programme start="20220213094600" stop="20220213103200" channel="cctv4k">
-        <title lang="zh">经山历海-（4K）-27/31</title>
-    </programme>
-    <programme start="20220213103200" stop="20220213103200" channel="cctv4k">
-        <title lang="zh">4K标识演绎-2019-1</title>
-    </programme>
-    <programme start="20220213103200" stop="20220213105900" channel="cctv4k">
-        <title lang="zh">4K超清精品-2018-20丛林星球20</title>
-    </programme>
-    <programme start="20220213105900" stop="20220213105900" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
-    </programme>
-    <programme start="20220213105900" stop="20220213115900" channel="cctv4k">
-        <title lang="zh">乐享汇-2022-29冰雪情缘（4K频道版）</title>
-    </programme>
-    <programme start="20220213115900" stop="20220213120000" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
-    </programme>
-    <programme start="20220213120000" stop="20220213120000" channel="cctv4k">
-        <title lang="zh">4K节目预告</title>
-    </programme>
-    <programme start="20220213120000" stop="20220213122200" channel="cctv4k">
-        <title lang="zh">军营的味道-2022-5(新4K)</title>
-    </programme>
-    <programme start="20220213122200" stop="20220213122200" channel="cctv4k">
-        <title lang="zh">4K标识演绎-2019-2</title>
-    </programme>
-    <programme start="20220213122200" stop="20220213125200" channel="cctv4k">
-        <title lang="zh">记住乡愁2021-34（第七季 4K）</title>
-    </programme>
-    <programme start="20220213125200" stop="20220213134200" channel="cctv4k">
-        <title lang="zh">航拍中国（第三季）--一同飞越-9（4K）</title>
-    </programme>
-    <programme start="20220213134200" stop="20220213134700" channel="cctv4k">
-        <title lang="zh">如果国宝会说话（第三季）-16（4K）</title>
-    </programme>
-    <programme start="20220213134700" stop="20220213135200" channel="cctv4k">
-        <title lang="zh">美丽中国：自然-2021-18</title>
-    </programme>
-    <programme start="20220213135200" stop="20220213135700" channel="cctv4k">
-        <title lang="zh">听起来很好吃-6（4K）</title>
-    </programme>
-    <programme start="20220213135700" stop="20220213135900" channel="cctv4k">
-        <title lang="zh">4K垫播节目-2021坝上风光</title>
-    </programme>
-    <programme start="20220213135900" stop="20220213144600" channel="cctv4k">
-        <title lang="zh">追梦-4K-6/31</title>
-    </programme>
-    <programme start="20220213144600" stop="20220213153200" channel="cctv4k">
-        <title lang="zh">追梦-4K-7/31</title>
-    </programme>
-    <programme start="20220213153200" stop="20220213153200" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
-    </programme>
-    <programme start="20220213153200" stop="20220213165200" channel="cctv4k">
-        <title lang="zh">实况录像-2019年世界一级方程式锦标赛 中国站正赛（4K）</title>
-    </programme>
-    <programme start="20220213165200" stop="20220213165200" channel="cctv4k">
-        <title lang="zh">4K频道宣传片-标识演绎3</title>
-    </programme>
-    <programme start="20220213165200" stop="20220213175200" channel="cctv4k">
-        <title lang="zh">乐享汇-2022-29冰雪情缘（4K频道版）</title>
-    </programme>
-    <programme start="20220213175200" stop="20220213175800" channel="cctv4k">
-        <title lang="zh">美丽中国：自然-2021-19</title>
-    </programme>
-    <programme start="20220213175800" stop="20220213180000" channel="cctv4k">
-        <title lang="zh">4K节目垫播-美丽中国-云南滇金丝猴（4K）</title>
-    </programme>
-    <programme start="20220213180000" stop="20220213180000" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
-    </programme>
-    <programme start="20220213180000" stop="20220213180000" channel="cctv4k">
-        <title lang="zh">4K节目预告</title>
-    </programme>
-    <programme start="20220213180000" stop="20220213183000" channel="cctv4k">
-        <title lang="zh">记住乡愁2021-35（第七季 4K）</title>
-    </programme>
-    <programme start="20220213183000" stop="20220213191900" channel="cctv4k">
-        <title lang="zh">大工告成-2（4K）</title>
-    </programme>
-    <programme start="20220213191900" stop="20220213192400" channel="cctv4k">
-        <title lang="zh">如果国宝会说话（第三季）-17（4K）</title>
-    </programme>
-    <programme start="20220213192400" stop="20220213192900" channel="cctv4k">
-        <title lang="zh">美丽中国：自然-2021-20</title>
-    </programme>
-    <programme start="20220213192900" stop="20220213193000" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
-    </programme>
-    <programme start="20220213193000" stop="20220213195700" channel="cctv4k">
-        <title lang="zh">军武零距离-2022-7(4K)精编</title>
-    </programme>
-    <programme start="20220213195700" stop="20220213200100" channel="cctv4k">
-        <title lang="zh">4K节目垫播-美丽中国-长白山2</title>
-    </programme>
-    <programme start="20220213200100" stop="20220213204900" channel="cctv4k">
-        <title lang="zh">经山历海-（4K）-28/31</title>
-    </programme>
-    <programme start="20220213204900" stop="20220213213500" channel="cctv4k">
-        <title lang="zh">经山历海-（4K）-29/31</title>
-    </programme>
-    <programme start="20220213213500" stop="20220213213500" channel="cctv4k">
-        <title lang="zh">4K频道宣传片-标识演绎3</title>
-    </programme>
-    <programme start="20220213213500" stop="20220213223500" channel="cctv4k">
+    <programme start="20220213060100" stop="20220213070100" channel="cctv4k">
         <title lang="zh">角儿来了-2022-5山水音乐会（二）（4K）</title>
     </programme>
-    <programme start="20220213223500" stop="20220213223600" channel="cctv4k">
+    <programme start="20220213070100" stop="20220213073100" channel="cctv4k">
+        <title lang="zh">记住乡愁2021-34（第七季 4K）</title>
+    </programme>
+    <programme start="20220213073100" stop="20220213082200" channel="cctv4k">
+        <title lang="zh">航拍中国（第三季）--一同飞越-9（4K）</title>
+    </programme>
+    <programme start="20220213082200" stop="20220213084400" channel="cctv4k">
+        <title lang="zh">军营的味道-2022-5(新4K)</title>
+    </programme>
+    <programme start="20220213084400" stop="20220213084900" channel="cctv4k">
+        <title lang="zh">如果国宝会说话（第三季）-15（4K）</title>
+    </programme>
+    <programme start="20220213084900" stop="20220213085400" channel="cctv4k">
+        <title lang="zh">美丽中国：自然-2021-20</title>
+    </programme>
+    <programme start="20220213085400" stop="20220213085900" channel="cctv4k">
+        <title lang="zh">4K节目垫播-美丽中国:海南岛</title>
+    </programme>
+    <programme start="20220213085900" stop="20220213090000" channel="cctv4k">
+        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+    </programme>
+    <programme start="20220213090000" stop="20220213202000" channel="cctv4k">
+        <title lang="zh">北京冬奥会-冰壶男子循环赛 （中国-英国）等</title>
+    </programme>
+    <programme start="20220213202000" stop="20220213202000" channel="cctv4k">
         <title lang="zh">4K标识演绎-2019-1</title>
     </programme>
-    <programme start="20220213223600" stop="20220213235600" channel="cctv4k">
-        <title lang="zh">实况录像-2020欧洲杯1/8决赛2（4K）</title>
+    <programme start="20220213202000" stop="20220213202500" channel="cctv4k">
+        <title lang="zh">如果国宝会说话（第三季）-15（4K）</title>
     </programme>
-    <programme start="20220213235600" stop="20220213235900" channel="cctv4k">
+    <programme start="20220213202500" stop="20220213203100" channel="cctv4k">
+        <title lang="zh">美丽中国：自然-2021-20</title>
+    </programme>
+    <programme start="20220213203100" stop="20220213205800" channel="cctv4k">
+        <title lang="zh">军武零距离-2022-7(4K)精编</title>
+    </programme>
+    <programme start="20220213205800" stop="20220213210300" channel="cctv4k">
+        <title lang="zh">如果国宝会说话（第三季）-16（4K）</title>
+    </programme>
+    <programme start="20220213210300" stop="20220213210800" channel="cctv4k">
+        <title lang="zh">美丽中国：自然-2021-6</title>
+    </programme>
+    <programme start="20220213210800" stop="20220213210900" channel="cctv4k">
+        <title lang="zh">4K节目垫播-美丽中国-新疆</title>
+    </programme>
+    <programme start="20220213210900" stop="20220213211000" channel="cctv4k">
+        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+    </programme>
+    <programme start="20220213211000" stop="20220213233000" channel="cctv4k">
+        <title lang="zh">北京冬奥会-男子冰球小组赛（中国-加拿大）</title>
+    </programme>
+    <programme start="20220213233000" stop="20220213233000" channel="cctv4k">
+        <title lang="zh">4K标识演绎-2019-1</title>
+    </programme>
+    <programme start="20220213233000" stop="20220213235700" channel="cctv4k">
+        <title lang="zh">军武零距离-2022-7(4K)精编</title>
+    </programme>
+    <programme start="20220213235700" stop="20220213235900" channel="cctv4k">
         <title lang="zh">4K垫播节目-2021丝绸之旅</title>
     </programme>
     <programme start="20220213235900" stop="20220213235900" channel="cctv4k">
