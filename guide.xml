@@ -1089,10 +1089,10 @@
     <programme start="20220402212700" stop="20220402225100" channel="cctv3">
         <title lang="zh">越战越勇-2022-11</title>
     </programme>
-    <programme start="20220402225100" stop="20220402235100" channel="cctv3">
-        <title lang="zh">黄金100秒-2022-11</title>
+    <programme start="20220402225100" stop="20220402235700" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2022-525</title>
     </programme>
-    <programme start="20220402235100" stop="20220402235900" channel="cctv3">
+    <programme start="20220402235700" stop="20220402235900" channel="cctv3">
         <title lang="zh">非常6+1-2022-11</title>
     </programme>
     <programme start="20220331003600" stop="20220331012400" channel="cctv4">
@@ -1287,23 +1287,23 @@
     <programme start="20220401120000" stop="20220401130200" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20220401130200" stop="20220401131300" channel="cctv4">
+    <programme start="20220401130200" stop="20220401131400" channel="cctv4">
         <title lang="zh">记住乡愁2018片段展播-33</title>
     </programme>
-    <programme start="20220401131300" stop="20220401140200" channel="cctv4">
-        <title lang="zh">无名卫士14/42</title>
+    <programme start="20220401131400" stop="20220401140300" channel="cctv4">
+        <title lang="zh">无名卫士第14集</title>
     </programme>
-    <programme start="20220401140200" stop="20220401144800" channel="cctv4">
-        <title lang="zh">无名卫士15/42</title>
+    <programme start="20220401140300" stop="20220401144900" channel="cctv4">
+        <title lang="zh">无名卫士第15集</title>
     </programme>
-    <programme start="20220401144800" stop="20220401153600" channel="cctv4">
-        <title lang="zh">无名卫士16/42</title>
+    <programme start="20220401144900" stop="20220401153700" channel="cctv4">
+        <title lang="zh">无名卫士第16集</title>
     </programme>
-    <programme start="20220401153600" stop="20220401162400" channel="cctv4">
-        <title lang="zh">无名卫士17/42</title>
+    <programme start="20220401153700" stop="20220401162500" channel="cctv4">
+        <title lang="zh">无名卫士第17集</title>
     </programme>
-    <programme start="20220401162400" stop="20220401171500" channel="cctv4">
-        <title lang="zh">无名卫士18/42</title>
+    <programme start="20220401162500" stop="20220401171500" channel="cctv4">
+        <title lang="zh">无名卫士第18集</title>
     </programme>
     <programme start="20220401171500" stop="20220401180000" channel="cctv4">
         <title lang="zh">远方的家2022-48</title>
@@ -1339,13 +1339,13 @@
         <title lang="zh">群山的共鸣-丝绸之路上的帕米尔-4</title>
     </programme>
     <programme start="20220401235100" stop="20220401235900" channel="cctv4">
-        <title lang="zh">火红年华11/32</title>
+        <title lang="zh">火红年华第11集</title>
     </programme>
     <programme start="20220402003700" stop="20220402012400" channel="cctv4">
-        <title lang="zh">火红年华12/32</title>
+        <title lang="zh">火红年华第12集</title>
     </programme>
     <programme start="20220402012400" stop="20220402015400" channel="cctv4">
-        <title lang="zh">中国文艺-2022-65</title>
+        <title lang="zh">国家记忆-2022-10</title>
     </programme>
     <programme start="20220402015400" stop="20220402020000" channel="cctv4">
         <title lang="zh">寻找两岸文化传人-传承-碎片4分钟版4</title>
@@ -1806,11 +1806,14 @@
     <programme start="20220402155500" stop="20220402163000" channel="cctv5plus">
         <title lang="zh">欧战快报-21-22赛季意甲联赛第23轮集锦</title>
     </programme>
-    <programme start="20220402163000" stop="20220402183000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季斯诺克大师赛 精选2</title>
-    </programme>
-    <programme start="20220402183000" stop="20220402200000" channel="cctv5plus">
+    <programme start="20220402163000" stop="20220402180000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年世界女子冰壶锦标赛 精选2</title>
+    </programme>
+    <programme start="20220402180000" stop="20220402193000" channel="cctv5plus">
+        <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 季后赛 12进8 第一场</title>
+    </programme>
+    <programme start="20220402193000" stop="20220402200000" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-北京冬残奥会 高山滑雪精选2（4K）</title>
     </programme>
     <programme start="20220402200000" stop="20220402213000" channel="cctv5plus">
         <title lang="zh">2022年ATP1000男子网球大师赛-迈阿密站 1/4决赛2</title>
@@ -4683,8 +4686,11 @@
     <programme start="20220401215400" stop="20220401220000" channel="cctv17">
         <title lang="zh">农业气象</title>
     </programme>
-    <programme start="20220401220000" stop="20220401230000" channel="cctv17">
-        <title lang="zh">我的美丽乡村-周末版2022-66</title>
+    <programme start="20220401220000" stop="20220401222900" channel="cctv17">
+        <title lang="zh">我的美丽乡村-2022-83</title>
+    </programme>
+    <programme start="20220401222900" stop="20220401230000" channel="cctv17">
+        <title lang="zh">我爱发明-2022-47</title>
     </programme>
     <programme start="20220401230000" stop="20220401235900" channel="cctv17">
         <title lang="zh">田间示范秀-2022-45</title>
@@ -4696,7 +4702,7 @@
         <title lang="zh">三农群英汇-2022-45</title>
     </programme>
     <programme start="20220402010000" stop="20220402013000" channel="cctv17">
-        <title lang="zh">我的美丽乡村-2022-46</title>
+        <title lang="zh">我的美丽乡村-2022-83</title>
     </programme>
     <programme start="20220402013000" stop="20220402021000" channel="cctv17">
         <title lang="zh">乡聚春天里特别系列节目-春天里的新农活-5</title>
@@ -4734,8 +4740,11 @@
     <programme start="20220402103000" stop="20220402103300" channel="cctv17">
         <title lang="zh">农业气象</title>
     </programme>
-    <programme start="20220402103300" stop="20220402120000" channel="cctv17">
-        <title lang="zh">乡村大舞台-2022-15</title>
+    <programme start="20220402103300" stop="20220402113000" channel="cctv17">
+        <title lang="zh">乡理乡亲-2022-12</title>
+    </programme>
+    <programme start="20220402113000" stop="20220402120000" channel="cctv17">
+        <title lang="zh">谁知盘中餐-2022-66</title>
     </programme>
     <programme start="20220402120000" stop="20220402122700" channel="cctv17">
         <title lang="zh">中国三农报道</title>
@@ -4744,7 +4753,7 @@
         <title lang="zh">农业气象</title>
     </programme>
     <programme start="20220402123000" stop="20220402133000" channel="cctv17">
-        <title lang="zh">我的美丽乡村-周末版2022-66</title>
+        <title lang="zh">田间示范秀-2022-12</title>
     </programme>
     <programme start="20220402133000" stop="20220402142200" channel="cctv17">
         <title lang="zh">我的前半生15/42</title>
@@ -4779,17 +4788,23 @@
     <programme start="20220402211600" stop="20220402212500" channel="cctv17">
         <title lang="zh">中国三农报道</title>
     </programme>
-    <programme start="20220402212500" stop="20220402224900" channel="cctv17">
-        <title lang="zh">乡村大舞台-2022-17</title>
+    <programme start="20220402212500" stop="20220402221900" channel="cctv17">
+        <title lang="zh">田间示范秀-2022-16</title>
     </programme>
-    <programme start="20220402224900" stop="20220402225500" channel="cctv17">
+    <programme start="20220402221900" stop="20220402222500" channel="cctv17">
         <title lang="zh">农业气象</title>
     </programme>
-    <programme start="20220402225500" stop="20220402235500" channel="cctv17">
+    <programme start="20220402222500" stop="20220402232500" channel="cctv17">
         <title lang="zh">乡理乡亲-2022-13</title>
     </programme>
-    <programme start="20220402235500" stop="20220402235900" channel="cctv17">
+    <programme start="20220402232500" stop="20220402235500" channel="cctv17">
         <title lang="zh">谁知盘中餐-2022-69</title>
+    </programme>
+    <programme start="20220402235500" stop="20220402235500" channel="cctv17">
+        <title lang="zh">谁知盘中餐-2022-69</title>
+    </programme>
+    <programme start="20220402235500" stop="20220402235900" channel="cctv17">
+        <title lang="zh">三农群英汇-2022-46</title>
     </programme>
     <programme start="20220331000000" stop="20220331060000" channel="cctv4k">
         <title lang="zh">再见</title>
