@@ -402,13 +402,13 @@
     <programme start="20220407200600" stop="20220407205400" channel="cctv1">
         <title lang="zh">青山不墨3/34</title>
     </programme>
-    <programme start="20220407205400" stop="20220407210200" channel="cctv1">
+    <programme start="20220407205400" stop="20220407210100" channel="cctv1">
         <title lang="zh">前情提要-《青山不墨》4/34</title>
     </programme>
-    <programme start="20220407210200" stop="20220407215400" channel="cctv1">
+    <programme start="20220407210100" stop="20220407215200" channel="cctv1">
         <title lang="zh">青山不墨4/34</title>
     </programme>
-    <programme start="20220407215400" stop="20220407220000" channel="cctv1">
+    <programme start="20220407215200" stop="20220407220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-55</title>
     </programme>
     <programme start="20220407220000" stop="20220407223400" channel="cctv1">
@@ -1629,38 +1629,35 @@
     <programme start="20220407120000" stop="20220407123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20220407123500" stop="20220407140000" channel="cctv5">
+    <programme start="20220407123500" stop="20220407140500" channel="cctv5">
         <title lang="zh">实况录像-2022年世界女子冰壶锦标赛 精选1</title>
     </programme>
-    <programme start="20220407140000" stop="20220407145500" channel="cctv5">
+    <programme start="20220407140500" stop="20220407150000" channel="cctv5">
         <title lang="zh">实况录像-2021年世界短池游泳锦标赛 精选3</title>
     </programme>
-    <programme start="20220407145500" stop="20220407172500" channel="cctv5">
-        <title lang="zh">2021/2022赛季中国男子篮球职业联赛-季后赛13</title>
+    <programme start="20220407150000" stop="20220407153000" channel="cctv5">
+        <title lang="zh">天下足球-你好，世界杯2</title>
+    </programme>
+    <programme start="20220407153000" stop="20220407172500" channel="cctv5">
+        <title lang="zh">2022中国足球协会女子超级联赛-第1轮（武汉车谷江大—陕西长安竞技）</title>
     </programme>
     <programme start="20220407172500" stop="20220407180000" channel="cctv5">
         <title lang="zh">五环纪事 幕后11 冬残奥开幕式</title>
     </programme>
-    <programme start="20220407180000" stop="20220407183500" channel="cctv5">
+    <programme start="20220407180000" stop="20220407193000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220407183500" stop="20220407193000" channel="cctv5">
-        <title lang="zh">实况录像-2021年世界艺术体操锦标赛 精选1</title>
+    <programme start="20220407193000" stop="20220407215000" channel="cctv5">
+        <title lang="zh">2021/2022赛季中国男子篮球职业联赛-季后赛1/4决赛（浙江稠州金租-广东东莞大益）</title>
     </programme>
-    <programme start="20220407193000" stop="20220407220000" channel="cctv5">
-        <title lang="zh">2021/2022赛季中国男子篮球职业联赛-季后赛14</title>
-    </programme>
-    <programme start="20220407220000" stop="20220407223500" channel="cctv5">
+    <programme start="20220407215000" stop="20220407222500" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20220407223500" stop="20220407231000" channel="cctv5">
-        <title lang="zh">五环纪事 幕后4（引导员-上）</title>
+    <programme start="20220407222500" stop="20220407230000" channel="cctv5">
+        <title lang="zh">五环纪事-2022-5 幕后4（引导员-上）</title>
     </programme>
-    <programme start="20220407231000" stop="20220407234500" channel="cctv5">
-        <title lang="zh">五环纪事 幕后5（引导员-下）</title>
-    </programme>
-    <programme start="20220407234500" stop="20220407235900" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 速度滑冰比赛精选2(4K)</title>
+    <programme start="20220407230000" stop="20220407235900" channel="cctv5">
+        <title lang="zh">五环纪事-2022-6 幕后5（引导员-下）</title>
     </programme>
     <programme start="20220408004500" stop="20220408014000" channel="cctv5">
         <title lang="zh">实况录像-2022年世界职业拳王争霸赛 精选3</title>
@@ -1809,17 +1806,17 @@
     <programme start="20220407133000" stop="20220407140500" channel="cctv5plus">
         <title lang="zh">体育新闻-北京2022</title>
     </programme>
-    <programme start="20220407140500" stop="20220407153500" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 花样滑冰冰舞韵律舞（4K）</title>
-    </programme>
-    <programme start="20220407153500" stop="20220407170500" channel="cctv5plus">
-        <title lang="zh">实况录像-2021年世界体操锦标赛 单项决赛精选1</title>
-    </programme>
-    <programme start="20220407170500" stop="20220407180000" channel="cctv5plus">
+    <programme start="20220407140500" stop="20220407145500" channel="cctv5plus">
         <title lang="zh">实况录像-2022年世界职业拳王争霸赛 精选3</title>
     </programme>
+    <programme start="20220407145500" stop="20220407173000" channel="cctv5plus">
+        <title lang="zh">2021/2022赛季中国男子篮球职业联赛-季后赛1/4决赛（辽宁本钢-山西汾酒股份）</title>
+    </programme>
+    <programme start="20220407173000" stop="20220407180000" channel="cctv5plus">
+        <title lang="zh">天下足球-你好，世界杯2</title>
+    </programme>
     <programme start="20220407180000" stop="20220407193000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 季后赛 12进8 第六场</title>
+        <title lang="zh">实况录像-2021年世界体操锦标赛 单项决赛精选1</title>
     </programme>
     <programme start="20220407193000" stop="20220407213000" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季斯诺克英国锦标赛 精选3</title>
@@ -4143,26 +4140,23 @@
     <programme start="20220407011600" stop="20220407060000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20220407060000" stop="20220407063400" channel="cctv15">
+    <programme start="20220407060000" stop="20220407063200" channel="cctv15">
         <title lang="zh">中国节拍-歌舞吧青春6</title>
     </programme>
-    <programme start="20220407063400" stop="20220407073400" channel="cctv15">
+    <programme start="20220407063200" stop="20220407063800" channel="cctv15">
+        <title lang="zh">电影《大江大河2》主题曲《和光同尘》-1</title>
+    </programme>
+    <programme start="20220407063800" stop="20220407073800" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-107</title>
     </programme>
-    <programme start="20220407073400" stop="20220407073900" channel="cctv15">
-        <title lang="zh">综艺喜乐汇-2021-1599 第九批中国梦歌曲—振兴乡村唱起来</title>
+    <programme start="20220407073800" stop="20220407074700" channel="cctv15">
+        <title lang="zh">电影《辛德勒的名单》配乐选段-1</title>
     </programme>
-    <programme start="20220407073900" stop="20220407080900" channel="cctv15">
+    <programme start="20220407074700" stop="20220407081900" channel="cctv15">
         <title lang="zh">风华国乐-2022-98</title>
     </programme>
-    <programme start="20220407080900" stop="20220407081500" channel="cctv15">
-        <title lang="zh">综艺喜乐汇-2021-1600 第九批中国梦歌曲—灯火里的中国</title>
-    </programme>
-    <programme start="20220407081500" stop="20220407091800" channel="cctv15">
+    <programme start="20220407081900" stop="20220407092400" channel="cctv15">
         <title lang="zh">民歌·中国-2022-63春之歌4</title>
-    </programme>
-    <programme start="20220407091800" stop="20220407092400" channel="cctv15">
-        <title lang="zh">综艺喜乐汇-2021-1608 第九批中国梦歌曲—亲戚</title>
     </programme>
     <programme start="20220407092400" stop="20220407101100" channel="cctv15">
         <title lang="zh">音乐公开课-2021-73琴童美育第一课</title>
@@ -4218,26 +4212,26 @@
     <programme start="20220408011500" stop="20220408060000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20220408060000" stop="20220408063400" channel="cctv15">
+    <programme start="20220408060000" stop="20220408063200" channel="cctv15">
         <title lang="zh">中国节拍-歌舞吧青春2</title>
     </programme>
-    <programme start="20220408063400" stop="20220408073400" channel="cctv15">
+    <programme start="20220408063200" stop="20220408063700" channel="cctv15">
+        <title lang="zh">电影《白蛇传·情》推广曲《圆我的愿》-1</title>
+    </programme>
+    <programme start="20220408063700" stop="20220408073700" channel="cctv15">
         <title lang="zh">乐享汇-2021-110“新的唱响”演唱会二十(4K)</title>
     </programme>
-    <programme start="20220408073400" stop="20220408074100" channel="cctv15">
-        <title lang="zh">综艺喜乐汇-2021-1604 第九批中国梦歌曲—阿秀</title>
+    <programme start="20220408073700" stop="20220408074600" channel="cctv15">
+        <title lang="zh">电影《夺宝奇兵》配乐选段-1</title>
     </programme>
-    <programme start="20220408074100" stop="20220408081100" channel="cctv15">
+    <programme start="20220408074600" stop="20220408081600" channel="cctv15">
         <title lang="zh">风华国乐-2022-99</title>
     </programme>
-    <programme start="20220408081100" stop="20220408081700" channel="cctv15">
-        <title lang="zh">综艺喜乐汇-2021-1600 第九批中国梦歌曲—灯火里的中国</title>
+    <programme start="20220408081600" stop="20220408082200" channel="cctv15">
+        <title lang="zh">5G动画《星鱼》同名主题曲-1</title>
     </programme>
-    <programme start="20220408081700" stop="20220408092000" channel="cctv15">
+    <programme start="20220408082200" stop="20220408092600" channel="cctv15">
         <title lang="zh">民歌·中国-2022-64春之歌5</title>
-    </programme>
-    <programme start="20220408092000" stop="20220408092600" channel="cctv15">
-        <title lang="zh">综艺喜乐汇-2021-1608 第九批中国梦歌曲—亲戚</title>
     </programme>
     <programme start="20220408092600" stop="20220408105800" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-97</title>
@@ -4251,34 +4245,34 @@
     <programme start="20220408130200" stop="20220408134800" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-97-名家名曲（13）</title>
     </programme>
-    <programme start="20220408134800" stop="20220408152200" channel="cctv15">
+    <programme start="20220408134800" stop="20220408152300" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-98</title>
     </programme>
-    <programme start="20220408152200" stop="20220408165500" channel="cctv15">
+    <programme start="20220408152300" stop="20220408165600" channel="cctv15">
         <title lang="zh">合唱先锋2022-35-岁月无痕</title>
     </programme>
-    <programme start="20220408165500" stop="20220408175700" channel="cctv15">
+    <programme start="20220408165600" stop="20220408175800" channel="cctv15">
         <title lang="zh">经典-2022-85</title>
     </programme>
-    <programme start="20220408175700" stop="20220408185900" channel="cctv15">
+    <programme start="20220408175800" stop="20220408190000" channel="cctv15">
         <title lang="zh">民歌·中国-2022-65春之歌6</title>
     </programme>
-    <programme start="20220408185900" stop="20220408192900" channel="cctv15">
+    <programme start="20220408190000" stop="20220408193000" channel="cctv15">
         <title lang="zh">风华国乐-2022-106</title>
     </programme>
-    <programme start="20220408192900" stop="20220408203100" channel="cctv15">
+    <programme start="20220408193000" stop="20220408203200" channel="cctv15">
         <title lang="zh">一起音乐吧-2022-41 绝代风华邓丽君</title>
     </programme>
-    <programme start="20220408203100" stop="20220408220600" channel="cctv15">
+    <programme start="20220408203200" stop="20220408220700" channel="cctv15">
         <title lang="zh">唱出我新声-3</title>
     </programme>
-    <programme start="20220408220600" stop="20220408225800" channel="cctv15">
+    <programme start="20220408220700" stop="20220408225900" channel="cctv15">
         <title lang="zh">音乐周刊-2022-13</title>
     </programme>
-    <programme start="20220408225800" stop="20220408234300" channel="cctv15">
+    <programme start="20220408225900" stop="20220408234400" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-98-名家名曲（14）</title>
     </programme>
-    <programme start="20220408234300" stop="20220408235900" channel="cctv15">
+    <programme start="20220408234400" stop="20220408235900" channel="cctv15">
         <title lang="zh">经典-2022-86</title>
     </programme>
     <programme start="20220406000500" stop="20220406010500" channel="cctv16">
