@@ -393,10 +393,10 @@
     <programme start="20220513200100" stop="20220513200600" channel="cctv1">
         <title lang="zh">前情提要- 《新居之约》第20集</title>
     </programme>
-    <programme start="20220513200600" stop="20220513205800" channel="cctv1">
+    <programme start="20220513200600" stop="20220513205600" channel="cctv1">
         <title lang="zh">新居之约第20集</title>
     </programme>
-    <programme start="20220513205800" stop="20220513210000" channel="cctv1">
+    <programme start="20220513205600" stop="20220513210000" channel="cctv1">
         <title lang="zh">前情提要- 《新居之约》第21集</title>
     </programme>
     <programme start="20220513210000" stop="20220513215200" channel="cctv1">
@@ -498,8 +498,11 @@
     <programme start="20220514193800" stop="20220514200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220514200600" stop="20220514215200" channel="cctv1">
+    <programme start="20220514200600" stop="20220514213600" channel="cctv1">
         <title lang="zh">经典咏流传（第五季）-7</title>
+    </programme>
+    <programme start="20220514213600" stop="20220514215200" channel="cctv1">
+        <title lang="zh">专题节目-1</title>
     </programme>
     <programme start="20220514215200" stop="20220514220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-92</title>
@@ -1572,17 +1575,26 @@
     <programme start="20220514073000" stop="20220514080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20220514080000" stop="20220514110500" channel="cctv5">
-        <title lang="zh">2021/2022赛季NBA-季后赛15</title>
+    <programme start="20220514080000" stop="20220514085500" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2021年世界技巧锦标赛 精选1(4K)</title>
     </programme>
-    <programme start="20220514110500" stop="20220514120000" channel="cctv5">
+    <programme start="20220514085500" stop="20220514090500" channel="cctv5">
+        <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 罗伯逊的147</title>
+    </programme>
+    <programme start="20220514090500" stop="20220514100000" channel="cctv5">
         <title lang="zh">实况录像-2021年世界艺术体操锦标赛 精选1</title>
     </programme>
-    <programme start="20220514120000" stop="20220514123500" channel="cctv5">
+    <programme start="20220514100000" stop="20220514112000" channel="cctv5">
+        <title lang="zh">2021/2022赛季NBA-季后赛（灰熊-勇士）6</title>
+    </programme>
+    <programme start="20220514112000" stop="20220514113500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20220514123500" stop="20220514140000" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 季后赛 总决赛3</title>
+    <programme start="20220514113500" stop="20220514130500" channel="cctv5">
+        <title lang="zh">2021/2022赛季NBA-季后赛（灰熊-勇士）6</title>
+    </programme>
+    <programme start="20220514130500" stop="20220514140000" channel="cctv5">
+        <title lang="zh">实况录像-2021年世界蹦床锦标赛 团体决赛</title>
     </programme>
     <programme start="20220514140000" stop="20220514180000" channel="cctv5">
         <title lang="zh">2022年尤伯杯羽毛球赛-决赛</title>
@@ -1707,17 +1719,17 @@
     <programme start="20220514070000" stop="20220514080000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪女子大跳台决赛(4K)</title>
     </programme>
-    <programme start="20220514080000" stop="20220514090000" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪女子U型场地决赛(4K)</title>
-    </programme>
-    <programme start="20220514090000" stop="20220514103000" channel="cctv5plus">
+    <programme start="20220514080000" stop="20220514093000" channel="cctv5plus">
         <title lang="zh">国际足球赛场-21-22赛季意甲联赛第23轮 AC米兰—尤文图斯</title>
     </programme>
-    <programme start="20220514103000" stop="20220514120000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 季后赛 总决赛1</title>
+    <programme start="20220514093000" stop="20220514123500" channel="cctv5plus">
+        <title lang="zh">2021/2022赛季北美冰球职业联赛-季后赛1（卡尔加里火焰-达拉斯星）</title>
     </programme>
-    <programme start="20220514120000" stop="20220514140000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 精选1</title>
+    <programme start="20220514123500" stop="20220514130000" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年射箭世界杯安塔利亚站精选 1</title>
+    </programme>
+    <programme start="20220514130000" stop="20220514140000" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2021年世界技巧锦标赛 精选1(4K)</title>
     </programme>
     <programme start="20220514140000" stop="20220514153000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年世界室内田径锦标赛 精选1</title>
@@ -1728,8 +1740,11 @@
     <programme start="20220514170000" stop="20220514183000" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 季后赛 总决赛2</title>
     </programme>
-    <programme start="20220514183000" stop="20220514203000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 精选3</title>
+    <programme start="20220514183000" stop="20220514190000" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年射箭世界杯安塔利亚站精选 2</title>
+    </programme>
+    <programme start="20220514190000" stop="20220514203000" channel="cctv5plus">
+        <title lang="zh">2022年国际冰球联合会男子冰球世界锦标赛顶级组-A组（德国-加拿大）（录播）</title>
     </programme>
     <programme start="20220514203000" stop="20220514223500" channel="cctv5plus">
         <title lang="zh">2022年ATP1000男子网球大师赛-罗马站 半决赛</title>
@@ -2479,25 +2494,25 @@
         <title lang="zh">本集提要- 《女士的法则》第9集</title>
     </programme>
     <programme start="20220513193000" stop="20220513202400" channel="cctv8">
-        <title lang="zh">女士的法则9/38</title>
+        <title lang="zh">女士的法则第9集</title>
     </programme>
     <programme start="20220513202400" stop="20220513202900" channel="cctv8">
         <title lang="zh">本集提要- 《女士的法则》第10集</title>
     </programme>
     <programme start="20220513202900" stop="20220513212200" channel="cctv8">
-        <title lang="zh">女士的法则10/38</title>
+        <title lang="zh">女士的法则第10集</title>
     </programme>
     <programme start="20220513212200" stop="20220513212700" channel="cctv8">
         <title lang="zh">本集提要- 《高兴的酸甜苦辣》第32集</title>
     </programme>
     <programme start="20220513212700" stop="20220513221700" channel="cctv8">
-        <title lang="zh">高兴的酸甜苦辣32/40</title>
+        <title lang="zh">高兴的酸甜苦辣第32集</title>
     </programme>
     <programme start="20220513221700" stop="20220513221800" channel="cctv8">
         <title lang="zh">本集提要- 《高兴的酸甜苦辣》第33集</title>
     </programme>
     <programme start="20220513221800" stop="20220513230500" channel="cctv8">
-        <title lang="zh">高兴的酸甜苦辣33/40</title>
+        <title lang="zh">高兴的酸甜苦辣第33集</title>
     </programme>
     <programme start="20220513230500" stop="20220513235100" channel="cctv8">
         <title lang="zh">问天第24集</title>
@@ -2842,16 +2857,16 @@
         <title lang="zh">寰宇视野2022-119</title>
     </programme>
     <programme start="20220514130100" stop="20220514140000" channel="cctvjilu">
-        <title lang="zh">寰宇视野2022-120</title>
+        <title lang="zh">寰宇视野2022-126</title>
     </programme>
     <programme start="20220514140000" stop="20220514150000" channel="cctvjilu">
-        <title lang="zh">寰宇视野2022-121</title>
+        <title lang="zh">寰宇视野2022-127</title>
     </programme>
     <programme start="20220514150000" stop="20220514160100" channel="cctvjilu">
-        <title lang="zh">寰宇视野2022-122</title>
+        <title lang="zh">寰宇视野2022-128</title>
     </programme>
     <programme start="20220514160100" stop="20220514170000" channel="cctvjilu">
-        <title lang="zh">全景自然2022-135</title>
+        <title lang="zh">魅力万象2022-125</title>
     </programme>
     <programme start="20220514170000" stop="20220514180400" channel="cctvjilu">
         <title lang="zh">全景自然2022-138</title>
