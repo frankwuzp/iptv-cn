@@ -1209,20 +1209,17 @@
     <programme start="20220526223000" stop="20220526230100" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220526230100" stop="20220526234700" channel="cctv4">
+    <programme start="20220526230100" stop="20220526235200" channel="cctv4">
+        <title lang="zh">荟萃节目-远去的驮队</title>
+    </programme>
+    <programme start="20220526235200" stop="20220526235900" channel="cctv4">
         <title lang="zh">天涯热土第23集</title>
     </programme>
-    <programme start="20220526234700" stop="20220526235900" channel="cctv4">
+    <programme start="20220527003800" stop="20220527012600" channel="cctv4">
         <title lang="zh">天涯热土第24集</title>
     </programme>
-    <programme start="20220527003300" stop="20220527012100" channel="cctv4">
-        <title lang="zh">天涯热土第25集</title>
-    </programme>
-    <programme start="20220527012100" stop="20220527015100" channel="cctv4">
+    <programme start="20220527012600" stop="20220527020000" channel="cctv4">
         <title lang="zh">中国文艺-2022-104</title>
-    </programme>
-    <programme start="20220527015100" stop="20220527020000" channel="cctv4">
-        <title lang="zh">寻找两岸文化传人-传承-碎片4分钟版6</title>
     </programme>
     <programme start="20220527020000" stop="20220527023000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1335,20 +1332,17 @@
     <programme start="20220527223000" stop="20220527230100" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220527230100" stop="20220527234700" channel="cctv4">
+    <programme start="20220527230100" stop="20220527235200" channel="cctv4">
+        <title lang="zh">荟萃节目-藏羚羊</title>
+    </programme>
+    <programme start="20220527235200" stop="20220527235900" channel="cctv4">
+        <title lang="zh">天涯热土第25集</title>
+    </programme>
+    <programme start="20220528003800" stop="20220528012600" channel="cctv4">
         <title lang="zh">天涯热土第26集</title>
     </programme>
-    <programme start="20220527234700" stop="20220527235900" channel="cctv4">
-        <title lang="zh">天涯热土第27集</title>
-    </programme>
-    <programme start="20220528003300" stop="20220528012100" channel="cctv4">
-        <title lang="zh">天涯热土第28集</title>
-    </programme>
-    <programme start="20220528012100" stop="20220528015100" channel="cctv4">
+    <programme start="20220528012600" stop="20220528020000" channel="cctv4">
         <title lang="zh">中国文艺-2022-105</title>
-    </programme>
-    <programme start="20220528015100" stop="20220528020000" channel="cctv4">
-        <title lang="zh">寻找两岸文化传人-传承-碎片4分钟版7</title>
     </programme>
     <programme start="20220528020000" stop="20220528023000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1539,14 +1533,11 @@
     <programme start="20220527080000" stop="20220527083000" channel="cctv5">
         <title lang="zh">实况录像-2022年射箭世界杯 光州站精选1</title>
     </programme>
-    <programme start="20220527083000" stop="20220527090100" channel="cctv5">
+    <programme start="20220527083000" stop="20220527090000" channel="cctv5">
         <title lang="zh">实况录像-2022年国际田联钻石联赛 伯明翰站精彩</title>
     </programme>
-    <programme start="20220527090100" stop="20220527103100" channel="cctv5">
-        <title lang="zh">国际足球赛场-21-22赛季法甲联赛第35轮 斯特拉斯堡—巴黎圣日耳曼</title>
-    </programme>
-    <programme start="20220527103100" stop="20220527120000" channel="cctv5">
-        <title lang="zh">实况录像-2021/2022赛季欧洲篮球联赛 决赛</title>
+    <programme start="20220527090000" stop="20220527120000" channel="cctv5">
+        <title lang="zh">2021/2022赛季NBA-西部决赛（独行侠-勇士）5</title>
     </programme>
     <programme start="20220527120000" stop="20220527123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1596,11 +1587,14 @@
     <programme start="20220528073000" stop="20220528080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20220528080000" stop="20220528110500" channel="cctv5">
-        <title lang="zh">2021/2022赛季NBA-东西部决赛</title>
+    <programme start="20220528080000" stop="20220528083000" channel="cctv5">
+        <title lang="zh">实况录像-2022年射箭世界杯 光州站精选2</title>
     </programme>
-    <programme start="20220528110500" stop="20220528120000" channel="cctv5">
-        <title lang="zh">实况录像-2021年世界短池游泳锦标赛 精选4</title>
+    <programme start="20220528083000" stop="20220528113000" channel="cctv5">
+        <title lang="zh">2021/2022赛季NBA-东部决赛-（热火-凯尔特人）6</title>
+    </programme>
+    <programme start="20220528113000" stop="20220528120000" channel="cctv5">
+        <title lang="zh">实况录像-2022年国际田联钻石联赛 伯明翰站精彩</title>
     </programme>
     <programme start="20220528120000" stop="20220528123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1695,14 +1689,14 @@
     <programme start="20220527080000" stop="20220527090000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-北京冬残奥会 冬季两项精选1（4K）</title>
     </programme>
-    <programme start="20220527090000" stop="20220527103000" channel="cctv5plus">
+    <programme start="20220527090000" stop="20220527093000" channel="cctv5plus">
+        <title lang="zh">实况录像-2021年世界蹦床锦标赛 女子个人决赛</title>
+    </programme>
+    <programme start="20220527093000" stop="20220527123500" channel="cctv5plus">
+        <title lang="zh">2021/2022赛季北美冰球职业联赛-季后赛6（埃德蒙顿油人-卡尔加里火焰）</title>
+    </programme>
+    <programme start="20220527123500" stop="20220527140000" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季欧洲篮球联赛 半决赛1</title>
-    </programme>
-    <programme start="20220527103000" stop="20220527120000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-21-22赛季法甲联赛第34轮 巴黎圣日耳曼—朗斯</title>
-    </programme>
-    <programme start="20220527120000" stop="20220527140000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 精选5</title>
     </programme>
     <programme start="20220527140000" stop="20220527160000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年尤伯杯羽毛球赛 半决赛</title>
@@ -2512,13 +2506,13 @@
         <title lang="zh">本集提要- 《女士的法则》第37集</title>
     </programme>
     <programme start="20220527193000" stop="20220527202500" channel="cctv8">
-        <title lang="zh">女士的法则37/38</title>
+        <title lang="zh">女士的法则第37集</title>
     </programme>
     <programme start="20220527202500" stop="20220527202900" channel="cctv8">
         <title lang="zh">本集提要- 《女士的法则》第38集</title>
     </programme>
     <programme start="20220527202900" stop="20220527212300" channel="cctv8">
-        <title lang="zh">女士的法则38/38</title>
+        <title lang="zh">女士的法则第38集</title>
     </programme>
     <programme start="20220527212300" stop="20220527212700" channel="cctv8">
         <title lang="zh">本集提要- 《海之谣》第20集</title>
@@ -2635,31 +2629,31 @@
         <title lang="zh">星推荐-2022年5月-28</title>
     </programme>
     <programme start="20220528192600" stop="20220528193000" channel="cctv8">
-        <title lang="zh">本集提要-《加油！妈妈》1/40</title>
+        <title lang="zh">本集提要-《海之谣》22/36</title>
     </programme>
     <programme start="20220528193000" stop="20220528202500" channel="cctv8">
-        <title lang="zh">加油！妈妈1/40</title>
+        <title lang="zh">海之谣22/36</title>
     </programme>
     <programme start="20220528202500" stop="20220528202900" channel="cctv8">
-        <title lang="zh">本集提要-《加油！妈妈》2/40</title>
+        <title lang="zh">本集提要-《海之谣》23/36</title>
     </programme>
     <programme start="20220528202900" stop="20220528212300" channel="cctv8">
-        <title lang="zh">加油！妈妈2/40</title>
+        <title lang="zh">海之谣23/36</title>
     </programme>
     <programme start="20220528212300" stop="20220528212700" channel="cctv8">
-        <title lang="zh">本集提要-备播（高清文件）</title>
+        <title lang="zh">本集提要-《警察荣誉》1/38</title>
     </programme>
     <programme start="20220528212700" stop="20220528221700" channel="cctv8">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">警察荣誉1/38</title>
     </programme>
     <programme start="20220528221700" stop="20220528221800" channel="cctv8">
-        <title lang="zh">本集提要-备播（高清文件）</title>
+        <title lang="zh">本集提要-《警察荣誉》2/38</title>
     </programme>
     <programme start="20220528221800" stop="20220528230500" channel="cctv8">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">警察荣誉2/38</title>
     </programme>
     <programme start="20220528230500" stop="20220528235100" channel="cctv8">
-        <title lang="zh">海之谣22/36</title>
+        <title lang="zh">正阳门下小女人35/48</title>
     </programme>
     <programme start="20220528235100" stop="20220528235900" channel="cctv8">
         <title lang="zh">星推荐-2022年5月-28</title>
