@@ -868,7 +868,7 @@
         <title lang="zh">经济信息联播</title>
     </programme>
     <programme start="20220618213000" stop="20220618230300" channel="cctv2">
-        <title lang="zh">经济信息联播</title>
+        <title lang="zh">周末特供2022-茶界中国7-17分版</title>
     </programme>
     <programme start="20220618230300" stop="20220618231300" channel="cctv2">
         <title lang="zh">周末特供2021-航拍中国第二季5-6分版</title>
@@ -1272,17 +1272,14 @@
     <programme start="20220617080000" stop="20220617090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20220617090000" stop="20220617093000" channel="cctv4">
+    <programme start="20220617090000" stop="20220617092800" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20220617093000" stop="20220617100000" channel="cctv4">
+    <programme start="20220617092800" stop="20220617100000" channel="cctv4">
         <title lang="zh">中国文艺-2022-119</title>
     </programme>
-    <programme start="20220617100000" stop="20220617101300" channel="cctv4">
-        <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20220617101300" stop="20220617110000" channel="cctv4">
-        <title lang="zh">远方的家2022-90</title>
+    <programme start="20220617100000" stop="20220617110000" channel="cctv4">
+        <title lang="zh">中共中央宣传部发布会-9</title>
     </programme>
     <programme start="20220617110000" stop="20220617113000" channel="cctv4">
         <title lang="zh">国家记忆-2022-64</title>
@@ -1695,8 +1692,11 @@
     <programme start="20220616193000" stop="20220616213500" channel="cctv5plus">
         <title lang="zh">2022赛季中国足球协会超级联赛-第一阶段第4轮（山东泰山—长春亚泰）</title>
     </programme>
-    <programme start="20220616213500" stop="20220616230500" channel="cctv5plus">
-        <title lang="zh">实况录像-2021年世界体操锦标赛 单项决赛精选3</title>
+    <programme start="20220616213500" stop="20220616225000" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年世界女排联赛 菲律宾站 中国队-比利时队 70分钟版</title>
+    </programme>
+    <programme start="20220616225000" stop="20220616230500" channel="cctv5plus">
+        <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 罗伯逊的147</title>
     </programme>
     <programme start="20220616230500" stop="20220616235900" channel="cctv5plus">
         <title lang="zh">实况录像-2022年亚洲羽毛球锦标赛 精选1</title>
@@ -1875,112 +1875,118 @@
     <programme start="20220617015000" stop="20220617031800" channel="cctv6">
         <title lang="zh">稻谷风云</title>
     </programme>
-    <programme start="20220617031800" stop="20220617063800" channel="cctv6">
+    <programme start="20220617031800" stop="20220617045200" channel="cctv6">
         <title lang="zh">年少轻狂</title>
     </programme>
-    <programme start="20220617063800" stop="20220617081600" channel="cctv6">
+    <programme start="20220617045200" stop="20220617063400" channel="cctv6">
+        <title lang="zh">塞上情仇</title>
+    </programme>
+    <programme start="20220617063400" stop="20220617081100" channel="cctv6">
         <title lang="zh">销声匿迹</title>
     </programme>
-    <programme start="20220617081600" stop="20220617100400" channel="cctv6">
+    <programme start="20220617081100" stop="20220617100500" channel="cctv6">
         <title lang="zh">没有过不去的年</title>
     </programme>
-    <programme start="20220617100400" stop="20220617115400" channel="cctv6">
+    <programme start="20220617100500" stop="20220617115700" channel="cctv6">
         <title lang="zh">庖丁传奇之秦淮遗珠</title>
     </programme>
-    <programme start="20220617115400" stop="20220617120000" channel="cctv6">
+    <programme start="20220617115700" stop="20220617120600" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20220617120000" stop="20220617135600" channel="cctv6">
+    <programme start="20220617120600" stop="20220617140600" channel="cctv6">
         <title lang="zh">龙吟诏</title>
     </programme>
-    <programme start="20220617135600" stop="20220617155700" channel="cctv6">
+    <programme start="20220617140600" stop="20220617160300" channel="cctv6">
         <title lang="zh">茶花女</title>
     </programme>
-    <programme start="20220617155700" stop="20220617174200" channel="cctv6">
+    <programme start="20220617160300" stop="20220617175200" channel="cctv6">
         <title lang="zh">广东十虎苏灿之飞龙在天</title>
     </programme>
-    <programme start="20220617174200" stop="20220617181600" channel="cctv6">
+    <programme start="20220617175200" stop="20220617182700" channel="cctv6">
         <title lang="zh">《1905》2022-024</title>
     </programme>
-    <programme start="20220617181600" stop="20220617200100" channel="cctv6">
+    <programme start="20220617182700" stop="20220617200600" channel="cctv6">
         <title lang="zh">广东十虎苏灿之神龙摆尾</title>
     </programme>
-    <programme start="20220617200100" stop="20220617201300" channel="cctv6">
+    <programme start="20220617200600" stop="20220617201600" channel="cctv6">
         <title lang="zh">今日影评2022-168</title>
     </programme>
-    <programme start="20220617201300" stop="20220617215700" channel="cctv6">
+    <programme start="20220617201600" stop="20220617215700" channel="cctv6">
         <title lang="zh">快刀斩</title>
     </programme>
     <programme start="20220617215700" stop="20220617220000" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2022-06-17</title>
     </programme>
-    <programme start="20220617220000" stop="20220617222300" channel="cctv6">
+    <programme start="20220617220000" stop="20220617222200" channel="cctv6">
         <title lang="zh">中国电影报道2022-168</title>
     </programme>
-    <programme start="20220617222300" stop="20220617235900" channel="cctv6">
+    <programme start="20220617222200" stop="20220617235900" channel="cctv6">
         <title lang="zh">普罗米修斯</title>
     </programme>
-    <programme start="20220618002500" stop="20220618003000" channel="cctv6">
+    <programme start="20220618001300" stop="20220618001800" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20220618003000" stop="20220618004500" channel="cctv6">
+    <programme start="20220618001800" stop="20220618003500" channel="cctv6">
         <title lang="zh">今日影评2022-168</title>
     </programme>
-    <programme start="20220618004500" stop="20220618024500" channel="cctv6">
+    <programme start="20220618003500" stop="20220618023200" channel="cctv6">
         <title lang="zh">最长1枪</title>
     </programme>
-    <programme start="20220618024500" stop="20220618042200" channel="cctv6">
+    <programme start="20220618023200" stop="20220618040900" channel="cctv6">
         <title lang="zh">怒放之青春再见</title>
     </programme>
-    <programme start="20220618042200" stop="20220618064600" channel="cctv6">
+    <programme start="20220618040900" stop="20220618053500" channel="cctv6">
         <title lang="zh">特别通行证</title>
     </programme>
-    <programme start="20220618064600" stop="20220618082900" channel="cctv6">
+    <programme start="20220618053500" stop="20220618064600" channel="cctv6">
+        <title lang="zh">断魂刀</title>
+    </programme>
+    <programme start="20220618064600" stop="20220618082800" channel="cctv6">
         <title lang="zh">又是一年三月三</title>
     </programme>
-    <programme start="20220618082900" stop="20220618100200" channel="cctv6">
+    <programme start="20220618082800" stop="20220618095900" channel="cctv6">
         <title lang="zh">黑猫警长</title>
     </programme>
-    <programme start="20220618100200" stop="20220618114900" channel="cctv6">
+    <programme start="20220618095900" stop="20220618114300" channel="cctv6">
         <title lang="zh">强大的拉朱 里约呼叫</title>
     </programme>
-    <programme start="20220618114900" stop="20220618115500" channel="cctv6">
+    <programme start="20220618114300" stop="20220618115300" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20220618115500" stop="20220618133300" channel="cctv6">
+    <programme start="20220618115300" stop="20220618133900" channel="cctv6">
         <title lang="zh">幸福马上来</title>
     </programme>
-    <programme start="20220618133300" stop="20220618135600" channel="cctv6">
+    <programme start="20220618133900" stop="20220618140100" channel="cctv6">
         <title lang="zh">《1905》2022-024</title>
     </programme>
-    <programme start="20220618135600" stop="20220618154900" channel="cctv6">
+    <programme start="20220618140100" stop="20220618155400" channel="cctv6">
         <title lang="zh">九龙不败</title>
     </programme>
-    <programme start="20220618154900" stop="20220618174300" channel="cctv6">
+    <programme start="20220618155400" stop="20220618175100" channel="cctv6">
         <title lang="zh">叶问外传：张天志</title>
     </programme>
-    <programme start="20220618174300" stop="20220618181700" channel="cctv6">
+    <programme start="20220618175100" stop="20220618182500" channel="cctv6">
         <title lang="zh">世界电影之旅2022-025</title>
     </programme>
-    <programme start="20220618181700" stop="20220618200300" channel="cctv6">
+    <programme start="20220618182500" stop="20220618200700" channel="cctv6">
         <title lang="zh">喋血双龙</title>
     </programme>
-    <programme start="20220618200300" stop="20220618201500" channel="cctv6">
+    <programme start="20220618200700" stop="20220618201900" channel="cctv6">
         <title lang="zh">今日影评2022-169</title>
     </programme>
-    <programme start="20220618201500" stop="20220618215700" channel="cctv6">
+    <programme start="20220618201900" stop="20220618215700" channel="cctv6">
         <title lang="zh">天·火</title>
     </programme>
     <programme start="20220618215700" stop="20220618220000" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2022-06-18</title>
     </programme>
-    <programme start="20220618220000" stop="20220618222300" channel="cctv6">
+    <programme start="20220618220000" stop="20220618222200" channel="cctv6">
         <title lang="zh">中国电影报道2022-169</title>
     </programme>
-    <programme start="20220618222300" stop="20220618223200" channel="cctv6">
+    <programme start="20220618222200" stop="20220618223100" channel="cctv6">
         <title lang="zh">佳片有约周六推介版2022-025</title>
     </programme>
-    <programme start="20220618223200" stop="20220618235900" channel="cctv6">
+    <programme start="20220618223100" stop="20220618235900" channel="cctv6">
         <title lang="zh">古墓丽影：源起之战</title>
     </programme>
     <programme start="20220616001000" stop="20220616004800" channel="cctv7">
