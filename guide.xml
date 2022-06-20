@@ -280,13 +280,13 @@
         <title lang="zh">前情提要- 《狮子山下的故事》第16集</title>
     </programme>
     <programme start="20220620200600" stop="20220620205600" channel="cctv1">
-        <title lang="zh">狮子山下的故事16/27</title>
+        <title lang="zh">狮子山下的故事第16集</title>
     </programme>
     <programme start="20220620205600" stop="20220620210100" channel="cctv1">
-        <title lang="zh">前情提要-《狮子山下的故事》17/27</title>
+        <title lang="zh">前情提要- 《狮子山下的故事》第17集</title>
     </programme>
     <programme start="20220620210100" stop="20220620215200" channel="cctv1">
-        <title lang="zh">狮子山下的故事17/27</title>
+        <title lang="zh">狮子山下的故事第17集</title>
     </programme>
     <programme start="20220620215200" stop="20220620220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-129</title>
@@ -400,13 +400,13 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20220621200100" stop="20220621200600" channel="cctv1">
-        <title lang="zh">前情提要-《狮子山下的故事》18/27</title>
+        <title lang="zh">前情提要- 《狮子山下的故事》第18集</title>
     </programme>
     <programme start="20220621200600" stop="20220621205300" channel="cctv1">
         <title lang="zh">狮子山下的故事18/27</title>
     </programme>
     <programme start="20220621205300" stop="20220621205600" channel="cctv1">
-        <title lang="zh">前情提要-《狮子山下的故事》19/27</title>
+        <title lang="zh">前情提要- 《狮子山下的故事》第19集</title>
     </programme>
     <programme start="20220621205600" stop="20220621214900" channel="cctv1">
         <title lang="zh">狮子山下的故事19/27</title>
@@ -1410,20 +1410,23 @@
     <programme start="20220622080000" stop="20220622090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20220622090000" stop="20220622093000" channel="cctv4">
+    <programme start="20220622090000" stop="20220622092800" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20220622093000" stop="20220622100000" channel="cctv4">
-        <title lang="zh">中国文艺-2022-122</title>
+    <programme start="20220622092800" stop="20220622093800" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-14</title>
     </programme>
-    <programme start="20220622100000" stop="20220622101300" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20220622093800" stop="20220622095000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-85</title>
     </programme>
-    <programme start="20220622101300" stop="20220622110000" channel="cctv4">
+    <programme start="20220622095000" stop="20220622103300" channel="cctv4">
+        <title lang="zh">2022（壬寅）年公祭中华人文始祖伏羲大典-1</title>
+    </programme>
+    <programme start="20220622103300" stop="20220622111800" channel="cctv4">
         <title lang="zh">远方的家2022-93</title>
     </programme>
-    <programme start="20220622110000" stop="20220622113000" channel="cctv4">
-        <title lang="zh">国家记忆-2022-67</title>
+    <programme start="20220622111800" stop="20220622113000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-66</title>
     </programme>
     <programme start="20220622113000" stop="20220622120000" channel="cctv4">
         <title lang="zh">海峡两岸-2022-172</title>
@@ -1734,8 +1737,11 @@
     <programme start="20220621133000" stop="20220621150000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年亚洲羽毛球锦标赛 精选3</title>
     </programme>
-    <programme start="20220621150000" stop="20220621170000" channel="cctv5plus">
-        <title lang="zh">2022年国际泳联世锦赛-(花样游泳)双人自由自选B组 预赛</title>
+    <programme start="20220621150000" stop="20220621155000" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年国际泳联世锦赛 花样游泳 双人技术自选决赛</title>
+    </programme>
+    <programme start="20220621155000" stop="20220621170000" channel="cctv5plus">
+        <title lang="zh">2022年国际泳联世锦赛-(花样游泳)混双技术自选决赛（录播）</title>
     </programme>
     <programme start="20220621170000" stop="20220621192000" channel="cctv5plus">
         <title lang="zh">2022年国际篮联三人篮球世界杯-小组赛1</title>
@@ -1743,11 +1749,11 @@
     <programme start="20220621192000" stop="20220621202000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年国际泳联世锦赛  游泳比赛精选3</title>
     </programme>
-    <programme start="20220621202000" stop="20220621222500" channel="cctv5plus">
+    <programme start="20220621202000" stop="20220621223500" channel="cctv5plus">
         <title lang="zh">2022年国际篮联三人篮球世界杯-小组赛2</title>
     </programme>
-    <programme start="20220621222500" stop="20220621235500" channel="cctv5plus">
-        <title lang="zh">实况录像-2022年世界女排联赛 菲律宾站 美国队—中国队</title>
+    <programme start="20220621223500" stop="20220621235500" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年世界女排联赛 菲律宾站 中国队-比利时队</title>
     </programme>
     <programme start="20220621235500" stop="20220621235900" channel="cctv5plus">
         <title lang="zh">2022年美国高尔夫公开赛-第四轮</title>
@@ -2548,13 +2554,13 @@
         <title lang="zh">本集提要- 《加油！妈妈》第33集</title>
     </programme>
     <programme start="20220621193000" stop="20220621202400" channel="cctv8">
-        <title lang="zh">加油！妈妈33/40</title>
+        <title lang="zh">加油！妈妈第33集</title>
     </programme>
     <programme start="20220621202400" stop="20220621202900" channel="cctv8">
         <title lang="zh">本集提要- 《加油！妈妈》第34集</title>
     </programme>
     <programme start="20220621202900" stop="20220621212200" channel="cctv8">
-        <title lang="zh">加油！妈妈34/40</title>
+        <title lang="zh">加油！妈妈第34集</title>
     </programme>
     <programme start="20220621212200" stop="20220621212600" channel="cctv8">
         <title lang="zh">本集提要- 《爱拼会赢》第11集</title>
