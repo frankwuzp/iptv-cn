@@ -283,7 +283,7 @@
         <title lang="zh">前情提要- 《大山的女儿》第1集</title>
     </programme>
     <programme start="20220626205100" stop="20220626214200" channel="cctv1">
-        <title lang="zh">大山的女儿1/30</title>
+        <title lang="zh">大山的女儿第1集</title>
     </programme>
     <programme start="20220626214200" stop="20220626215100" channel="cctv1">
         <title lang="zh">精彩一刻-2022-53字从册</title>
@@ -406,7 +406,7 @@
         <title lang="zh">前情提要- 《大山的女儿》第2集</title>
     </programme>
     <programme start="20220627205500" stop="20220627214300" channel="cctv1">
-        <title lang="zh">大山的女儿2/30</title>
+        <title lang="zh">大山的女儿第2集</title>
     </programme>
     <programme start="20220627214300" stop="20220627215100" channel="cctv1">
         <title lang="zh">精彩一刻-2022-54字从图</title>
@@ -921,44 +921,53 @@
     <programme start="20220626163700" stop="20220626180100" channel="cctv3">
         <title lang="zh">我爱满堂彩-2022-15好戏连连看</title>
     </programme>
-    <programme start="20220626180100" stop="20220626183500" channel="cctv3">
-        <title lang="zh">中国文艺报道-2022-157</title>
+    <programme start="20220626180100" stop="20220626182100" channel="cctv3">
+        <title lang="zh">中国文艺报道-2022-155</title>
+    </programme>
+    <programme start="20220626182100" stop="20220626182500" channel="cctv3">
+        <title lang="zh">开卷品书香世界读书日特别节目-追光</title>
+    </programme>
+    <programme start="20220626182500" stop="20220626182800" channel="cctv3">
+        <title lang="zh">艺览吾遗非遗文化寻访特别节目-中国缘</title>
+    </programme>
+    <programme start="20220626182800" stop="20220626183500" channel="cctv3">
+        <title lang="zh">艺览吾遗非遗文化寻访特别节目-燃鼓</title>
     </programme>
     <programme start="20220626183500" stop="20220626193000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-879</title>
     </programme>
-    <programme start="20220626193000" stop="20220626210000" channel="cctv3">
+    <programme start="20220626193000" stop="20220626205400" channel="cctv3">
         <title lang="zh">开门大吉2022-24</title>
     </programme>
-    <programme start="20220626210000" stop="20220626215900" channel="cctv3">
+    <programme start="20220626205400" stop="20220626212600" channel="cctv3">
+        <title lang="zh">中国文艺报道-2022-157</title>
+    </programme>
+    <programme start="20220626212600" stop="20220626222500" channel="cctv3">
         <title lang="zh">黄金100秒-2022-21</title>
     </programme>
-    <programme start="20220626215900" stop="20220626225900" channel="cctv3">
+    <programme start="20220626222500" stop="20220626232500" channel="cctv3">
         <title lang="zh">艺览天下-2021-52</title>
     </programme>
-    <programme start="20220626225900" stop="20220626234200" channel="cctv3">
+    <programme start="20220626232500" stop="20220626235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-903 甜蜜5/38</title>
     </programme>
-    <programme start="20220626234200" stop="20220626235900" channel="cctv3">
+    <programme start="20220627000800" stop="20220627005100" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-904 甜蜜6/38</title>
     </programme>
-    <programme start="20220627002500" stop="20220627010800" channel="cctv3">
+    <programme start="20220627005100" stop="20220627013400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-905 甜蜜7/38</title>
     </programme>
-    <programme start="20220627010800" stop="20220627015200" channel="cctv3">
+    <programme start="20220627013400" stop="20220627021800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-906 甜蜜8/38</title>
     </programme>
-    <programme start="20220627015200" stop="20220627031900" channel="cctv3">
+    <programme start="20220627021800" stop="20220627034500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1740</title>
     </programme>
-    <programme start="20220627031900" stop="20220627043700" channel="cctv3">
+    <programme start="20220627034500" stop="20220627050400" channel="cctv3">
         <title lang="zh">幸福账单-为你买单2022-30</title>
     </programme>
-    <programme start="20220627043700" stop="20220627045600" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2022-386</title>
-    </programme>
-    <programme start="20220627045600" stop="20220627055300" channel="cctv3">
-        <title lang="zh">黄金100秒-2022-23</title>
+    <programme start="20220627050400" stop="20220627055300" channel="cctv3">
+        <title lang="zh">越战越勇-2022-33笑语欢歌9</title>
     </programme>
     <programme start="20220627055300" stop="20220627064400" channel="cctv3">
         <title lang="zh">我的艺术清单-2022-21</title>
@@ -1200,19 +1209,19 @@
     <programme start="20220626223000" stop="20220626230100" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220626230100" stop="20220626234700" channel="cctv4">
+    <programme start="20220626230100" stop="20220626234200" channel="cctv4">
+        <title lang="zh">香江永奔流-1</title>
+    </programme>
+    <programme start="20220626234200" stop="20220626235900" channel="cctv4">
         <title lang="zh">亲爱的孩子们第38集</title>
     </programme>
-    <programme start="20220626234700" stop="20220626235900" channel="cctv4">
+    <programme start="20220627002800" stop="20220627011500" channel="cctv4">
         <title lang="zh">亲爱的孩子们第39集</title>
     </programme>
-    <programme start="20220627003300" stop="20220627012000" channel="cctv4">
-        <title lang="zh">亲爱的孩子们第40集</title>
-    </programme>
-    <programme start="20220627012000" stop="20220627015000" channel="cctv4">
+    <programme start="20220627011500" stop="20220627014500" channel="cctv4">
         <title lang="zh">中国缘-2022-26</title>
     </programme>
-    <programme start="20220627015000" stop="20220627020000" channel="cctv4">
+    <programme start="20220627014500" stop="20220627020000" channel="cctv4">
         <title lang="zh">记住乡愁2018片段展播-31</title>
     </programme>
     <programme start="20220627020000" stop="20220627023000" channel="cctv4">
@@ -1660,7 +1669,7 @@
         <title lang="zh">实况录像-2022年国际田联钻石联赛 奥斯陆站精选</title>
     </programme>
     <programme start="20220626120000" stop="20220626125500" channel="cctv5plus">
-        <title lang="zh">2022年国际泳联世锦赛 花样游泳 双人自由自选决赛</title>
+        <title lang="zh">实况录像-2022年国际泳联世锦赛  花样游泳 双人自由自选决赛</title>
     </programme>
     <programme start="20220626125500" stop="20220626131500" channel="cctv5plus">
         <title lang="zh">天下足球-你好，世界杯</title>
@@ -1669,7 +1678,7 @@
         <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 决赛</title>
     </programme>
     <programme start="20220626151500" stop="20220626161000" channel="cctv5plus">
-        <title lang="zh">2022年国际泳联世锦赛 花样游泳集体技术决赛</title>
+        <title lang="zh">实况录像-2022年国际泳联世锦赛  花样游泳 集体技术决赛</title>
     </programme>
     <programme start="20220626161000" stop="20220626173000" channel="cctv5plus">
         <title lang="zh">2022年世界女排联赛菲律宾站 中国队-比利时队</title>
@@ -1686,17 +1695,11 @@
     <programme start="20220626220000" stop="20220626230000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年国际泳联世锦赛  游泳比赛精选8</title>
     </programme>
-    <programme start="20220626230000" stop="20220626235900" channel="cctv5plus">
-        <title lang="zh">实况录像-2022年国际田联钻石联赛 巴黎站精选</title>
+    <programme start="20220626230000" stop="20220626231500" channel="cctv5plus">
+        <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 罗伯逊的147</title>
     </programme>
-    <programme start="20220627003000" stop="20220627020100" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶女子决赛 (4K)</title>
-    </programme>
-    <programme start="20220627020100" stop="20220627033000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-2022年南美解放者杯小组赛 阿根廷博卡青年-哥伦比亚卡利体育</title>
-    </programme>
-    <programme start="20220627033000" stop="20220627040000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021年世界蹦床锦标赛 男子个人决赛</title>
+    <programme start="20220626231500" stop="20220626235900" channel="cctv5plus">
+        <title lang="zh">2022年国际篮联三人篮球世界杯-半决赛、铜牌赛、决赛</title>
     </programme>
     <programme start="20220627040000" stop="20220627060000" channel="cctv5plus">
         <title lang="zh">赛事集锦-2019/2020赛季高尔夫欧巡赛精选2—阿布扎比锦标赛</title>
@@ -11277,8 +11280,152 @@
     <programme start="20220627031500" stop="20220627034000" channel="xiamen">
         <title lang="zh">好心宝宝之冼夫人（闽）</title>
     </programme>
-    <programme start="20220627034000" stop="20220627235900" channel="xiamen">
+    <programme start="20220627034000" stop="20220627060000" channel="xiamen">
         <title lang="zh">两岸秘密档案(闽)</title>
+    </programme>
+    <programme start="20220627060000" stop="20220627070000" channel="xiamen">
+        <title lang="zh">斗阵来看戏（重）</title>
+    </programme>
+    <programme start="20220627070000" stop="20220627070100" channel="xiamen">
+        <title lang="zh">国歌</title>
+    </programme>
+    <programme start="20220627070100" stop="20220627073500" channel="xiamen">
+        <title lang="zh">两岸新新闻（重）</title>
+    </programme>
+    <programme start="20220627073500" stop="20220627081000" channel="xiamen">
+        <title lang="zh">军情全球眼（重）</title>
+    </programme>
+    <programme start="20220627081000" stop="20220627084500" channel="xiamen">
+        <title lang="zh">玲听两岸（重）</title>
+    </programme>
+    <programme start="20220627084500" stop="20220627092000" channel="xiamen">
+        <title lang="zh">印象中国之大好河山(闽)（重）</title>
+    </programme>
+    <programme start="20220627092000" stop="20220627120000" channel="xiamen">
+        <title lang="zh">双城生活（闽）18-20</title>
+    </programme>
+    <programme start="20220627120000" stop="20220627125500" channel="xiamen">
+        <title lang="zh">斗阵来看戏（首）</title>
+    </programme>
+    <programme start="20220627125500" stop="20220627132500" channel="xiamen">
+        <title lang="zh">斗阵来讲古（首）</title>
+    </programme>
+    <programme start="20220627132500" stop="20220627150000" channel="xiamen">
+        <title lang="zh">青年霍元甲之冲出江湖（闽）49-50</title>
+    </programme>
+    <programme start="20220627150000" stop="20220627173500" channel="xiamen">
+        <title lang="zh">空降利刃48；绝命后卫师1-2</title>
+    </programme>
+    <programme start="20220627173500" stop="20220627180000" channel="xiamen">
+        <title lang="zh">《小海豚》日常版《上课啦》（首）</title>
+    </programme>
+    <programme start="20220627180000" stop="20220627183000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（首）</title>
+    </programme>
+    <programme start="20220627183000" stop="20220627190000" channel="xiamen">
+        <title lang="zh">厦视新闻</title>
+    </programme>
+    <programme start="20220627190000" stop="20220627204000" channel="xiamen">
+        <title lang="zh">绝密543 18-19</title>
+    </programme>
+    <programme start="20220627204000" stop="20220627213000" channel="xiamen">
+        <title lang="zh">两岸秘密档案</title>
+    </programme>
+    <programme start="20220627213000" stop="20220627220000" channel="xiamen">
+        <title lang="zh">两岸新新闻（首）</title>
+    </programme>
+    <programme start="20220627220000" stop="20220627223500" channel="xiamen">
+        <title lang="zh">两岸直航</title>
+    </programme>
+    <programme start="20220627223500" stop="20220627235900" channel="xiamen">
+        <title lang="zh">觉醒年代10-11</title>
+    </programme>
+    <programme start="20220628001500" stop="20220628004500" channel="xiamen">
+        <title lang="zh">印象中国之大好河山(闽)</title>
+    </programme>
+    <programme start="20220628004500" stop="20220628013000" channel="xiamen">
+        <title lang="zh">两岸秘密档案(闽)</title>
+    </programme>
+    <programme start="20220628013000" stop="20220628020000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（重）</title>
+    </programme>
+    <programme start="20220628020000" stop="20220628023000" channel="xiamen">
+        <title lang="zh">斗阵来讲古（重）</title>
+    </programme>
+    <programme start="20220628023000" stop="20220628032000" channel="xiamen">
+        <title lang="zh">斗阵来看戏（重）</title>
+    </programme>
+    <programme start="20220628032000" stop="20220628034500" channel="xiamen">
+        <title lang="zh">好心宝宝之冼夫人（闽）</title>
+    </programme>
+    <programme start="20220628034500" stop="20220628043000" channel="xiamen">
+        <title lang="zh">两岸秘密档案(闽)</title>
+    </programme>
+    <programme start="20220628043000" stop="20220628051000" channel="xiamen">
+        <title lang="zh">印象中国之大好河山(闽)</title>
+    </programme>
+    <programme start="20220628051000" stop="20220628054000" channel="xiamen">
+        <title lang="zh">斗阵来讲古（重）</title>
+    </programme>
+    <programme start="20220628054000" stop="20220628060000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（重）</title>
+    </programme>
+    <programme start="20220628060000" stop="20220628070000" channel="xiamen">
+        <title lang="zh">斗阵来看戏（重）</title>
+    </programme>
+    <programme start="20220628070000" stop="20220628070100" channel="xiamen">
+        <title lang="zh">国歌</title>
+    </programme>
+    <programme start="20220628070100" stop="20220628073500" channel="xiamen">
+        <title lang="zh">两岸新新闻（重）</title>
+    </programme>
+    <programme start="20220628073500" stop="20220628081000" channel="xiamen">
+        <title lang="zh">两岸直航（重）</title>
+    </programme>
+    <programme start="20220628081000" stop="20220628084500" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（重）</title>
+    </programme>
+    <programme start="20220628084500" stop="20220628092000" channel="xiamen">
+        <title lang="zh">斗阵来讲古（重）</title>
+    </programme>
+    <programme start="20220628092000" stop="20220628120000" channel="xiamen">
+        <title lang="zh">幸福从天而降（闽）21-23</title>
+    </programme>
+    <programme start="20220628120000" stop="20220628125500" channel="xiamen">
+        <title lang="zh">斗阵来看戏（首）</title>
+    </programme>
+    <programme start="20220628125500" stop="20220628132500" channel="xiamen">
+        <title lang="zh">斗阵来讲古（首）</title>
+    </programme>
+    <programme start="20220628132500" stop="20220628150000" channel="xiamen">
+        <title lang="zh">青年霍元甲之冲出江湖（闽）51；双城生活（闽）1</title>
+    </programme>
+    <programme start="20220628150000" stop="20220628173500" channel="xiamen">
+        <title lang="zh">绝命后卫师3-5</title>
+    </programme>
+    <programme start="20220628173500" stop="20220628180000" channel="xiamen">
+        <title lang="zh">《小海豚》日常版《上课啦》（首）</title>
+    </programme>
+    <programme start="20220628180000" stop="20220628183000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（首）</title>
+    </programme>
+    <programme start="20220628183000" stop="20220628190000" channel="xiamen">
+        <title lang="zh">厦视新闻</title>
+    </programme>
+    <programme start="20220628190000" stop="20220628204000" channel="xiamen">
+        <title lang="zh">绝密543 20-21</title>
+    </programme>
+    <programme start="20220628204000" stop="20220628213000" channel="xiamen">
+        <title lang="zh">两岸秘密档案</title>
+    </programme>
+    <programme start="20220628213000" stop="20220628220000" channel="xiamen">
+        <title lang="zh">两岸新新闻（首）</title>
+    </programme>
+    <programme start="20220628220000" stop="20220628223500" channel="xiamen">
+        <title lang="zh">两岸直航</title>
+    </programme>
+    <programme start="20220628223500" stop="20220628235900" channel="xiamen">
+        <title lang="zh">觉醒年代12-13</title>
     </programme>
     <programme start="20220626003300" stop="20220626012700" channel="yunnan">
         <title lang="zh">电视剧:黑狐之风影(38)</title>
