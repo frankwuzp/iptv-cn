@@ -1299,17 +1299,14 @@
     <programme start="20220712080000" stop="20220712090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20220712090000" stop="20220712093000" channel="cctv4">
+    <programme start="20220712090000" stop="20220712092800" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20220712093000" stop="20220712100000" channel="cctv4">
+    <programme start="20220712092800" stop="20220712100000" channel="cctv4">
         <title lang="zh">中国文艺-2022-136</title>
     </programme>
-    <programme start="20220712100000" stop="20220712101300" channel="cctv4">
-        <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20220712101300" stop="20220712110000" channel="cctv4">
-        <title lang="zh">远方的家2022-107</title>
+    <programme start="20220712100000" stop="20220712110000" channel="cctv4">
+        <title lang="zh">中共中央宣传部发布会-16</title>
     </programme>
     <programme start="20220712110000" stop="20220712113000" channel="cctv4">
         <title lang="zh">国家记忆-2022-81</title>
@@ -1602,8 +1599,11 @@
     <programme start="20220712150000" stop="20220712160000" channel="cctv5">
         <title lang="zh">实况录像- 2022年国际泳联世锦赛  跳水 女子双人三米板决赛</title>
     </programme>
-    <programme start="20220712160000" stop="20220712180000" channel="cctv5">
-        <title lang="zh">2022年男篮亚洲杯-小组赛（约旦—澳大利亚）</title>
+    <programme start="20220712160000" stop="20220712173000" channel="cctv5">
+        <title lang="zh">2022年世界男排联赛-波兰站(中国队-保加利亚队)</title>
+    </programme>
+    <programme start="20220712173000" stop="20220712180000" channel="cctv5">
+        <title lang="zh">实况录像-2022年国际泳联世锦赛 花样游泳中国队四金集锦</title>
     </programme>
     <programme start="20220712180000" stop="20220712183000" channel="cctv5">
         <title lang="zh">体育新闻</title>
@@ -1662,8 +1662,14 @@
     <programme start="20220713150000" stop="20220713160000" channel="cctv5">
         <title lang="zh">实况录像-2022年国际泳联世锦赛  跳水 男子双人十米台 决赛</title>
     </programme>
-    <programme start="20220713160000" stop="20220713180000" channel="cctv5">
-        <title lang="zh">2022年男篮亚洲杯-小组赛（伊朗—叙利亚）</title>
+    <programme start="20220713160000" stop="20220713171400" channel="cctv5">
+        <title lang="zh">实况录像-2022年男篮亚洲杯 小组赛 中国队-韩国队</title>
+    </programme>
+    <programme start="20220713171400" stop="20220713174500" channel="cctv5">
+        <title lang="zh">实况录像-2022年国际泳联世锦赛 花样游泳中国队四金集锦</title>
+    </programme>
+    <programme start="20220713174500" stop="20220713180000" channel="cctv5">
+        <title lang="zh">实况录像-2022年国际泳联世锦赛 花样游泳表演赛1</title>
     </programme>
     <programme start="20220713180000" stop="20220713183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
@@ -1920,47 +1926,41 @@
     <programme start="20220712021100" stop="20220712033700" channel="cctv6">
         <title lang="zh">刀客</title>
     </programme>
-    <programme start="20220712033700" stop="20220712050500" channel="cctv6">
+    <programme start="20220712033700" stop="20220712052000" channel="cctv6">
         <title lang="zh">大漠恩仇</title>
     </programme>
-    <programme start="20220712050500" stop="20220712064500" channel="cctv6">
+    <programme start="20220712052000" stop="20220712063700" channel="cctv6">
         <title lang="zh">神龙策</title>
     </programme>
-    <programme start="20220712064500" stop="20220712072400" channel="cctv6">
-        <title lang="zh">我和我的父辈：少年行</title>
+    <programme start="20220712063700" stop="20220712081900" channel="cctv6">
+        <title lang="zh">闪婚总动员</title>
     </programme>
-    <programme start="20220712072400" stop="20220712085100" channel="cctv6">
-        <title lang="zh">缉枪行动</title>
-    </programme>
-    <programme start="20220712085100" stop="20220712091300" channel="cctv6">
-        <title lang="zh">星空日记</title>
-    </programme>
-    <programme start="20220712091300" stop="20220712105500" channel="cctv6">
+    <programme start="20220712081900" stop="20220712100100" channel="cctv6">
         <title lang="zh">海鸥老人</title>
     </programme>
-    <programme start="20220712105500" stop="20220712123500" channel="cctv6">
-        <title lang="zh">浴血护镖</title>
+    <programme start="20220712100100" stop="20220712120100" channel="cctv6">
+        <title lang="zh">百色起义</title>
     </programme>
-    <programme start="20220712123500" stop="20220712124400" channel="cctv6">
+    <programme start="20220712120100" stop="20220712120900" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20220712124400" stop="20220712143100" channel="cctv6">
+    <programme start="20220712120900" stop="20220712135700" channel="cctv6">
         <title lang="zh">酒人传奇</title>
     </programme>
-    <programme start="20220712143100" stop="20220712161800" channel="cctv6">
+    <programme start="20220712135700" stop="20220712154300" channel="cctv6">
         <title lang="zh">密室逃生</title>
     </programme>
-    <programme start="20220712161800" stop="20220712182800" channel="cctv6">
-        <title lang="zh">神行太保戴宗之夺命狂奔</title>
+    <programme start="20220712154300" stop="20220712181600" channel="cctv6">
+        <title lang="zh">动物世界</title>
     </programme>
-    <programme start="20220712182800" stop="20220712200700" channel="cctv6">
+    <programme start="20220712181600" stop="20220712195500" channel="cctv6">
         <title lang="zh">警花火龙驹</title>
     </programme>
-    <programme start="20220712200700" stop="20220712201700" channel="cctv6">
+    <programme start="20220712195500" stop="20220712200500" channel="cctv6">
         <title lang="zh">今日影评2022-193</title>
     </programme>
-    <programme start="20220712201700" stop="20220712215700" channel="cctv6">
-        <title lang="zh">绝杀行动</title>
+    <programme start="20220712200500" stop="20220712215700" channel="cctv6">
+        <title lang="zh">中国机长</title>
     </programme>
     <programme start="20220712215700" stop="20220712220000" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2022-07-12</title>
@@ -1977,14 +1977,14 @@
     <programme start="20220713000200" stop="20220713001800" channel="cctv6">
         <title lang="zh">今日影评2022-193</title>
     </programme>
-    <programme start="20220713001800" stop="20220713015300" channel="cctv6">
-        <title lang="zh">津门奇案之撞车</title>
+    <programme start="20220713001800" stop="20220713020300" channel="cctv6">
+        <title lang="zh">味之道</title>
     </programme>
-    <programme start="20220713015300" stop="20220713031800" channel="cctv6">
+    <programme start="20220713020300" stop="20220713032800" channel="cctv6">
         <title lang="zh">悬空12小时</title>
     </programme>
-    <programme start="20220713031800" stop="20220713045900" channel="cctv6">
-        <title lang="zh">真相</title>
+    <programme start="20220713032800" stop="20220713045900" channel="cctv6">
+        <title lang="zh">家园</title>
     </programme>
     <programme start="20220713045900" stop="20220713064500" channel="cctv6">
         <title lang="zh">老师·好</title>
