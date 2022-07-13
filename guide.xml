@@ -402,49 +402,49 @@
     <programme start="20220714200000" stop="20220714200600" channel="cctv1">
         <title lang="zh">前情提要- 《大山的女儿》第29集</title>
     </programme>
-    <programme start="20220714200600" stop="20220714205400" channel="cctv1">
-        <title lang="zh">大山的女儿29/30</title>
+    <programme start="20220714200600" stop="20220714205500" channel="cctv1">
+        <title lang="zh">大山的女儿第29集</title>
     </programme>
-    <programme start="20220714205400" stop="20220714205600" channel="cctv1">
+    <programme start="20220714205500" stop="20220714210000" channel="cctv1">
         <title lang="zh">前情提要- 《大山的女儿》第30集</title>
     </programme>
-    <programme start="20220714205600" stop="20220714214900" channel="cctv1">
-        <title lang="zh">大山的女儿30/30</title>
+    <programme start="20220714210000" stop="20220714215200" channel="cctv1">
+        <title lang="zh">大山的女儿第30集</title>
     </programme>
-    <programme start="20220714214900" stop="20220714220000" channel="cctv1">
+    <programme start="20220714215200" stop="20220714220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-153</title>
     </programme>
     <programme start="20220714220000" stop="20220714223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme start="20220714223400" stop="20220714230300" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+        <title lang="zh">精彩一刻-2022-153国家记忆殷墟妇好大墓</title>
     </programme>
-    <programme start="20220714230300" stop="20220714233500" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20220714230300" stop="20220714233400" channel="cctv1">
+        <title lang="zh">精彩一刻-2022-154国家记忆殷墟发现王都</title>
     </programme>
-    <programme start="20220714233500" stop="20220714235900" channel="cctv1">
+    <programme start="20220714233400" stop="20220714235900" channel="cctv1">
         <title lang="zh">2022中国诗词大会-1</title>
     </programme>
-    <programme start="20220715011700" stop="20220715014700" channel="cctv1">
+    <programme start="20220715011600" stop="20220715014600" channel="cctv1">
         <title lang="zh">动物世界-2022-139</title>
     </programme>
-    <programme start="20220715014700" stop="20220715015300" channel="cctv1">
+    <programme start="20220715014600" stop="20220715015200" channel="cctv1">
         <title lang="zh">生活提示</title>
     </programme>
-    <programme start="20220715015300" stop="20220715022500" channel="cctv1">
+    <programme start="20220715015200" stop="20220715022400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220715022500" stop="20220715024000" channel="cctv1">
+    <programme start="20220715022400" stop="20220715024000" channel="cctv1">
         <title lang="zh">美术经典中的党史-63</title>
     </programme>
-    <programme start="20220715024000" stop="20220715024500" channel="cctv1">
+    <programme start="20220715024000" stop="20220715024400" channel="cctv1">
         <title lang="zh">精彩一刻-2022-81画里有话游春图</title>
     </programme>
-    <programme start="20220715024500" stop="20220715025000" channel="cctv1">
+    <programme start="20220715024400" stop="20220715024900" channel="cctv1">
         <title lang="zh">精彩一刻-2022-82画里有话货郎图</title>
     </programme>
-    <programme start="20220715025000" stop="20220715025600" channel="cctv1">
+    <programme start="20220715024900" stop="20220715025600" channel="cctv1">
         <title lang="zh">精彩一刻-2022-83画里有话文会图</title>
     </programme>
     <programme start="20220715025600" stop="20220715042900" channel="cctv1">
@@ -538,7 +538,7 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme start="20220715223600" stop="20220715230800" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+        <title lang="zh">精彩一刻-2022-155国家记忆殷墟都邑重现</title>
     </programme>
     <programme start="20220715230800" stop="20220715235900" channel="cctv1">
         <title lang="zh">2022中国诗词大会-2</title>
@@ -1299,11 +1299,8 @@
     <programme start="20220714080000" stop="20220714090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20220714090000" stop="20220714093000" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20220714093000" stop="20220714100000" channel="cctv4">
-        <title lang="zh">中国文艺-2022-138</title>
+    <programme start="20220714090000" stop="20220714100000" channel="cctv4">
+        <title lang="zh">第十四届海峡论坛大会-1</title>
     </programme>
     <programme start="20220714100000" stop="20220714101300" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1599,8 +1596,11 @@
     <programme start="20220714083500" stop="20220714090000" channel="cctv5">
         <title lang="zh">天下足球-你好，世界杯14</title>
     </programme>
-    <programme start="20220714090000" stop="20220714103000" channel="cctv5">
+    <programme start="20220714090000" stop="20220714101500" channel="cctv5">
         <title lang="zh">2022年世界男排联赛-波兰站(波兰队-中国队)</title>
+    </programme>
+    <programme start="20220714101500" stop="20220714103000" channel="cctv5">
+        <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 罗伯逊的147</title>
     </programme>
     <programme start="20220714103000" stop="20220714120000" channel="cctv5">
         <title lang="zh">实况录像-2022年温布尔登网球赛 女单决赛</title>
