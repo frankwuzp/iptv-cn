@@ -735,11 +735,11 @@
     <programme start="20220716183000" stop="20220716193000" channel="cctv2">
         <title lang="zh">是真的吗-2022-28</title>
     </programme>
-    <programme start="20220716193000" stop="20220716194500" channel="cctv2">
-        <title lang="zh">周末特供2022-587</title>
+    <programme start="20220716193000" stop="20220716202000" channel="cctv2">
+        <title lang="zh">超级生活家-1</title>
     </programme>
-    <programme start="20220716194500" stop="20220716203000" channel="cctv2">
-        <title lang="zh">大国建造2021-1</title>
+    <programme start="20220716202000" stop="20220716203000" channel="cctv2">
+        <title lang="zh">周末特供2021-航拍中国第二季2-10分钟版</title>
     </programme>
     <programme start="20220716203000" stop="20220716213000" channel="cctv2">
         <title lang="zh">经济信息联播</title>
@@ -1351,7 +1351,7 @@
         <title lang="zh">海峡两岸-2022-197</title>
     </programme>
     <programme start="20220717063000" stop="20220717070000" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
+        <title lang="zh">国家记忆-2021-21</title>
     </programme>
     <programme start="20220717070000" stop="20220717073000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1398,14 +1398,11 @@
     <programme start="20220717155500" stop="20220717164300" channel="cctv4">
         <title lang="zh">淬火成钢25/34</title>
     </programme>
-    <programme start="20220717164300" stop="20220717173300" channel="cctv4">
+    <programme start="20220717164300" stop="20220717173400" channel="cctv4">
         <title lang="zh">淬火成钢26/34</title>
     </programme>
-    <programme start="20220717173300" stop="20220717180000" channel="cctv4">
-        <title lang="zh">深度国际-2022年7月-3</title>
-    </programme>
-    <programme start="20220717180000" stop="20220717190000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20220717173400" stop="20220717190000" channel="cctv4">
+        <title lang="zh">中国考古大会-8</title>
     </programme>
     <programme start="20220717190000" stop="20220717193000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1521,8 +1518,11 @@
     <programme start="20220716080000" stop="20220716110500" channel="cctv5">
         <title lang="zh">2022年世界田径锦标赛-男子100米小组赛等</title>
     </programme>
-    <programme start="20220716110500" stop="20220716120000" channel="cctv5">
-        <title lang="zh">实况录像-2022年男篮亚洲杯 小组赛 中国队-韩国队（录播）</title>
+    <programme start="20220716110500" stop="20220716113500" channel="cctv5">
+        <title lang="zh">实况录像-2022年国际泳联世锦赛 花样游泳中国队四金集锦</title>
+    </programme>
+    <programme start="20220716113500" stop="20220716120000" channel="cctv5">
+        <title lang="zh">天下足球-你好，世界杯14</title>
     </programme>
     <programme start="20220716120000" stop="20220716123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1546,7 +1546,7 @@
         <title lang="zh">实况录像-2022年世界田径锦标赛 （录播）1</title>
     </programme>
     <programme start="20220716200000" stop="20220716220500" channel="cctv5">
-        <title lang="zh">2022年世界女排联赛(总决赛)-半决赛 1</title>
+        <title lang="zh">2022年世界女排联赛(总决赛)-半决赛（塞尔维亚-巴西）</title>
     </programme>
     <programme start="20220716220500" stop="20220716230200" channel="cctv5">
         <title lang="zh">实况录像-2022年赛艇世界杯波兹南站 精选</title>
@@ -1555,7 +1555,7 @@
         <title lang="zh">实况录像-2022年射箭世界杯 光州站精选2</title>
     </programme>
     <programme start="20220716233000" stop="20220716235900" channel="cctv5">
-        <title lang="zh">2022年世界女排联赛(总决赛)-半决赛 2</title>
+        <title lang="zh">2022年世界女排联赛(总决赛)-半决赛（土耳其-意大利）</title>
     </programme>
     <programme start="20220717013500" stop="20220717033500" channel="cctv5">
         <title lang="zh">2022年温布尔登网球赛- 男单半决赛</title>
@@ -1576,7 +1576,7 @@
         <title lang="zh">2022年世界田径锦标赛-男子100米决赛等</title>
     </programme>
     <programme start="20220717110500" stop="20220717120000" channel="cctv5">
-        <title lang="zh">实况录像-2022年男篮亚洲杯 小组赛 巴林队-中国队（录播）</title>
+        <title lang="zh">实况录像-2022年世界田径锦标赛女子20公里竞走等（录播）</title>
     </programme>
     <programme start="20220717120000" stop="20220717123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1762,7 +1762,7 @@
         <title lang="zh">实况录像-2022年赛艇世界杯卢塞恩站 精选</title>
     </programme>
     <programme start="20220717170000" stop="20220717183000" channel="cctv5plus">
-        <title lang="zh">2022年世界男排联赛-波兰站(荷兰队-中国队)</title>
+        <title lang="zh">2022年世界男排联赛-波兰站(中国队-保加利亚队)</title>
     </programme>
     <programme start="20220717183000" stop="20220717200000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年世界女排联赛总决赛 半决赛1</title>
@@ -2049,40 +2049,40 @@
     <programme start="20220715190000" stop="20220715193300" channel="cctv7">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220715193300" stop="20220715195900" channel="cctv7">
+    <programme start="20220715193300" stop="20220715201400" channel="cctv7">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme start="20220715195900" stop="20220715201300" channel="cctv7">
+    <programme start="20220715201400" stop="20220715202800" channel="cctv7">
         <title lang="zh">战旗-2022-15</title>
     </programme>
-    <programme start="20220715201300" stop="20220715201900" channel="cctv7">
+    <programme start="20220715202800" stop="20220715203400" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-最美的花季-女兵</title>
     </programme>
-    <programme start="20220715201900" stop="20220715205500" channel="cctv7">
+    <programme start="20220715203400" stop="20220715211000" channel="cctv7">
         <title lang="zh">防务新观察-2022-138</title>
     </programme>
-    <programme start="20220715205500" stop="20220715212900" channel="cctv7">
+    <programme start="20220715211000" stop="20220715214400" channel="cctv7">
         <title lang="zh">军事纪实-2022-140</title>
     </programme>
-    <programme start="20220715212900" stop="20220715220500" channel="cctv7">
+    <programme start="20220715214400" stop="20220715222000" channel="cctv7">
         <title lang="zh">第二战场-2020-2</title>
     </programme>
-    <programme start="20220715220500" stop="20220715225500" channel="cctv7">
+    <programme start="20220715222000" stop="20220715231000" channel="cctv7">
         <title lang="zh">铸匠27/36</title>
     </programme>
-    <programme start="20220715225500" stop="20220715234600" channel="cctv7">
+    <programme start="20220715231000" stop="20220715235900" channel="cctv7">
         <title lang="zh">铸匠28/36</title>
     </programme>
-    <programme start="20220715234600" stop="20220715235600" channel="cctv7">
+    <programme start="20220716000100" stop="20220716001100" channel="cctv7">
         <title lang="zh">战旗-2022-15</title>
     </programme>
-    <programme start="20220715235600" stop="20220715235900" channel="cctv7">
+    <programme start="20220716001100" stop="20220716004500" channel="cctv7">
         <title lang="zh">军事纪实-2022-140</title>
     </programme>
-    <programme start="20220716003000" stop="20220716010800" channel="cctv7">
+    <programme start="20220716004500" stop="20220716012300" channel="cctv7">
         <title lang="zh">兵器面面观-2022-97</title>
     </programme>
-    <programme start="20220716010800" stop="20220716060300" channel="cctv7">
+    <programme start="20220716012300" stop="20220716060300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220716060300" stop="20220716063400" channel="cctv7">
@@ -2527,19 +2527,19 @@
         <title lang="zh">本集提要- 《滹沱儿女》第10集</title>
     </programme>
     <programme start="20220716193000" stop="20220716202300" channel="cctv8">
-        <title lang="zh">滹沱儿女10/28</title>
+        <title lang="zh">滹沱儿女第10集</title>
     </programme>
     <programme start="20220716202300" stop="20220716202800" channel="cctv8">
         <title lang="zh">本集提要- 《滹沱儿女》第11集</title>
     </programme>
     <programme start="20220716202800" stop="20220716212100" channel="cctv8">
-        <title lang="zh">滹沱儿女11/28</title>
+        <title lang="zh">滹沱儿女第11集</title>
     </programme>
     <programme start="20220716212100" stop="20220716212600" channel="cctv8">
         <title lang="zh">本集提要- 《滹沱儿女》第12集</title>
     </programme>
     <programme start="20220716212600" stop="20220716221500" channel="cctv8">
-        <title lang="zh">滹沱儿女12/28</title>
+        <title lang="zh">滹沱儿女第12集</title>
     </programme>
     <programme start="20220716221500" stop="20220716230300" channel="cctv8">
         <title lang="zh">人世间第26集</title>
