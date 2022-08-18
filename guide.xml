@@ -402,16 +402,16 @@
     <programme start="20220819200100" stop="20220819200600" channel="cctv1">
         <title lang="zh">前情提要-电视剧（高清文件）</title>
     </programme>
-    <programme start="20220819200600" stop="20220819205400" channel="cctv1">
+    <programme start="20220819200600" stop="20220819205700" channel="cctv1">
         <title lang="zh">电视剧-（高清文件）</title>
     </programme>
-    <programme start="20220819205400" stop="20220819205800" channel="cctv1">
+    <programme start="20220819205700" stop="20220819210200" channel="cctv1">
         <title lang="zh">前情提要-电视剧（高清文件）</title>
     </programme>
-    <programme start="20220819205800" stop="20220819214900" channel="cctv1">
+    <programme start="20220819210200" stop="20220819215200" channel="cctv1">
         <title lang="zh">电视剧-（高清文件）</title>
     </programme>
-    <programme start="20220819214900" stop="20220819220000" channel="cctv1">
+    <programme start="20220819215200" stop="20220819220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-189</title>
     </programme>
     <programme start="20220819220000" stop="20220819223400" channel="cctv1">
@@ -1281,19 +1281,16 @@
     <programme start="20220819080000" stop="20220819090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20220819090000" stop="20220819093000" channel="cctv4">
+    <programme start="20220819090000" stop="20220819092800" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20220819093000" stop="20220819100000" channel="cctv4">
+    <programme start="20220819092800" stop="20220819100000" channel="cctv4">
         <title lang="zh">中国文艺-2022-165</title>
     </programme>
-    <programme start="20220819100000" stop="20220819101300" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20220819100000" stop="20220819110300" channel="cctv4">
+        <title lang="zh">中共中央宣传部发布会-23</title>
     </programme>
-    <programme start="20220819101300" stop="20220819110000" channel="cctv4">
-        <title lang="zh">远方的家2022-135</title>
-    </programme>
-    <programme start="20220819110000" stop="20220819113000" channel="cctv4">
+    <programme start="20220819110300" stop="20220819113000" channel="cctv4">
         <title lang="zh">国家记忆-2022-109</title>
     </programme>
     <programme start="20220819113000" stop="20220819120000" channel="cctv4">
@@ -1660,7 +1657,7 @@
         <title lang="zh">体育世界</title>
     </programme>
     <programme start="20220819220500" stop="20220819233500" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2022/2023意大利足球甲级联赛第1轮 尤文图斯-萨索洛（4K）</title>
+        <title lang="zh">实况录像-2022/2023英格兰足球超级联赛第2轮 曼城—伯恩茅斯</title>
     </programme>
     <programme start="20220819233500" stop="20220819235900" channel="cctv5">
         <title lang="zh">实况录像-2022年国际泳联世锦赛  花样游泳 集体技术决赛</title>
@@ -1696,7 +1693,7 @@
         <title lang="zh">体坛快讯</title>
     </programme>
     <programme start="20220820123500" stop="20220820140500" channel="cctv5">
-        <title lang="zh">实况录像-2022年欧洲超级杯 皇家马德里-法兰克福</title>
+        <title lang="zh">实况录像-2022/2023德国足球甲级联赛第2轮 拜仁慕尼黑—沃尔夫斯堡</title>
     </programme>
     <programme start="20220820140500" stop="20220820150000" channel="cctv5">
         <title lang="zh">实况录像-2022年世界职业拳王争霸赛 18</title>
@@ -1714,7 +1711,7 @@
         <title lang="zh">足球之夜</title>
     </programme>
     <programme start="20220820193000" stop="20220820215500" channel="cctv5">
-        <title lang="zh">2022赛季中国足球协会超级联赛-第14轮（武汉长江—河南嵩山龙门）</title>
+        <title lang="zh">2022赛季中国足球协会超级联赛-第14轮（上海上港—浙江队）</title>
     </programme>
     <programme start="20220820215500" stop="20220820235900" channel="cctv5">
         <title lang="zh">2022/2023英格兰足球超级联赛-第3轮（莱斯特城—南安普敦）</title>
@@ -2169,40 +2166,40 @@
     <programme start="20220818190000" stop="20220818193300" channel="cctv7">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220818193300" stop="20220818195900" channel="cctv7">
+    <programme start="20220818193300" stop="20220818200900" channel="cctv7">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme start="20220818195900" stop="20220818201300" channel="cctv7">
+    <programme start="20220818200900" stop="20220818202300" channel="cctv7">
         <title lang="zh">战旗-2022-49</title>
     </programme>
-    <programme start="20220818201300" stop="20220818201900" channel="cctv7">
+    <programme start="20220818202300" stop="20220818202900" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-我爱祖国的蓝天-空政</title>
     </programme>
-    <programme start="20220818201900" stop="20220818205500" channel="cctv7">
+    <programme start="20220818202900" stop="20220818210500" channel="cctv7">
         <title lang="zh">防务新观察-2022-162</title>
     </programme>
-    <programme start="20220818205500" stop="20220818212900" channel="cctv7">
+    <programme start="20220818210500" stop="20220818213900" channel="cctv7">
         <title lang="zh">军事纪实-2022-164</title>
     </programme>
-    <programme start="20220818212900" stop="20220818220500" channel="cctv7">
+    <programme start="20220818213900" stop="20220818221500" channel="cctv7">
         <title lang="zh">砺剑-2022-71</title>
     </programme>
-    <programme start="20220818220500" stop="20220818225500" channel="cctv7">
+    <programme start="20220818221500" stop="20220818230500" channel="cctv7">
         <title lang="zh">对手19/37</title>
     </programme>
-    <programme start="20220818225500" stop="20220818234600" channel="cctv7">
+    <programme start="20220818230500" stop="20220818235600" channel="cctv7">
         <title lang="zh">对手20/37</title>
     </programme>
-    <programme start="20220818234600" stop="20220818235600" channel="cctv7">
+    <programme start="20220818235600" stop="20220818235900" channel="cctv7">
         <title lang="zh">战旗-2022-49</title>
     </programme>
-    <programme start="20220818235600" stop="20220818235900" channel="cctv7">
+    <programme start="20220819000600" stop="20220819004000" channel="cctv7">
         <title lang="zh">军事纪实-2022-164</title>
     </programme>
-    <programme start="20220819003000" stop="20220819010800" channel="cctv7">
+    <programme start="20220819004000" stop="20220819011800" channel="cctv7">
         <title lang="zh">兵器面面观-2022-130</title>
     </programme>
-    <programme start="20220819010800" stop="20220819060300" channel="cctv7">
+    <programme start="20220819011800" stop="20220819060300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220819060300" stop="20220819063400" channel="cctv7">
@@ -2650,13 +2647,13 @@
         <title lang="zh">本集提要- 《玫瑰之战》第23集</title>
     </programme>
     <programme start="20220819193000" stop="20220819202300" channel="cctv8">
-        <title lang="zh">玫瑰之战23/40</title>
+        <title lang="zh">玫瑰之战第23集</title>
     </programme>
     <programme start="20220819202300" stop="20220819202800" channel="cctv8">
         <title lang="zh">本集提要- 《玫瑰之战》第24集</title>
     </programme>
     <programme start="20220819202800" stop="20220819212100" channel="cctv8">
-        <title lang="zh">玫瑰之战24/40</title>
+        <title lang="zh">玫瑰之战第24集</title>
     </programme>
     <programme start="20220819212100" stop="20220819212600" channel="cctv8">
         <title lang="zh">本集提要- 《大决战》第33集</title>
@@ -5326,7 +5323,7 @@
         <title lang="zh">老闺蜜-（4K）-17/48</title>
     </programme>
     <programme start="20220819204900" stop="20220819213500" channel="cctv4k">
-        <title lang="zh">老闺蜜-(4K)-18/48</title>
+        <title lang="zh">老闺蜜-（4K）-18/48</title>
     </programme>
     <programme start="20220819213500" stop="20220819213500" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
