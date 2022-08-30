@@ -399,16 +399,16 @@
     <programme start="20220831200100" stop="20220831200600" channel="cctv1">
         <title lang="zh">前情提要- 《麓山之歌》第19集</title>
     </programme>
-    <programme start="20220831200600" stop="20220831205600" channel="cctv1">
-        <title lang="zh">麓山之歌19/36</title>
+    <programme start="20220831200600" stop="20220831205700" channel="cctv1">
+        <title lang="zh">麓山之歌第19集</title>
     </programme>
-    <programme start="20220831205600" stop="20220831210000" channel="cctv1">
+    <programme start="20220831205700" stop="20220831210200" channel="cctv1">
         <title lang="zh">前情提要- 《麓山之歌》第20集</title>
     </programme>
-    <programme start="20220831210000" stop="20220831215000" channel="cctv1">
-        <title lang="zh">麓山之歌20/36</title>
+    <programme start="20220831210200" stop="20220831215200" channel="cctv1">
+        <title lang="zh">麓山之歌第20集</title>
     </programme>
-    <programme start="20220831215000" stop="20220831220000" channel="cctv1">
+    <programme start="20220831215200" stop="20220831220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-201</title>
     </programme>
     <programme start="20220831220000" stop="20220831223300" channel="cctv1">
@@ -516,11 +516,20 @@
     <programme start="20220901193900" stop="20220901200000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220901200000" stop="20220901212900" channel="cctv1">
+    <programme start="20220901200000" stop="20220901212600" channel="cctv1">
         <title lang="zh">2022开学第一课-1</title>
     </programme>
-    <programme start="20220901212900" stop="20220901215700" channel="cctv1">
-        <title lang="zh">精彩一刻-2022-17字从遇见你1</title>
+    <programme start="20220901212600" stop="20220901213600" channel="cctv1">
+        <title lang="zh">山水间的家-MV</title>
+    </programme>
+    <programme start="20220901213600" stop="20220901214100" channel="cctv1">
+        <title lang="zh">精彩一刻-2022-50字从中</title>
+    </programme>
+    <programme start="20220901214100" stop="20220901214600" channel="cctv1">
+        <title lang="zh">精彩一刻-2022-51字从福</title>
+    </programme>
+    <programme start="20220901214600" stop="20220901215700" channel="cctv1">
+        <title lang="zh">精彩一刻-2022-52字从笔</title>
     </programme>
     <programme start="20220901215700" stop="20220901220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-202</title>
@@ -1495,7 +1504,7 @@
         <title lang="zh">记住乡愁2018片段展播-22</title>
     </programme>
     <programme start="20220901132000" stop="20220901132700" channel="cctv4">
-        <title lang="zh">记住乡愁第三季碎片化展播-87</title>
+        <title lang="zh">寻找两岸文化传人-传承-碎片5分钟版1</title>
     </programme>
     <programme start="20220901132700" stop="20220901141100" channel="cctv4">
         <title lang="zh">跨过鸭绿江-（四套）-28/40</title>
@@ -2283,8 +2292,11 @@
     <programme start="20220831233600" stop="20220831235900" channel="cctv7">
         <title lang="zh">军事纪实-2022-173</title>
     </programme>
-    <programme start="20220901001000" stop="20220901060300" channel="cctv7">
+    <programme start="20220901001000" stop="20220901004800" channel="cctv7">
         <title lang="zh">兵器面面观-2022-139</title>
+    </programme>
+    <programme start="20220901004800" stop="20220901060300" channel="cctv7">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20220901060300" stop="20220901063400" channel="cctv7">
         <title lang="zh">军事纪实-2022-173</title>
