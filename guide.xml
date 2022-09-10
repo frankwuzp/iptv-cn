@@ -252,8 +252,17 @@
     <programme start="20220910193900" stop="20220910200000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220910200000" stop="20220910220000" channel="cctv1">
-        <title lang="zh">中央广播电视总台2022年中秋晚会-首播</title>
+    <programme start="20220910200000" stop="20220910203000" channel="cctv1">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播1</title>
+    </programme>
+    <programme start="20220910203000" stop="20220910210200" channel="cctv1">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播2</title>
+    </programme>
+    <programme start="20220910210200" stop="20220910213600" channel="cctv1">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播3</title>
+    </programme>
+    <programme start="20220910213600" stop="20220910220000" channel="cctv1">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播4</title>
     </programme>
     <programme start="20220910220000" stop="20220910223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -876,29 +885,35 @@
     <programme start="20220910183600" stop="20220910200000" channel="cctv3">
         <title lang="zh">开门大吉-2022-34</title>
     </programme>
-    <programme start="20220910200000" stop="20220910220600" channel="cctv3">
-        <title lang="zh">中央广播电视总台2022年中秋晚会-首播</title>
+    <programme start="20220910200000" stop="20220910203000" channel="cctv3">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播1</title>
     </programme>
-    <programme start="20220910220600" stop="20220910232700" channel="cctv3">
+    <programme start="20220910203000" stop="20220910210200" channel="cctv3">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播2</title>
+    </programme>
+    <programme start="20220910210200" stop="20220910213600" channel="cctv3">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播3</title>
+    </programme>
+    <programme start="20220910213600" stop="20220910220200" channel="cctv3">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播4</title>
+    </programme>
+    <programme start="20220910220200" stop="20220910232300" channel="cctv3">
         <title lang="zh">我爱满堂彩-2022-23好戏连连看</title>
     </programme>
-    <programme start="20220910232700" stop="20220910235900" channel="cctv3">
+    <programme start="20220910232300" stop="20220910235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-1137雪中悍刀行-31/38</title>
     </programme>
-    <programme start="20220911001100" stop="20220911005400" channel="cctv3">
+    <programme start="20220911000700" stop="20220911005000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-1138雪中悍刀行-32/38</title>
     </programme>
-    <programme start="20220911005400" stop="20220911013700" channel="cctv3">
+    <programme start="20220911005000" stop="20220911013300" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-1139雪中悍刀行-33/38</title>
     </programme>
-    <programme start="20220911013700" stop="20220911030000" channel="cctv3">
+    <programme start="20220911013300" stop="20220911025600" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1801</title>
     </programme>
-    <programme start="20220911030000" stop="20220911035100" channel="cctv3">
+    <programme start="20220911025600" stop="20220911035200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-1224</title>
-    </programme>
-    <programme start="20220911035100" stop="20220911035200" channel="cctv3">
-        <title lang="zh">艺览吾遗非遗文化寻访特别节目-相传</title>
     </programme>
     <programme start="20220911035200" stop="20220911051000" channel="cctv3">
         <title lang="zh">综艺盛典-2022-29</title>
@@ -1125,8 +1140,17 @@
     <programme start="20220910160000" stop="20220910200000" channel="cctv4">
         <title lang="zh">2022传奇中国节·中秋-1</title>
     </programme>
-    <programme start="20220910200000" stop="20220910220000" channel="cctv4">
-        <title lang="zh">中央广播电视总台2022年中秋晚会-首播</title>
+    <programme start="20220910200000" stop="20220910203000" channel="cctv4">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播1</title>
+    </programme>
+    <programme start="20220910203000" stop="20220910210200" channel="cctv4">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播2</title>
+    </programme>
+    <programme start="20220910210200" stop="20220910213600" channel="cctv4">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播3</title>
+    </programme>
+    <programme start="20220910213600" stop="20220910220000" channel="cctv4">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播4</title>
     </programme>
     <programme start="20220910220000" stop="20220910223000" channel="cctv4">
         <title lang="zh">深度国际-2022年9月-2</title>
@@ -2964,28 +2988,28 @@
     <programme start="20220910211900" stop="20220910220900" channel="cctv10">
         <title lang="zh">探索·发现-2022-270</title>
     </programme>
-    <programme start="20220910220900" stop="20220910230500" channel="cctv10">
+    <programme start="20220910220900" stop="20220910230700" channel="cctv10">
         <title lang="zh">2022大千世界-118</title>
     </programme>
-    <programme start="20220910230500" stop="20220910231800" channel="cctv10">
+    <programme start="20220910230700" stop="20220910231900" channel="cctv10">
         <title lang="zh">时尚科技秀-2022-254</title>
     </programme>
-    <programme start="20220910231800" stop="20220910235900" channel="cctv10">
+    <programme start="20220910231900" stop="20220910235900" channel="cctv10">
         <title lang="zh">自然传奇-2022-217</title>
     </programme>
-    <programme start="20220911001400" stop="20220911010500" channel="cctv10">
+    <programme start="20220911001500" stop="20220911010600" channel="cctv10">
         <title lang="zh">2022有味道-30</title>
     </programme>
-    <programme start="20220911010500" stop="20220911014500" channel="cctv10">
+    <programme start="20220911010600" stop="20220911014600" channel="cctv10">
         <title lang="zh">百家讲坛-2022-253</title>
     </programme>
-    <programme start="20220911014500" stop="20220911022500" channel="cctv10">
+    <programme start="20220911014600" stop="20220911022600" channel="cctv10">
         <title lang="zh">科幻地带-2022-36</title>
     </programme>
-    <programme start="20220911022500" stop="20220911030500" channel="cctv10">
+    <programme start="20220911022600" stop="20220911030600" channel="cctv10">
         <title lang="zh">健康之路-2022-253</title>
     </programme>
-    <programme start="20220911030500" stop="20220911060000" channel="cctv10">
+    <programme start="20220911030600" stop="20220911060000" channel="cctv10">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220911060000" stop="20220911063000" channel="cctv10">
@@ -4023,28 +4047,37 @@
     <programme start="20220910185900" stop="20220910200000" channel="cctv15">
         <title lang="zh">童声唱-2022-42 童谣颂月圆</title>
     </programme>
-    <programme start="20220910200000" stop="20220910215700" channel="cctv15">
-        <title lang="zh">中央广播电视总台2022年中秋晚会-首播</title>
+    <programme start="20220910200000" stop="20220910203000" channel="cctv15">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播1</title>
     </programme>
-    <programme start="20220910215700" stop="20220910222800" channel="cctv15">
+    <programme start="20220910203000" stop="20220910210200" channel="cctv15">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播2</title>
+    </programme>
+    <programme start="20220910210200" stop="20220910213600" channel="cctv15">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播3</title>
+    </programme>
+    <programme start="20220910213600" stop="20220910215300" channel="cctv15">
+        <title lang="zh">2022年中央广播电视总台中秋晚会-首播4</title>
+    </programme>
+    <programme start="20220910215300" stop="20220910222400" channel="cctv15">
         <title lang="zh">乐游天下-2022-41 月是故乡明1</title>
     </programme>
-    <programme start="20220910222800" stop="20220910225900" channel="cctv15">
+    <programme start="20220910222400" stop="20220910225500" channel="cctv15">
         <title lang="zh">乐游天下-2022-42 月是故乡明2</title>
     </programme>
-    <programme start="20220910225900" stop="20220910233400" channel="cctv15">
+    <programme start="20220910225500" stop="20220910233000" channel="cctv15">
         <title lang="zh">乐游天下-2022-43 月是故乡明3</title>
     </programme>
-    <programme start="20220910233400" stop="20220910235900" channel="cctv15">
+    <programme start="20220910233000" stop="20220910235900" channel="cctv15">
         <title lang="zh">风华国乐-2022-320-2022风华明月夜</title>
     </programme>
-    <programme start="20220911003800" stop="20220911012500" channel="cctv15">
+    <programme start="20220911003400" stop="20220911012100" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-214-名家名曲（108）</title>
     </programme>
-    <programme start="20220911012500" stop="20220911023300" channel="cctv15">
+    <programme start="20220911012100" stop="20220911022900" channel="cctv15">
         <title lang="zh">经典-2022-191</title>
     </programme>
-    <programme start="20220911023300" stop="20220911060000" channel="cctv15">
+    <programme start="20220911022900" stop="20220911060000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220911060000" stop="20220911063200" channel="cctv15">
