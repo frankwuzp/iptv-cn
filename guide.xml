@@ -390,10 +390,10 @@
     <programme start="20220919200600" stop="20220919210000" channel="cctv1">
         <title lang="zh">专题节目-1</title>
     </programme>
-    <programme start="20220919210000" stop="20220919215500" channel="cctv1">
+    <programme start="20220919210000" stop="20220919215400" channel="cctv1">
         <title lang="zh">专题节目-1</title>
     </programme>
-    <programme start="20220919215500" stop="20220919220000" channel="cctv1">
+    <programme start="20220919215400" stop="20220919220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-220</title>
     </programme>
     <programme start="20220919220000" stop="20220919223400" channel="cctv1">
@@ -945,34 +945,37 @@
     <programme start="20220919032600" stop="20220919041800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-870</title>
     </programme>
-    <programme start="20220919041800" stop="20220919060200" channel="cctv3">
+    <programme start="20220919041800" stop="20220919043900" channel="cctv3">
+        <title lang="zh">金牌喜剧班-属于你的我的驿站-来自隔壁的助攻</title>
+    </programme>
+    <programme start="20220919043900" stop="20220919062300" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1581 国家宝藏第一季南京</title>
     </programme>
-    <programme start="20220919060200" stop="20220919065400" channel="cctv3">
+    <programme start="20220919062300" stop="20220919071500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-1216</title>
     </programme>
-    <programme start="20220919065400" stop="20220919080200" channel="cctv3">
+    <programme start="20220919071500" stop="20220919082300" channel="cctv3">
         <title lang="zh">向幸福出发-2022-35</title>
     </programme>
-    <programme start="20220919080200" stop="20220919085400" channel="cctv3">
+    <programme start="20220919082300" stop="20220919091500" channel="cctv3">
         <title lang="zh">黄金100秒-2022-35</title>
     </programme>
-    <programme start="20220919085400" stop="20220919090200" channel="cctv3">
+    <programme start="20220919091500" stop="20220919092300" channel="cctv3">
         <title lang="zh">2022年中央广播电视总台七夕晚会-爱人啊</title>
     </programme>
-    <programme start="20220919090200" stop="20220919095700" channel="cctv3">
+    <programme start="20220919092300" stop="20220919101800" channel="cctv3">
         <title lang="zh">我的艺术清单-2022-40</title>
     </programme>
-    <programme start="20220919095700" stop="20220919112100" channel="cctv3">
+    <programme start="20220919101800" stop="20220919114200" channel="cctv3">
         <title lang="zh">星光大道-2022-37</title>
     </programme>
-    <programme start="20220919112100" stop="20220919113000" channel="cctv3">
+    <programme start="20220919114200" stop="20220919115100" channel="cctv3">
         <title lang="zh">2022年中央广播电视总台七夕晚会-追思 红色浪漫</title>
     </programme>
-    <programme start="20220919113000" stop="20220919114600" channel="cctv3">
+    <programme start="20220919115100" stop="20220919120700" channel="cctv3">
         <title lang="zh">文化十分-2022-186</title>
     </programme>
-    <programme start="20220919114600" stop="20220919132500" channel="cctv3">
+    <programme start="20220919120700" stop="20220919132500" channel="cctv3">
         <title lang="zh">诗画中国-4</title>
     </programme>
     <programme start="20220919132500" stop="20220919133100" channel="cctv3">
@@ -1587,17 +1590,20 @@
     <programme start="20220918193000" stop="20220918210000" channel="cctv5">
         <title lang="zh">实况录像-2022年全国体操锦标赛 单项决赛 2</title>
     </programme>
-    <programme start="20220918210000" stop="20220918233000" channel="cctv5">
+    <programme start="20220918210000" stop="20220918231000" channel="cctv5">
         <title lang="zh">2022/2023意大利足球甲级联赛-第7轮（蒙扎—尤文图斯）</title>
     </programme>
-    <programme start="20220918233000" stop="20220918235900" channel="cctv5">
-        <title lang="zh">2022/2023德国足球甲级联赛-第7轮（波鸿—科隆）</title>
+    <programme start="20220918231000" stop="20220918235900" channel="cctv5">
+        <title lang="zh">实况录像-2022年全国体操锦标赛 单项决赛 2</title>
     </programme>
-    <programme start="20220919014000" stop="20220919031000" channel="cctv5">
-        <title lang="zh">实况录像-2023年男篮世界杯预选赛 法国队-捷克队</title>
+    <programme start="20220919004000" stop="20220919014000" channel="cctv5">
+        <title lang="zh">2022年世界皮划艇激流回旋锦标赛-精选2</title>
     </programme>
-    <programme start="20220919031000" stop="20220919040000" channel="cctv5">
-        <title lang="zh">实况录像-2022年世界职业拳王争霸赛 18</title>
+    <programme start="20220919014000" stop="20220919020000" channel="cctv5">
+        <title lang="zh">天下足球-你好，世界杯15</title>
+    </programme>
+    <programme start="20220919020000" stop="20220919040000" channel="cctv5">
+        <title lang="zh">亚足联2023年20岁以下亚洲杯预选赛-（沙特阿拉伯—中国）</title>
     </programme>
     <programme start="20220919040000" stop="20220919060000" channel="cctv5">
         <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 精选1</title>
@@ -3823,13 +3829,13 @@
         <title lang="zh">道德观察(日播版)-2022-261</title>
     </programme>
     <programme start="20220919124200" stop="20220919133200" channel="cctv12">
-        <title lang="zh">最初的相遇，最后的别离25/39</title>
+        <title lang="zh">最初的相遇，最后的别离第25集</title>
     </programme>
     <programme start="20220919133200" stop="20220919142200" channel="cctv12">
-        <title lang="zh">最初的相遇，最后的别离26/39</title>
+        <title lang="zh">最初的相遇，最后的别离第26集</title>
     </programme>
     <programme start="20220919142200" stop="20220919151200" channel="cctv12">
-        <title lang="zh">最初的相遇，最后的别离27/39</title>
+        <title lang="zh">最初的相遇，最后的别离第27集</title>
     </programme>
     <programme start="20220919151200" stop="20220919155200" channel="cctv12">
         <title lang="zh">小区大事-2022-38</title>
@@ -3888,8 +3894,11 @@
     <programme start="20220920011300" stop="20220920014300" channel="cctv12">
         <title lang="zh">法律讲堂-2022-262</title>
     </programme>
-    <programme start="20220920014300" stop="20220920060300" channel="cctv12">
+    <programme start="20220920014300" stop="20220920020400" channel="cctv12">
         <title lang="zh">生命线-2022-262</title>
+    </programme>
+    <programme start="20220920020400" stop="20220920060300" channel="cctv12">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20220920060300" stop="20220920063400" channel="cctv12">
         <title lang="zh">夕阳红-2022-262</title>
