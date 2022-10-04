@@ -258,20 +258,14 @@
     <programme start="20221004193800" stop="20221004200000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20221004200000" stop="20221004200600" channel="cctv1">
-        <title lang="zh">前情提要- 《大考》第11集</title>
+    <programme start="20221004200000" stop="20221004203300" channel="cctv1">
+        <title lang="zh">新时代-1</title>
     </programme>
-    <programme start="20221004200600" stop="20221004205600" channel="cctv1">
+    <programme start="20221004203300" stop="20221004211300" channel="cctv1">
+        <title lang="zh">新时代-2</title>
+    </programme>
+    <programme start="20221004211300" stop="20221004220000" channel="cctv1">
         <title lang="zh">大考第11集</title>
-    </programme>
-    <programme start="20221004205600" stop="20221004210100" channel="cctv1">
-        <title lang="zh">前情提要- 《大考》第12集</title>
-    </programme>
-    <programme start="20221004210100" stop="20221004215200" channel="cctv1">
-        <title lang="zh">大考第12集</title>
-    </programme>
-    <programme start="20221004215200" stop="20221004220000" channel="cctv1">
-        <title lang="zh">2022秘境之眼-239</title>
     </programme>
     <programme start="20221004220000" stop="20221004223500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -366,23 +360,17 @@
     <programme start="20221005190000" stop="20221005193900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221005193900" stop="20221005200100" channel="cctv1">
+    <programme start="20221005193900" stop="20221005200000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20221005200100" stop="20221005200600" channel="cctv1">
-        <title lang="zh">前情提要- 《大考》第13集</title>
+    <programme start="20221005200000" stop="20221005203700" channel="cctv1">
+        <title lang="zh">新时代-3</title>
     </programme>
-    <programme start="20221005200600" stop="20221005205600" channel="cctv1">
-        <title lang="zh">大考第13集</title>
+    <programme start="20221005203700" stop="20221005211300" channel="cctv1">
+        <title lang="zh">新时代-4</title>
     </programme>
-    <programme start="20221005205600" stop="20221005205700" channel="cctv1">
-        <title lang="zh">前情提要- 《大考》第14集</title>
-    </programme>
-    <programme start="20221005205700" stop="20221005215000" channel="cctv1">
-        <title lang="zh">大考第14集</title>
-    </programme>
-    <programme start="20221005215000" stop="20221005220000" channel="cctv1">
-        <title lang="zh">2022秘境之眼-240</title>
+    <programme start="20221005211300" stop="20221005220000" channel="cctv1">
+        <title lang="zh">大考第12集</title>
     </programme>
     <programme start="20221005220000" stop="20221005223500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -477,22 +465,25 @@
     <programme start="20221006190000" stop="20221006193800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221006193800" stop="20221006200000" channel="cctv1">
+    <programme start="20221006193800" stop="20221006200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20221006200000" stop="20221006200600" channel="cctv1">
-        <title lang="zh">前情提要-《大考》15/22</title>
+    <programme start="20221006200600" stop="20221006204100" channel="cctv1">
+        <title lang="zh">新时代-5</title>
     </programme>
-    <programme start="20221006200600" stop="20221006205700" channel="cctv1">
-        <title lang="zh">大考15/22</title>
+    <programme start="20221006204100" stop="20221006204400" channel="cctv1">
+        <title lang="zh">前情提要-《大考》13/22</title>
     </programme>
-    <programme start="20221006205700" stop="20221006210000" channel="cctv1">
-        <title lang="zh">前情提要-《大考》16/22</title>
+    <programme start="20221006204400" stop="20221006213800" channel="cctv1">
+        <title lang="zh">大考13/22</title>
     </programme>
-    <programme start="20221006210000" stop="20221006215300" channel="cctv1">
-        <title lang="zh">大考16/22</title>
+    <programme start="20221006213800" stop="20221006214300" channel="cctv1">
+        <title lang="zh">精彩一刻-2022-50字从中</title>
     </programme>
-    <programme start="20221006215300" stop="20221006220000" channel="cctv1">
+    <programme start="20221006214300" stop="20221006215400" channel="cctv1">
+        <title lang="zh">精彩一刻-2022-53字从册</title>
+    </programme>
+    <programme start="20221006215400" stop="20221006220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-241</title>
     </programme>
     <programme start="20221006220000" stop="20221006223500" channel="cctv1">
@@ -3219,8 +3210,11 @@
     <programme start="20221006203900" stop="20221006210900" channel="cctv10">
         <title lang="zh">征程-18</title>
     </programme>
-    <programme start="20221006210900" stop="20221006214500" channel="cctv10">
+    <programme start="20221006210900" stop="20221006210900" channel="cctv10">
         <title lang="zh">地理·中国-2022-279</title>
+    </programme>
+    <programme start="20221006210900" stop="20221006214500" channel="cctv10">
+        <title lang="zh">大师列传-7</title>
     </programme>
     <programme start="20221006214500" stop="20221006223200" channel="cctv10">
         <title lang="zh">探索·发现-2022-296</title>
