@@ -280,7 +280,7 @@
         <title lang="zh">前情提要- 《那山那海》第19集</title>
     </programme>
     <programme start="20221031210300" stop="20221031220000" channel="cctv1">
-        <title lang="zh">那山那海19/28</title>
+        <title lang="zh">那山那海第19集</title>
     </programme>
     <programme start="20221031220000" stop="20221031223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1002,14 +1002,17 @@
     <programme start="20221101082300" stop="20221101083500" channel="cctv3">
         <title lang="zh">文化十分-2022-216</title>
     </programme>
-    <programme start="20221101083500" stop="20221101092800" channel="cctv3">
+    <programme start="20221101083500" stop="20221101083900" channel="cctv3">
+        <title lang="zh">2022年中央广播电视总台七夕晚会-那年夏天宁静的海</title>
+    </programme>
+    <programme start="20221101083900" stop="20221101093200" channel="cctv3">
         <title lang="zh">黄金100秒-2022-41</title>
     </programme>
-    <programme start="20221101092800" stop="20221101093200" channel="cctv3">
-        <title lang="zh">2022年中央广播电视总台七夕晚会-礼千年</title>
+    <programme start="20221101093200" stop="20221101093600" channel="cctv3">
+        <title lang="zh">艺览吾遗非遗文化寻访特别节目-苍黄</title>
     </programme>
-    <programme start="20221101093200" stop="20221101102800" channel="cctv3">
-        <title lang="zh">非常6+1-2022-37</title>
+    <programme start="20221101093600" stop="20221101102800" channel="cctv3">
+        <title lang="zh">中国文艺报道-2022-285</title>
     </programme>
     <programme start="20221101102800" stop="20221101103200" channel="cctv3">
         <title lang="zh">2022年中央广播电视总台七夕晚会-仰世而来</title>
@@ -1110,11 +1113,11 @@
     <programme start="20221102102300" stop="20221102102700" channel="cctv3">
         <title lang="zh">中国梦·祖国颂——2022国庆特别节目-故乡</title>
     </programme>
-    <programme start="20221102102700" stop="20221102115000" channel="cctv3">
+    <programme start="20221102102700" stop="20221102114900" channel="cctv3">
         <title lang="zh">向幸福出发-2022-42</title>
     </programme>
-    <programme start="20221102115000" stop="20221102115300" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2022-1386 2022年中秋晚会《声声慢》歌曲</title>
+    <programme start="20221102114900" stop="20221102115300" channel="cctv3">
+        <title lang="zh">2022年中央广播电视总台七夕晚会-绣水</title>
     </programme>
     <programme start="20221102115300" stop="20221102121000" channel="cctv3">
         <title lang="zh">文化十分-2022-218</title>
@@ -1882,7 +1885,7 @@
         <title lang="zh">实况录像-2022年世界羽毛球锦标赛 1</title>
     </programme>
     <programme start="20221102030500" stop="20221102040000" channel="cctv5plus">
-        <title lang="zh">2021/2022赛季中国女子排球超级联赛-半决赛1（天津—辽宁）</title>
+        <title lang="zh">实况录像-2022年女篮世界杯 小组赛 韩国队-中国队</title>
     </programme>
     <programme start="20221102040000" stop="20221102060000" channel="cctv5plus">
         <title lang="zh">赛事集锦-2019/2020赛季高尔夫欧巡赛精选8-英格兰锦标赛</title>
@@ -2064,47 +2067,56 @@
     <programme start="20221102015800" stop="20221102033000" channel="cctv6">
         <title lang="zh">戚家军</title>
     </programme>
-    <programme start="20221102033000" stop="20221102065300" channel="cctv6">
+    <programme start="20221102033000" stop="20221102050700" channel="cctv6">
         <title lang="zh">寂寞钢琴师</title>
     </programme>
-    <programme start="20221102065300" stop="20221102082700" channel="cctv6">
+    <programme start="20221102050700" stop="20221102064600" channel="cctv6">
+        <title lang="zh">沐浴之王</title>
+    </programme>
+    <programme start="20221102064600" stop="20221102082200" channel="cctv6">
         <title lang="zh">我是检察官</title>
     </programme>
-    <programme start="20221102082700" stop="20221102102100" channel="cctv6">
+    <programme start="20221102082200" stop="20221102101900" channel="cctv6">
         <title lang="zh">御医传奇</title>
     </programme>
-    <programme start="20221102102100" stop="20221102115600" channel="cctv6">
+    <programme start="20221102101900" stop="20221102115600" channel="cctv6">
         <title lang="zh">整容日记</title>
     </programme>
-    <programme start="20221102115600" stop="20221102120300" channel="cctv6">
+    <programme start="20221102115600" stop="20221102120600" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20221102120300" stop="20221102134900" channel="cctv6">
+    <programme start="20221102120600" stop="20221102135700" channel="cctv6">
         <title lang="zh">卧虎悍将</title>
     </programme>
-    <programme start="20221102134900" stop="20221102155300" channel="cctv6">
+    <programme start="20221102135700" stop="20221102155600" channel="cctv6">
         <title lang="zh">去见小洋葱的母亲</title>
     </programme>
-    <programme start="20221102155300" stop="20221102175200" channel="cctv6">
+    <programme start="20221102155600" stop="20221102180000" channel="cctv6">
         <title lang="zh">醒狮衙门之赈灾贪腐案</title>
     </programme>
-    <programme start="20221102175200" stop="20221102200100" channel="cctv6">
+    <programme start="20221102180000" stop="20221102200400" channel="cctv6">
         <title lang="zh">地火</title>
     </programme>
-    <programme start="20221102200100" stop="20221102201300" channel="cctv6">
+    <programme start="20221102200400" stop="20221102201500" channel="cctv6">
         <title lang="zh">今日影评2022-306</title>
     </programme>
-    <programme start="20221102201300" stop="20221102215700" channel="cctv6">
+    <programme start="20221102201500" stop="20221102215700" channel="cctv6">
         <title lang="zh">水浒之智取生辰纲</title>
     </programme>
     <programme start="20221102215700" stop="20221102220000" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2022-11-02</title>
     </programme>
-    <programme start="20221102220000" stop="20221102222300" channel="cctv6">
+    <programme start="20221102220000" stop="20221102222200" channel="cctv6">
         <title lang="zh">中国电影报道2022-306</title>
     </programme>
-    <programme start="20221102222300" stop="20221102235900" channel="cctv6">
+    <programme start="20221102222200" stop="20221102235300" channel="cctv6">
         <title lang="zh">阿尔法：狼伴归途</title>
+    </programme>
+    <programme start="20221102235300" stop="20221102235800" channel="cctv6">
+        <title lang="zh">音乐电影欣赏</title>
+    </programme>
+    <programme start="20221102235800" stop="20221102235900" channel="cctv6">
+        <title lang="zh">今日影评2022-306</title>
     </programme>
     <programme start="20221031000700" stop="20221031004500" channel="cctv7">
         <title lang="zh">军营的味道-2022-28</title>
@@ -2671,7 +2683,7 @@
         <title lang="zh">新居之约第32集</title>
     </programme>
     <programme start="20221101212400" stop="20221101212800" channel="cctv8">
-        <title lang="zh">本集提要-《新居之约》33/39</title>
+        <title lang="zh">本集提要- 《新居之约》第33集</title>
     </programme>
     <programme start="20221101212800" stop="20221101221800" channel="cctv8">
         <title lang="zh">新居之约第33集</title>
@@ -2889,11 +2901,11 @@
     <programme start="20221031210000" stop="20221031220000" channel="cctvjilu">
         <title lang="zh">寰宇视野2022-287</title>
     </programme>
-    <programme start="20221031220000" stop="20221031230500" channel="cctvjilu">
-        <title lang="zh">故事中国2022-332</title>
+    <programme start="20221031220000" stop="20221031223900" channel="cctvjilu">
+        <title lang="zh">活力·源2022-348 向往1</title>
     </programme>
-    <programme start="20221031230500" stop="20221031233900" channel="cctvjilu">
-        <title lang="zh">活力·源2022-331</title>
+    <programme start="20221031223900" stop="20221031233900" channel="cctvjilu">
+        <title lang="zh">故事中国2022-332</title>
     </programme>
     <programme start="20221031233900" stop="20221031235900" channel="cctvjilu">
         <title lang="zh">寰宇视野2022-287</title>
