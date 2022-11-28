@@ -342,13 +342,13 @@
     <programme start="20221129200200" stop="20221129200600" channel="cctv1">
         <title lang="zh">前情提要- 《山河锦绣》第20集</title>
     </programme>
-    <programme start="20221129200600" stop="20221129205600" channel="cctv1">
+    <programme start="20221129200600" stop="20221129205800" channel="cctv1">
         <title lang="zh">山河锦绣第20集</title>
     </programme>
-    <programme start="20221129205600" stop="20221129205900" channel="cctv1">
+    <programme start="20221129205800" stop="20221129210300" channel="cctv1">
         <title lang="zh">前情提要- 《山河锦绣》第21集</title>
     </programme>
-    <programme start="20221129205900" stop="20221129220000" channel="cctv1">
+    <programme start="20221129210300" stop="20221129220000" channel="cctv1">
         <title lang="zh">山河锦绣第21集</title>
     </programme>
     <programme start="20221129220000" stop="20221129223600" channel="cctv1">
@@ -366,11 +366,11 @@
     <programme start="20221130052400" stop="20221130060000" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221130060000" stop="20221130083000" channel="cctv1">
+    <programme start="20221130060000" stop="20221130073000" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20221130083000" stop="20221130090800" channel="cctv1">
-        <title lang="zh">朝闻天下</title>
+    <programme start="20221130073000" stop="20221130090800" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20221130090800" stop="20221130092300" channel="cctv1">
         <title lang="zh">美术里的中国-7</title>
@@ -1098,13 +1098,7 @@
     <programme start="20221128084500" stop="20221128113000" channel="cctv4">
         <title lang="zh">2022年筑梦空间站-特别报道11</title>
     </programme>
-    <programme start="20221128113000" stop="20221128114000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-18</title>
-    </programme>
-    <programme start="20221128114000" stop="20221128115000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-19</title>
-    </programme>
-    <programme start="20221128115000" stop="20221128120000" channel="cctv4">
+    <programme start="20221128113000" stop="20221128120000" channel="cctv4">
         <title lang="zh">海峡两岸-2022-331</title>
     </programme>
     <programme start="20221128120000" stop="20221128130200" channel="cctv4">
@@ -1135,7 +1129,7 @@
         <title lang="zh">荟萃节目-秘境之眼5</title>
     </programme>
     <programme start="20221128171500" stop="20221128180000" channel="cctv4">
-        <title lang="zh">远方的家2022-211</title>
+        <title lang="zh">远方的家2022-151</title>
     </programme>
     <programme start="20221128180000" stop="20221128183000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1189,7 +1183,7 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20221129031000" stop="20221129040000" channel="cctv4">
-        <title lang="zh">远方的家2022-211</title>
+        <title lang="zh">远方的家2022-151</title>
     </programme>
     <programme start="20221129040000" stop="20221129043000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1228,7 +1222,7 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20221129101300" stop="20221129110000" channel="cctv4">
-        <title lang="zh">远方的家2022-211</title>
+        <title lang="zh">远方的家2022-151</title>
     </programme>
     <programme start="20221129110000" stop="20221129113000" channel="cctv4">
         <title lang="zh">国家记忆-2022-181</title>
@@ -1531,7 +1525,7 @@
         <title lang="zh">我爱世界杯</title>
     </programme>
     <programme start="20221129230000" stop="20221129235900" channel="cctv5">
-        <title lang="zh">2022年卡塔尔世界杯-小组赛A组（荷兰队—卡塔尔队）</title>
+        <title lang="zh">2022年卡塔尔世界杯-小组赛A组（厄瓜多尔队—塞内加尔队）</title>
     </programme>
     <programme start="20221130030000" stop="20221130051500" channel="cctv5">
         <title lang="zh">2022年卡塔尔世界杯-小组赛B组（威尔士队—英格兰队）</title>
@@ -1591,7 +1585,7 @@
         <title lang="zh">我爱世界杯</title>
     </programme>
     <programme start="20221130230000" stop="20221130235900" channel="cctv5">
-        <title lang="zh">2022年卡塔尔世界杯-小组赛D组（突尼斯队—法国队）</title>
+        <title lang="zh">2022年卡塔尔世界杯-小组赛D组（澳大利亚队—丹麦队）</title>
     </programme>
     <programme start="20221128010000" stop="20221128030000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年尤伯杯羽毛球赛 1/4决赛</title>
@@ -1687,7 +1681,7 @@
         <title lang="zh">实况录像-2022年跳水世界杯 男子双人十米台决赛</title>
     </programme>
     <programme start="20221129224000" stop="20221129235900" channel="cctv5plus">
-        <title lang="zh">2022年卡塔尔世界杯-小组赛A组（厄瓜多尔队—塞内加尔队）</title>
+        <title lang="zh">2022年卡塔尔世界杯-小组赛A组（荷兰队—卡塔尔队）</title>
     </programme>
     <programme start="20221130011800" stop="20221130021300" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2022年全国女子举重锦标赛 81公斤级决赛（4K）</title>
@@ -1744,7 +1738,7 @@
         <title lang="zh">实况录像-2022年跳水世界杯 女子双人十米台决赛</title>
     </programme>
     <programme start="20221130224000" stop="20221130235900" channel="cctv5plus">
-        <title lang="zh">2022年卡塔尔世界杯-小组赛D组（澳大利亚队—丹麦队）</title>
+        <title lang="zh">2022年卡塔尔世界杯-小组赛D组（突尼斯队—法国队）</title>
     </programme>
     <programme start="20221128003300" stop="20221128003800" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
@@ -2506,13 +2500,13 @@
         <title lang="zh">我最爱的家人第36集</title>
     </programme>
     <programme start="20221129202500" stop="20221129203000" channel="cctv8">
-        <title lang="zh">本集提要-《我最爱的家人》37/39</title>
+        <title lang="zh">本集提要- 《我最爱的家人》第37集</title>
     </programme>
     <programme start="20221129203000" stop="20221129212400" channel="cctv8">
         <title lang="zh">我最爱的家人第37集</title>
     </programme>
     <programme start="20221129212400" stop="20221129212900" channel="cctv8">
-        <title lang="zh">本集提要-《我最爱的家人》38/39</title>
+        <title lang="zh">本集提要- 《我最爱的家人》第38集</title>
     </programme>
     <programme start="20221129212900" stop="20221129222000" channel="cctv8">
         <title lang="zh">我最爱的家人第38集</title>
@@ -4132,13 +4126,13 @@
         <title lang="zh">经典-2022-266</title>
     </programme>
     <programme start="20221129110800" stop="20221129122200" channel="cctv15">
-        <title lang="zh">精彩音乐汇-2022-334</title>
+        <title lang="zh">精彩音乐汇-2022-320</title>
     </programme>
     <programme start="20221129122200" stop="20221129133600" channel="cctv15">
         <title lang="zh">民歌·中国-2022-152这里是我家2</title>
     </programme>
     <programme start="20221129133600" stop="20221129145200" channel="cctv15">
-        <title lang="zh">精彩音乐汇-2022-333</title>
+        <title lang="zh">精彩音乐汇-2022-327</title>
     </programme>
     <programme start="20221129145200" stop="20221129154500" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-327-名家名曲（218）</title>
@@ -4153,7 +4147,7 @@
         <title lang="zh">民歌·中国-2022－184情满歌海2</title>
     </programme>
     <programme start="20221129181900" stop="20221129193000" channel="cctv15">
-        <title lang="zh">精彩音乐汇-2022-335</title>
+        <title lang="zh">精彩音乐汇-2022-312</title>
     </programme>
     <programme start="20221129193000" stop="20221129204300" channel="cctv15">
         <title lang="zh">合唱先锋2022-73-灿烂年华</title>
@@ -4162,7 +4156,7 @@
         <title lang="zh">民歌·中国-2022-192花舞人间2（纯享版）</title>
     </programme>
     <programme start="20221129215800" stop="20221129231200" channel="cctv15">
-        <title lang="zh">精彩音乐汇-2022-332</title>
+        <title lang="zh">精彩音乐汇-2022-324</title>
     </programme>
     <programme start="20221129231200" stop="20221129235900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-328-名家名曲（219）</title>
@@ -4387,7 +4381,7 @@
         <title lang="zh">实况录像（奥林匹克）-2022/2023赛季四大洲短道速滑锦标赛 2</title>
     </programme>
     <programme start="20221129224500" stop="20221129235900" channel="cctv16">
-        <title lang="zh">2022年卡塔尔世界杯-小组赛 A组（荷兰队—卡塔尔队）</title>
+        <title lang="zh">2022年卡塔尔世界杯-小组赛 A组（厄瓜多尔队—塞内加尔队）</title>
     </programme>
     <programme start="20221130010700" stop="20221130013200" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2022年世界田联钻石联赛 苏黎世站 25分钟版 1</title>
@@ -4468,7 +4462,7 @@
         <title lang="zh">实况录像（奥林匹克）-2022年世界蹦床锦标赛 25分钟版2</title>
     </programme>
     <programme start="20221130224500" stop="20221130235900" channel="cctv16">
-        <title lang="zh">2022年卡塔尔世界杯-小组赛 D组（突尼斯队—法国队）</title>
+        <title lang="zh">2022年卡塔尔世界杯-小组赛 D组（澳大利亚队—丹麦队）</title>
     </programme>
     <programme start="20221128001600" stop="20221128004500" channel="cctv17">
         <title lang="zh">三农群英汇-2022-394</title>
