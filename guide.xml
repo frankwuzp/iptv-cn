@@ -276,10 +276,10 @@
     <programme start="20221202200200" stop="20221202205500" channel="cctv1">
         <title lang="zh">山河锦绣第26集</title>
     </programme>
-    <programme start="20221202205500" stop="20221202205900" channel="cctv1">
+    <programme start="20221202205500" stop="20221202210100" channel="cctv1">
         <title lang="zh">前情提要- 《山河锦绣》第27集</title>
     </programme>
-    <programme start="20221202205900" stop="20221202220000" channel="cctv1">
+    <programme start="20221202210100" stop="20221202220000" channel="cctv1">
         <title lang="zh">山河锦绣第27集</title>
     </programme>
     <programme start="20221202220000" stop="20221202223700" channel="cctv1">
@@ -724,7 +724,7 @@
         <title lang="zh">对话-2022-47</title>
     </programme>
     <programme start="20221203221600" stop="20221203225700" channel="cctv2">
-        <title lang="zh">2021精品财经纪录-大河之北-1</title>
+        <title lang="zh">2021精品财经纪录-大河之北-2</title>
     </programme>
     <programme start="20221203225700" stop="20221203235100" channel="cctv2">
         <title lang="zh">2020精品财经纪录-雪龙2号-1</title>
@@ -811,7 +811,7 @@
         <title lang="zh">澳门之味-3</title>
     </programme>
     <programme start="20221204183000" stop="20221204193000" channel="cctv2">
-        <title lang="zh">一槌定音-2022-40</title>
+        <title lang="zh">一槌定音-2022-37</title>
     </programme>
     <programme start="20221204193000" stop="20221204203000" channel="cctv2">
         <title lang="zh">职场健康课-2022-50</title>
@@ -822,11 +822,14 @@
     <programme start="20221204213000" stop="20221204221800" channel="cctv2">
         <title lang="zh">中国经济大讲堂-2022-46</title>
     </programme>
-    <programme start="20221204221800" stop="20221204225900" channel="cctv2">
+    <programme start="20221204221800" stop="20221204221800" channel="cctv2">
         <title lang="zh">2021精品财经纪录-大河之北-2</title>
     </programme>
+    <programme start="20221204221800" stop="20221204225900" channel="cctv2">
+        <title lang="zh">2021精品财经纪录-大河之北-3</title>
+    </programme>
     <programme start="20221204225900" stop="20221204235900" channel="cctv2">
-        <title lang="zh">一槌定音-2022-40</title>
+        <title lang="zh">一槌定音-2022-37</title>
     </programme>
     <programme start="20221202003400" stop="20221202012000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-1398 关于唐医生的一切24/36</title>
@@ -1371,17 +1374,20 @@
     <programme start="20221203223000" stop="20221203230400" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221203230400" stop="20221203234800" channel="cctv4">
-        <title lang="zh">新居之约21/39</title>
+    <programme start="20221203230400" stop="20221203234700" channel="cctv4">
+        <title lang="zh">淬火成钢-（四套）-9/34</title>
     </programme>
-    <programme start="20221203234800" stop="20221203235900" channel="cctv4">
-        <title lang="zh">新居之约22/39</title>
+    <programme start="20221203234700" stop="20221203235900" channel="cctv4">
+        <title lang="zh">淬火成钢-（四套）-10/34</title>
     </programme>
-    <programme start="20221204003200" stop="20221204011700" channel="cctv4">
-        <title lang="zh">新居之约23/39</title>
+    <programme start="20221204002900" stop="20221204011200" channel="cctv4">
+        <title lang="zh">淬火成钢-（四套）-11/34</title>
     </programme>
-    <programme start="20221204011700" stop="20221204020000" channel="cctv4">
-        <title lang="zh">新居之约24/39</title>
+    <programme start="20221204011200" stop="20221204015800" channel="cctv4">
+        <title lang="zh">淬火成钢-（四套）-12/34</title>
+    </programme>
+    <programme start="20221204015800" stop="20221204020000" channel="cctv4">
+        <title lang="zh">荟萃节目-秘境之眼3</title>
     </programme>
     <programme start="20221204020000" stop="20221204023000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1488,11 +1494,11 @@
     <programme start="20221204223000" stop="20221204230400" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221204230400" stop="20221204234800" channel="cctv4">
-        <title lang="zh">新居之约25/39</title>
+    <programme start="20221204230400" stop="20221204234700" channel="cctv4">
+        <title lang="zh">淬火成钢-（四套）-13/34</title>
     </programme>
-    <programme start="20221204234800" stop="20221204235900" channel="cctv4">
-        <title lang="zh">新居之约26/39</title>
+    <programme start="20221204234700" stop="20221204235900" channel="cctv4">
+        <title lang="zh">淬火成钢-（四套）-14/34</title>
     </programme>
     <programme start="20221202030000" stop="20221202051500" channel="cctv5">
         <title lang="zh">2022年卡塔尔世界杯-小组赛E组（哥斯达黎加队—德国队）</title>
