@@ -183,15 +183,6 @@
     <channel id="sdetv">
         <display-name lang="cn">山东教育台</display-name>
     </channel>
-    <programme start="20221210051500" stop="20221210053200" channel="cctv1">
-        <title lang="zh">艺术里的奥林匹克-2022-51</title>
-    </programme>
-    <programme start="20221210053200" stop="20221210053900" channel="cctv1">
-        <title lang="zh">精彩一刻-2021-175美丽中国川西沙棘(4K)</title>
-    </programme>
-    <programme start="20221210053900" stop="20221210060000" channel="cctv1">
-        <title lang="zh">美术经典中的党史-27</title>
-    </programme>
     <programme start="20221210060000" stop="20221210083000" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
@@ -4563,17 +4554,11 @@
     <programme start="20221212233600" stop="20221212235900" channel="cctv17">
         <title lang="zh">致富经-2022-196</title>
     </programme>
-    <programme start="20221210010500" stop="20221210010500" channel="cctv4k">
+    <programme start="20221210021500" stop="20221210021500" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎3</title>
     </programme>
-    <programme start="20221210010500" stop="20221210013200" channel="cctv4k">
+    <programme start="20221210021500" stop="20221210024200" channel="cctv4k">
         <title lang="zh">军武零距离-2022-8(4K)精编</title>
-    </programme>
-    <programme start="20221210013200" stop="20221210021400" channel="cctv4k">
-        <title lang="zh">远方的家2022-209(4K)</title>
-    </programme>
-    <programme start="20221210021400" stop="20221210024200" channel="cctv4k">
-        <title lang="zh">记住乡愁2022-53(4K)</title>
     </programme>
     <programme start="20221210024200" stop="20221210024400" channel="cctv4k">
         <title lang="zh">4K垫播节目-2021丝绸之旅</title>
@@ -4599,16 +4584,16 @@
     <programme start="20221210055300" stop="20221210055800" channel="cctv4k">
         <title lang="zh">中国微名片·世界遗产-5（4K）</title>
     </programme>
-    <programme start="20221210055800" stop="20221210055900" channel="cctv4k">
+    <programme start="20221210055800" stop="20221210060300" channel="cctv4k">
         <title lang="zh">4K垫播节目-2021丝绸之旅</title>
     </programme>
-    <programme start="20221210055900" stop="20221210060000" channel="cctv4k">
+    <programme start="20221210060300" stop="20221210060400" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎3</title>
     </programme>
-    <programme start="20221210060000" stop="20221210060100" channel="cctv4k">
+    <programme start="20221210060400" stop="20221210060500" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
     </programme>
-    <programme start="20221210060100" stop="20221210064300" channel="cctv4k">
+    <programme start="20221210060500" stop="20221210064300" channel="cctv4k">
         <title lang="zh">远方的家2022-210(4K)</title>
     </programme>
     <programme start="20221210064300" stop="20221210072300" channel="cctv4k">
