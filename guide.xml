@@ -351,19 +351,19 @@
     <programme start="20221215190000" stop="20221215194000" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221215194000" stop="20221215200100" channel="cctv1">
+    <programme start="20221215194000" stop="20221215200000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20221215200100" stop="20221215200600" channel="cctv1">
+    <programme start="20221215200000" stop="20221215200600" channel="cctv1">
         <title lang="zh">前情提要- 《县委大院》第13集</title>
     </programme>
-    <programme start="20221215200600" stop="20221215205700" channel="cctv1">
+    <programme start="20221215200600" stop="20221215205800" channel="cctv1">
         <title lang="zh">县委大院13/24</title>
     </programme>
-    <programme start="20221215205700" stop="20221215210000" channel="cctv1">
+    <programme start="20221215205800" stop="20221215210300" channel="cctv1">
         <title lang="zh">前情提要- 《县委大院》第14集</title>
     </programme>
-    <programme start="20221215210000" stop="20221215220000" channel="cctv1">
+    <programme start="20221215210300" stop="20221215220000" channel="cctv1">
         <title lang="zh">县委大院14/24</title>
     </programme>
     <programme start="20221215220000" stop="20221215223400" channel="cctv1">
@@ -597,8 +597,11 @@
     <programme start="20221214203000" stop="20221214213000" channel="cctv2">
         <title lang="zh">经济信息联播</title>
     </programme>
-    <programme start="20221214213000" stop="20221214215500" channel="cctv2">
-        <title lang="zh">央视财经评论-2022-12-14</title>
+    <programme start="20221214213000" stop="20221214215300" channel="cctv2">
+        <title lang="zh">周末特供2022-万物之生2-18分版</title>
+    </programme>
+    <programme start="20221214215300" stop="20221214215500" channel="cctv2">
+        <title lang="zh">周末特供2021-航拍中国第二季1-2分版1</title>
     </programme>
     <programme start="20221214215500" stop="20221214215900" channel="cctv2">
         <title lang="zh">2022中国福利彩票公益开奖-263</title>
@@ -636,11 +639,14 @@
     <programme start="20221215043200" stop="20221215050100" channel="cctv2">
         <title lang="zh">回家吃饭-2022-293</title>
     </programme>
-    <programme start="20221215050100" stop="20221215053100" channel="cctv2">
+    <programme start="20221215050100" stop="20221215053400" channel="cctv2">
         <title lang="zh">消费主张</title>
     </programme>
-    <programme start="20221215053100" stop="20221215063200" channel="cctv2">
-        <title lang="zh">经济信息联播</title>
+    <programme start="20221215053400" stop="20221215054200" channel="cctv2">
+        <title lang="zh">周末特供2021-航拍中国第二季2-8分版</title>
+    </programme>
+    <programme start="20221215054200" stop="20221215063200" channel="cctv2">
+        <title lang="zh">大国建造2021-1</title>
     </programme>
     <programme start="20221215063200" stop="20221215070000" channel="cctv2">
         <title lang="zh">生财有道-2022-12-14</title>
@@ -648,8 +654,11 @@
     <programme start="20221215070000" stop="20221215090000" channel="cctv2">
         <title lang="zh">第一时间</title>
     </programme>
-    <programme start="20221215090000" stop="20221215100000" channel="cctv2">
+    <programme start="20221215090000" stop="20221215093000" channel="cctv2">
         <title lang="zh">正点财经</title>
+    </programme>
+    <programme start="20221215093000" stop="20221215100000" channel="cctv2">
+        <title lang="zh">雪龙2号-2(下)</title>
     </programme>
     <programme start="20221215100000" stop="20221215103000" channel="cctv2">
         <title lang="zh">正点财经</title>
@@ -687,8 +696,11 @@
     <programme start="20221215153000" stop="20221215160000" channel="cctv2">
         <title lang="zh">生财有道-2022-12-14</title>
     </programme>
-    <programme start="20221215160000" stop="20221215170000" channel="cctv2">
+    <programme start="20221215160000" stop="20221215163100" channel="cctv2">
         <title lang="zh">正点财经</title>
+    </programme>
+    <programme start="20221215163100" stop="20221215170000" channel="cctv2">
+        <title lang="zh">2021精品财经纪录-傲椒的湘菜-1</title>
     </programme>
     <programme start="20221215170000" stop="20221215173100" channel="cctv2">
         <title lang="zh">正点财经</title>
@@ -711,11 +723,11 @@
     <programme start="20221215200000" stop="20221215203000" channel="cctv2">
         <title lang="zh">经济半小时</title>
     </programme>
-    <programme start="20221215203000" stop="20221215213000" channel="cctv2">
+    <programme start="20221215203000" stop="20221215213500" channel="cctv2">
         <title lang="zh">经济信息联播</title>
     </programme>
-    <programme start="20221215213000" stop="20221215215500" channel="cctv2">
-        <title lang="zh">央视财经评论-2022-12-15</title>
+    <programme start="20221215213500" stop="20221215215500" channel="cctv2">
+        <title lang="zh">周末特供2022-茶界中国6-20分版</title>
     </programme>
     <programme start="20221215215500" stop="20221215215900" channel="cctv2">
         <title lang="zh">2022中国福利彩票公益开奖-264</title>
@@ -804,8 +816,11 @@
     <programme start="20221216153000" stop="20221216160000" channel="cctv2">
         <title lang="zh">生财有道-2022-12-15</title>
     </programme>
-    <programme start="20221216160000" stop="20221216170000" channel="cctv2">
+    <programme start="20221216160000" stop="20221216163100" channel="cctv2">
         <title lang="zh">正点财经</title>
+    </programme>
+    <programme start="20221216163100" stop="20221216170000" channel="cctv2">
+        <title lang="zh">2021精品财经纪录-傲椒的湘菜-2</title>
     </programme>
     <programme start="20221216170000" stop="20221216173100" channel="cctv2">
         <title lang="zh">正点财经</title>
@@ -831,8 +846,11 @@
     <programme start="20221216203000" stop="20221216213000" channel="cctv2">
         <title lang="zh">经济信息联播</title>
     </programme>
-    <programme start="20221216213000" stop="20221216215500" channel="cctv2">
-        <title lang="zh">央视财经评论-2022-12-16</title>
+    <programme start="20221216213000" stop="20221216215300" channel="cctv2">
+        <title lang="zh">周末特供2022-万物之生3-18分版</title>
+    </programme>
+    <programme start="20221216215300" stop="20221216215500" channel="cctv2">
+        <title lang="zh">周末特供2021-航拍中国第二季1-2分版2</title>
     </programme>
     <programme start="20221216215500" stop="20221216215800" channel="cctv2">
         <title lang="zh">2022中国福利彩票公益开奖-265</title>
@@ -1041,14 +1059,20 @@
     <programme start="20221216013600" stop="20221216025400" channel="cctv3">
         <title lang="zh">开门大吉-2022-49</title>
     </programme>
-    <programme start="20221216025400" stop="20221216041200" channel="cctv3">
+    <programme start="20221216025400" stop="20221216041100" channel="cctv3">
         <title lang="zh">越战越勇-2022-56</title>
     </programme>
-    <programme start="20221216041200" stop="20221216044300" channel="cctv3">
-        <title lang="zh">艺览天下-2022-45</title>
+    <programme start="20221216041100" stop="20221216041400" channel="cctv3">
+        <title lang="zh">2022年中央广播电视总台七夕晚会-漫步人生路</title>
     </programme>
-    <programme start="20221216044300" stop="20221216060200" channel="cctv3">
+    <programme start="20221216041400" stop="20221216041700" channel="cctv3">
+        <title lang="zh">开卷品书香世界读书日特别节目-追光</title>
+    </programme>
+    <programme start="20221216041700" stop="20221216053500" channel="cctv3">
         <title lang="zh">向幸福出发-2022-32</title>
+    </programme>
+    <programme start="20221216053500" stop="20221216060200" channel="cctv3">
+        <title lang="zh">舞蹈世界-2022-36</title>
     </programme>
     <programme start="20221216060200" stop="20221216072000" channel="cctv3">
         <title lang="zh">我爱满堂彩-2022-24好戏连连看</title>
@@ -4021,7 +4045,7 @@
         <title lang="zh">动画大放映（上午版）-2022-309</title>
     </programme>
     <programme start="20221216113000" stop="20221216152500" channel="cctvchild">
-        <title lang="zh">动漫世界-2022-417</title>
+        <title lang="zh">动漫世界-2022-393</title>
     </programme>
     <programme start="20221216152500" stop="20221216170000" channel="cctvchild">
         <title lang="zh">动漫世界-2022-542</title>
