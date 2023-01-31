@@ -1341,26 +1341,23 @@
     <programme start="20230202120000" stop="20230202130300" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20230202130300" stop="20230202133100" channel="cctv4">
+    <programme start="20230202130300" stop="20230202133200" channel="cctv4">
         <title lang="zh">人类的记忆-中国的世界遗产-53</title>
     </programme>
-    <programme start="20230202133100" stop="20230202133600" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼5</title>
-    </programme>
-    <programme start="20230202133600" stop="20230202142000" channel="cctv4">
+    <programme start="20230202133200" stop="20230202141500" channel="cctv4">
         <title lang="zh">淬火成钢-（四套）-27/34</title>
     </programme>
-    <programme start="20230202142000" stop="20230202150300" channel="cctv4">
+    <programme start="20230202141500" stop="20230202150000" channel="cctv4">
         <title lang="zh">淬火成钢-（四套）-28/34</title>
     </programme>
-    <programme start="20230202150300" stop="20230202154500" channel="cctv4">
+    <programme start="20230202150000" stop="20230202160100" channel="cctv4">
+        <title lang="zh">2023年国新办发布会-7</title>
+    </programme>
+    <programme start="20230202160100" stop="20230202163000" channel="cctv4">
+        <title lang="zh">共和国符号-8</title>
+    </programme>
+    <programme start="20230202163000" stop="20230202171500" channel="cctv4">
         <title lang="zh">淬火成钢-（四套）-29/34</title>
-    </programme>
-    <programme start="20230202154500" stop="20230202162900" channel="cctv4">
-        <title lang="zh">淬火成钢-（四套）-30/34</title>
-    </programme>
-    <programme start="20230202162900" stop="20230202171500" channel="cctv4">
-        <title lang="zh">淬火成钢-（四套）-31/34</title>
     </programme>
     <programme start="20230202171500" stop="20230202180000" channel="cctv4">
         <title lang="zh">远方的家2023-15</title>
@@ -1557,8 +1554,14 @@
     <programme start="20230202142800" stop="20230202160000" channel="cctv5">
         <title lang="zh">实况录像-2022年全国体操锦标赛  单项决赛 1</title>
     </programme>
-    <programme start="20230202160000" stop="20230202180000" channel="cctv5">
-        <title lang="zh">实况录像-2023年澳大利亚网球公开赛 男单决赛</title>
+    <programme start="20230202160000" stop="20230202165000" channel="cctv5">
+        <title lang="zh">实况录像-2022年世界沙滩排球职业巡回赛总决赛 女子决赛</title>
+    </programme>
+    <programme start="20230202165000" stop="20230202170500" channel="cctv5">
+        <title lang="zh">实况录像-2022年世界田径锦标赛 跳远比赛王嘉男夺冠</title>
+    </programme>
+    <programme start="20230202170500" stop="20230202180000" channel="cctv5">
+        <title lang="zh">实况录像-2022年世界沙滩排球职业巡回赛总决赛 男子决赛</title>
     </programme>
     <programme start="20230202180000" stop="20230202183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
@@ -2473,19 +2476,19 @@
         <title lang="zh">本集提要- 《狂飙》第34集</title>
     </programme>
     <programme start="20230201193000" stop="20230201202500" channel="cctv8">
-        <title lang="zh">狂飙34/39</title>
+        <title lang="zh">狂飙第34集</title>
     </programme>
     <programme start="20230201202500" stop="20230201203000" channel="cctv8">
         <title lang="zh">本集提要- 《狂飙》第35集</title>
     </programme>
     <programme start="20230201203000" stop="20230201212600" channel="cctv8">
-        <title lang="zh">狂飙35/39</title>
+        <title lang="zh">狂飙第35集</title>
     </programme>
     <programme start="20230201212600" stop="20230201213100" channel="cctv8">
         <title lang="zh">本集提要- 《三体》第16集</title>
     </programme>
     <programme start="20230201213100" stop="20230201222300" channel="cctv8">
-        <title lang="zh">三体16/30</title>
+        <title lang="zh">三体第16集</title>
     </programme>
     <programme start="20230201222300" stop="20230201231300" channel="cctv8">
         <title lang="zh">锦绣南歌第38集</title>
