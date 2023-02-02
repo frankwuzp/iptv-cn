@@ -786,11 +786,14 @@
     <programme start="20230204203000" stop="20230204213000" channel="cctv2">
         <title lang="zh">经济信息联播</title>
     </programme>
-    <programme start="20230204213000" stop="20230204221600" channel="cctv2">
+    <programme start="20230204213000" stop="20230204223100" channel="cctv2">
         <title lang="zh">对话-2023-4</title>
     </programme>
-    <programme start="20230204221600" stop="20230204230700" channel="cctv2">
-        <title lang="zh">周末特供2022-鹤舞长江5</title>
+    <programme start="20230204223100" stop="20230204230100" channel="cctv2">
+        <title lang="zh">中国粮的奇迹--3</title>
+    </programme>
+    <programme start="20230204230100" stop="20230204230700" channel="cctv2">
+        <title lang="zh">周末特供2021-航拍中国第二季1-3分钟版</title>
     </programme>
     <programme start="20230204230700" stop="20230204234100" channel="cctv2">
         <title lang="zh">品牌强国之路-吉利</title>
@@ -867,32 +870,35 @@
     <programme start="20230202203000" stop="20230202213000" channel="cctv3">
         <title lang="zh">我的艺术清单-2023-4</title>
     </programme>
-    <programme start="20230202213000" stop="20230202224200" channel="cctv3">
-        <title lang="zh">我要上春晚-欢乐中国年2023-7</title>
+    <programme start="20230202213000" stop="20230202225900" channel="cctv3">
+        <title lang="zh">开门大吉-2023-1</title>
     </programme>
-    <programme start="20230202224200" stop="20230202233100" channel="cctv3">
+    <programme start="20230202225900" stop="20230202234800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-129 星辰大海16/38</title>
     </programme>
-    <programme start="20230202233100" stop="20230202235900" channel="cctv3">
+    <programme start="20230202234800" stop="20230202235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-130 星辰大海17/38</title>
     </programme>
-    <programme start="20230203001800" stop="20230203010500" channel="cctv3">
+    <programme start="20230203003500" stop="20230203012200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-131 星辰大海18/38</title>
     </programme>
-    <programme start="20230203010500" stop="20230203022300" channel="cctv3">
+    <programme start="20230203012200" stop="20230203024000" channel="cctv3">
         <title lang="zh">开门大吉-2023-2</title>
     </programme>
-    <programme start="20230203022300" stop="20230203034200" channel="cctv3">
+    <programme start="20230203024000" stop="20230203035900" channel="cctv3">
         <title lang="zh">越战越勇-2023-3</title>
     </programme>
-    <programme start="20230203034200" stop="20230203050700" channel="cctv3">
+    <programme start="20230203035900" stop="20230203052000" channel="cctv3">
         <title lang="zh">喜剧的喜聚-4</title>
     </programme>
-    <programme start="20230203050700" stop="20230203053900" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2023-53</title>
+    <programme start="20230203052000" stop="20230203052400" channel="cctv3">
+        <title lang="zh">2022年中央广播电视总台七夕晚会-漫步人生路</title>
     </programme>
-    <programme start="20230203053900" stop="20230203065800" channel="cctv3">
+    <programme start="20230203052400" stop="20230203064200" channel="cctv3">
         <title lang="zh">星光大道-2023-6</title>
+    </programme>
+    <programme start="20230203064200" stop="20230203065800" channel="cctv3">
+        <title lang="zh">中国文艺报道-2023-369</title>
     </programme>
     <programme start="20230203065800" stop="20230203073900" channel="cctv3">
         <title lang="zh">黄金100秒-2023-2</title>
@@ -913,7 +919,7 @@
         <title lang="zh">文化十分-2023-27</title>
     </programme>
     <programme start="20230203114400" stop="20230203131700" channel="cctv3">
-        <title lang="zh">开门大吉-2023-3</title>
+        <title lang="zh">开门大吉-2023-2</title>
     </programme>
     <programme start="20230203131700" stop="20230203150100" channel="cctv3">
         <title lang="zh">喜剧的喜聚-8</title>
@@ -1092,11 +1098,8 @@
     <programme start="20230202141500" stop="20230202150000" channel="cctv4">
         <title lang="zh">淬火成钢-（四套）-28/34</title>
     </programme>
-    <programme start="20230202150000" stop="20230202160100" channel="cctv4">
+    <programme start="20230202150000" stop="20230202163000" channel="cctv4">
         <title lang="zh">2023年国新办发布会-7</title>
-    </programme>
-    <programme start="20230202160100" stop="20230202163000" channel="cctv4">
-        <title lang="zh">共和国符号-8</title>
     </programme>
     <programme start="20230202163000" stop="20230202171500" channel="cctv4">
         <title lang="zh">淬火成钢-（四套）-29/34</title>
@@ -2494,7 +2497,7 @@
         <title lang="zh">本集提要- 《三体》第18集</title>
     </programme>
     <programme start="20230203213100" stop="20230203222300" channel="cctv8">
-        <title lang="zh">三体18/30</title>
+        <title lang="zh">三体第18集</title>
     </programme>
     <programme start="20230203222300" stop="20230203231300" channel="cctv8">
         <title lang="zh">锦绣南歌第40集</title>
