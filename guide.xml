@@ -369,8 +369,11 @@
     <programme start="20230204193800" stop="20230204200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20230204200600" stop="20230204214900" channel="cctv1">
+    <programme start="20230204200600" stop="20230204213700" channel="cctv1">
         <title lang="zh">典籍里的中国（第二季）-5</title>
+    </programme>
+    <programme start="20230204213700" stop="20230204214900" channel="cctv1">
+        <title lang="zh">精彩一刻-2023-76萌兔6</title>
     </programme>
     <programme start="20230204214900" stop="20230204220000" channel="cctv1">
         <title lang="zh">山水间的家-精彩瞬间1</title>
@@ -996,19 +999,16 @@
     <programme start="20230205183400" stop="20230205200600" channel="cctv3">
         <title lang="zh">开门大吉-2023-5</title>
     </programme>
-    <programme start="20230205200600" stop="20230205213700" channel="cctv3">
+    <programme start="20230205200600" stop="20230205213600" channel="cctv3">
         <title lang="zh">2023年元宵晚会-1</title>
     </programme>
-    <programme start="20230205213700" stop="20230205220000" channel="cctv3">
+    <programme start="20230205213600" stop="20230205215900" channel="cctv3">
         <title lang="zh">2023年元宵晚会-1</title>
     </programme>
-    <programme start="20230205220000" stop="20230205233000" channel="cctv3">
-        <title lang="zh">2023年元宵晚会-1</title>
+    <programme start="20230205215900" stop="20230205235000" channel="cctv3">
+        <title lang="zh">喜剧的喜聚-10</title>
     </programme>
-    <programme start="20230205233000" stop="20230205235800" channel="cctv3">
-        <title lang="zh">2023年元宵晚会-1</title>
-    </programme>
-    <programme start="20230205235800" stop="20230205235900" channel="cctv3">
+    <programme start="20230205235000" stop="20230205235900" channel="cctv3">
         <title lang="zh">星光大道-2023-3</title>
     </programme>
     <programme start="20230203003600" stop="20230203012400" channel="cctv4">
@@ -2452,28 +2452,28 @@
         <title lang="zh">星推荐-2023年2月-4</title>
     </programme>
     <programme start="20230204192500" stop="20230204193000" channel="cctv8">
-        <title lang="zh">本集提要-备播（高清文件）</title>
+        <title lang="zh">本集提要- 《天龙八部》第1集</title>
     </programme>
     <programme start="20230204193000" stop="20230204202500" channel="cctv8">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">天龙八部第1集</title>
     </programme>
     <programme start="20230204202500" stop="20230204203000" channel="cctv8">
-        <title lang="zh">本集提要-备播（高清文件）</title>
+        <title lang="zh">本集提要- 《天龙八部》第2集</title>
     </programme>
     <programme start="20230204203000" stop="20230204212600" channel="cctv8">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">天龙八部第2集</title>
     </programme>
     <programme start="20230204212600" stop="20230204213100" channel="cctv8">
-        <title lang="zh">本集提要-备播（高清文件）</title>
+        <title lang="zh">本集提要- 《天龙八部》第3集</title>
     </programme>
     <programme start="20230204213100" stop="20230204222200" channel="cctv8">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">天龙八部第3集</title>
     </programme>
     <programme start="20230204222200" stop="20230204222400" channel="cctv8">
-        <title lang="zh">本集提要-备播（高清文件）</title>
+        <title lang="zh">本集提要-《天龙八部》4/50</title>
     </programme>
     <programme start="20230204222400" stop="20230204231300" channel="cctv8">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">天龙八部第4集</title>
     </programme>
     <programme start="20230204231300" stop="20230204235900" channel="cctv8">
         <title lang="zh">雪中悍刀行第24集</title>
@@ -2581,25 +2581,25 @@
         <title lang="zh">三体19/30</title>
     </programme>
     <programme start="20230205202500" stop="20230205203000" channel="cctv8">
-        <title lang="zh">本集提要-备播（高清文件）</title>
+        <title lang="zh">本集提要-《天龙八部》5/50</title>
     </programme>
     <programme start="20230205203000" stop="20230205212600" channel="cctv8">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">天龙八部5/50</title>
     </programme>
     <programme start="20230205212600" stop="20230205213100" channel="cctv8">
-        <title lang="zh">本集提要-备播（高清文件）</title>
+        <title lang="zh">本集提要-《天龙八部》6/50</title>
     </programme>
     <programme start="20230205213100" stop="20230205222200" channel="cctv8">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">天龙八部6/50</title>
     </programme>
     <programme start="20230205222200" stop="20230205222400" channel="cctv8">
-        <title lang="zh">本集提要-备播（高清文件）</title>
+        <title lang="zh">本集提要-《天龙八部》7/50</title>
     </programme>
     <programme start="20230205222400" stop="20230205231300" channel="cctv8">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">天龙八部7/50</title>
     </programme>
     <programme start="20230205231300" stop="20230205235900" channel="cctv8">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">天龙八部8/50</title>
     </programme>
     <programme start="20230205235900" stop="20230205235900" channel="cctv8">
         <title lang="zh">星推荐-2023年2月-5</title>
