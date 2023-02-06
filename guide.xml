@@ -277,13 +277,13 @@
         <title lang="zh">前情提要- 《我们的日子》第1集</title>
     </programme>
     <programme start="20230206200600" stop="20230206205800" channel="cctv1">
-        <title lang="zh">我们的日子1/38</title>
+        <title lang="zh">我们的日子第1集</title>
     </programme>
     <programme start="20230206205800" stop="20230206210200" channel="cctv1">
         <title lang="zh">前情提要- 《我们的日子》第2集</title>
     </programme>
     <programme start="20230206210200" stop="20230206220000" channel="cctv1">
-        <title lang="zh">我们的日子2/38</title>
+        <title lang="zh">我们的日子第2集</title>
     </programme>
     <programme start="20230206220000" stop="20230206223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -970,7 +970,7 @@
         <title lang="zh">2023年元宵晚会-歌曲:丰收进行曲</title>
     </programme>
     <programme start="20230207054500" stop="20230207070300" channel="cctv3">
-        <title lang="zh">越战越勇-2022-3</title>
+        <title lang="zh">越战越勇-2023-3</title>
     </programme>
     <programme start="20230207070300" stop="20230207075300" channel="cctv3">
         <title lang="zh">回声嘹亮-2023-3</title>
@@ -1068,8 +1068,11 @@
     <programme start="20230208061900" stop="20230208073800" channel="cctv3">
         <title lang="zh">星光大道-2022-49</title>
     </programme>
-    <programme start="20230208073800" stop="20230208083100" channel="cctv3">
+    <programme start="20230208073800" stop="20230208082800" channel="cctv3">
         <title lang="zh">我的艺术清单-2023-4</title>
+    </programme>
+    <programme start="20230208082800" stop="20230208083100" channel="cctv3">
+        <title lang="zh">2023年元宵晚会-歌曲:熠熠的光</title>
     </programme>
     <programme start="20230208083100" stop="20230208084400" channel="cctv3">
         <title lang="zh">文化十分-2023-31</title>
@@ -1080,20 +1083,29 @@
     <programme start="20230208094000" stop="20230208103600" channel="cctv3">
         <title lang="zh">非常6+1-2022-52</title>
     </programme>
-    <programme start="20230208103600" stop="20230208120200" channel="cctv3">
+    <programme start="20230208103600" stop="20230208115700" channel="cctv3">
         <title lang="zh">开门大吉-2023-2</title>
     </programme>
-    <programme start="20230208120200" stop="20230208121900" channel="cctv3">
+    <programme start="20230208115700" stop="20230208120300" channel="cctv3">
+        <title lang="zh">2023年元宵晚会-歌曲:丰收进行曲</title>
+    </programme>
+    <programme start="20230208120300" stop="20230208121900" channel="cctv3">
         <title lang="zh">文化十分-2023-32</title>
     </programme>
-    <programme start="20230208121900" stop="20230208134800" channel="cctv3">
+    <programme start="20230208121900" stop="20230208134200" channel="cctv3">
         <title lang="zh">向幸福出发-2023-5</title>
+    </programme>
+    <programme start="20230208134200" stop="20230208134800" channel="cctv3">
+        <title lang="zh">2023年元宵晚会-歌曲:丰收进行曲</title>
     </programme>
     <programme start="20230208134800" stop="20230208151300" channel="cctv3">
         <title lang="zh">拿手好戏-3重播版</title>
     </programme>
-    <programme start="20230208151300" stop="20230208161200" channel="cctv3">
+    <programme start="20230208151300" stop="20230208160600" channel="cctv3">
         <title lang="zh">黄金100秒-2023-7</title>
+    </programme>
+    <programme start="20230208160600" stop="20230208161200" channel="cctv3">
+        <title lang="zh">2023年元宵晚会-歌曲:家乡人</title>
     </programme>
     <programme start="20230208161200" stop="20230208173700" channel="cctv3">
         <title lang="zh">开门大吉-2023-6</title>
@@ -3186,8 +3198,11 @@
     <programme start="20230208013500" stop="20230208022500" channel="cctv10">
         <title lang="zh">奥秘2023-36</title>
     </programme>
-    <programme start="20230208022500" stop="20230208060000" channel="cctv10">
+    <programme start="20230208022500" stop="20230208025500" channel="cctv10">
         <title lang="zh">地理·中国-2023-38</title>
+    </programme>
+    <programme start="20230208025500" stop="20230208060000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20230208060000" stop="20230208063200" channel="cctv10">
         <title lang="zh">地理·中国-2023-38</title>
@@ -4047,61 +4062,82 @@
     <programme start="20230207063300" stop="20230207073500" channel="cctv15">
         <title lang="zh">精彩音乐汇-2023-34</title>
     </programme>
-    <programme start="20230207073500" stop="20230207081300" channel="cctv15">
+    <programme start="20230207073500" stop="20230207081100" channel="cctv15">
         <title lang="zh">中国节拍-2023-23</title>
     </programme>
-    <programme start="20230207081300" stop="20230207092200" channel="cctv15">
+    <programme start="20230207081100" stop="20230207092000" channel="cctv15">
         <title lang="zh">民歌·中国-2023-27幸福新西藏</title>
     </programme>
-    <programme start="20230207092200" stop="20230207100100" channel="cctv15">
+    <programme start="20230207092000" stop="20230207095300" channel="cctv15">
         <title lang="zh">风华国乐-2023-39</title>
     </programme>
-    <programme start="20230207100100" stop="20230207111500" channel="cctv15">
-        <title lang="zh">民歌·中国-2023-17歌声飘万家3</title>
+    <programme start="20230207095300" stop="20230207100200" channel="cctv15">
+        <title lang="zh">2023年元宵晚会-歌曲:家乡人</title>
     </programme>
-    <programme start="20230207111500" stop="20230207123000" channel="cctv15">
-        <title lang="zh">精彩音乐汇-2023-37</title>
-    </programme>
-    <programme start="20230207123000" stop="20230207134500" channel="cctv15">
-        <title lang="zh">民歌·中国-2023-27幸福新西藏</title>
-    </programme>
-    <programme start="20230207134500" stop="20230207150200" channel="cctv15">
-        <title lang="zh">精彩音乐汇-2023-36</title>
-    </programme>
-    <programme start="20230207150200" stop="20230207161600" channel="cctv15">
-        <title lang="zh">一起音乐吧-2023-12 新春欢歌</title>
-    </programme>
-    <programme start="20230207161600" stop="20230207165700" channel="cctv15">
-        <title lang="zh">聆听时刻-2023-10</title>
-    </programme>
-    <programme start="20230207165700" stop="20230207181300" channel="cctv15">
+    <programme start="20230207100200" stop="20230207111400" channel="cctv15">
         <title lang="zh">民歌·中国-2023-18歌声飘万家4</title>
     </programme>
-    <programme start="20230207181300" stop="20230207193000" channel="cctv15">
+    <programme start="20230207111400" stop="20230207122700" channel="cctv15">
+        <title lang="zh">精彩音乐汇-2023-37</title>
+    </programme>
+    <programme start="20230207122700" stop="20230207133400" channel="cctv15">
+        <title lang="zh">民歌·中国-2023-27幸福新西藏</title>
+    </programme>
+    <programme start="20230207133400" stop="20230207134400" channel="cctv15">
+        <title lang="zh">2023年元宵晚会-曲艺:新花好月圆夜</title>
+    </programme>
+    <programme start="20230207134400" stop="20230207145900" channel="cctv15">
+        <title lang="zh">精彩音乐汇-2023-36</title>
+    </programme>
+    <programme start="20230207145900" stop="20230207160500" channel="cctv15">
+        <title lang="zh">一起音乐吧-2023-12 新春欢歌</title>
+    </programme>
+    <programme start="20230207160500" stop="20230207161400" channel="cctv15">
+        <title lang="zh">2023年元宵晚会-歌曲:熠熠的光</title>
+    </programme>
+    <programme start="20230207161400" stop="20230207164700" channel="cctv15">
+        <title lang="zh">聆听时刻-2023-10</title>
+    </programme>
+    <programme start="20230207164700" stop="20230207165700" channel="cctv15">
+        <title lang="zh">2023年元宵晚会-歌曲:百鸟朝阳</title>
+    </programme>
+    <programme start="20230207165700" stop="20230207180500" channel="cctv15">
+        <title lang="zh">民歌·中国-2023-18歌声飘万家4</title>
+    </programme>
+    <programme start="20230207180500" stop="20230207181400" channel="cctv15">
+        <title lang="zh">2023年元宵晚会-歌曲:我心万里睛</title>
+    </programme>
+    <programme start="20230207181400" stop="20230207192900" channel="cctv15">
         <title lang="zh">精彩音乐汇-2023-38</title>
     </programme>
-    <programme start="20230207193000" stop="20230207204300" channel="cctv15">
+    <programme start="20230207192900" stop="20230207203700" channel="cctv15">
         <title lang="zh">合唱先锋2023-5</title>
     </programme>
-    <programme start="20230207204300" stop="20230207215800" channel="cctv15">
+    <programme start="20230207203700" stop="20230207204600" channel="cctv15">
+        <title lang="zh">2023年元宵晚会-歌曲:丰收进行曲</title>
+    </programme>
+    <programme start="20230207204600" stop="20230207215500" channel="cctv15">
         <title lang="zh">民歌·中国-2023-14幸福歌儿飞2</title>
     </programme>
-    <programme start="20230207215800" stop="20230207231200" channel="cctv15">
+    <programme start="20230207215500" stop="20230207220400" channel="cctv15">
+        <title lang="zh">2023年元宵晚会-歌曲:家乡人</title>
+    </programme>
+    <programme start="20230207220400" stop="20230207231800" channel="cctv15">
         <title lang="zh">精彩音乐汇-2023-35</title>
     </programme>
-    <programme start="20230207231200" stop="20230207235900" channel="cctv15">
+    <programme start="20230207231800" stop="20230207235900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2023-36-名家名曲（36）</title>
     </programme>
-    <programme start="20230207235900" stop="20230207235900" channel="cctv15">
+    <programme start="20230208000500" stop="20230208010700" channel="cctv15">
         <title lang="zh">经典-2023-31</title>
     </programme>
-    <programme start="20230208010100" stop="20230208013100" channel="cctv15">
+    <programme start="20230208010700" stop="20230208013700" channel="cctv15">
         <title lang="zh">中国音乐电视-2022-171</title>
     </programme>
-    <programme start="20230208013100" stop="20230208021800" channel="cctv15">
+    <programme start="20230208013700" stop="20230208022400" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2023-36-名家名曲（36）</title>
     </programme>
-    <programme start="20230208021800" stop="20230208060000" channel="cctv15">
+    <programme start="20230208022400" stop="20230208060000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20230208060000" stop="20230208063300" channel="cctv15">
@@ -4162,7 +4198,7 @@
         <title lang="zh">影视留声机-2023-10</title>
     </programme>
     <programme start="20230208203800" stop="20230208204700" channel="cctv15">
-        <title lang="zh">2023年元宵晚会-歌曲:丰收进行曲</title>
+        <title lang="zh">2023年元宵晚会-歌曲:我心万里睛</title>
     </programme>
     <programme start="20230208204700" stop="20230208214000" channel="cctv15">
         <title lang="zh">乐享汇-2022-76</title>
