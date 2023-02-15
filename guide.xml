@@ -388,15 +388,15 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20230216200100" stop="20230216200600" channel="cctv1">
-        <title lang="zh">前情提要-《我们的日子》19/38</title>
+        <title lang="zh">前情提要- 《我们的日子》第19集</title>
     </programme>
     <programme start="20230216200600" stop="20230216205700" channel="cctv1">
         <title lang="zh">我们的日子第19集</title>
     </programme>
-    <programme start="20230216205700" stop="20230216210100" channel="cctv1">
-        <title lang="zh">前情提要-《我们的日子》20/38</title>
+    <programme start="20230216205700" stop="20230216210200" channel="cctv1">
+        <title lang="zh">前情提要- 《我们的日子》第20集</title>
     </programme>
-    <programme start="20230216210100" stop="20230216220000" channel="cctv1">
+    <programme start="20230216210200" stop="20230216220000" channel="cctv1">
         <title lang="zh">我们的日子第20集</title>
     </programme>
     <programme start="20230216220000" stop="20230216223400" channel="cctv1">
@@ -973,7 +973,7 @@
         <title lang="zh">我的艺术清单-老艺术家系列冯骥才下（一套）</title>
     </programme>
     <programme start="20230216104900" stop="20230216121600" channel="cctv3">
-        <title lang="zh">星光大道-2023-2</title>
+        <title lang="zh">开门大吉-2023-6</title>
     </programme>
     <programme start="20230216121600" stop="20230216123300" channel="cctv3">
         <title lang="zh">文化十分-2023-38</title>
@@ -1582,7 +1582,7 @@
         <title lang="zh">2023年世界高山滑雪锦标赛-精选1</title>
     </programme>
     <programme start="20230216090000" stop="20230216103100" channel="cctv5">
-        <title lang="zh">实况录像-2023年四大洲花样滑冰锦标赛 男单自由滑</title>
+        <title lang="zh">实况录像-2022/2023赛季花样滑冰大奖赛总决赛  男单自由滑</title>
     </programme>
     <programme start="20230216103100" stop="20230216120000" channel="cctv5">
         <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 第二十八轮 山西汾酒股份-宁波町渥</title>
@@ -2200,7 +2200,7 @@
         <title lang="zh">兵器面面观-2023-20</title>
     </programme>
     <programme start="20230216182900" stop="20230216190000" channel="cctv7">
-        <title lang="zh">国防故事-2022-196</title>
+        <title lang="zh">国防故事-2022-210</title>
     </programme>
     <programme start="20230216190000" stop="20230216193300" channel="cctv7">
         <title lang="zh">新闻联播</title>
@@ -2239,7 +2239,7 @@
         <title lang="zh">军事纪实-2023-34</title>
     </programme>
     <programme start="20230217063400" stop="20230217065900" channel="cctv7">
-        <title lang="zh">国防故事-2022-196</title>
+        <title lang="zh">国防故事-2022-210</title>
     </programme>
     <programme start="20230217065900" stop="20230217070200" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-我多想对你诉说</title>
@@ -2266,7 +2266,7 @@
         <title lang="zh">世界战史-2023-1</title>
     </programme>
     <programme start="20230217105800" stop="20230217112700" channel="cctv7">
-        <title lang="zh">国防故事-2022-196</title>
+        <title lang="zh">国防故事-2022-210</title>
     </programme>
     <programme start="20230217112700" stop="20230217115200" channel="cctv7">
         <title lang="zh">军事纪录-2023-31</title>
@@ -3262,7 +3262,7 @@
         <title lang="zh">百家说故事-2023-47</title>
     </programme>
     <programme start="20230217111400" stop="20230217114600" channel="cctv10">
-        <title lang="zh">地理·中国-2023-47</title>
+        <title lang="zh">大师列传-第二季-1</title>
     </programme>
     <programme start="20230217114600" stop="20230217120000" channel="cctv10">
         <title lang="zh">时尚科技秀-2023-48</title>
@@ -3324,19 +3324,22 @@
     <programme start="20230217194200" stop="20230217201000" channel="cctv10">
         <title lang="zh">创新进行时-2023-35</title>
     </programme>
-    <programme start="20230217201000" stop="20230217211000" channel="cctv10">
+    <programme start="20230217201000" stop="20230217204000" channel="cctv10">
+        <title lang="zh">大师列传-第二季-2</title>
+    </programme>
+    <programme start="20230217204000" stop="20230217214000" channel="cctv10">
         <title lang="zh">自然传奇-2023-48</title>
     </programme>
-    <programme start="20230217211000" stop="20230217220000" channel="cctv10">
+    <programme start="20230217214000" stop="20230217223000" channel="cctv10">
         <title lang="zh">探索·发现-2023-48</title>
     </programme>
-    <programme start="20230217220000" stop="20230217221000" channel="cctv10">
+    <programme start="20230217223000" stop="20230217224000" channel="cctv10">
         <title lang="zh">时尚科技秀-2023-48</title>
     </programme>
-    <programme start="20230217221000" stop="20230217230800" channel="cctv10">
+    <programme start="20230217224000" stop="20230217233800" channel="cctv10">
         <title lang="zh">2023大千世界-20</title>
     </programme>
-    <programme start="20230217230800" stop="20230217235900" channel="cctv10">
+    <programme start="20230217233800" stop="20230217235900" channel="cctv10">
         <title lang="zh">自然传奇-2023-46</title>
     </programme>
     <programme start="20230215001400" stop="20230215020200" channel="cctv11">
