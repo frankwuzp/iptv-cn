@@ -381,14 +381,14 @@
     <programme start="20230221200100" stop="20230221200600" channel="cctv1">
         <title lang="zh">前情提要- 《我们的日子》第27集</title>
     </programme>
-    <programme start="20230221200600" stop="20230221205900" channel="cctv1">
-        <title lang="zh">我们的日子27/38</title>
+    <programme start="20230221200600" stop="20230221205700" channel="cctv1">
+        <title lang="zh">我们的日子第27集</title>
     </programme>
-    <programme start="20230221205900" stop="20230221210200" channel="cctv1">
+    <programme start="20230221205700" stop="20230221210100" channel="cctv1">
         <title lang="zh">前情提要- 《我们的日子》第28集</title>
     </programme>
-    <programme start="20230221210200" stop="20230221220000" channel="cctv1">
-        <title lang="zh">我们的日子28/38</title>
+    <programme start="20230221210100" stop="20230221220000" channel="cctv1">
+        <title lang="zh">我们的日子第28集</title>
     </programme>
     <programme start="20230221220000" stop="20230221223300" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1194,23 +1194,17 @@
     <programme start="20230220223000" stop="20230220230200" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230220230200" stop="20230220234800" channel="cctv4">
+    <programme start="20230220230200" stop="20230220235700" channel="cctv4">
+        <title lang="zh">奋进新时代-（上集）</title>
+    </programme>
+    <programme start="20230220235700" stop="20230220235900" channel="cctv4">
         <title lang="zh">远方的山楂树第7集</title>
     </programme>
-    <programme start="20230220234800" stop="20230220235900" channel="cctv4">
+    <programme start="20230221004300" stop="20230221013000" channel="cctv4">
         <title lang="zh">远方的山楂树第8集</title>
     </programme>
-    <programme start="20230221003400" stop="20230221012100" channel="cctv4">
-        <title lang="zh">远方的山楂树第9集</title>
-    </programme>
-    <programme start="20230221012100" stop="20230221015100" channel="cctv4">
+    <programme start="20230221013000" stop="20230221020000" channel="cctv4">
         <title lang="zh">中国文艺-2023-36</title>
-    </programme>
-    <programme start="20230221015100" stop="20230221015300" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼11</title>
-    </programme>
-    <programme start="20230221015300" stop="20230221020000" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼12</title>
     </programme>
     <programme start="20230221020000" stop="20230221023200" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1326,23 +1320,17 @@
     <programme start="20230221223000" stop="20230221230200" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230221230200" stop="20230221234800" channel="cctv4">
+    <programme start="20230221230200" stop="20230221235900" channel="cctv4">
+        <title lang="zh">奋进新时代-（下集）</title>
+    </programme>
+    <programme start="20230221235900" stop="20230221235900" channel="cctv4">
+        <title lang="zh">远方的山楂树第9集</title>
+    </programme>
+    <programme start="20230222004500" stop="20230222013200" channel="cctv4">
         <title lang="zh">远方的山楂树第10集</title>
     </programme>
-    <programme start="20230221234800" stop="20230221235900" channel="cctv4">
-        <title lang="zh">远方的山楂树第11集</title>
-    </programme>
-    <programme start="20230222003400" stop="20230222012100" channel="cctv4">
-        <title lang="zh">远方的山楂树第12集</title>
-    </programme>
-    <programme start="20230222012100" stop="20230222015100" channel="cctv4">
+    <programme start="20230222013200" stop="20230222020000" channel="cctv4">
         <title lang="zh">中国文艺-2023-37</title>
-    </programme>
-    <programme start="20230222015100" stop="20230222015300" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼15</title>
-    </programme>
-    <programme start="20230222015300" stop="20230222020000" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼16</title>
     </programme>
     <programme start="20230222020000" stop="20230222023200" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1458,11 +1446,11 @@
     <programme start="20230222223000" stop="20230222230200" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230222230200" stop="20230222234800" channel="cctv4">
-        <title lang="zh">远方的山楂树13/48</title>
+    <programme start="20230222230200" stop="20230222234500" channel="cctv4">
+        <title lang="zh">远方的山楂树11/48</title>
     </programme>
-    <programme start="20230222234800" stop="20230222235900" channel="cctv4">
-        <title lang="zh">远方的山楂树14/48</title>
+    <programme start="20230222234500" stop="20230222235900" channel="cctv4">
+        <title lang="zh">远方的山楂树12/48</title>
     </programme>
     <programme start="20230220001000" stop="20230220011000" channel="cctv5">
         <title lang="zh">实况录像-2022年世界举重锦标赛 女子71公斤级决赛</title>
@@ -1923,49 +1911,55 @@
     <programme start="20230222021200" stop="20230222034200" channel="cctv6">
         <title lang="zh">素面朝天</title>
     </programme>
-    <programme start="20230222034200" stop="20230222065400" channel="cctv6">
+    <programme start="20230222034200" stop="20230222051500" channel="cctv6">
         <title lang="zh">阿德龙大酒店2</title>
     </programme>
-    <programme start="20230222065400" stop="20230222081900" channel="cctv6">
+    <programme start="20230222051500" stop="20230222065700" channel="cctv6">
+        <title lang="zh">28岁未成年</title>
+    </programme>
+    <programme start="20230222065700" stop="20230222070600" channel="cctv6">
+        <title lang="zh">核心价值观主题微电影：大海小雨</title>
+    </programme>
+    <programme start="20230222070600" stop="20230222082900" channel="cctv6">
         <title lang="zh">购物女王</title>
     </programme>
-    <programme start="20230222081900" stop="20230222101800" channel="cctv6">
+    <programme start="20230222082900" stop="20230222102700" channel="cctv6">
         <title lang="zh">小李广花荣</title>
     </programme>
-    <programme start="20230222101800" stop="20230222120400" channel="cctv6">
+    <programme start="20230222102700" stop="20230222121900" channel="cctv6">
         <title lang="zh">八角笼</title>
     </programme>
-    <programme start="20230222120400" stop="20230222121000" channel="cctv6">
+    <programme start="20230222121900" stop="20230222122600" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20230222121000" stop="20230222142300" channel="cctv6">
+    <programme start="20230222122600" stop="20230222143800" channel="cctv6">
         <title lang="zh">海大鱼</title>
     </programme>
-    <programme start="20230222142300" stop="20230222160500" channel="cctv6">
+    <programme start="20230222143800" stop="20230222161700" channel="cctv6">
         <title lang="zh">丛林斗士</title>
     </programme>
-    <programme start="20230222160500" stop="20230222181100" channel="cctv6">
+    <programme start="20230222161700" stop="20230222182600" channel="cctv6">
         <title lang="zh">龙吟诏</title>
     </programme>
-    <programme start="20230222181100" stop="20230222195900" channel="cctv6">
+    <programme start="20230222182600" stop="20230222200700" channel="cctv6">
         <title lang="zh">地下骑士</title>
     </programme>
-    <programme start="20230222195900" stop="20230222201100" channel="cctv6">
+    <programme start="20230222200700" stop="20230222201800" channel="cctv6">
         <title lang="zh">今日影评2023-053</title>
     </programme>
-    <programme start="20230222201100" stop="20230222220000" channel="cctv6">
+    <programme start="20230222201800" stop="20230222220000" channel="cctv6">
         <title lang="zh">倩女幽魂</title>
     </programme>
     <programme start="20230222220000" stop="20230222222300" channel="cctv6">
         <title lang="zh">中国电影报道2023-053</title>
     </programme>
-    <programme start="20230222222300" stop="20230222230200" channel="cctv6">
+    <programme start="20230222222300" stop="20230222230100" channel="cctv6">
         <title lang="zh">花滑女王2：爸爸我爱你（上）</title>
     </programme>
-    <programme start="20230222230200" stop="20230222230500" channel="cctv6">
+    <programme start="20230222230100" stop="20230222230400" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2023-02-22</title>
     </programme>
-    <programme start="20230222230500" stop="20230222235900" channel="cctv6">
+    <programme start="20230222230400" stop="20230222235900" channel="cctv6">
         <title lang="zh">花滑女王2：爸爸我爱你（下）</title>
     </programme>
     <programme start="20230220000800" stop="20230220004600" channel="cctv7">
@@ -2428,7 +2422,7 @@
         <title lang="zh">本集提要- 《风雨送春归》第7集</title>
     </programme>
     <programme start="20230220222200" stop="20230220231100" channel="cctv8">
-        <title lang="zh">风雨送春归7/40</title>
+        <title lang="zh">风雨送春归第7集</title>
     </programme>
     <programme start="20230220231100" stop="20230220235700" channel="cctv8">
         <title lang="zh">高兴的酸甜苦辣第12集</title>
@@ -2536,25 +2530,25 @@
         <title lang="zh">本集提要- 《情满九道弯》第9集</title>
     </programme>
     <programme start="20230221193000" stop="20230221202500" channel="cctv8">
-        <title lang="zh">情满九道弯9/40</title>
+        <title lang="zh">情满九道弯第9集</title>
     </programme>
     <programme start="20230221202500" stop="20230221203000" channel="cctv8">
         <title lang="zh">本集提要- 《情满九道弯》第10集</title>
     </programme>
     <programme start="20230221203000" stop="20230221212400" channel="cctv8">
-        <title lang="zh">情满九道弯10/40</title>
+        <title lang="zh">情满九道弯第10集</title>
     </programme>
     <programme start="20230221212400" stop="20230221212900" channel="cctv8">
         <title lang="zh">本集提要-《风雨送春归》8/40</title>
     </programme>
     <programme start="20230221212900" stop="20230221222000" channel="cctv8">
-        <title lang="zh">风雨送春归8/40</title>
+        <title lang="zh">风雨送春归第8集</title>
     </programme>
     <programme start="20230221222000" stop="20230221222200" channel="cctv8">
         <title lang="zh">本集提要-《风雨送春归》9/40</title>
     </programme>
     <programme start="20230221222200" stop="20230221231100" channel="cctv8">
-        <title lang="zh">风雨送春归9/40</title>
+        <title lang="zh">风雨送春归第9集</title>
     </programme>
     <programme start="20230221231100" stop="20230221235700" channel="cctv8">
         <title lang="zh">高兴的酸甜苦辣第18集</title>
@@ -4294,7 +4288,7 @@
         <title lang="zh">奥秘无穷-2022-27</title>
     </programme>
     <programme start="20230221150000" stop="20230221164000" channel="cctv16">
-        <title lang="zh">2022赛季中国手球超级联赛（三明站）-女子联赛（上海-江苏吉春）</title>
+        <title lang="zh">2022赛季中国手球超级联赛（三明站）-女子联赛（广东思腾-山东）</title>
     </programme>
     <programme start="20230221164000" stop="20230221170000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2023-15 含广告</title>
