@@ -375,16 +375,16 @@
     <programme start="20230311200100" stop="20230311200600" channel="cctv1">
         <title lang="zh">前情提要-《许你万家灯火》17/32</title>
     </programme>
-    <programme start="20230311200600" stop="20230311205400" channel="cctv1">
+    <programme start="20230311200600" stop="20230311205300" channel="cctv1">
         <title lang="zh">许你万家灯火17/32</title>
     </programme>
-    <programme start="20230311205400" stop="20230311205800" channel="cctv1">
+    <programme start="20230311205300" stop="20230311205900" channel="cctv1">
         <title lang="zh">前情提要-《许你万家灯火》18/32</title>
     </programme>
-    <programme start="20230311205800" stop="20230311214800" channel="cctv1">
+    <programme start="20230311205900" stop="20230311214900" channel="cctv1">
         <title lang="zh">许你万家灯火18/32</title>
     </programme>
-    <programme start="20230311214800" stop="20230311220000" channel="cctv1">
+    <programme start="20230311214900" stop="20230311220000" channel="cctv1">
         <title lang="zh">精彩一刻-2023-4国宝4黄花梨画案</title>
     </programme>
     <programme start="20230311220000" stop="20230311223300" channel="cctv1">
@@ -474,14 +474,20 @@
     <programme start="20230312190000" stop="20230312193800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230312193800" stop="20230312200600" channel="cctv1">
+    <programme start="20230312193800" stop="20230312200100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20230312200600" stop="20230312214500" channel="cctv1">
-        <title lang="zh">典籍里的中国（第二季）-9</title>
+    <programme start="20230312200100" stop="20230312200600" channel="cctv1">
+        <title lang="zh">前情提要-《许你万家灯火》19/32</title>
     </programme>
-    <programme start="20230312214500" stop="20230312220000" channel="cctv1">
-        <title lang="zh">山水间的家-精彩瞬间1</title>
+    <programme start="20230312200600" stop="20230312205500" channel="cctv1">
+        <title lang="zh">许你万家灯火19/32</title>
+    </programme>
+    <programme start="20230312205500" stop="20230312210000" channel="cctv1">
+        <title lang="zh">前情提要-《许你万家灯火》20/32</title>
+    </programme>
+    <programme start="20230312210000" stop="20230312220000" channel="cctv1">
+        <title lang="zh">许你万家灯火20/32</title>
     </programme>
     <programme start="20230312220000" stop="20230312223300" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1116,11 +1122,8 @@
     <programme start="20230310203000" stop="20230310210000" channel="cctv4">
         <title lang="zh">海峡两岸-2023-69</title>
     </programme>
-    <programme start="20230310210000" stop="20230310213000" channel="cctv4">
+    <programme start="20230310210000" stop="20230310220000" channel="cctv4">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20230310213000" stop="20230310220000" channel="cctv4">
-        <title lang="zh">今日关注</title>
     </programme>
     <programme start="20230310220000" stop="20230310223000" channel="cctv4">
         <title lang="zh">鲁健访谈-2023-10</title>
@@ -1146,14 +1149,14 @@
     <programme start="20230311015300" stop="20230311020000" channel="cctv4">
         <title lang="zh">荟萃节目-秘境之眼29</title>
     </programme>
-    <programme start="20230311020000" stop="20230311023200" channel="cctv4">
+    <programme start="20230311020000" stop="20230311023000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230311023200" stop="20230311030000" channel="cctv4">
+    <programme start="20230311023000" stop="20230311030000" channel="cctv4">
         <title lang="zh">鲁健访谈-2023-10</title>
     </programme>
     <programme start="20230311030000" stop="20230311031000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+        <title lang="zh">记住乡愁2018片段展播-59</title>
     </programme>
     <programme start="20230311031000" stop="20230311040000" channel="cctv4">
         <title lang="zh">远方的家2023-30(4K)</title>
@@ -1167,11 +1170,17 @@
     <programme start="20230311050000" stop="20230311053000" channel="cctv4">
         <title lang="zh">记住乡愁2023-40</title>
     </programme>
-    <programme start="20230311053000" stop="20230311060000" channel="cctv4">
-        <title lang="zh">鲁健访谈-2023-10</title>
+    <programme start="20230311053000" stop="20230311054000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-40</title>
+    </programme>
+    <programme start="20230311054000" stop="20230311055000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-77</title>
+    </programme>
+    <programme start="20230311055000" stop="20230311060000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-68</title>
     </programme>
     <programme start="20230311060000" stop="20230311063000" channel="cctv4">
-        <title lang="zh">海峡两岸-2023-69</title>
+        <title lang="zh">鲁健访谈-2023-10</title>
     </programme>
     <programme start="20230311063000" stop="20230311070000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
@@ -1446,8 +1455,11 @@
     <programme start="20230311073000" stop="20230311080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20230311080000" stop="20230311092500" channel="cctv5">
-        <title lang="zh">实况录像-2022/2023德国足球甲级联赛 第23轮 1</title>
+    <programme start="20230311080000" stop="20230311090000" channel="cctv5">
+        <title lang="zh">实况录像-2023年体操世界杯 科特布斯站 1</title>
+    </programme>
+    <programme start="20230311090000" stop="20230311092500" channel="cctv5">
+        <title lang="zh">实况录像-2023年体操世界杯 科特布斯站 25分钟版1</title>
     </programme>
     <programme start="20230311092500" stop="20230311102500" channel="cctv5">
         <title lang="zh">实况录像-2023年世界单板滑雪锦标赛  大跳台决赛</title>
@@ -1479,11 +1491,20 @@
     <programme start="20230311183500" stop="20230311190000" channel="cctv5">
         <title lang="zh">足球之夜</title>
     </programme>
-    <programme start="20230311190000" stop="20230311225500" channel="cctv5">
+    <programme start="20230311190000" stop="20230311223000" channel="cctv5">
         <title lang="zh">2023年世乒联大满贯赛(新加坡站)-第1轮2</title>
     </programme>
-    <programme start="20230311225500" stop="20230311235900" channel="cctv5">
-        <title lang="zh">2022/2023英格兰足球超级联赛-第27轮（莱斯特城—切尔西）</title>
+    <programme start="20230311223000" stop="20230311230000" channel="cctv5">
+        <title lang="zh">实况录像-2023年体操世界杯 科特布斯站 25分钟版2</title>
+    </programme>
+    <programme start="20230311230000" stop="20230311235900" channel="cctv5">
+        <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 第三十二轮 辽宁本钢—上海久事</title>
+    </programme>
+    <programme start="20230312003000" stop="20230312005000" channel="cctv5">
+        <title lang="zh">实况录像-2023年世界单板滑雪锦标赛 U型场地</title>
+    </programme>
+    <programme start="20230312005000" stop="20230312011100" channel="cctv5">
+        <title lang="zh">实况录像-2023年世界自由式滑雪锦标赛 空中技巧个人决赛</title>
     </programme>
     <programme start="20230312011100" stop="20230312023800" channel="cctv5">
         <title lang="zh">实况录像-2023年男篮世界杯预选赛 亚洲区 中国队--哈萨克斯坦队</title>
@@ -1500,8 +1521,11 @@
     <programme start="20230312073000" stop="20230312080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20230312080000" stop="20230312093000" channel="cctv5">
-        <title lang="zh">实况录像-2022/2023德国足球甲级联赛 第23轮 2</title>
+    <programme start="20230312080000" stop="20230312090000" channel="cctv5">
+        <title lang="zh">实况录像-2023年体操世界杯 科特布斯站 2</title>
+    </programme>
+    <programme start="20230312090000" stop="20230312093000" channel="cctv5">
+        <title lang="zh">实况录像-2023年体操世界杯 科特布斯站 25分钟版2</title>
     </programme>
     <programme start="20230312093000" stop="20230312120000" channel="cctv5">
         <title lang="zh">2022/2023赛季美国职业篮球联赛-常规赛（雄鹿-勇士）</title>
@@ -1527,11 +1551,14 @@
     <programme start="20230312183500" stop="20230312190000" channel="cctv5">
         <title lang="zh">实况录像-2023年世乒联大满贯赛 新加坡站 第一轮（录播）</title>
     </programme>
-    <programme start="20230312190000" stop="20230312220000" channel="cctv5">
+    <programme start="20230312190000" stop="20230312223000" channel="cctv5">
         <title lang="zh">2023年世乒联大满贯赛(新加坡站)-第1轮4</title>
     </programme>
-    <programme start="20230312220000" stop="20230312235900" channel="cctv5">
-        <title lang="zh">2022/2023英格兰足球超级联赛-第27轮（富勒姆—阿森纳）</title>
+    <programme start="20230312223000" stop="20230312235500" channel="cctv5">
+        <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 第三十三轮 广东东莞大益—浙江东阳光</title>
+    </programme>
+    <programme start="20230312235500" stop="20230312235900" channel="cctv5">
+        <title lang="zh">实况录像-2022年世界田径锦标赛 跳远比赛</title>
     </programme>
     <programme start="20230310010500" stop="20230310023600" channel="cctv5plus">
         <title lang="zh">实况录像-2022年全国体操锦标赛 单项决赛 3</title>
@@ -2530,10 +2557,10 @@
         <title lang="zh">心想事成8/36</title>
     </programme>
     <programme start="20230312212400" stop="20230312212800" channel="cctv8">
-        <title lang="zh">本集提要-《狂飙》3/39</title>
+        <title lang="zh">本集提要-《完美伴侣》3/40</title>
     </programme>
     <programme start="20230312212800" stop="20230312222100" channel="cctv8">
-        <title lang="zh">狂飙3/39</title>
+        <title lang="zh">完美伴侣3/40</title>
     </programme>
     <programme start="20230312222100" stop="20230312230900" channel="cctv8">
         <title lang="zh">剧说很好看-2023-11</title>
