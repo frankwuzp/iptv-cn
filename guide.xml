@@ -789,11 +789,11 @@
     <programme start="20230330050100" stop="20230330053100" channel="cctv2">
         <title lang="zh">消费主张</title>
     </programme>
-    <programme start="20230330053100" stop="20230330063200" channel="cctv2">
-        <title lang="zh">经济信息联播</title>
-    </programme>
-    <programme start="20230330063200" stop="20230330070000" channel="cctv2">
+    <programme start="20230330053100" stop="20230330055900" channel="cctv2">
         <title lang="zh">生财有道-2023-3-29</title>
+    </programme>
+    <programme start="20230330055900" stop="20230330070000" channel="cctv2">
+        <title lang="zh">经济信息联播</title>
     </programme>
     <programme start="20230330070000" stop="20230330090000" channel="cctv2">
         <title lang="zh">第一时间</title>
@@ -1324,19 +1324,19 @@
         <title lang="zh">荟萃节目-秘境之眼3</title>
     </programme>
     <programme start="20230329131000" stop="20230329135800" channel="cctv4">
-        <title lang="zh">加油！妈妈30/40</title>
+        <title lang="zh">加油！妈妈第30集</title>
     </programme>
     <programme start="20230329135800" stop="20230329144600" channel="cctv4">
-        <title lang="zh">加油！妈妈31/40</title>
+        <title lang="zh">加油！妈妈第31集</title>
     </programme>
     <programme start="20230329144600" stop="20230329153300" channel="cctv4">
-        <title lang="zh">加油！妈妈32/40</title>
+        <title lang="zh">加油！妈妈第32集</title>
     </programme>
     <programme start="20230329153300" stop="20230329162100" channel="cctv4">
-        <title lang="zh">加油！妈妈33/40</title>
+        <title lang="zh">加油！妈妈第33集</title>
     </programme>
     <programme start="20230329162100" stop="20230329171300" channel="cctv4">
-        <title lang="zh">加油！妈妈34/40</title>
+        <title lang="zh">加油！妈妈第34集</title>
     </programme>
     <programme start="20230329171300" stop="20230329171500" channel="cctv4">
         <title lang="zh">荟萃节目-秘境之眼5</title>
@@ -1375,13 +1375,13 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20230329230300" stop="20230329234900" channel="cctv4">
-        <title lang="zh">夺金36/38</title>
+        <title lang="zh">夺金第36集</title>
     </programme>
     <programme start="20230329234900" stop="20230329235900" channel="cctv4">
-        <title lang="zh">夺金37/38</title>
+        <title lang="zh">夺金第37集</title>
     </programme>
     <programme start="20230330003500" stop="20230330012300" channel="cctv4">
-        <title lang="zh">夺金38/38</title>
+        <title lang="zh">夺金第38集</title>
     </programme>
     <programme start="20230330012300" stop="20230330015300" channel="cctv4">
         <title lang="zh">中国文艺-2023-63</title>
@@ -1923,101 +1923,113 @@
     <programme start="20230329015100" stop="20230329032500" channel="cctv6">
         <title lang="zh">丈母娘来了</title>
     </programme>
-    <programme start="20230329032500" stop="20230329071000" channel="cctv6">
-        <title lang="zh">乌伯林根之殇</title>
+    <programme start="20230329032500" stop="20230329052400" channel="cctv6">
+        <title lang="zh">谜一样的双眼</title>
     </programme>
-    <programme start="20230329071000" stop="20230329085300" channel="cctv6">
+    <programme start="20230329052400" stop="20230329072200" channel="cctv6">
+        <title lang="zh">囧妈</title>
+    </programme>
+    <programme start="20230329072200" stop="20230329090100" channel="cctv6">
         <title lang="zh">老汉也疯狂</title>
     </programme>
-    <programme start="20230329085300" stop="20230329103600" channel="cctv6">
+    <programme start="20230329090100" stop="20230329104500" channel="cctv6">
         <title lang="zh">血染北沙河</title>
     </programme>
-    <programme start="20230329103600" stop="20230329124600" channel="cctv6">
+    <programme start="20230329104500" stop="20230329125800" channel="cctv6">
         <title lang="zh">我来自纽约</title>
     </programme>
-    <programme start="20230329124600" stop="20230329125300" channel="cctv6">
+    <programme start="20230329125800" stop="20230329130600" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20230329125300" stop="20230329144800" channel="cctv6">
+    <programme start="20230329130600" stop="20230329150100" channel="cctv6">
         <title lang="zh">狐踪谍影</title>
     </programme>
-    <programme start="20230329144800" stop="20230329162900" channel="cctv6">
+    <programme start="20230329150100" stop="20230329164700" channel="cctv6">
         <title lang="zh">呼吸</title>
     </programme>
-    <programme start="20230329162900" stop="20230329182500" channel="cctv6">
+    <programme start="20230329164700" stop="20230329184400" channel="cctv6">
         <title lang="zh">骆驼客2箭在弦</title>
     </programme>
-    <programme start="20230329182500" stop="20230329200600" channel="cctv6">
+    <programme start="20230329184400" stop="20230329201700" channel="cctv6">
         <title lang="zh">黄金刀客</title>
     </programme>
-    <programme start="20230329200600" stop="20230329201800" channel="cctv6">
+    <programme start="20230329201700" stop="20230329202600" channel="cctv6">
         <title lang="zh">今日影评2023-088</title>
     </programme>
-    <programme start="20230329201800" stop="20230329220000" channel="cctv6">
+    <programme start="20230329202600" stop="20230329220000" channel="cctv6">
         <title lang="zh">夺魂异阵图</title>
     </programme>
     <programme start="20230329220000" stop="20230329222300" channel="cctv6">
         <title lang="zh">中国电影报道2023-088</title>
     </programme>
-    <programme start="20230329222300" stop="20230329235900" channel="cctv6">
-        <title lang="zh">彼得一世</title>
+    <programme start="20230329222300" stop="20230329230000" channel="cctv6">
+        <title lang="zh">彼得一世（上）</title>
     </programme>
-    <programme start="20230330002800" stop="20230330003400" channel="cctv6">
+    <programme start="20230329230000" stop="20230329230200" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2023-03-29</title>
     </programme>
-    <programme start="20230330003400" stop="20230330003900" channel="cctv6">
+    <programme start="20230329230200" stop="20230329235900" channel="cctv6">
+        <title lang="zh">彼得一世（下）</title>
+    </programme>
+    <programme start="20230330003200" stop="20230330003700" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20230330003900" stop="20230330005300" channel="cctv6">
+    <programme start="20230330003700" stop="20230330005200" channel="cctv6">
         <title lang="zh">今日影评2023-088</title>
     </programme>
-    <programme start="20230330005300" stop="20230330023000" channel="cctv6">
+    <programme start="20230330005200" stop="20230330022700" channel="cctv6">
         <title lang="zh">侠捕之夺命红莲</title>
     </programme>
-    <programme start="20230330023000" stop="20230330035000" channel="cctv6">
+    <programme start="20230330022700" stop="20230330034700" channel="cctv6">
         <title lang="zh">聪明小鬼斗笨贼</title>
     </programme>
-    <programme start="20230330035000" stop="20230330070400" channel="cctv6">
+    <programme start="20230330034700" stop="20230330051900" channel="cctv6">
         <title lang="zh">侠路相逢</title>
     </programme>
-    <programme start="20230330070400" stop="20230330083800" channel="cctv6">
+    <programme start="20230330051900" stop="20230330065800" channel="cctv6">
+        <title lang="zh">杨子荣</title>
+    </programme>
+    <programme start="20230330065800" stop="20230330083000" channel="cctv6">
         <title lang="zh">功夫好男儿</title>
     </programme>
-    <programme start="20230330083800" stop="20230330102400" channel="cctv6">
+    <programme start="20230330083000" stop="20230330101500" channel="cctv6">
         <title lang="zh">豁出去了</title>
     </programme>
-    <programme start="20230330102400" stop="20230330121000" channel="cctv6">
+    <programme start="20230330101500" stop="20230330120800" channel="cctv6">
         <title lang="zh">21克拉</title>
     </programme>
-    <programme start="20230330121000" stop="20230330121600" channel="cctv6">
+    <programme start="20230330120800" stop="20230330121600" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20230330121600" stop="20230330140700" channel="cctv6">
+    <programme start="20230330121600" stop="20230330141400" channel="cctv6">
         <title lang="zh">猛虫过江</title>
     </programme>
-    <programme start="20230330140700" stop="20230330162000" channel="cctv6">
+    <programme start="20230330141400" stop="20230330162600" channel="cctv6">
         <title lang="zh">掠食城市</title>
     </programme>
-    <programme start="20230330162000" stop="20230330181300" channel="cctv6">
+    <programme start="20230330162600" stop="20230330182300" channel="cctv6">
         <title lang="zh">骆驼客3-弓魂传</title>
     </programme>
-    <programme start="20230330181300" stop="20230330195400" channel="cctv6">
+    <programme start="20230330182300" stop="20230330195900" channel="cctv6">
         <title lang="zh">狼牙关</title>
     </programme>
-    <programme start="20230330195400" stop="20230330200600" channel="cctv6">
+    <programme start="20230330195900" stop="20230330201000" channel="cctv6">
         <title lang="zh">今日影评2023-089</title>
     </programme>
-    <programme start="20230330200600" stop="20230330220000" channel="cctv6">
+    <programme start="20230330201000" stop="20230330220000" channel="cctv6">
         <title lang="zh">武林志</title>
     </programme>
-    <programme start="20230330220000" stop="20230330222300" channel="cctv6">
+    <programme start="20230330220000" stop="20230330222200" channel="cctv6">
         <title lang="zh">中国电影报道2023-089</title>
     </programme>
-    <programme start="20230330222300" stop="20230330235600" channel="cctv6">
-        <title lang="zh">白天鹅之恋</title>
+    <programme start="20230330222200" stop="20230330230000" channel="cctv6">
+        <title lang="zh">白天鹅之恋（上）</title>
     </programme>
-    <programme start="20230330235600" stop="20230330235900" channel="cctv6">
+    <programme start="20230330230000" stop="20230330230300" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2023-03-30</title>
+    </programme>
+    <programme start="20230330230300" stop="20230330235900" channel="cctv6">
+        <title lang="zh">白天鹅之恋（下）</title>
     </programme>
     <programme start="20230328000600" stop="20230328004400" channel="cctv7">
         <title lang="zh">兵器面面观-2023-46</title>
@@ -2578,19 +2590,19 @@
         <title lang="zh">本集提要-《爱情而已》5/38</title>
     </programme>
     <programme start="20230329193000" stop="20230329202500" channel="cctv8">
-        <title lang="zh">爱情而已5/38</title>
+        <title lang="zh">爱情而已第5集</title>
     </programme>
     <programme start="20230329202500" stop="20230329203000" channel="cctv8">
         <title lang="zh">本集提要-《爱情而已》6/38</title>
     </programme>
     <programme start="20230329203000" stop="20230329212400" channel="cctv8">
-        <title lang="zh">爱情而已6/38</title>
+        <title lang="zh">爱情而已第6集</title>
     </programme>
     <programme start="20230329212400" stop="20230329212900" channel="cctv8">
-        <title lang="zh">本集提要-《他是谁》16/24</title>
+        <title lang="zh">本集提要- 《他是谁》第16集</title>
     </programme>
     <programme start="20230329212900" stop="20230329222200" channel="cctv8">
-        <title lang="zh">他是谁16/24</title>
+        <title lang="zh">他是谁第16集</title>
     </programme>
     <programme start="20230329222200" stop="20230329231000" channel="cctv8">
         <title lang="zh">完美伴侣第30集</title>
@@ -3436,7 +3448,7 @@
         <title lang="zh">梨园周刊-2022-79-绝活水袖功-5分钟（精编）</title>
     </programme>
     <programme start="20230329092100" stop="20230329115100" channel="cctv11">
-        <title lang="zh">九州大戏台-2022-14评剧《革命家庭》</title>
+        <title lang="zh">九州大戏台-2022-11越剧《穆桂英挂帅》</title>
     </programme>
     <programme start="20230329115100" stop="20230329124100" channel="cctv11">
         <title lang="zh">娘亲舅大第11集</title>
