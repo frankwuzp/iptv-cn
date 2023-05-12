@@ -283,13 +283,13 @@
         <title lang="zh">前情提要- 《雪莲花盛开的地方》第13集</title>
     </programme>
     <programme start="20230512200600" stop="20230512205800" channel="cctv1">
-        <title lang="zh">雪莲花盛开的地方13/32</title>
+        <title lang="zh">雪莲花盛开的地方第13集</title>
     </programme>
     <programme start="20230512205800" stop="20230512210200" channel="cctv1">
         <title lang="zh">前情提要- 《雪莲花盛开的地方》第14集</title>
     </programme>
     <programme start="20230512210200" stop="20230512220000" channel="cctv1">
-        <title lang="zh">雪莲花盛开的地方14/32</title>
+        <title lang="zh">雪莲花盛开的地方第14集</title>
     </programme>
     <programme start="20230512220000" stop="20230512223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -486,11 +486,8 @@
     <programme start="20230514220000" stop="20230514223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20230514223400" stop="20230514233000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
-    </programme>
-    <programme start="20230514233000" stop="20230514235900" channel="cctv1">
-        <title lang="zh">2023中国诗词大会-7</title>
+    <programme start="20230514223400" stop="20230514235900" channel="cctv1">
+        <title lang="zh">典籍里的中国（第二季）-1</title>
     </programme>
     <programme start="20230512001700" stop="20230512011700" channel="cctv2">
         <title lang="zh">职场健康课-2023-18</title>
@@ -630,19 +627,22 @@
     <programme start="20230513055900" stop="20230513070000" channel="cctv2">
         <title lang="zh">经济信息联播</title>
     </programme>
-    <programme start="20230513070000" stop="20230513090200" channel="cctv2">
+    <programme start="20230513070000" stop="20230513090100" channel="cctv2">
         <title lang="zh">第一时间</title>
     </programme>
-    <programme start="20230513090200" stop="20230513094000" channel="cctv2">
-        <title lang="zh">2021精品财经纪录-大河之北-3</title>
+    <programme start="20230513090100" stop="20230513090500" channel="cctv2">
+        <title lang="zh">周末特供2023-奇妙中国5</title>
     </programme>
-    <programme start="20230513094000" stop="20230513102500" channel="cctv2">
-        <title lang="zh">大国建造2021-3</title>
+    <programme start="20230513090500" stop="20230513093000" channel="cctv2">
+        <title lang="zh">中国美好生活大调查（2022-2023）-上</title>
     </programme>
-    <programme start="20230513102500" stop="20230513104800" channel="cctv2">
+    <programme start="20230513093000" stop="20230513102600" channel="cctv2">
+        <title lang="zh">中国美好生活大调查（2022-2023）-下</title>
+    </programme>
+    <programme start="20230513102600" stop="20230513104900" channel="cctv2">
         <title lang="zh">周末特供2023-505</title>
     </programme>
-    <programme start="20230513104800" stop="20230513111300" channel="cctv2">
+    <programme start="20230513104900" stop="20230513111300" channel="cctv2">
         <title lang="zh">周末特供2023-506</title>
     </programme>
     <programme start="20230513111300" stop="20230513120000" channel="cctv2">
@@ -730,10 +730,10 @@
         <title lang="zh">第一时间</title>
     </programme>
     <programme start="20230514090200" stop="20230514094000" channel="cctv2">
-        <title lang="zh">2021精品财经纪录-大河之北-4</title>
+        <title lang="zh">2021精品财经纪录-大河之北-3</title>
     </programme>
     <programme start="20230514094000" stop="20230514102500" channel="cctv2">
-        <title lang="zh">大国建造2021-4</title>
+        <title lang="zh">大国建造2021-3</title>
     </programme>
     <programme start="20230514102500" stop="20230514104800" channel="cctv2">
         <title lang="zh">周末特供2023-507</title>
@@ -909,76 +909,76 @@
     <programme start="20230513072900" stop="20230513074600" channel="cctv3">
         <title lang="zh">文化十分-2023-100</title>
     </programme>
-    <programme start="20230513074600" stop="20230513084200" channel="cctv3">
+    <programme start="20230513074600" stop="20230513084100" channel="cctv3">
         <title lang="zh">我爱满堂彩-2023-1旋转俱乐部</title>
     </programme>
-    <programme start="20230513084200" stop="20230513084900" channel="cctv3">
+    <programme start="20230513084100" stop="20230513084800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-759</title>
     </programme>
-    <programme start="20230513084900" stop="20230513094300" channel="cctv3">
+    <programme start="20230513084800" stop="20230513094400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-525</title>
     </programme>
-    <programme start="20230513094300" stop="20230513094600" channel="cctv3">
+    <programme start="20230513094400" stop="20230513094700" channel="cctv3">
         <title lang="zh">中国文艺报道-2023-162</title>
     </programme>
-    <programme start="20230513094600" stop="20230513104300" channel="cctv3">
+    <programme start="20230513094700" stop="20230513104400" channel="cctv3">
         <title lang="zh">回声嘹亮-2023-18</title>
     </programme>
-    <programme start="20230513104300" stop="20230513121000" channel="cctv3">
+    <programme start="20230513104400" stop="20230513121300" channel="cctv3">
         <title lang="zh">开门大吉-2023-13</title>
     </programme>
-    <programme start="20230513121000" stop="20230513133700" channel="cctv3">
+    <programme start="20230513121300" stop="20230513134000" channel="cctv3">
         <title lang="zh">向幸福出发-2023-10</title>
     </programme>
-    <programme start="20230513133700" stop="20230513134000" channel="cctv3">
+    <programme start="20230513134000" stop="20230513134300" channel="cctv3">
         <title lang="zh">中国文艺报道-2023-163</title>
     </programme>
-    <programme start="20230513134000" stop="20230513151600" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2023-49 一馔千年8</title>
+    <programme start="20230513134300" stop="20230513150700" channel="cctv3">
+        <title lang="zh">越战越勇-2023-17</title>
     </programme>
-    <programme start="20230513151600" stop="20230513152400" channel="cctv3">
+    <programme start="20230513150700" stop="20230513151400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-759</title>
     </programme>
-    <programme start="20230513152400" stop="20230513161800" channel="cctv3">
+    <programme start="20230513151400" stop="20230513161300" channel="cctv3">
         <title lang="zh">我爱满堂彩-2023-2旋转俱乐部</title>
     </programme>
-    <programme start="20230513161800" stop="20230513174400" channel="cctv3">
+    <programme start="20230513161300" stop="20230513173900" channel="cctv3">
         <title lang="zh">开门大吉-2023-18</title>
     </programme>
-    <programme start="20230513174400" stop="20230513181500" channel="cctv3">
+    <programme start="20230513173900" stop="20230513181000" channel="cctv3">
         <title lang="zh">天天把歌唱-2023-100</title>
     </programme>
-    <programme start="20230513181500" stop="20230513184000" channel="cctv3">
+    <programme start="20230513181000" stop="20230513183500" channel="cctv3">
         <title lang="zh">中国文艺报道-2023-127</title>
     </programme>
-    <programme start="20230513184000" stop="20230513193500" channel="cctv3">
+    <programme start="20230513183500" stop="20230513193000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-614</title>
     </programme>
-    <programme start="20230513193500" stop="20230513205900" channel="cctv3">
+    <programme start="20230513193000" stop="20230513205400" channel="cctv3">
         <title lang="zh">星光大道-2023-21</title>
     </programme>
-    <programme start="20230513205900" stop="20230513220500" channel="cctv3">
+    <programme start="20230513205400" stop="20230513220000" channel="cctv3">
         <title lang="zh">非常6+1-2023-18</title>
     </programme>
-    <programme start="20230513220500" stop="20230513230000" channel="cctv3">
+    <programme start="20230513220000" stop="20230513225500" channel="cctv3">
         <title lang="zh">回声嘹亮-2023-19</title>
     </programme>
-    <programme start="20230513230000" stop="20230513234900" channel="cctv3">
+    <programme start="20230513225500" stop="20230513234400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-708 今生有你 25/30</title>
     </programme>
-    <programme start="20230513234900" stop="20230513235900" channel="cctv3">
+    <programme start="20230513234400" stop="20230513235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-709 今生有你 26/30</title>
     </programme>
-    <programme start="20230514003600" stop="20230514012300" channel="cctv3">
+    <programme start="20230514003100" stop="20230514011800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-710 今生有你 27/30</title>
     </programme>
-    <programme start="20230514012300" stop="20230514024200" channel="cctv3">
+    <programme start="20230514011800" stop="20230514023700" channel="cctv3">
         <title lang="zh">越战越勇-2023-12</title>
     </programme>
-    <programme start="20230514024200" stop="20230514034300" channel="cctv3">
+    <programme start="20230514023700" stop="20230514033800" channel="cctv3">
         <title lang="zh">非常6+1-2023-8</title>
     </programme>
-    <programme start="20230514034300" stop="20230514050900" channel="cctv3">
+    <programme start="20230514033800" stop="20230514050900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-48 一馔千年7</title>
     </programme>
     <programme start="20230514050900" stop="20230514053700" channel="cctv3">
@@ -1008,23 +1008,23 @@
     <programme start="20230514103400" stop="20230514120400" channel="cctv3">
         <title lang="zh">星光大道-2023-21</title>
     </programme>
-    <programme start="20230514120400" stop="20230514133300" channel="cctv3">
+    <programme start="20230514120400" stop="20230514133600" channel="cctv3">
         <title lang="zh">越战越勇-2023-18</title>
     </programme>
-    <programme start="20230514133300" stop="20230514133600" channel="cctv3">
+    <programme start="20230514133600" stop="20230514133900" channel="cctv3">
         <title lang="zh">中国文艺报道-2023-165</title>
     </programme>
-    <programme start="20230514133600" stop="20230514151400" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2023-50 一馔千年9</title>
+    <programme start="20230514133900" stop="20230514150500" channel="cctv3">
+        <title lang="zh">向幸福出发-2023-12</title>
     </programme>
-    <programme start="20230514151400" stop="20230514152100" channel="cctv3">
+    <programme start="20230514150500" stop="20230514151200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-760</title>
     </programme>
-    <programme start="20230514152100" stop="20230514161600" channel="cctv3">
+    <programme start="20230514151200" stop="20230514161200" channel="cctv3">
         <title lang="zh">幸福账单-2023-17</title>
     </programme>
-    <programme start="20230514161600" stop="20230514174000" channel="cctv3">
-        <title lang="zh">开门大吉-2023-14</title>
+    <programme start="20230514161200" stop="20230514174000" channel="cctv3">
+        <title lang="zh">开门大吉-2023-19</title>
     </programme>
     <programme start="20230514174000" stop="20230514180900" channel="cctv3">
         <title lang="zh">舞蹈世界-2023-6</title>
@@ -2476,7 +2476,7 @@
         <title lang="zh">本集提要- 《谯国夫人》第32集</title>
     </programme>
     <programme start="20230513222300" stop="20230513231100" channel="cctv8">
-        <title lang="zh">谯国夫人32/35</title>
+        <title lang="zh">谯国夫人第32集</title>
     </programme>
     <programme start="20230513231100" stop="20230513235700" channel="cctv8">
         <title lang="zh">谢谢你医生第36集</title>
