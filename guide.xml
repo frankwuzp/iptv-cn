@@ -330,8 +330,14 @@
     <programme start="20230530103000" stop="20230530104200" channel="cctv1">
         <title lang="zh">美术里的中国-33</title>
     </programme>
-    <programme start="20230530104200" stop="20230530105100" channel="cctv1">
+    <programme start="20230530104200" stop="20230530104900" channel="cctv1">
         <title lang="zh">美术里的中国-37</title>
+    </programme>
+    <programme start="20230530104900" stop="20230530105000" channel="cctv1">
+        <title lang="zh">寻古中国-31</title>
+    </programme>
+    <programme start="20230530105000" stop="20230530105100" channel="cctv1">
+        <title lang="zh">寻古中国-32</title>
     </programme>
     <programme start="20230530105100" stop="20230530105200" channel="cctv1">
         <title lang="zh">美术里的中国-27</title>
@@ -972,58 +978,61 @@
     <programme start="20230530023200" stop="20230530030400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-1210</title>
     </programme>
-    <programme start="20230530030400" stop="20230530044200" channel="cctv3">
+    <programme start="20230530030400" stop="20230530043900" channel="cctv3">
         <title lang="zh">喜剧的喜聚-1</title>
     </programme>
-    <programme start="20230530044200" stop="20230530045000" channel="cctv3">
+    <programme start="20230530043900" stop="20230530044700" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-939</title>
     </programme>
-    <programme start="20230530045000" stop="20230530050300" channel="cctv3">
+    <programme start="20230530044700" stop="20230530045500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-940</title>
     </programme>
-    <programme start="20230530050300" stop="20230530055400" channel="cctv3">
+    <programme start="20230530045500" stop="20230530054600" channel="cctv3">
         <title lang="zh">黄金100秒-2023-19</title>
     </programme>
-    <programme start="20230530055400" stop="20230530062500" channel="cctv3">
+    <programme start="20230530054600" stop="20230530061800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-828</title>
     </programme>
-    <programme start="20230530062500" stop="20230530074300" channel="cctv3">
+    <programme start="20230530061800" stop="20230530073600" channel="cctv3">
         <title lang="zh">星光大道-2023-16</title>
     </programme>
-    <programme start="20230530074300" stop="20230530075400" channel="cctv3">
+    <programme start="20230530073600" stop="20230530074700" channel="cctv3">
         <title lang="zh">文化十分-2023-111</title>
     </programme>
-    <programme start="20230530075400" stop="20230530082700" channel="cctv3">
+    <programme start="20230530074700" stop="20230530082200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-342</title>
     </programme>
-    <programme start="20230530082700" stop="20230530083500" channel="cctv3">
+    <programme start="20230530082200" stop="20230530082900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-560</title>
     </programme>
-    <programme start="20230530083500" stop="20230530092900" channel="cctv3">
+    <programme start="20230530082900" stop="20230530092300" channel="cctv3">
         <title lang="zh">回声嘹亮-2023-20</title>
     </programme>
-    <programme start="20230530092900" stop="20230530093200" channel="cctv3">
+    <programme start="20230530092300" stop="20230530092600" channel="cctv3">
         <title lang="zh">中国文艺报道-2023-214</title>
     </programme>
-    <programme start="20230530093200" stop="20230530102900" channel="cctv3">
+    <programme start="20230530092600" stop="20230530102200" channel="cctv3">
         <title lang="zh">我的艺术清单-2023-18</title>
     </programme>
-    <programme start="20230530102900" stop="20230530115600" channel="cctv3">
+    <programme start="20230530102200" stop="20230530103600" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2023-963</title>
+    </programme>
+    <programme start="20230530103600" stop="20230530120400" channel="cctv3">
         <title lang="zh">开门大吉-2023-22</title>
     </programme>
-    <programme start="20230530115600" stop="20230530121200" channel="cctv3">
+    <programme start="20230530120400" stop="20230530121600" channel="cctv3">
         <title lang="zh">文化十分-2023-112</title>
     </programme>
-    <programme start="20230530121200" stop="20230530134300" channel="cctv3">
+    <programme start="20230530121600" stop="20230530134300" channel="cctv3">
         <title lang="zh">向幸福出发-2023-21</title>
     </programme>
     <programme start="20230530134300" stop="20230530134600" channel="cctv3">
         <title lang="zh">中国文艺报道-2023-215</title>
     </programme>
-    <programme start="20230530134600" stop="20230530144000" channel="cctv3">
+    <programme start="20230530134600" stop="20230530144300" channel="cctv3">
         <title lang="zh">黄金100秒-2023-20</title>
     </programme>
-    <programme start="20230530144000" stop="20230530160500" channel="cctv3">
+    <programme start="20230530144300" stop="20230530160500" channel="cctv3">
         <title lang="zh">越战越勇-2023-21</title>
     </programme>
     <programme start="20230530160500" stop="20230530161200" channel="cctv3">
@@ -1734,14 +1743,14 @@
     <programme start="20230530053000" stop="20230530070000" channel="cctv5plus">
         <title lang="zh">2023年国际冰联男子冰球世界锦标赛-顶级组（匈牙利队-芬兰队）</title>
     </programme>
-    <programme start="20230530070000" stop="20230530090000" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-2023年苏迪曼杯羽毛球赛 小组赛 中国队-丹麦队（4K）</title>
+    <programme start="20230530070000" stop="20230530080000" channel="cctv5plus">
+        <title lang="zh">实况录像-2023年艺术体操世界杯 波尔蒂芒站 2</title>
     </programme>
-    <programme start="20230530090000" stop="20230530103000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-22-23赛季法甲联赛第37轮  雷恩—摩纳哥</title>
+    <programme start="20230530080000" stop="20230530110000" channel="cctv5plus">
+        <title lang="zh">2022/2023赛季北美冰球职业联赛-季后赛11 西部决赛第六场（维加斯金骑士—达拉斯星）</title>
     </programme>
-    <programme start="20230530103000" stop="20230530120000" channel="cctv5plus">
-        <title lang="zh">实况录像-2023年世界乒乓球锦标赛  1</title>
+    <programme start="20230530110000" stop="20230530120000" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2023年全国举重锦标赛 男子67公斤级决赛（4K）</title>
     </programme>
     <programme start="20230530120000" stop="20230530133000" channel="cctv5plus">
         <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 季后赛 总决赛 2</title>
@@ -1761,14 +1770,17 @@
     <programme start="20230530200500" stop="20230530213500" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界乒乓球锦标赛  2</title>
     </programme>
-    <programme start="20230530213500" stop="20230530233500" channel="cctv5plus">
-        <title lang="zh">实况录像-2022/2023赛季世界斯诺克锦标赛 1</title>
+    <programme start="20230530213500" stop="20230530220000" channel="cctv5plus">
+        <title lang="zh">实况录像-2023年艺术体操世界杯 波尔蒂芒站 25分钟版 1</title>
     </programme>
-    <programme start="20230530233500" stop="20230530235900" channel="cctv5plus">
+    <programme start="20230530220000" stop="20230530235900" channel="cctv5plus">
+        <title lang="zh">2023年世界跆拳道锦标赛-男子58公斤级、女子67公斤级、女子73公斤级 半决赛、决赛</title>
+    </programme>
+    <programme start="20230531003500" stop="20230531020500" channel="cctv5plus">
         <title lang="zh">2023年国际冰联男子冰球世界锦标赛-顶级组 三四名决赛</title>
     </programme>
-    <programme start="20230531010600" stop="20230531023600" channel="cctv5plus">
-        <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 季后赛 总决赛 1</title>
+    <programme start="20230531020500" stop="20230531023600" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2023-40-2023年体操世界杯 开罗站 25分钟版2</title>
     </programme>
     <programme start="20230531023600" stop="20230531040000" channel="cctv5plus">
         <title lang="zh">国际足球赛场-22-23赛季法甲联赛第35轮 朗斯—兰斯</title>
@@ -1797,14 +1809,11 @@
     <programme start="20230531153000" stop="20230531170000" channel="cctv5plus">
         <title lang="zh">实况录像-2022/2023欧洲冠军联赛 半决赛 第二回合 曼城—皇家马德里</title>
     </programme>
-    <programme start="20230531170000" stop="20230531220500" channel="cctv5plus">
+    <programme start="20230531170000" stop="20230531220000" channel="cctv5plus">
         <title lang="zh">2023年法国网球公开赛-第二轮1</title>
     </programme>
-    <programme start="20230531220500" stop="20230531233500" channel="cctv5plus">
-        <title lang="zh">实况录像-2023年世界乒乓球锦标赛  3</title>
-    </programme>
-    <programme start="20230531233500" stop="20230531235900" channel="cctv5plus">
-        <title lang="zh">实况录像-2023年世界田联钻石联赛  拉巴特站</title>
+    <programme start="20230531220000" stop="20230531235900" channel="cctv5plus">
+        <title lang="zh">2023年世界跆拳道锦标赛-男子80公斤级、男子87公斤级、女子49公斤级 半决赛、决赛</title>
     </programme>
     <programme start="20230529000900" stop="20230529001400" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
@@ -2422,19 +2431,19 @@
         <title lang="zh">本集提要- 《一代匠师》第24集</title>
     </programme>
     <programme start="20230529193000" stop="20230529202500" channel="cctv8">
-        <title lang="zh">一代匠师24/32</title>
+        <title lang="zh">一代匠师第24集</title>
     </programme>
     <programme start="20230529202500" stop="20230529203000" channel="cctv8">
         <title lang="zh">本集提要- 《一代匠师》第25集</title>
     </programme>
     <programme start="20230529203000" stop="20230529212500" channel="cctv8">
-        <title lang="zh">一代匠师25/32</title>
+        <title lang="zh">一代匠师第25集</title>
     </programme>
     <programme start="20230529212500" stop="20230529212900" channel="cctv8">
         <title lang="zh">本集提要- 《一代匠师》第26集</title>
     </programme>
     <programme start="20230529212900" stop="20230529222100" channel="cctv8">
-        <title lang="zh">一代匠师26/32</title>
+        <title lang="zh">一代匠师第26集</title>
     </programme>
     <programme start="20230529222100" stop="20230529231000" channel="cctv8">
         <title lang="zh">山河锦绣第20集</title>
@@ -2545,19 +2554,19 @@
         <title lang="zh">本集提要-《一代匠师》27/32</title>
     </programme>
     <programme start="20230530193000" stop="20230530202500" channel="cctv8">
-        <title lang="zh">一代匠师27/32</title>
+        <title lang="zh">一代匠师第27集</title>
     </programme>
     <programme start="20230530202500" stop="20230530203000" channel="cctv8">
         <title lang="zh">本集提要-《一代匠师》28/32</title>
     </programme>
     <programme start="20230530203000" stop="20230530212500" channel="cctv8">
-        <title lang="zh">一代匠师28/32</title>
+        <title lang="zh">一代匠师第28集</title>
     </programme>
     <programme start="20230530212500" stop="20230530212900" channel="cctv8">
         <title lang="zh">本集提要-《一代匠师》29/32</title>
     </programme>
     <programme start="20230530212900" stop="20230530222100" channel="cctv8">
-        <title lang="zh">一代匠师29/32</title>
+        <title lang="zh">一代匠师第29集</title>
     </programme>
     <programme start="20230530222100" stop="20230530231000" channel="cctv8">
         <title lang="zh">山河锦绣第21集</title>
@@ -2818,16 +2827,16 @@
         <title lang="zh">寰宇视野2023-152</title>
     </programme>
     <programme start="20230530115900" stop="20230530130300" channel="cctvjilu">
-        <title lang="zh">特别呈现2023-151</title>
+        <title lang="zh">魅力万象2023-130</title>
     </programme>
     <programme start="20230530130300" stop="20230530140200" channel="cctvjilu">
-        <title lang="zh">全景自然2023-158</title>
+        <title lang="zh">全景自然2023-130</title>
     </programme>
     <programme start="20230530140200" stop="20230530150200" channel="cctvjilu">
-        <title lang="zh">魅力万象2023-161</title>
+        <title lang="zh">魅力万象2023-131</title>
     </programme>
     <programme start="20230530150200" stop="20230530160100" channel="cctvjilu">
-        <title lang="zh">故事中国2023-139</title>
+        <title lang="zh">魅力万象2023-142</title>
     </programme>
     <programme start="20230530160100" stop="20230530170000" channel="cctvjilu">
         <title lang="zh">寰宇视野2023-152</title>
@@ -2902,16 +2911,16 @@
         <title lang="zh">寰宇视野2023-153</title>
     </programme>
     <programme start="20230531115900" stop="20230531130300" channel="cctvjilu">
-        <title lang="zh">特别呈现2023-152</title>
+        <title lang="zh">全景自然2023-92</title>
     </programme>
     <programme start="20230531130300" stop="20230531140200" channel="cctvjilu">
-        <title lang="zh">全景自然2023-159</title>
+        <title lang="zh">魅力万象2023-93</title>
     </programme>
     <programme start="20230531140200" stop="20230531150200" channel="cctvjilu">
-        <title lang="zh">魅力万象2023-162</title>
+        <title lang="zh">全景自然2023-93</title>
     </programme>
     <programme start="20230531150200" stop="20230531160100" channel="cctvjilu">
-        <title lang="zh">故事中国2023-140</title>
+        <title lang="zh">全景自然2023-143</title>
     </programme>
     <programme start="20230531160100" stop="20230531170000" channel="cctvjilu">
         <title lang="zh">寰宇视野2023-153</title>
