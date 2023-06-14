@@ -400,13 +400,13 @@
         <title lang="zh">前情提要- 《熟年》第26集</title>
     </programme>
     <programme start="20230615200600" stop="20230615205700" channel="cctv1">
-        <title lang="zh">熟年26/39</title>
+        <title lang="zh">熟年第26集</title>
     </programme>
-    <programme start="20230615205700" stop="20230615210000" channel="cctv1">
+    <programme start="20230615205700" stop="20230615210100" channel="cctv1">
         <title lang="zh">前情提要- 《熟年》第27集</title>
     </programme>
-    <programme start="20230615210000" stop="20230615220000" channel="cctv1">
-        <title lang="zh">熟年27/39</title>
+    <programme start="20230615210100" stop="20230615220000" channel="cctv1">
+        <title lang="zh">熟年第27集</title>
     </programme>
     <programme start="20230615220000" stop="20230615223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1638,11 +1638,17 @@
     <programme start="20230615073000" stop="20230615080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20230615080000" stop="20230615090000" channel="cctv5">
-        <title lang="zh">赛事集锦-2023年皮划艇激流回旋世界杯 德国站</title>
+    <programme start="20230615080000" stop="20230615082500" channel="cctv5">
+        <title lang="zh">实况录像-2023年三对三篮球世界杯 25分钟版 1</title>
     </programme>
-    <programme start="20230615090000" stop="20230615103000" channel="cctv5">
-        <title lang="zh">2022/2023赛季欧洲篮球联赛-决赛</title>
+    <programme start="20230615082500" stop="20230615083500" channel="cctv5">
+        <title lang="zh">赛事集锦(高清体育)-2023-58-2023年世界跆拳道锦标赛 精彩</title>
+    </programme>
+    <programme start="20230615083500" stop="20230615093000" channel="cctv5">
+        <title lang="zh">第19届亚运会火种采集仪式-“薪火相传，@未来”亚运会火种采集仪式</title>
+    </programme>
+    <programme start="20230615093000" stop="20230615103000" channel="cctv5">
+        <title lang="zh">赛事集锦(高清体育)-2023-59-2023年皮划艇激流回旋世界杯 德国站</title>
     </programme>
     <programme start="20230615103000" stop="20230615120000" channel="cctv5">
         <title lang="zh">实况录像-2023年世界女排联赛  中国香港站  荷兰队—土耳其队</title>
@@ -2043,55 +2049,58 @@
     <programme start="20230616031700" stop="20230616035200" channel="cctv6">
         <title lang="zh">眩目青春（上）</title>
     </programme>
-    <programme start="20230616035200" stop="20230616050300" channel="cctv6">
+    <programme start="20230616035200" stop="20230616045900" channel="cctv6">
         <title lang="zh">眩目青春（下）</title>
     </programme>
-    <programme start="20230616050300" stop="20230616063300" channel="cctv6">
-        <title lang="zh">猎妖记</title>
-    </programme>
-    <programme start="20230616063300" stop="20230616082900" channel="cctv6">
-        <title lang="zh">黎乡遇见你</title>
-    </programme>
-    <programme start="20230616082900" stop="20230616103000" channel="cctv6">
-        <title lang="zh">知音</title>
-    </programme>
-    <programme start="20230616103000" stop="20230616103700" channel="cctv6">
-        <title lang="zh">音乐电影欣赏</title>
-    </programme>
-    <programme start="20230616103700" stop="20230616124300" channel="cctv6">
-        <title lang="zh">横空出世</title>
-    </programme>
-    <programme start="20230616124300" stop="20230616140000" channel="cctv6">
-        <title lang="zh">阿凡达（上）（18）</title>
-    </programme>
-    <programme start="20230616140000" stop="20230616153600" channel="cctv6">
-        <title lang="zh">阿凡达（下）（18）</title>
-    </programme>
-    <programme start="20230616153600" stop="20230616172000" channel="cctv6">
+    <programme start="20230616045900" stop="20230616060700" channel="cctv6">
         <title lang="zh">最后的约定</title>
     </programme>
-    <programme start="20230616172000" stop="20230616175300" channel="cctv6">
+    <programme start="20230616060700" stop="20230616073500" channel="cctv6">
+        <title lang="zh">猎妖记</title>
+    </programme>
+    <programme start="20230616073500" stop="20230616093600" channel="cctv6">
+        <title lang="zh">黎乡遇见你</title>
+    </programme>
+    <programme start="20230616093600" stop="20230616114300" channel="cctv6">
+        <title lang="zh">知音</title>
+    </programme>
+    <programme start="20230616114300" stop="20230616115300" channel="cctv6">
+        <title lang="zh">音乐电影欣赏</title>
+    </programme>
+    <programme start="20230616115300" stop="20230616140600" channel="cctv6">
+        <title lang="zh">横空出世</title>
+    </programme>
+    <programme start="20230616140600" stop="20230616154400" channel="cctv6">
+        <title lang="zh">阿凡达（上）（18）</title>
+    </programme>
+    <programme start="20230616154400" stop="20230616171700" channel="cctv6">
+        <title lang="zh">阿凡达（下）（18）</title>
+    </programme>
+    <programme start="20230616171700" stop="20230616175900" channel="cctv6">
         <title lang="zh">《1905影视频》2023-024</title>
     </programme>
-    <programme start="20230616175300" stop="20230616195900" channel="cctv6">
+    <programme start="20230616175900" stop="20230616200100" channel="cctv6">
         <title lang="zh">金江1936</title>
     </programme>
-    <programme start="20230616195900" stop="20230616201100" channel="cctv6">
+    <programme start="20230616200100" stop="20230616201500" channel="cctv6">
         <title lang="zh">今日影评2023-167</title>
     </programme>
-    <programme start="20230616201100" stop="20230616215700" channel="cctv6">
-        <title lang="zh">侠义金枪客</title>
+    <programme start="20230616201500" stop="20230616212400" channel="cctv6">
+        <title lang="zh">第20届电影频道传媒关注单元闭幕仪式1</title>
     </programme>
-    <programme start="20230616215700" stop="20230616221900" channel="cctv6">
+    <programme start="20230616212400" stop="20230616223900" channel="cctv6">
+        <title lang="zh">第20届电影频道传媒关注单元闭幕仪式2</title>
+    </programme>
+    <programme start="20230616223900" stop="20230616230000" channel="cctv6">
         <title lang="zh">中国电影报道2023-167</title>
     </programme>
-    <programme start="20230616221900" stop="20230616225700" channel="cctv6">
-        <title lang="zh">忍者神龟2 破影而出（上）</title>
-    </programme>
-    <programme start="20230616225700" stop="20230616230000" channel="cctv6">
+    <programme start="20230616230000" stop="20230616230200" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2023-06-16</title>
     </programme>
-    <programme start="20230616230000" stop="20230616235900" channel="cctv6">
+    <programme start="20230616230200" stop="20230616233800" channel="cctv6">
+        <title lang="zh">忍者神龟2 破影而出（上）</title>
+    </programme>
+    <programme start="20230616233800" stop="20230616235900" channel="cctv6">
         <title lang="zh">忍者神龟2 破影而出（下）</title>
     </programme>
     <programme start="20230614001000" stop="20230614004800" channel="cctv7">
@@ -2659,13 +2668,13 @@
         <title lang="zh">梦中的那片海第30集</title>
     </programme>
     <programme start="20230615212400" stop="20230615212900" channel="cctv8">
-        <title lang="zh">本集提要-《张卫国的夏天》16/18</title>
+        <title lang="zh">本集提要- 《张卫国的夏天》第16集</title>
     </programme>
     <programme start="20230615212900" stop="20230615222000" channel="cctv8">
         <title lang="zh">张卫国的夏天第16集</title>
     </programme>
     <programme start="20230615222000" stop="20230615222200" channel="cctv8">
-        <title lang="zh">本集提要-《张卫国的夏天》17/18</title>
+        <title lang="zh">本集提要- 《张卫国的夏天》第17集</title>
     </programme>
     <programme start="20230615222200" stop="20230615231100" channel="cctv8">
         <title lang="zh">张卫国的夏天第17集</title>
@@ -4374,14 +4383,17 @@
     <programme start="20230615060100" stop="20230615063000" channel="cctv16">
         <title lang="zh">欧冠开场哨-2023-10</title>
     </programme>
-    <programme start="20230615063000" stop="20230615080000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2023年ATP1000男子网球大师赛 迈阿密站 决赛</title>
+    <programme start="20230615063000" stop="20230615071500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界泳联跳水世界杯 西安站 女子十米台决赛（4K）</title>
     </programme>
-    <programme start="20230615080000" stop="20230615090000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2023年皮划艇世界杯 匈牙利站1</title>
+    <programme start="20230615071500" stop="20230615083500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛 中国香港站 多米尼加队-波兰队（4K）</title>
     </programme>
-    <programme start="20230615090000" stop="20230615103000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛 中国香港站 多米尼加队-波兰队</title>
+    <programme start="20230615083500" stop="20230615093500" channel="cctv16">
+        <title lang="zh">第19届亚运会火种采集仪式-“薪火相传，@未来”亚运会火种采集仪式</title>
+    </programme>
+    <programme start="20230615093500" stop="20230615103000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2023年三对三篮球世界杯 2（4K）</title>
     </programme>
     <programme start="20230615103000" stop="20230615120000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛  多哈站</title>
@@ -4408,7 +4420,7 @@
         <title lang="zh">艺术里的奥林匹克-2023-32</title>
     </programme>
     <programme start="20230615155500" stop="20230615172500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2023年法国网球公开赛 女单半决赛</title>
+        <title lang="zh">实况录像（奥林匹克）-2023年法国网球公开赛 女双半决赛 谢淑薇/王欣瑜-梅里查尔/佩雷兹（4K）</title>
     </programme>
     <programme start="20230615172500" stop="20230615185500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年世界乒乓球锦标赛 4</title>
