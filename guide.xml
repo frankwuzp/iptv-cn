@@ -402,14 +402,14 @@
     <programme start="20230706200100" stop="20230706200600" channel="cctv1">
         <title lang="zh">前情提要- 《追光的日子》第8集</title>
     </programme>
-    <programme start="20230706200600" stop="20230706205700" channel="cctv1">
+    <programme start="20230706200600" stop="20230706205800" channel="cctv1">
         <title lang="zh">追光的日子8/30</title>
     </programme>
-    <programme start="20230706205700" stop="20230706210000" channel="cctv1">
+    <programme start="20230706205800" stop="20230706210100" channel="cctv1">
         <title lang="zh">前情提要-《追光的日子》9/30</title>
     </programme>
-    <programme start="20230706210000" stop="20230706220000" channel="cctv1">
-        <title lang="zh">追光的日子9/30</title>
+    <programme start="20230706210100" stop="20230706220000" channel="cctv1">
+        <title lang="zh">追光的日子第9集</title>
     </programme>
     <programme start="20230706220000" stop="20230706223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1161,11 +1161,14 @@
     <programme start="20230705092800" stop="20230705100000" channel="cctv4">
         <title lang="zh">中国文艺-2023-132</title>
     </programme>
-    <programme start="20230705100000" stop="20230705110000" channel="cctv4">
+    <programme start="20230705100000" stop="20230705111000" channel="cctv4">
         <title lang="zh">2023年国新办发布会-33</title>
     </programme>
-    <programme start="20230705110000" stop="20230705113000" channel="cctv4">
-        <title lang="zh">国家记忆-2023-72</title>
+    <programme start="20230705111000" stop="20230705112000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-78</title>
+    </programme>
+    <programme start="20230705112000" stop="20230705113000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-79</title>
     </programme>
     <programme start="20230705113000" stop="20230705120000" channel="cctv4">
         <title lang="zh">海峡两岸-2023-185</title>
@@ -1747,7 +1750,7 @@
         <title lang="zh">2023年温布尔登网球赛-第二轮2</title>
     </programme>
     <programme start="20230706220500" stop="20230706233500" channel="cctv5plus">
-        <title lang="zh">实况录像-2023年世界男排联赛   菲律宾站  日本队—中国队</title>
+        <title lang="zh">实况录像-2023年世界女排联赛  泰国站  巴西队—加拿大队</title>
     </programme>
     <programme start="20230706233500" stop="20230706235900" channel="cctv5plus">
         <title lang="zh">2023年环法自行车赛-第5赛段</title>
@@ -1789,7 +1792,7 @@
         <title lang="zh">赛事集锦-2023年花样游泳世界杯 超级总决赛2</title>
     </programme>
     <programme start="20230707170000" stop="20230707183000" channel="cctv5plus">
-        <title lang="zh">实况录像-2023年世界女排联赛  韩国站  中国队—多米尼加队</title>
+        <title lang="zh">实况录像-2023年世界女排联赛  韩国站  中国队—美国队</title>
     </programme>
     <programme start="20230707183000" stop="20230707193000" channel="cctv5plus">
         <title lang="zh">实况录像-2023年国际篮联女篮亚洲杯 小组赛  中国队—韩国队</title>
@@ -2536,16 +2539,16 @@
         <title lang="zh">星推荐-2023年7月-6</title>
     </programme>
     <programme start="20230706192500" stop="20230706193000" channel="cctv8">
-        <title lang="zh">本集提要-《南洋女儿情》33/40</title>
+        <title lang="zh">本集提要- 《南洋女儿情》第33集</title>
     </programme>
     <programme start="20230706193000" stop="20230706202500" channel="cctv8">
-        <title lang="zh">南洋女儿情33/40</title>
+        <title lang="zh">南洋女儿情第33集</title>
     </programme>
     <programme start="20230706202500" stop="20230706203000" channel="cctv8">
-        <title lang="zh">本集提要-《南洋女儿情》34/40</title>
+        <title lang="zh">本集提要- 《南洋女儿情》第34集</title>
     </programme>
     <programme start="20230706203000" stop="20230706212300" channel="cctv8">
-        <title lang="zh">南洋女儿情34/40</title>
+        <title lang="zh">南洋女儿情第34集</title>
     </programme>
     <programme start="20230706212300" stop="20230706212800" channel="cctv8">
         <title lang="zh">本集提要- 《长风渡》第20集</title>
@@ -2554,10 +2557,10 @@
         <title lang="zh">长风渡20/38</title>
     </programme>
     <programme start="20230706221900" stop="20230706222200" channel="cctv8">
-        <title lang="zh">本集提要-《长风渡》21/38</title>
+        <title lang="zh">本集提要- 《长风渡》第21集</title>
     </programme>
     <programme start="20230706222200" stop="20230706231100" channel="cctv8">
-        <title lang="zh">长风渡21/38</title>
+        <title lang="zh">长风渡第21集</title>
     </programme>
     <programme start="20230706231100" stop="20230706235700" channel="cctv8">
         <title lang="zh">特战行动第19集</title>
