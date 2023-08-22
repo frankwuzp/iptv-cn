@@ -279,8 +279,17 @@
     <programme start="20230822193900" stop="20230822200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20230822200600" stop="20230822220000" channel="cctv1">
-        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-1</title>
+    <programme start="20230822200600" stop="20230822205500" channel="cctv1">
+        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-上</title>
+    </programme>
+    <programme start="20230822205500" stop="20230822212400" channel="cctv1">
+        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-中</title>
+    </programme>
+    <programme start="20230822212400" stop="20230822215700" channel="cctv1">
+        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-下</title>
+    </programme>
+    <programme start="20230822215700" stop="20230822220000" channel="cctv1">
+        <title lang="zh">寻古中国-33宣传片-1</title>
     </programme>
     <programme start="20230822220000" stop="20230822223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -393,13 +402,13 @@
     <programme start="20230823200100" stop="20230823200600" channel="cctv1">
         <title lang="zh">前情提要- 《冰雪尖刀连》第18集</title>
     </programme>
-    <programme start="20230823200600" stop="20230823205600" channel="cctv1">
+    <programme start="20230823200600" stop="20230823205700" channel="cctv1">
         <title lang="zh">冰雪尖刀连18/24</title>
     </programme>
-    <programme start="20230823205600" stop="20230823205800" channel="cctv1">
+    <programme start="20230823205700" stop="20230823210100" channel="cctv1">
         <title lang="zh">前情提要- 《冰雪尖刀连》第19集</title>
     </programme>
-    <programme start="20230823205800" stop="20230823220000" channel="cctv1">
+    <programme start="20230823210100" stop="20230823220000" channel="cctv1">
         <title lang="zh">冰雪尖刀连19/24</title>
     </programme>
     <programme start="20230823220000" stop="20230823223400" channel="cctv1">
@@ -610,7 +619,7 @@
         <title lang="zh">周末特供2022-水果传第二季2-18分版</title>
     </programme>
     <programme start="20230822174900" stop="20230822183000" channel="cctv2">
-        <title lang="zh">2021精品财经纪录-鲜味的秘密-4</title>
+        <title lang="zh">2022精品财经纪录-老广的味道第七季-3</title>
     </programme>
     <programme start="20230822183000" stop="20230822190000" channel="cctv2">
         <title lang="zh">回家吃饭-2023-195</title>
@@ -727,7 +736,7 @@
         <title lang="zh">周末特供2022-水果传第二季3-18分版</title>
     </programme>
     <programme start="20230823174900" stop="20230823183000" channel="cctv2">
-        <title lang="zh">2021精品财经纪录-鲜味的秘密-5</title>
+        <title lang="zh">2022精品财经纪录-老广的味道第七季-4</title>
     </programme>
     <programme start="20230823183000" stop="20230823190000" channel="cctv2">
         <title lang="zh">回家吃饭-2023-196</title>
@@ -936,17 +945,29 @@
     <programme start="20230822183900" stop="20230822200600" channel="cctv3">
         <title lang="zh">向幸福出发-2023-34</title>
     </programme>
-    <programme start="20230822200600" stop="20230822215200" channel="cctv3">
-        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-1</title>
+    <programme start="20230822200600" stop="20230822205500" channel="cctv3">
+        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-上</title>
     </programme>
-    <programme start="20230822215200" stop="20230822225200" channel="cctv3">
+    <programme start="20230822205500" stop="20230822212400" channel="cctv3">
+        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-中</title>
+    </programme>
+    <programme start="20230822212400" stop="20230822214600" channel="cctv3">
+        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-下</title>
+    </programme>
+    <programme start="20230822214600" stop="20230822224600" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1228</title>
     </programme>
-    <programme start="20230822225200" stop="20230822234000" channel="cctv3">
+    <programme start="20230822224600" stop="20230822233200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1231 对手 1/37</title>
     </programme>
-    <programme start="20230822234000" stop="20230822235900" channel="cctv3">
+    <programme start="20230822233200" stop="20230822233800" channel="cctv3">
+        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-行走</title>
+    </programme>
+    <programme start="20230822233800" stop="20230822235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1232 对手 2/37</title>
+    </programme>
+    <programme start="20230823002400" stop="20230823002900" channel="cctv3">
+        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-乡间漫歌七夕啦</title>
     </programme>
     <programme start="20230823002900" stop="20230823011600" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1233 对手 3/37</title>
@@ -954,49 +975,52 @@
     <programme start="20230823011600" stop="20230823023700" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1210</title>
     </programme>
-    <programme start="20230823023700" stop="20230823033800" channel="cctv3">
+    <programme start="20230823023700" stop="20230823033700" channel="cctv3">
         <title lang="zh">黄金100秒-2023-33</title>
     </programme>
-    <programme start="20230823033800" stop="20230823050900" channel="cctv3">
+    <programme start="20230823033700" stop="20230823033800" channel="cctv3">
+        <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-上</title>
+    </programme>
+    <programme start="20230823033800" stop="20230823050800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1206-2023年中国诗词大会 7</title>
     </programme>
-    <programme start="20230823050900" stop="20230823054000" channel="cctv3">
-        <title lang="zh">回声嘹亮-2023-58</title>
+    <programme start="20230823050800" stop="20230823053400" channel="cctv3">
+        <title lang="zh">舞蹈世界-2023-29</title>
     </programme>
-    <programme start="20230823054000" stop="20230823070100" channel="cctv3">
+    <programme start="20230823053400" stop="20230823065500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1212</title>
     </programme>
-    <programme start="20230823070100" stop="20230823071200" channel="cctv3">
+    <programme start="20230823065500" stop="20230823070800" channel="cctv3">
         <title lang="zh">文化十分-2023-173</title>
     </programme>
-    <programme start="20230823071200" stop="20230823074800" channel="cctv3">
+    <programme start="20230823070800" stop="20230823074400" channel="cctv3">
         <title lang="zh">天天把歌唱-2023-174</title>
     </programme>
-    <programme start="20230823074800" stop="20230823084100" channel="cctv3">
+    <programme start="20230823074400" stop="20230823083700" channel="cctv3">
         <title lang="zh">我的艺术清单-2023-28</title>
     </programme>
-    <programme start="20230823084100" stop="20230823094900" channel="cctv3">
-        <title lang="zh">黄金100秒-2023-35</title>
+    <programme start="20230823083700" stop="20230823094500" channel="cctv3">
+        <title lang="zh">黄金100秒-2023-34</title>
     </programme>
-    <programme start="20230823094900" stop="20230823114100" channel="cctv3">
+    <programme start="20230823094500" stop="20230823113500" channel="cctv3">
         <title lang="zh">如七而遇漫歌今夕-2023中央广播电视总台七夕特别节目-1</title>
     </programme>
-    <programme start="20230823114100" stop="20230823115400" channel="cctv3">
+    <programme start="20230823113500" stop="20230823115000" channel="cctv3">
         <title lang="zh">文化十分-2023-174</title>
     </programme>
-    <programme start="20230823115400" stop="20230823132400" channel="cctv3">
+    <programme start="20230823115000" stop="20230823132000" channel="cctv3">
         <title lang="zh">向幸福出发-2023-34</title>
     </programme>
-    <programme start="20230823132400" stop="20230823145100" channel="cctv3">
+    <programme start="20230823132000" stop="20230823144900" channel="cctv3">
         <title lang="zh">星光大道-2023-38</title>
     </programme>
-    <programme start="20230823145100" stop="20230823161800" channel="cctv3">
+    <programme start="20230823144900" stop="20230823161500" channel="cctv3">
         <title lang="zh">开门大吉-2023-34</title>
     </programme>
-    <programme start="20230823161800" stop="20230823172800" channel="cctv3">
+    <programme start="20230823161500" stop="20230823172500" channel="cctv3">
         <title lang="zh">非常6+1-2023-29</title>
     </programme>
-    <programme start="20230823172800" stop="20230823180400" channel="cctv3">
+    <programme start="20230823172500" stop="20230823180400" channel="cctv3">
         <title lang="zh">中国文艺报道-2023-346</title>
     </programme>
     <programme start="20230823180400" stop="20230823193000" channel="cctv3">
@@ -1275,11 +1299,11 @@
     <programme start="20230823093000" stop="20230823100000" channel="cctv4">
         <title lang="zh">中国文艺-2023-167</title>
     </programme>
-    <programme start="20230823100000" stop="20230823101200" channel="cctv4">
-        <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20230823101200" stop="20230823105700" channel="cctv4">
+    <programme start="20230823100000" stop="20230823104500" channel="cctv4">
         <title lang="zh">远方的家2023-79(4K)</title>
+    </programme>
+    <programme start="20230823104500" stop="20230823105700" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-23</title>
     </programme>
     <programme start="20230823105700" stop="20230823112800" channel="cctv4">
         <title lang="zh">国家记忆-2023-107</title>
@@ -1365,11 +1389,11 @@
     <programme start="20230824020000" stop="20230824023000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230824023000" stop="20230824030000" channel="cctv4">
+    <programme start="20230824023000" stop="20230824025800" channel="cctv4">
         <title lang="zh">走遍中国-2023-95</title>
     </programme>
-    <programme start="20230824030000" stop="20230824031000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20230824025800" stop="20230824031000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-23</title>
     </programme>
     <programme start="20230824031000" stop="20230824040000" channel="cctv4">
         <title lang="zh">远方的家2023-80(4K)</title>
@@ -1713,14 +1737,20 @@
     <programme start="20230823153000" stop="20230823160000" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界泳联锦标赛 高台跳水  男子27米跳台 决赛</title>
     </programme>
-    <programme start="20230823160000" stop="20230823193000" channel="cctv5plus">
+    <programme start="20230823160000" stop="20230823193500" channel="cctv5plus">
         <title lang="zh">2023年世界田径锦标赛- 多项预赛</title>
     </programme>
-    <programme start="20230823193000" stop="20230823220500" channel="cctv5plus">
-        <title lang="zh">2023年世界羽毛球锦标赛- 第二轮2</title>
+    <programme start="20230823193500" stop="20230823200000" channel="cctv5plus">
+        <title lang="zh">实况录像-2023年艺术体操世界杯  意大利站  25分钟版 1</title>
     </programme>
-    <programme start="20230823220500" stop="20230823233500" channel="cctv5plus">
-        <title lang="zh">2023年ATP1000男子网球大师赛- 辛辛那提站 2</title>
+    <programme start="20230823200000" stop="20230823222000" channel="cctv5plus">
+        <title lang="zh">2023年国际冰联女子冰球世锦赛-甲级A组（丹麦-中国）</title>
+    </programme>
+    <programme start="20230823222000" stop="20230823232000" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2023-70-2023年世界击剑锦标赛 1</title>
+    </programme>
+    <programme start="20230823232000" stop="20230823233500" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2023-58-2023年世界跆拳道锦标赛 精彩</title>
     </programme>
     <programme start="20230823233500" stop="20230823235900" channel="cctv5plus">
         <title lang="zh">赛事集锦-2023年高尔夫英国公开赛 第三轮</title>
@@ -1908,44 +1938,56 @@
     <programme start="20230824015900" stop="20230824034900" channel="cctv6">
         <title lang="zh">佩剑将军</title>
     </programme>
-    <programme start="20230824034900" stop="20230824063200" channel="cctv6">
+    <programme start="20230824034900" stop="20230824052900" channel="cctv6">
         <title lang="zh">公路美人</title>
     </programme>
-    <programme start="20230824063200" stop="20230824081600" channel="cctv6">
+    <programme start="20230824052900" stop="20230824063200" channel="cctv6">
+        <title lang="zh">风雪狼道</title>
+    </programme>
+    <programme start="20230824063200" stop="20230824081700" channel="cctv6">
         <title lang="zh">镖行天下之走单骑</title>
     </programme>
-    <programme start="20230824081600" stop="20230824100400" channel="cctv6">
-        <title lang="zh">魔方大厦（1-5集）（替换）</title>
+    <programme start="20230824081700" stop="20230824100000" channel="cctv6">
+        <title lang="zh">魔方大厦(1-5)</title>
     </programme>
-    <programme start="20230824100400" stop="20230824114800" channel="cctv6">
-        <title lang="zh">魔方大厦（6-10集）（替换）</title>
+    <programme start="20230824100000" stop="20230824114500" channel="cctv6">
+        <title lang="zh">魔方大厦(6-10)</title>
     </programme>
-    <programme start="20230824114800" stop="20230824115400" channel="cctv6">
+    <programme start="20230824114500" stop="20230824115400" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20230824115400" stop="20230824134400" channel="cctv6">
+    <programme start="20230824115400" stop="20230824134600" channel="cctv6">
         <title lang="zh">天河</title>
     </programme>
-    <programme start="20230824134400" stop="20230824162300" channel="cctv6">
-        <title lang="zh">巴霍巴利王2：终结</title>
+    <programme start="20230824134600" stop="20230824150700" channel="cctv6">
+        <title lang="zh">巴霍巴利王2：终结（上）18</title>
     </programme>
-    <programme start="20230824162300" stop="20230824182100" channel="cctv6">
+    <programme start="20230824150700" stop="20230824162700" channel="cctv6">
+        <title lang="zh">巴霍巴利王2：终结（下）18</title>
+    </programme>
+    <programme start="20230824162700" stop="20230824183300" channel="cctv6">
         <title lang="zh">夺宝黑狐岭</title>
     </programme>
-    <programme start="20230824182100" stop="20230824200500" channel="cctv6">
+    <programme start="20230824183300" stop="20230824201300" channel="cctv6">
         <title lang="zh">卧底使命 火线追凶</title>
     </programme>
-    <programme start="20230824200500" stop="20230824201700" channel="cctv6">
+    <programme start="20230824201300" stop="20230824202300" channel="cctv6">
         <title lang="zh">今日影评2023-236</title>
     </programme>
-    <programme start="20230824201700" stop="20230824220000" channel="cctv6">
+    <programme start="20230824202300" stop="20230824220000" channel="cctv6">
         <title lang="zh">卧底使命 战友失踪</title>
     </programme>
     <programme start="20230824220000" stop="20230824222200" channel="cctv6">
         <title lang="zh">中国电影报道2023-236</title>
     </programme>
-    <programme start="20230824222200" stop="20230824235900" channel="cctv6">
-        <title lang="zh">狂暴凶狮</title>
+    <programme start="20230824222200" stop="20230824230000" channel="cctv6">
+        <title lang="zh">南少林与北少林（上）</title>
+    </programme>
+    <programme start="20230824230000" stop="20230824230300" channel="cctv6">
+        <title lang="zh">中国体育彩票阳光开奖2023-08-24</title>
+    </programme>
+    <programme start="20230824230300" stop="20230824235900" channel="cctv6">
+        <title lang="zh">南少林与北少林（下）</title>
     </programme>
     <programme start="20230822001000" stop="20230822004800" channel="cctv7">
         <title lang="zh">兵器面面观-2023-150</title>
@@ -2389,13 +2431,13 @@
         <title lang="zh">一路朝阳第17集</title>
     </programme>
     <programme start="20230822212300" stop="20230822212800" channel="cctv8">
-        <title lang="zh">本集提要-《莲花楼》31/40</title>
+        <title lang="zh">本集提要- 《莲花楼》第31集</title>
     </programme>
     <programme start="20230822212800" stop="20230822221900" channel="cctv8">
         <title lang="zh">莲花楼第31集</title>
     </programme>
     <programme start="20230822221900" stop="20230822222100" channel="cctv8">
-        <title lang="zh">本集提要-《莲花楼》32/40</title>
+        <title lang="zh">本集提要- 《莲花楼》第32集</title>
     </programme>
     <programme start="20230822222100" stop="20230822231000" channel="cctv8">
         <title lang="zh">莲花楼第32集</title>
