@@ -1494,13 +1494,13 @@
     <programme start="20230906080000" stop="20230906090000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2023年世界艺术体操锦标赛3（4K）</title>
     </programme>
-    <programme start="20230906090000" stop="20230906130000" channel="cctv5">
+    <programme start="20230906090000" stop="20230906131300" channel="cctv5">
         <title lang="zh">2023年乒乓球亚洲锦标赛-男团半决赛</title>
     </programme>
-    <programme start="20230906130000" stop="20230906133500" channel="cctv5">
+    <programme start="20230906131300" stop="20230906134400" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20230906133500" stop="20230906135500" channel="cctv5">
+    <programme start="20230906134400" stop="20230906135500" channel="cctv5">
         <title lang="zh">艺术里的奥林匹克</title>
     </programme>
     <programme start="20230906135500" stop="20230906155800" channel="cctv5">
@@ -1525,7 +1525,7 @@
         <title lang="zh">2023年世界举重锦标赛-男子61公斤级决赛</title>
     </programme>
     <programme start="20230907000000" stop="20230907020500" channel="cctv5">
-        <title lang="zh">2023年世界举重锦标赛-女子55公斤级决赛</title>
+        <title lang="zh">2023年美国网球公开赛-女单1/4决赛（郑钦文-萨巴伦卡）</title>
     </programme>
     <programme start="20230907020500" stop="20230907023600" channel="cctv5">
         <title lang="zh">赛事集锦(高清体育)-2023-78-2023年射箭世界杯 巴黎站2</title>
@@ -1564,7 +1564,7 @@
         <title lang="zh">2023年中国羽毛球公开赛- 第二轮</title>
     </programme>
     <programme start="20230907152800" stop="20230907170000" channel="cctv5">
-        <title lang="zh">实况录像-2023年世界举重锦标赛 男子61公斤级决赛（录播）</title>
+        <title lang="zh">实况录像-2023年世界举重锦标赛 女子55公斤级决赛（录播）</title>
     </programme>
     <programme start="20230907170000" stop="20230907181000" channel="cctv5">
         <title lang="zh">2023年乒乓球亚洲锦标赛-混双半决赛</title>
@@ -1573,7 +1573,7 @@
         <title lang="zh">体育新闻</title>
     </programme>
     <programme start="20230907184800" stop="20230907202000" channel="cctv5">
-        <title lang="zh">实况录像-2023年世界举重锦标赛 女子55公斤级决赛（录播）</title>
+        <title lang="zh">实况录像-2023年世界举重锦标赛 男子61公斤级决赛（录播）</title>
     </programme>
     <programme start="20230907202000" stop="20230907223000" channel="cctv5">
         <title lang="zh">2023年国际篮联篮球世界杯-5-8名排位赛</title>
@@ -1731,11 +1731,11 @@
     <programme start="20230907185000" stop="20230907202000" channel="cctv5plus">
         <title lang="zh">实况录像-2023年国际篮联篮球世界杯 1/4决赛4</title>
     </programme>
-    <programme start="20230907202000" stop="20230907215000" channel="cctv5plus">
-        <title lang="zh">实况录像-2023年世界女排联赛  日本站 中国队—巴西队</title>
+    <programme start="20230907202000" stop="20230907223500" channel="cctv5plus">
+        <title lang="zh">2023年国际篮联篮球世界杯-5-8名排位赛2</title>
     </programme>
-    <programme start="20230907215000" stop="20230907225000" channel="cctv5plus">
-        <title lang="zh">实况录像-2023年世界举重锦标赛 女子49公斤级决赛</title>
+    <programme start="20230907223500" stop="20230907225000" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 中国队游泳比赛10分钟版1（4K）</title>
     </programme>
     <programme start="20230907225000" stop="20230907235000" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界泳联跳水世界杯超级决赛  男子三米板决赛</title>
@@ -1776,16 +1776,22 @@
     <programme start="20230908155000" stop="20230908164500" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 游泳比赛3（4K）</title>
     </programme>
-    <programme start="20230908164500" stop="20230908184500" channel="cctv5plus">
+    <programme start="20230908164500" stop="20230908185000" channel="cctv5plus">
         <title lang="zh">2023年国际篮联篮球世界杯-半决赛1</title>
     </programme>
-    <programme start="20230908184500" stop="20230908220500" channel="cctv5plus">
-        <title lang="zh">2023年中国羽毛球公开赛-1/4决赛</title>
+    <programme start="20230908185000" stop="20230908194000" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 游泳比赛3（4K）</title>
     </programme>
-    <programme start="20230908220500" stop="20230908223500" channel="cctv5plus">
+    <programme start="20230908194000" stop="20230908200500" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界田径锦标赛 25分钟版（4K）</title>
+    </programme>
+    <programme start="20230908200500" stop="20230908203000" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界自行车锦标赛  小轮车决赛 1</title>
     </programme>
-    <programme start="20230908223500" stop="20230908233500" channel="cctv5plus">
+    <programme start="20230908203000" stop="20230908224000" channel="cctv5plus">
+        <title lang="zh">2023年国际篮联篮球世界杯-半决赛2</title>
+    </programme>
+    <programme start="20230908224000" stop="20230908233500" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界举重锦标赛 男子61公斤级决赛</title>
     </programme>
     <programme start="20230908233500" stop="20230908235900" channel="cctv5plus">
@@ -2407,13 +2413,13 @@
         <title lang="zh">本集提要- 《骄阳伴我》第10集</title>
     </programme>
     <programme start="20230906193000" stop="20230906202500" channel="cctv8">
-        <title lang="zh">骄阳伴我10/36</title>
+        <title lang="zh">骄阳伴我第10集</title>
     </programme>
     <programme start="20230906202500" stop="20230906203000" channel="cctv8">
         <title lang="zh">本集提要- 《骄阳伴我》第11集</title>
     </programme>
     <programme start="20230906203000" stop="20230906212500" channel="cctv8">
-        <title lang="zh">骄阳伴我11/36</title>
+        <title lang="zh">骄阳伴我第11集</title>
     </programme>
     <programme start="20230906212500" stop="20230906213000" channel="cctv8">
         <title lang="zh">本集提要- 《蜂巢》第19集</title>
