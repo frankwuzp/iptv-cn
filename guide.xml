@@ -268,13 +268,13 @@
         <title lang="zh">前情提要- 《大道薪火》第13集</title>
     </programme>
     <programme start="20230925200600" stop="20230925205700" channel="cctv1">
-        <title lang="zh">大道薪火13/33</title>
+        <title lang="zh">大道薪火第13集</title>
     </programme>
     <programme start="20230925205700" stop="20230925210100" channel="cctv1">
         <title lang="zh">前情提要- 《大道薪火》第14集</title>
     </programme>
     <programme start="20230925210100" stop="20230925220000" channel="cctv1">
-        <title lang="zh">大道薪火14/33</title>
+        <title lang="zh">大道薪火第14集</title>
     </programme>
     <programme start="20230925220000" stop="20230925223700" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -903,31 +903,31 @@
     <programme start="20230926180100" stop="20230926193000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1212</title>
     </programme>
-    <programme start="20230926193000" stop="20230926210100" channel="cctv3">
+    <programme start="20230926193000" stop="20230926205700" channel="cctv3">
         <title lang="zh">向幸福出发-2023-39</title>
     </programme>
-    <programme start="20230926210100" stop="20230926221600" channel="cctv3">
-        <title lang="zh">黄金100秒-2023-34</title>
+    <programme start="20230926205700" stop="20230926220200" channel="cctv3">
+        <title lang="zh">回声嘹亮-2023-38</title>
     </programme>
-    <programme start="20230926221600" stop="20230926233900" channel="cctv3">
+    <programme start="20230926220200" stop="20230926232500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1410 第十届丝绸之路国际电影节</title>
     </programme>
-    <programme start="20230926233900" stop="20230926235900" channel="cctv3">
+    <programme start="20230926232500" stop="20230926235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1343 生活家 28/35</title>
     </programme>
-    <programme start="20230927002800" stop="20230927011500" channel="cctv3">
+    <programme start="20230927001400" stop="20230927010100" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1344 生活家 29/35</title>
     </programme>
-    <programme start="20230927011500" stop="20230927020200" channel="cctv3">
+    <programme start="20230927010100" stop="20230927014800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1345 生活家 30/35</title>
     </programme>
-    <programme start="20230927020200" stop="20230927025300" channel="cctv3">
+    <programme start="20230927014800" stop="20230927023900" channel="cctv3">
         <title lang="zh">我的艺术清单-2023-33</title>
     </programme>
-    <programme start="20230927025300" stop="20230927034600" channel="cctv3">
+    <programme start="20230927023900" stop="20230927033200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1175</title>
     </programme>
-    <programme start="20230927034600" stop="20230927052500" channel="cctv3">
+    <programme start="20230927033200" stop="20230927052500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1205-2023年中国诗词大会 6</title>
     </programme>
     <programme start="20230927052500" stop="20230927060600" channel="cctv3">
@@ -1164,13 +1164,10 @@
     <programme start="20230926093000" stop="20230926100000" channel="cctv4">
         <title lang="zh">亚洲时刻·中国好礼-2</title>
     </programme>
-    <programme start="20230926100000" stop="20230926101200" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20230926100000" stop="20230926110000" channel="cctv4">
+        <title lang="zh">2023年国新办发布会-43</title>
     </programme>
-    <programme start="20230926101200" stop="20230926105700" channel="cctv4">
-        <title lang="zh">远方的家2023-94</title>
-    </programme>
-    <programme start="20230926105700" stop="20230926113000" channel="cctv4">
+    <programme start="20230926110000" stop="20230926113000" channel="cctv4">
         <title lang="zh">国家记忆-2023-131</title>
     </programme>
     <programme start="20230926113000" stop="20230926120000" channel="cctv4">
@@ -1533,8 +1530,11 @@
     <programme start="20230925113000" stop="20230925121500" channel="cctv5plus">
         <title lang="zh">直播：杭州亚运会-射击男子10米气步枪决赛</title>
     </programme>
-    <programme start="20230925121500" stop="20230925153000" channel="cctv5plus">
+    <programme start="20230925121500" stop="20230925141000" channel="cctv5plus">
         <title lang="zh">录像：杭州亚运会-24日男子体操资格赛</title>
+    </programme>
+    <programme start="20230925141000" stop="20230925153000" channel="cctv5plus">
+        <title lang="zh">转播：杭州亚运会电子竞技王者荣耀半决赛：中国VS泰国</title>
     </programme>
     <programme start="20230925153000" stop="20230925160000" channel="cctv5plus">
         <title lang="zh">录像：杭州亚运会-25日赛艇决赛</title>
@@ -1582,7 +1582,7 @@
         <title lang="zh">实况录像-2023年世界泳联锦标赛 高台跳水  女子20米跳台 决赛</title>
     </programme>
     <programme start="20230926220500" stop="20230926233600" channel="cctv5plus">
-        <title lang="zh">实况录像-2023年国际排联巴黎奥运会女排资格赛 中国站 中国队—多米尼加队</title>
+        <title lang="zh">实况录像-2023年亚洲乒乓球锦标赛  男团决赛</title>
     </programme>
     <programme start="20230926233600" stop="20230926235900" channel="cctv5plus">
         <title lang="zh">国际足球赛场-23-24赛季德甲联赛第5轮 拜仁慕尼黑—波鸿</title>
@@ -1695,29 +1695,29 @@
     <programme start="20230926050700" stop="20230926052700" channel="cctv6">
         <title lang="zh">指尖上的动力</title>
     </programme>
-    <programme start="20230926052700" stop="20230926055600" channel="cctv6">
+    <programme start="20230926052700" stop="20230926055300" channel="cctv6">
         <title lang="zh">爸爸妈妈的橡树</title>
     </programme>
-    <programme start="20230926055600" stop="20230926074000" channel="cctv6">
+    <programme start="20230926055300" stop="20230926073700" channel="cctv6">
         <title lang="zh">杨门女将  天波府风波</title>
     </programme>
-    <programme start="20230926074000" stop="20230926093200" channel="cctv6">
+    <programme start="20230926073700" stop="20230926092900" channel="cctv6">
         <title lang="zh">杨门女将  再战金沙滩</title>
     </programme>
-    <programme start="20230926093200" stop="20230926112400" channel="cctv6">
+    <programme start="20230926092900" stop="20230926112200" channel="cctv6">
         <title lang="zh">泳往直前</title>
     </programme>
-    <programme start="20230926112400" stop="20230926113500" channel="cctv6">
+    <programme start="20230926112200" stop="20230926113200" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20230926113500" stop="20230926132300" channel="cctv6">
+    <programme start="20230926113200" stop="20230926132000" channel="cctv6">
         <title lang="zh">鱼妖志</title>
     </programme>
-    <programme start="20230926132300" stop="20230926152200" channel="cctv6">
+    <programme start="20230926132000" stop="20230926151900" channel="cctv6">
         <title lang="zh">混沌行走</title>
     </programme>
-    <programme start="20230926152200" stop="20230926173700" channel="cctv6">
-        <title lang="zh">毛驴县令之歪打正着</title>
+    <programme start="20230926151900" stop="20230926173700" channel="cctv6">
+        <title lang="zh">毛驴县令之母鸡打鸣</title>
     </programme>
     <programme start="20230926173700" stop="20230926200100" channel="cctv6">
         <title lang="zh">智取威虎山（2015）</title>
@@ -1755,29 +1755,29 @@
     <programme start="20230927034600" stop="20230927052600" channel="cctv6">
         <title lang="zh">冰之辙</title>
     </programme>
-    <programme start="20230927052600" stop="20230927055400" channel="cctv6">
-        <title lang="zh">我和我的家乡：回乡之路</title>
+    <programme start="20230927052600" stop="20230927060500" channel="cctv6">
+        <title lang="zh">我和我的父辈：诗</title>
     </programme>
-    <programme start="20230927055400" stop="20230927074400" channel="cctv6">
+    <programme start="20230927060500" stop="20230927075500" channel="cctv6">
         <title lang="zh">杨门女将--四郎探母</title>
     </programme>
-    <programme start="20230927074400" stop="20230927093600" channel="cctv6">
+    <programme start="20230927075500" stop="20230927094700" channel="cctv6">
         <title lang="zh">杨门女将 昊天塔</title>
     </programme>
-    <programme start="20230927093600" stop="20230927113900" channel="cctv6">
+    <programme start="20230927094700" stop="20230927115000" channel="cctv6">
         <title lang="zh">我心飞扬</title>
     </programme>
-    <programme start="20230927113900" stop="20230927114900" channel="cctv6">
+    <programme start="20230927115000" stop="20230927120000" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20230927114900" stop="20230927133400" channel="cctv6">
+    <programme start="20230927120000" stop="20230927134500" channel="cctv6">
         <title lang="zh">战.无双</title>
     </programme>
-    <programme start="20230927133400" stop="20230927152200" channel="cctv6">
+    <programme start="20230927134500" stop="20230927153300" channel="cctv6">
         <title lang="zh">最萌警探</title>
     </programme>
-    <programme start="20230927152200" stop="20230927174200" channel="cctv6">
-        <title lang="zh">毛驴县令之棒子老虎鸡</title>
+    <programme start="20230927153300" stop="20230927174200" channel="cctv6">
+        <title lang="zh">毛驴县令之非我莫属</title>
     </programme>
     <programme start="20230927174200" stop="20230927194500" channel="cctv6">
         <title lang="zh">边缘行者</title>
@@ -1788,29 +1788,20 @@
     <programme start="20230927200000" stop="20230927210200" channel="cctv6">
         <title lang="zh">第十届丝绸之路国际电影节颁奖晚会01</title>
     </programme>
-    <programme start="20230927210200" stop="20230927214500" channel="cctv6">
+    <programme start="20230927210200" stop="20230927224100" channel="cctv6">
         <title lang="zh">第十届丝绸之路国际电影节颁奖晚会02</title>
     </programme>
-    <programme start="20230927214500" stop="20230927220000" channel="cctv6">
-        <title lang="zh">我和我的祖国：护航</title>
-    </programme>
-    <programme start="20230927220000" stop="20230927222200" channel="cctv6">
+    <programme start="20230927224100" stop="20230927230100" channel="cctv6">
         <title lang="zh">中国电影报道2023-270</title>
     </programme>
-    <programme start="20230927222200" stop="20230927230000" channel="cctv6">
-        <title lang="zh">曼哈顿夜曲（08）</title>
-    </programme>
-    <programme start="20230927230000" stop="20230927230200" channel="cctv6">
+    <programme start="20230927230100" stop="20230927230600" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2023-09-27</title>
     </programme>
-    <programme start="20230927230200" stop="20230927235300" channel="cctv6">
+    <programme start="20230927230600" stop="20230927234400" channel="cctv6">
+        <title lang="zh">曼哈顿夜曲（08）</title>
+    </programme>
+    <programme start="20230927234400" stop="20230927235900" channel="cctv6">
         <title lang="zh">曼哈顿夜曲（09）</title>
-    </programme>
-    <programme start="20230927235300" stop="20230927235800" channel="cctv6">
-        <title lang="zh">音乐电影欣赏</title>
-    </programme>
-    <programme start="20230927235800" stop="20230927235900" channel="cctv6">
-        <title lang="zh">今日影评2023-270</title>
     </programme>
     <programme start="20230925000700" stop="20230925004500" channel="cctv7">
         <title lang="zh">军营的味道-2023-28</title>
@@ -2257,7 +2248,7 @@
         <title lang="zh">好事成双第12集</title>
     </programme>
     <programme start="20230925202500" stop="20230925203000" channel="cctv8">
-        <title lang="zh">本集提要-《好事成双》13/36</title>
+        <title lang="zh">本集提要- 《好事成双》第13集</title>
     </programme>
     <programme start="20230925203000" stop="20230925212700" channel="cctv8">
         <title lang="zh">好事成双第13集</title>
@@ -2383,28 +2374,28 @@
         <title lang="zh">星推荐-2023年9月-26</title>
     </programme>
     <programme start="20230926192500" stop="20230926193000" channel="cctv8">
-        <title lang="zh">本集提要-《好事成双》14/36</title>
+        <title lang="zh">本集提要- 《好事成双》第14集</title>
     </programme>
     <programme start="20230926193000" stop="20230926202500" channel="cctv8">
         <title lang="zh">好事成双第14集</title>
     </programme>
     <programme start="20230926202500" stop="20230926203000" channel="cctv8">
-        <title lang="zh">本集提要-《好事成双》15/36</title>
+        <title lang="zh">本集提要- 《好事成双》第15集</title>
     </programme>
     <programme start="20230926203000" stop="20230926212700" channel="cctv8">
         <title lang="zh">好事成双第15集</title>
     </programme>
     <programme start="20230926212700" stop="20230926213100" channel="cctv8">
-        <title lang="zh">本集提要-《爱在青山绿水间》14/33</title>
+        <title lang="zh">本集提要- 《爱在青山绿水间》第14集</title>
     </programme>
     <programme start="20230926213100" stop="20230926222300" channel="cctv8">
-        <title lang="zh">爱在青山绿水间14/33</title>
+        <title lang="zh">爱在青山绿水间第14集</title>
     </programme>
     <programme start="20230926222300" stop="20230926222500" channel="cctv8">
-        <title lang="zh">本集提要-《爱在青山绿水间》15/33</title>
+        <title lang="zh">本集提要- 《爱在青山绿水间》第15集</title>
     </programme>
     <programme start="20230926222500" stop="20230926231300" channel="cctv8">
-        <title lang="zh">爱在青山绿水间15/33</title>
+        <title lang="zh">爱在青山绿水间第15集</title>
     </programme>
     <programme start="20230926231300" stop="20230926235900" channel="cctv8">
         <title lang="zh">完美伴侣第6集</title>
@@ -4584,148 +4575,61 @@
     <programme start="20230927064100" stop="20230927072300" channel="cctv4k">
         <title lang="zh">远方的家2023-56(4K)</title>
     </programme>
-    <programme start="20230927072300" stop="20230927072500" channel="cctv4k">
-        <title lang="zh">4K垫播节目-2021坝上风光</title>
+    <programme start="20230927072300" stop="20230927072600" channel="cctv4k">
+        <title lang="zh">4K节目垫播-美丽中国-新疆2</title>
     </programme>
-    <programme start="20230927072500" stop="20230927072500" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
-    </programme>
-    <programme start="20230927072500" stop="20230927075500" channel="cctv4k">
-        <title lang="zh">味道-2022-18(4K)</title>
-    </programme>
-    <programme start="20230927075500" stop="20230927084500" channel="cctv4k">
-        <title lang="zh">魅力纪录2019-5-航拍中国（第二季）5（4K）</title>
-    </programme>
-    <programme start="20230927084500" stop="20230927090000" channel="cctv4k">
-        <title lang="zh">艺术里的奥林匹克-2023-73</title>
-    </programme>
-    <programme start="20230927090000" stop="20230927094700" channel="cctv4k">
-        <title lang="zh">问天-（4K）-17/36</title>
-    </programme>
-    <programme start="20230927094700" stop="20230927103300" channel="cctv4k">
-        <title lang="zh">问天-（4K）-18/36</title>
-    </programme>
-    <programme start="20230927103300" stop="20230927103300" channel="cctv4k">
-        <title lang="zh">4K标识演绎-2019-1</title>
-    </programme>
-    <programme start="20230927103300" stop="20230927110100" channel="cctv4k">
-        <title lang="zh">记住乡愁2023-45(4K)</title>
-    </programme>
-    <programme start="20230927110100" stop="20230927111300" channel="cctv4k">
-        <title lang="zh">美术里的中国(4K)-8</title>
-    </programme>
-    <programme start="20230927111300" stop="20230927112500" channel="cctv4k">
-        <title lang="zh">美术里的中国(4K)-9</title>
-    </programme>
-    <programme start="20230927112500" stop="20230927113100" channel="cctv4k">
-        <title lang="zh">美丽中国自然-2022-231</title>
-    </programme>
-    <programme start="20230927113100" stop="20230927113600" channel="cctv4k">
-        <title lang="zh">如果国宝会说话（第三季）-25（4K）</title>
-    </programme>
-    <programme start="20230927113600" stop="20230927120100" channel="cctv4k">
-        <title lang="zh">我的美丽乡村-2023-127(4K)</title>
-    </programme>
-    <programme start="20230927120100" stop="20230927120100" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
-    </programme>
-    <programme start="20230927120100" stop="20230927123100" channel="cctv4k">
-        <title lang="zh">味道-2022-18(4K)</title>
-    </programme>
-    <programme start="20230927123100" stop="20230927131300" channel="cctv4k">
-        <title lang="zh">远方的家2023-56(4K)</title>
-    </programme>
-    <programme start="20230927131300" stop="20230927131300" channel="cctv4k">
+    <programme start="20230927072600" stop="20230927072700" channel="cctv4k">
         <title lang="zh">4K标识演绎-2019-2</title>
     </programme>
-    <programme start="20230927131300" stop="20230927140400" channel="cctv4k">
+    <programme start="20230927072700" stop="20230927075700" channel="cctv4k">
+        <title lang="zh">味道-2022-18(4K)</title>
+    </programme>
+    <programme start="20230927075700" stop="20230927084800" channel="cctv4k">
         <title lang="zh">魅力纪录2019-5-航拍中国（第二季）5（4K）</title>
     </programme>
-    <programme start="20230927140400" stop="20230927145000" channel="cctv4k">
-        <title lang="zh">平凡之路-(4K)-21/36</title>
-    </programme>
-    <programme start="20230927145000" stop="20230927153600" channel="cctv4k">
-        <title lang="zh">平凡之路-(4K)-22/36</title>
-    </programme>
-    <programme start="20230927153600" stop="20230927153700" channel="cctv4k">
-        <title lang="zh">4K频道宣传片-标识演绎3</title>
-    </programme>
-    <programme start="20230927153700" stop="20230927160200" channel="cctv4k">
-        <title lang="zh">我的美丽乡村-2023-127(4K)</title>
-    </programme>
-    <programme start="20230927160200" stop="20230927164200" channel="cctv4k">
-        <title lang="zh">探索·发现-2023-195（4K）</title>
-    </programme>
-    <programme start="20230927164200" stop="20230927164700" channel="cctv4k">
+    <programme start="20230927084800" stop="20230927085300" channel="cctv4k">
         <title lang="zh">美丽中国自然-2022-231</title>
     </programme>
-    <programme start="20230927164700" stop="20230927165200" channel="cctv4k">
+    <programme start="20230927085300" stop="20230927085800" channel="cctv4k">
         <title lang="zh">如果国宝会说话（第三季）-25（4K）</title>
     </programme>
-    <programme start="20230927165200" stop="20230927170700" channel="cctv4k">
-        <title lang="zh">艺术里的奥林匹克-2023-73</title>
+    <programme start="20230927085800" stop="20230927085900" channel="cctv4k">
+        <title lang="zh">4K宣传片-2023中秋国庆</title>
     </programme>
-    <programme start="20230927170700" stop="20230927170700" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
+    <programme start="20230927085900" stop="20230927085900" channel="cctv4k">
+        <title lang="zh">4K宣传片-2023中秋晚会</title>
     </programme>
-    <programme start="20230927170700" stop="20230927173500" channel="cctv4k">
-        <title lang="zh">记住乡愁2023-45(4K)</title>
-    </programme>
-    <programme start="20230927173500" stop="20230927174700" channel="cctv4k">
-        <title lang="zh">美术里的中国(4K)-8</title>
-    </programme>
-    <programme start="20230927174700" stop="20230927175900" channel="cctv4k">
-        <title lang="zh">美术里的中国(4K)-9</title>
-    </programme>
-    <programme start="20230927175900" stop="20230927180000" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
-    </programme>
-    <programme start="20230927180000" stop="20230927183000" channel="cctv4k">
-        <title lang="zh">味道-2022-59(4K)</title>
-    </programme>
-    <programme start="20230927183000" stop="20230927185500" channel="cctv4k">
-        <title lang="zh">我的美丽乡村-2023-128(4K)</title>
-    </programme>
-    <programme start="20230927185500" stop="20230927185500" channel="cctv4k">
-        <title lang="zh">4K频道宣传片-标识演绎3</title>
-    </programme>
-    <programme start="20230927185500" stop="20230927193700" channel="cctv4k">
-        <title lang="zh">远方的家2023-78(4K)</title>
-    </programme>
-    <programme start="20230927193700" stop="20230927194300" channel="cctv4k">
-        <title lang="zh">美丽中国自然-2022-232</title>
-    </programme>
-    <programme start="20230927194300" stop="20230927195900" channel="cctv4k">
-        <title lang="zh">艺术里的奥林匹克-2023-2</title>
-    </programme>
-    <programme start="20230927195900" stop="20230927204700" channel="cctv4k">
-        <title lang="zh">问天-（4K）-19/36</title>
-    </programme>
-    <programme start="20230927204700" stop="20230927213300" channel="cctv4k">
-        <title lang="zh">问天-（4K）-20/36</title>
-    </programme>
-    <programme start="20230927213300" stop="20230927213300" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
-    </programme>
-    <programme start="20230927213300" stop="20230927221300" channel="cctv4k">
-        <title lang="zh">探索·发现-2023-196（4K）</title>
-    </programme>
-    <programme start="20230927221300" stop="20230927224100" channel="cctv4k">
-        <title lang="zh">记住乡愁2023-46(4K)</title>
-    </programme>
-    <programme start="20230927224100" stop="20230927224100" channel="cctv4k">
+    <programme start="20230927085900" stop="20230927090000" channel="cctv4k">
         <title lang="zh">4K标识演绎-2019-1</title>
     </programme>
-    <programme start="20230927224100" stop="20230927233100" channel="cctv4k">
-        <title lang="zh">魅力纪录2019-6-航拍中国（第二季）6（4K）</title>
+    <programme start="20230927090000" stop="20230927213000" channel="cctv4k">
+        <title lang="zh">杭州亚运会-赛事报道 4</title>
     </programme>
-    <programme start="20230927233100" stop="20230927234300" channel="cctv4k">
-        <title lang="zh">美术里的中国(4K)-18</title>
+    <programme start="20230927213000" stop="20230927213000" channel="cctv4k">
+        <title lang="zh">4K标识演绎-2019-2</title>
     </programme>
-    <programme start="20230927234300" stop="20230927235500" channel="cctv4k">
-        <title lang="zh">美术里的中国(4K)-19</title>
+    <programme start="20230927213000" stop="20230927213100" channel="cctv4k">
+        <title lang="zh">4K宣传片-2023中秋国庆</title>
     </programme>
-    <programme start="20230927235500" stop="20230927235900" channel="cctv4k">
+    <programme start="20230927213100" stop="20230927213100" channel="cctv4k">
+        <title lang="zh">4K宣传片-2023中秋晚会</title>
+    </programme>
+    <programme start="20230927213100" stop="20230927215700" channel="cctv4k">
+        <title lang="zh">我的美丽乡村-2023-128(4K)</title>
+    </programme>
+    <programme start="20230927215700" stop="20230927223800" channel="cctv4k">
+        <title lang="zh">远方的家2023-78(4K)</title>
+    </programme>
+    <programme start="20230927223800" stop="20230927224500" channel="cctv4k">
+        <title lang="zh">美丽中国自然-2022-232</title>
+    </programme>
+    <programme start="20230927224500" stop="20230927232700" channel="cctv4k">
+        <title lang="zh">探索·发现-2023-196（4K）</title>
+    </programme>
+    <programme start="20230927232700" stop="20230927235700" channel="cctv4k">
+        <title lang="zh">味道-2022-59(4K)</title>
+    </programme>
+    <programme start="20230927235700" stop="20230927235900" channel="cctv4k">
         <title lang="zh">4K垫播节目-2021丝绸之旅</title>
     </programme>
     <programme start="20230927235900" stop="20230927235900" channel="cctv4k">
