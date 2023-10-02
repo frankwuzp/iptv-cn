@@ -1377,13 +1377,13 @@
     <programme start="20231002090000" stop="20231002095500" channel="cctv5">
         <title lang="zh">录像：杭州亚运会-1日跳水女子双人3米板决赛</title>
     </programme>
-    <programme start="20231002095500" stop="20231002113000" channel="cctv5">
+    <programme start="20231002095500" stop="20231002120000" channel="cctv5">
         <title lang="zh">直播：杭州亚运会-皮划艇静水男子单人皮艇1000米、男子单人划艇1000米、女子双人划艇500米、男子双人皮艇500米、男子双人划艇500米</title>
     </programme>
-    <programme start="20231002113000" stop="20231002120000" channel="cctv5">
+    <programme start="20231002120000" stop="20231002123000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20231002120000" stop="20231002133000" channel="cctv5">
+    <programme start="20231002123000" stop="20231002133000" channel="cctv5">
         <title lang="zh">录像：杭州亚运会-1日女子水球 中国-日本、飞碟多向决赛</title>
     </programme>
     <programme start="20231002133000" stop="20231002150000" channel="cctv5">
@@ -3903,25 +3903,25 @@
     <programme start="20231004104800" stop="20231004120000" channel="cctv15">
         <title lang="zh">精彩音乐汇-2023-267</title>
     </programme>
-    <programme start="20231004120000" stop="20231004131600" channel="cctv15">
+    <programme start="20231004120000" stop="20231004132600" channel="cctv15">
         <title lang="zh">2023江山如画系列交响音乐会-2</title>
     </programme>
-    <programme start="20231004131600" stop="20231004143000" channel="cctv15">
+    <programme start="20231004132600" stop="20231004143800" channel="cctv15">
         <title lang="zh">合唱先锋2023-47</title>
     </programme>
-    <programme start="20231004143000" stop="20231004150400" channel="cctv15">
+    <programme start="20231004143800" stop="20231004151200" channel="cctv15">
         <title lang="zh">乐游天下-2023-38 宅兹中国-文字之都豫华章1</title>
     </programme>
-    <programme start="20231004150400" stop="20231004154300" channel="cctv15">
+    <programme start="20231004151200" stop="20231004154900" channel="cctv15">
         <title lang="zh">乐游天下-2023-39 宅兹中国-文字之都豫华章2</title>
     </programme>
-    <programme start="20231004154300" stop="20231004162100" channel="cctv15">
+    <programme start="20231004154900" stop="20231004162500" channel="cctv15">
         <title lang="zh">音乐人生-2023-59为人民而歌（刘秉义）</title>
     </programme>
-    <programme start="20231004162100" stop="20231004165900" channel="cctv15">
+    <programme start="20231004162500" stop="20231004170100" channel="cctv15">
         <title lang="zh">风华国乐-2023-291</title>
     </programme>
-    <programme start="20231004165900" stop="20231004181500" channel="cctv15">
+    <programme start="20231004170100" stop="20231004181500" channel="cctv15">
         <title lang="zh">民歌·中国-2023-141明月千里寄相思</title>
     </programme>
     <programme start="20231004181500" stop="20231004193000" channel="cctv15">
@@ -3930,13 +3930,16 @@
     <programme start="20231004193000" stop="20231004204600" channel="cctv15">
         <title lang="zh">2023江山如画系列交响音乐会-3</title>
     </programme>
-    <programme start="20231004204600" stop="20231004220000" channel="cctv15">
+    <programme start="20231004204600" stop="20231004215400" channel="cctv15">
         <title lang="zh">音乐公开课-2023-43山高路长 弦歌不辍-走进吉林大学</title>
     </programme>
-    <programme start="20231004220000" stop="20231004225700" channel="cctv15">
+    <programme start="20231004215400" stop="20231004220500" channel="cctv15">
+        <title lang="zh">2023江山如画系列交响音乐会-江山如画</title>
+    </programme>
+    <programme start="20231004220500" stop="20231004230200" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2023-172-名家名曲(159)</title>
     </programme>
-    <programme start="20231004225700" stop="20231004235900" channel="cctv15">
+    <programme start="20231004230200" stop="20231004235900" channel="cctv15">
         <title lang="zh">四季交响“春之声”系列经典音乐会（纯享版）-4</title>
     </programme>
     <programme start="20231002005500" stop="20231002015500" channel="cctv16">
@@ -4485,8 +4488,14 @@
     <programme start="20231003060100" stop="20231003063100" channel="cctv4k">
         <title lang="zh">味道-2022-74(4K)</title>
     </programme>
-    <programme start="20231003063100" stop="20231003063500" channel="cctv4k">
+    <programme start="20231003063100" stop="20231003063300" channel="cctv4k">
         <title lang="zh">4K节目垫播-美丽中国-云南（4K）</title>
+    </programme>
+    <programme start="20231003063300" stop="20231003063400" channel="cctv4k">
+        <title lang="zh">杭州亚运会精彩集锦-9（4K）</title>
+    </programme>
+    <programme start="20231003063400" stop="20231003063500" channel="cctv4k">
+        <title lang="zh">杭州亚运会夺金时刻-36（4K）</title>
     </programme>
     <programme start="20231003063500" stop="20231003072000" channel="cctv4k">
         <title lang="zh">传承（第四季）-3（4K）</title>
@@ -4501,13 +4510,13 @@
         <title lang="zh">远方的家2023-83(4K)</title>
     </programme>
     <programme start="20231003085800" stop="20231003085800" channel="cctv4k">
-        <title lang="zh">杭州亚运会精彩集锦-1（4K）</title>
+        <title lang="zh">杭州亚运会夺金时刻-33（4K）</title>
     </programme>
     <programme start="20231003085800" stop="20231003085900" channel="cctv4k">
-        <title lang="zh">杭州亚运会精彩集锦-2（4K）</title>
+        <title lang="zh">杭州亚运会夺金时刻-31（4K）</title>
     </programme>
     <programme start="20231003085900" stop="20231003085900" channel="cctv4k">
-        <title lang="zh">杭州亚运会精彩集锦-3（4K）</title>
+        <title lang="zh">杭州亚运会夺金时刻-32（4K）</title>
     </programme>
     <programme start="20231003085900" stop="20231003090000" channel="cctv4k">
         <title lang="zh">4K标识演绎-2019-1</title>
@@ -4528,13 +4537,13 @@
         <title lang="zh">传承（第四季）-4（4K）</title>
     </programme>
     <programme start="20231003225700" stop="20231003225800" channel="cctv4k">
-        <title lang="zh">杭州亚运会精彩集锦-1（4K）</title>
+        <title lang="zh">杭州亚运会精彩集锦-12（4K）</title>
     </programme>
     <programme start="20231003225800" stop="20231003225800" channel="cctv4k">
-        <title lang="zh">杭州亚运会精彩集锦-2（4K）</title>
+        <title lang="zh">杭州亚运会夺金时刻-34（4K）</title>
     </programme>
     <programme start="20231003225800" stop="20231003225900" channel="cctv4k">
-        <title lang="zh">杭州亚运会精彩集锦-3（4K）</title>
+        <title lang="zh">杭州亚运会夺金时刻-35（4K）</title>
     </programme>
     <programme start="20231003225900" stop="20231003232500" channel="cctv4k">
         <title lang="zh">我的美丽乡村-2023-132(4K)</title>
