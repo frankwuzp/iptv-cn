@@ -189,10 +189,10 @@
     <programme start="20231009005000" stop="20231009011900" channel="cctv1">
         <title lang="zh">人与自然-2023-166</title>
     </programme>
-    <programme start="20231009011900" stop="20231009015100" channel="cctv1">
+    <programme start="20231009011900" stop="20231009014900" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20231009015100" stop="20231009023600" channel="cctv1">
+    <programme start="20231009014900" stop="20231009023600" channel="cctv1">
         <title lang="zh">等着我-2023-17</title>
     </programme>
     <programme start="20231009023600" stop="20231009024100" channel="cctv1">
@@ -201,11 +201,14 @@
     <programme start="20231009024100" stop="20231009024600" channel="cctv1">
         <title lang="zh">精彩一刻-2023-89了不起的工程赤水河红军大桥</title>
     </programme>
-    <programme start="20231009024600" stop="20231009025200" channel="cctv1">
+    <programme start="20231009024600" stop="20231009025100" channel="cctv1">
         <title lang="zh">精彩一刻-2023-88了不起的工程丹昆特大桥</title>
     </programme>
-    <programme start="20231009025200" stop="20231009042700" channel="cctv1">
-        <title lang="zh">山水间的家（第二季）-1</title>
+    <programme start="20231009025100" stop="20231009025700" channel="cctv1">
+        <title lang="zh">精彩一刻-2023-80了不起的工程上海洋山港</title>
+    </programme>
+    <programme start="20231009025700" stop="20231009042700" channel="cctv1">
+        <title lang="zh">非遗里的中国（第二季）-1</title>
     </programme>
     <programme start="20231009042700" stop="20231009050000" channel="cctv1">
         <title lang="zh">寻古中国-玉石记5</title>
@@ -279,13 +282,13 @@
     <programme start="20231009193900" stop="20231009200300" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20231009200300" stop="20231009210500" channel="cctv1">
+    <programme start="20231009200300" stop="20231009210400" channel="cctv1">
         <title lang="zh">原声天籁——中国民歌盛典-一套</title>
     </programme>
-    <programme start="20231009210500" stop="20231009210900" channel="cctv1">
+    <programme start="20231009210400" stop="20231009210800" channel="cctv1">
         <title lang="zh">前情提要- 《大道薪火》第27集</title>
     </programme>
-    <programme start="20231009210900" stop="20231009220000" channel="cctv1">
+    <programme start="20231009210800" stop="20231009220000" channel="cctv1">
         <title lang="zh">大道薪火第27集</title>
     </programme>
     <programme start="20231009220000" stop="20231009223400" channel="cctv1">
@@ -913,7 +916,7 @@
         <title lang="zh">星光大道-2023-54</title>
     </programme>
     <programme start="20231009145900" stop="20231009155600" channel="cctv3">
-        <title lang="zh">幸福账单-2023-36</title>
+        <title lang="zh">幸福账单-2023-39</title>
     </programme>
     <programme start="20231009155600" stop="20231009165500" channel="cctv3">
         <title lang="zh">回声嘹亮-2023-39</title>
@@ -1156,19 +1159,19 @@
         <title lang="zh">荟萃节目-秘境之眼3</title>
     </programme>
     <programme start="20231009131200" stop="20231009140000" channel="cctv4">
-        <title lang="zh">幸福院第5集</title>
+        <title lang="zh">幸福院5/42</title>
     </programme>
     <programme start="20231009140000" stop="20231009144800" channel="cctv4">
-        <title lang="zh">幸福院第6集</title>
+        <title lang="zh">幸福院6/42</title>
     </programme>
     <programme start="20231009144800" stop="20231009153400" channel="cctv4">
-        <title lang="zh">幸福院第7集</title>
+        <title lang="zh">幸福院7/42</title>
     </programme>
     <programme start="20231009153400" stop="20231009162300" channel="cctv4">
-        <title lang="zh">幸福院第8集</title>
+        <title lang="zh">幸福院8/42</title>
     </programme>
     <programme start="20231009162300" stop="20231009171500" channel="cctv4">
-        <title lang="zh">幸福院第9集</title>
+        <title lang="zh">幸福院9/42</title>
     </programme>
     <programme start="20231009171500" stop="20231009180000" channel="cctv4">
         <title lang="zh">远方的家2023-104</title>
@@ -1203,11 +1206,11 @@
     <programme start="20231009223000" stop="20231009230200" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20231009230200" stop="20231009232800" channel="cctv4">
-        <title lang="zh">国宝发现-2023-17</title>
+    <programme start="20231009230200" stop="20231009234900" channel="cctv4">
+        <title lang="zh">高兴的酸甜苦辣36/40</title>
     </programme>
-    <programme start="20231009232800" stop="20231009235900" channel="cctv4">
-        <title lang="zh">高兴的酸甜苦辣第36集</title>
+    <programme start="20231009234900" stop="20231009235900" channel="cctv4">
+        <title lang="zh">高兴的酸甜苦辣37/40</title>
     </programme>
     <programme start="20231010001500" stop="20231010010100" channel="cctv4">
         <title lang="zh">高兴的酸甜苦辣第37集</title>
@@ -1572,14 +1575,14 @@
     <programme start="20231010183500" stop="20231010193000" channel="cctv5">
         <title lang="zh">赛事集锦-2023/2024赛季滑板职业巡回赛（洛桑站）1</title>
     </programme>
-    <programme start="20231010193000" stop="20231010210000" channel="cctv5">
-        <title lang="zh">2023/2024赛季斯诺克武汉公开赛-第2轮</title>
+    <programme start="20231010193000" stop="20231010213000" channel="cctv5">
+        <title lang="zh">2023年国际足球邀请赛-（中国队--越南队）</title>
     </programme>
-    <programme start="20231010210000" stop="20231010212000" channel="cctv5">
+    <programme start="20231010213000" stop="20231010220500" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20231010212000" stop="20231010223500" channel="cctv5">
-        <title lang="zh">2023/2024赛季斯诺克武汉公开赛-第2轮</title>
+    <programme start="20231010220500" stop="20231010223500" channel="cctv5">
+        <title lang="zh">欧冠开场哨-2023-25</title>
     </programme>
     <programme start="20231010223500" stop="20231010235900" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-杭州亚运会 乒乓球男团决赛（4K）</title>
@@ -1677,11 +1680,8 @@
     <programme start="20231009173500" stop="20231009183000" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界职业拳王争霸赛 12</title>
     </programme>
-    <programme start="20231009183000" stop="20231009210500" channel="cctv5plus">
+    <programme start="20231009183000" stop="20231009223500" channel="cctv5plus">
         <title lang="zh">2023年ATP1000男子网球大师赛（上海站）-第三轮4</title>
-    </programme>
-    <programme start="20231009210500" stop="20231009223500" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-杭州亚运会 乒乓球男单比赛（4K）</title>
     </programme>
     <programme start="20231009223500" stop="20231009235900" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-杭州亚运会 田径比赛1（4K）</title>
@@ -2392,25 +2392,25 @@
         <title lang="zh">星推荐-2023年10月-9</title>
     </programme>
     <programme start="20231009192500" stop="20231009193000" channel="cctv8">
-        <title lang="zh">本集提要- 《问心》第4集</title>
+        <title lang="zh">本集提要-《问心》4/38</title>
     </programme>
     <programme start="20231009193000" stop="20231009202500" channel="cctv8">
         <title lang="zh">问心第4集</title>
     </programme>
     <programme start="20231009202500" stop="20231009203000" channel="cctv8">
-        <title lang="zh">本集提要- 《问心》第5集</title>
+        <title lang="zh">本集提要-《问心》5/38</title>
     </programme>
     <programme start="20231009203000" stop="20231009212400" channel="cctv8">
         <title lang="zh">问心第5集</title>
     </programme>
     <programme start="20231009212400" stop="20231009212900" channel="cctv8">
-        <title lang="zh">本集提要- 《父辈的荣耀》第6集</title>
+        <title lang="zh">本集提要-《父辈的荣耀》6/30</title>
     </programme>
     <programme start="20231009212900" stop="20231009221900" channel="cctv8">
         <title lang="zh">父辈的荣耀第6集</title>
     </programme>
     <programme start="20231009221900" stop="20231009222100" channel="cctv8">
-        <title lang="zh">本集提要- 《父辈的荣耀》第7集</title>
+        <title lang="zh">本集提要-《父辈的荣耀》7/30</title>
     </programme>
     <programme start="20231009222100" stop="20231009230900" channel="cctv8">
         <title lang="zh">父辈的荣耀第7集</title>
@@ -2704,7 +2704,7 @@
         <title lang="zh">9视频2023-283</title>
     </programme>
     <programme start="20231009034600" stop="20231009044600" channel="cctvjilu">
-        <title lang="zh">特别呈现2023-269</title>
+        <title lang="zh">特别呈现2023-283</title>
     </programme>
     <programme start="20231009044600" stop="20231009054600" channel="cctvjilu">
         <title lang="zh">故事中国2023-274</title>
@@ -2725,7 +2725,7 @@
         <title lang="zh">活力·源2023-294</title>
     </programme>
     <programme start="20231009085900" stop="20231009100000" channel="cctvjilu">
-        <title lang="zh">特别呈现2023-269</title>
+        <title lang="zh">特别呈现2023-283</title>
     </programme>
     <programme start="20231009100000" stop="20231009105800" channel="cctvjilu">
         <title lang="zh">全景自然2023-307</title>
@@ -2734,7 +2734,7 @@
         <title lang="zh">寰宇视野2023-281</title>
     </programme>
     <programme start="20231009115900" stop="20231009130300" channel="cctvjilu">
-        <title lang="zh">特别呈现2023-269</title>
+        <title lang="zh">特别呈现2023-283</title>
     </programme>
     <programme start="20231009130300" stop="20231009140200" channel="cctvjilu">
         <title lang="zh">全景自然2023-307</title>
@@ -4776,17 +4776,8 @@
     <programme start="20231009064100" stop="20231009072300" channel="cctv4k">
         <title lang="zh">远方的家2023-65(4K)</title>
     </programme>
-    <programme start="20231009072300" stop="20231009072400" channel="cctv4k">
+    <programme start="20231009072300" stop="20231009072600" channel="cctv4k">
         <title lang="zh">4K节目垫播-美丽中国-海南2</title>
-    </programme>
-    <programme start="20231009072400" stop="20231009072500" channel="cctv4k">
-        <title lang="zh">杭州亚运会精彩集锦-27（4K）</title>
-    </programme>
-    <programme start="20231009072500" stop="20231009072500" channel="cctv4k">
-        <title lang="zh">杭州亚运会精彩集锦-28（4K）</title>
-    </programme>
-    <programme start="20231009072500" stop="20231009072600" channel="cctv4k">
-        <title lang="zh">杭州亚运会精彩集锦-29（4K）</title>
     </programme>
     <programme start="20231009072600" stop="20231009072600" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
@@ -4935,25 +4926,7 @@
     <programme start="20231009233000" stop="20231009235500" channel="cctv4k">
         <title lang="zh">遇见最极致的中国-7（4K）</title>
     </programme>
-    <programme start="20231009235500" stop="20231009235600" channel="cctv4k">
-        <title lang="zh">杭州亚运会夺金时刻-65（4K）</title>
-    </programme>
-    <programme start="20231009235600" stop="20231009235600" channel="cctv4k">
-        <title lang="zh">杭州亚运会夺金时刻-66（4K）</title>
-    </programme>
-    <programme start="20231009235600" stop="20231009235700" channel="cctv4k">
-        <title lang="zh">杭州亚运会夺金时刻-67（4K）</title>
-    </programme>
-    <programme start="20231009235700" stop="20231009235700" channel="cctv4k">
-        <title lang="zh">杭州亚运会夺金时刻-68（4K）</title>
-    </programme>
-    <programme start="20231009235700" stop="20231009235800" channel="cctv4k">
-        <title lang="zh">杭州亚运会夺金时刻-69（4K）</title>
-    </programme>
-    <programme start="20231009235800" stop="20231009235800" channel="cctv4k">
-        <title lang="zh">杭州亚运会夺金时刻-70（4K）</title>
-    </programme>
-    <programme start="20231009235800" stop="20231009235900" channel="cctv4k">
+    <programme start="20231009235500" stop="20231009235900" channel="cctv4k">
         <title lang="zh">4K垫播节目-2021丝绸之旅</title>
     </programme>
     <programme start="20231009235900" stop="20231009235900" channel="cctv4k">
