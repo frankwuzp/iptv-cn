@@ -273,17 +273,20 @@
     <programme start="20231010190000" stop="20231010193800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20231010193800" stop="20231010200600" channel="cctv1">
+    <programme start="20231010193800" stop="20231010200000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20231010200600" stop="20231010213800" channel="cctv1">
-        <title lang="zh">美美与共-2</title>
+    <programme start="20231010200000" stop="20231010200600" channel="cctv1">
+        <title lang="zh">前情提要- 《大道薪火》第28集</title>
     </programme>
-    <programme start="20231010213800" stop="20231010214800" channel="cctv1">
-        <title lang="zh">寻古中国-33宣传片-1</title>
+    <programme start="20231010200600" stop="20231010205800" channel="cctv1">
+        <title lang="zh">大道薪火第28集</title>
     </programme>
-    <programme start="20231010214800" stop="20231010220000" channel="cctv1">
-        <title lang="zh">泱泱中华-历史文化街区</title>
+    <programme start="20231010205800" stop="20231010210300" channel="cctv1">
+        <title lang="zh">前情提要- 《大道薪火》第29集</title>
+    </programme>
+    <programme start="20231010210300" stop="20231010220000" channel="cctv1">
+        <title lang="zh">大道薪火第29集</title>
     </programme>
     <programme start="20231010220000" stop="20231010223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -391,10 +394,10 @@
         <title lang="zh">专题节目-1</title>
     </programme>
     <programme start="20231011205900" stop="20231011210200" channel="cctv1">
-        <title lang="zh">前情提要- 《大道薪火》第28集</title>
+        <title lang="zh">前情提要- 《大道薪火》第30集</title>
     </programme>
     <programme start="20231011210200" stop="20231011220000" channel="cctv1">
-        <title lang="zh">大道薪火第28集</title>
+        <title lang="zh">大道薪火第30集</title>
     </programme>
     <programme start="20231011220000" stop="20231011223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -469,7 +472,7 @@
         <title lang="zh">潜行者37/37</title>
     </programme>
     <programme start="20231012144700" stop="20231012153400" channel="cctv1">
-        <title lang="zh">叛逆者1/43</title>
+        <title lang="zh">爱在青山绿水间1/33</title>
     </programme>
     <programme start="20231012153400" stop="20231012162100" channel="cctv1">
         <title lang="zh">叛逆者2/43</title>
@@ -499,10 +502,10 @@
         <title lang="zh">专题节目-1</title>
     </programme>
     <programme start="20231012205900" stop="20231012210200" channel="cctv1">
-        <title lang="zh">前情提要-《大道薪火》29/33</title>
+        <title lang="zh">前情提要-《大道薪火》31/33</title>
     </programme>
     <programme start="20231012210200" stop="20231012220000" channel="cctv1">
-        <title lang="zh">大道薪火29/33</title>
+        <title lang="zh">大道薪火31/33</title>
     </programme>
     <programme start="20231012220000" stop="20231012223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1458,11 +1461,11 @@
     <programme start="20231012223000" stop="20231012230200" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20231012230200" stop="20231012234900" channel="cctv4">
-        <title lang="zh">大山的女儿5/30</title>
+    <programme start="20231012230200" stop="20231012232800" channel="cctv4">
+        <title lang="zh">国宝发现-2023-20</title>
     </programme>
-    <programme start="20231012234900" stop="20231012235900" channel="cctv4">
-        <title lang="zh">大山的女儿6/30</title>
+    <programme start="20231012232800" stop="20231012235900" channel="cctv4">
+        <title lang="zh">大山的女儿5/30</title>
     </programme>
     <programme start="20231010000500" stop="20231010031000" channel="cctv5">
         <title lang="zh">顶级赛事-高尔夫</title>
@@ -2392,13 +2395,13 @@
         <title lang="zh">星推荐-2023年10月-10</title>
     </programme>
     <programme start="20231010192500" stop="20231010193000" channel="cctv8">
-        <title lang="zh">本集提要-《问心》6/38</title>
+        <title lang="zh">本集提要- 《问心》第6集</title>
     </programme>
     <programme start="20231010193000" stop="20231010202500" channel="cctv8">
         <title lang="zh">问心第6集</title>
     </programme>
     <programme start="20231010202500" stop="20231010203000" channel="cctv8">
-        <title lang="zh">本集提要-《问心》7/38</title>
+        <title lang="zh">本集提要- 《问心》第7集</title>
     </programme>
     <programme start="20231010203000" stop="20231010212400" channel="cctv8">
         <title lang="zh">问心第7集</title>
@@ -2410,7 +2413,7 @@
         <title lang="zh">父辈的荣耀第8集</title>
     </programme>
     <programme start="20231010221900" stop="20231010222100" channel="cctv8">
-        <title lang="zh">本集提要-《父辈的荣耀》9/30</title>
+        <title lang="zh">本集提要- 《父辈的荣耀》第9集</title>
     </programme>
     <programme start="20231010222100" stop="20231010230900" channel="cctv8">
         <title lang="zh">父辈的荣耀第9集</title>
@@ -2527,7 +2530,7 @@
         <title lang="zh">星推荐-2023年10月-11</title>
     </programme>
     <programme start="20231011192500" stop="20231011193000" channel="cctv8">
-        <title lang="zh">本集提要-《问心》8/38</title>
+        <title lang="zh">本集提要- 《问心》第8集</title>
     </programme>
     <programme start="20231011193000" stop="20231011202500" channel="cctv8">
         <title lang="zh">问心第8集</title>
@@ -2539,13 +2542,13 @@
         <title lang="zh">问心第9集</title>
     </programme>
     <programme start="20231011212400" stop="20231011212900" channel="cctv8">
-        <title lang="zh">本集提要-《父辈的荣耀》10/30</title>
+        <title lang="zh">本集提要- 《父辈的荣耀》第10集</title>
     </programme>
     <programme start="20231011212900" stop="20231011221900" channel="cctv8">
         <title lang="zh">父辈的荣耀第10集</title>
     </programme>
     <programme start="20231011221900" stop="20231011222100" channel="cctv8">
-        <title lang="zh">本集提要-《父辈的荣耀》11/30</title>
+        <title lang="zh">本集提要- 《父辈的荣耀》第11集</title>
     </programme>
     <programme start="20231011222100" stop="20231011230900" channel="cctv8">
         <title lang="zh">父辈的荣耀第11集</title>
