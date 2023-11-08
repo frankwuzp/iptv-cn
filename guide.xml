@@ -279,29 +279,32 @@
     <programme start="20231108220000" stop="20231108223300" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20231108223300" stop="20231108232900" channel="cctv1">
+    <programme start="20231108223300" stop="20231108232800" channel="cctv1">
         <title lang="zh">故事中国2023-347 大敦煌3</title>
     </programme>
-    <programme start="20231108232900" stop="20231108235900" channel="cctv1">
+    <programme start="20231108232800" stop="20231108235900" channel="cctv1">
+        <title lang="zh">故事中国2023-348 大敦煌4</title>
+    </programme>
+    <programme start="20231109002300" stop="20231109020300" channel="cctv1">
         <title lang="zh">山水间的家（第二季）-5</title>
     </programme>
-    <programme start="20231109011300" stop="20231109014100" channel="cctv1">
+    <programme start="20231109020300" stop="20231109023300" channel="cctv1">
         <title lang="zh">今日说法-2023-281</title>
     </programme>
-    <programme start="20231109014100" stop="20231109021100" channel="cctv1">
-        <title lang="zh">人与自然-2023-241</title>
-    </programme>
-    <programme start="20231109021100" stop="20231109024100" channel="cctv1">
+    <programme start="20231109023300" stop="20231109030500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20231109024100" stop="20231109024600" channel="cctv1">
+    <programme start="20231109030500" stop="20231109033200" channel="cctv1">
+        <title lang="zh">人与自然-2023-241</title>
+    </programme>
+    <programme start="20231109033200" stop="20231109033700" channel="cctv1">
         <title lang="zh">精彩一刻-2023-4国宝4黄花梨画案</title>
     </programme>
-    <programme start="20231109024600" stop="20231109025400" channel="cctv1">
+    <programme start="20231109033700" stop="20231109034400" channel="cctv1">
         <title lang="zh">精彩一刻-2023-5国宝4宋代海船</title>
     </programme>
-    <programme start="20231109025400" stop="20231109042900" channel="cctv1">
-        <title lang="zh">山水间的家（第二季）-5</title>
+    <programme start="20231109034400" stop="20231109042900" channel="cctv1">
+        <title lang="zh">开讲啦-2023-38</title>
     </programme>
     <programme start="20231109042900" stop="20231109050000" channel="cctv1">
         <title lang="zh">今日说法-2023-281</title>
@@ -376,7 +379,7 @@
         <title lang="zh">前情提要- 《珠江人家》第34集</title>
     </programme>
     <programme start="20231109200600" stop="20231109205700" channel="cctv1">
-        <title lang="zh">珠江人家34/35</title>
+        <title lang="zh">珠江人家第34集</title>
     </programme>
     <programme start="20231109205700" stop="20231109205900" channel="cctv1">
         <title lang="zh">前情提要- 《珠江人家》第35集</title>
@@ -490,7 +493,7 @@
         <title lang="zh">等着我-2023-24</title>
     </programme>
     <programme start="20231110232500" stop="20231110235900" channel="cctv1">
-        <title lang="zh">山水间的家（第二季）-7</title>
+        <title lang="zh">山水间的家（第二季）-6</title>
     </programme>
     <programme start="20231108001300" stop="20231108010200" channel="cctv2">
         <title lang="zh">中国式现代化-2</title>
@@ -825,20 +828,17 @@
     <programme start="20231110203000" stop="20231110213000" channel="cctv2">
         <title lang="zh">经济信息联播</title>
     </programme>
-    <programme start="20231110213000" stop="20231110215500" channel="cctv2">
-        <title lang="zh">央视财经评论-2023-11-10</title>
+    <programme start="20231110213000" stop="20231110220000" channel="cctv2">
+        <title lang="zh">经济半小时</title>
     </programme>
-    <programme start="20231110215500" stop="20231110215800" channel="cctv2">
+    <programme start="20231110220000" stop="20231110220300" channel="cctv2">
         <title lang="zh">2023中国福利彩票公益开奖-234</title>
     </programme>
-    <programme start="20231110215800" stop="20231110225400" channel="cctv2">
+    <programme start="20231110220300" stop="20231110225900" channel="cctv2">
         <title lang="zh">乡村振兴中国行（第二季）-33</title>
     </programme>
-    <programme start="20231110225400" stop="20231110235500" channel="cctv2">
+    <programme start="20231110225900" stop="20231110235900" channel="cctv2">
         <title lang="zh">欢乐大猜想-2023-43</title>
-    </programme>
-    <programme start="20231110235500" stop="20231110235900" channel="cctv2">
-        <title lang="zh">经济半小时</title>
     </programme>
     <programme start="20231108003600" stop="20231108012300" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1510 小娘惹 12/45</title>
@@ -940,7 +940,7 @@
         <title lang="zh">综艺喜乐汇-2023-1219</title>
     </programme>
     <programme start="20231109083800" stop="20231109093100" channel="cctv3">
-        <title lang="zh">我的艺术清单-2023-41</title>
+        <title lang="zh">艺览天下-2023-45</title>
     </programme>
     <programme start="20231109093100" stop="20231109102700" channel="cctv3">
         <title lang="zh">回声嘹亮-2023-43</title>
@@ -960,40 +960,43 @@
     <programme start="20231109145700" stop="20231109155400" channel="cctv3">
         <title lang="zh">我爱满堂彩-2023-27满堂喝彩</title>
     </programme>
-    <programme start="20231109155400" stop="20231109165300" channel="cctv3">
+    <programme start="20231109155400" stop="20231109165200" channel="cctv3">
         <title lang="zh">幸福账单-2023-35</title>
     </programme>
-    <programme start="20231109165300" stop="20231109180200" channel="cctv3">
+    <programme start="20231109165200" stop="20231109175700" channel="cctv3">
         <title lang="zh">黄金100秒-2023-30</title>
     </programme>
-    <programme start="20231109180200" stop="20231109193000" channel="cctv3">
+    <programme start="20231109175700" stop="20231109180300" channel="cctv3">
+        <title lang="zh">中国文艺报道-2023-404</title>
+    </programme>
+    <programme start="20231109180300" stop="20231109193000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1220</title>
     </programme>
     <programme start="20231109193000" stop="20231109203900" channel="cctv3">
         <title lang="zh">非常6+1-2023-44</title>
     </programme>
-    <programme start="20231109203900" stop="20231109213700" channel="cctv3">
+    <programme start="20231109203900" stop="20231109214100" channel="cctv3">
         <title lang="zh">我的艺术清单-2023-42</title>
     </programme>
-    <programme start="20231109213700" stop="20231109223800" channel="cctv3">
+    <programme start="20231109214100" stop="20231109224100" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1446</title>
     </programme>
-    <programme start="20231109223800" stop="20231109232600" channel="cctv3">
+    <programme start="20231109224100" stop="20231109233000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1514 小娘惹 16/45</title>
     </programme>
-    <programme start="20231109232600" stop="20231109235900" channel="cctv3">
+    <programme start="20231109233000" stop="20231109235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1515 小娘惹 17/45</title>
     </programme>
-    <programme start="20231110001400" stop="20231110010100" channel="cctv3">
+    <programme start="20231110001700" stop="20231110010500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1516 小娘惹 18/45</title>
     </programme>
-    <programme start="20231110010100" stop="20231110021900" channel="cctv3">
+    <programme start="20231110010500" stop="20231110022300" channel="cctv3">
         <title lang="zh">越战越勇-2023-42</title>
     </programme>
-    <programme start="20231110021900" stop="20231110031000" channel="cctv3">
+    <programme start="20231110022300" stop="20231110031400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-981</title>
     </programme>
-    <programme start="20231110031000" stop="20231110044800" channel="cctv3">
+    <programme start="20231110031400" stop="20231110044800" channel="cctv3">
         <title lang="zh">你好生活（第四季）-8</title>
     </programme>
     <programme start="20231110044800" stop="20231110060800" channel="cctv3">
@@ -2413,7 +2416,7 @@
         <title lang="zh">治愈系恋人第12集</title>
     </programme>
     <programme start="20231108221900" stop="20231108222100" channel="cctv8">
-        <title lang="zh">本集提要-《治愈系恋人》13/34</title>
+        <title lang="zh">本集提要- 《治愈系恋人》第13集</title>
     </programme>
     <programme start="20231108222100" stop="20231108230900" channel="cctv8">
         <title lang="zh">治愈系恋人第13集</title>
@@ -2527,19 +2530,19 @@
         <title lang="zh">星推荐-2023年11月-9</title>
     </programme>
     <programme start="20231109192600" stop="20231109193000" channel="cctv8">
-        <title lang="zh">本集提要-《无所畏惧》13/40</title>
+        <title lang="zh">本集提要- 《无所畏惧》第13集</title>
     </programme>
     <programme start="20231109193000" stop="20231109202500" channel="cctv8">
         <title lang="zh">无所畏惧13/40</title>
     </programme>
     <programme start="20231109202500" stop="20231109203000" channel="cctv8">
-        <title lang="zh">本集提要-《无所畏惧》14/40</title>
+        <title lang="zh">本集提要- 《无所畏惧》第14集</title>
     </programme>
     <programme start="20231109203000" stop="20231109212500" channel="cctv8">
         <title lang="zh">无所畏惧14/40</title>
     </programme>
     <programme start="20231109212500" stop="20231109213000" channel="cctv8">
-        <title lang="zh">本集提要-《治愈系恋人》14/34</title>
+        <title lang="zh">本集提要- 《治愈系恋人》第14集</title>
     </programme>
     <programme start="20231109213000" stop="20231109221900" channel="cctv8">
         <title lang="zh">治愈系恋人第14集</title>
@@ -3430,24 +3433,24 @@
         <title lang="zh">山河月明第12集</title>
     </programme>
     <programme start="20231109190000" stop="20231109193000" channel="cctv11">
-        <title lang="zh">典藏-2023-137</title>
+        <title lang="zh">典藏-2023-149</title>
     </programme>
-    <programme start="20231109193000" stop="20231109214800" channel="cctv11">
+    <programme start="20231109193000" stop="20231109215100" channel="cctv11">
         <title lang="zh">中央广播电视总台首届青年京剧演员大会-第二阶段第一场</title>
     </programme>
-    <programme start="20231109214800" stop="20231109223800" channel="cctv11">
+    <programme start="20231109215100" stop="20231109224100" channel="cctv11">
         <title lang="zh">理想之城第23集</title>
     </programme>
-    <programme start="20231109223800" stop="20231109232900" channel="cctv11">
+    <programme start="20231109224100" stop="20231109233200" channel="cctv11">
         <title lang="zh">理想之城第24集</title>
     </programme>
-    <programme start="20231109232900" stop="20231109235900" channel="cctv11">
+    <programme start="20231109233200" stop="20231109235900" channel="cctv11">
         <title lang="zh">理想之城第25集</title>
     </programme>
-    <programme start="20231110001900" stop="20231110005000" channel="cctv11">
+    <programme start="20231110002200" stop="20231110005300" channel="cctv11">
         <title lang="zh">典藏-2023-137</title>
     </programme>
-    <programme start="20231110005000" stop="20231110060800" channel="cctv11">
+    <programme start="20231110005300" stop="20231110060800" channel="cctv11">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20231110060800" stop="20231110072200" channel="cctv11">
@@ -3484,18 +3487,18 @@
         <title lang="zh">山河月明14/45</title>
     </programme>
     <programme start="20231110190000" stop="20231110193000" channel="cctv11">
-        <title lang="zh">典藏-2023-138</title>
+        <title lang="zh">典藏-2023-150</title>
     </programme>
-    <programme start="20231110193000" stop="20231110215300" channel="cctv11">
+    <programme start="20231110193000" stop="20231110215800" channel="cctv11">
         <title lang="zh">中央广播电视总台首届青年京剧演员大会-第二阶段第二场</title>
     </programme>
-    <programme start="20231110215300" stop="20231110224300" channel="cctv11">
+    <programme start="20231110215800" stop="20231110224800" channel="cctv11">
         <title lang="zh">理想之城26/40</title>
     </programme>
-    <programme start="20231110224300" stop="20231110233400" channel="cctv11">
+    <programme start="20231110224800" stop="20231110233900" channel="cctv11">
         <title lang="zh">理想之城27/40</title>
     </programme>
-    <programme start="20231110233400" stop="20231110235900" channel="cctv11">
+    <programme start="20231110233900" stop="20231110235900" channel="cctv11">
         <title lang="zh">理想之城28/40</title>
     </programme>
     <programme start="20231108002100" stop="20231108011400" channel="cctv12">
@@ -4068,25 +4071,25 @@
     <programme start="20231109120000" stop="20231109133600" channel="cctv15">
         <title lang="zh">民歌·中国-2023-158精彩火焰蓝</title>
     </programme>
-    <programme start="20231109133600" stop="20231109144800" channel="cctv15">
-        <title lang="zh">影视留声机-2023-68</title>
+    <programme start="20231109133600" stop="20231109144700" channel="cctv15">
+        <title lang="zh">丝路繁花——共建一带一路倡议十周年音乐会-1</title>
     </programme>
-    <programme start="20231109144800" stop="20231109155700" channel="cctv15">
+    <programme start="20231109144700" stop="20231109155600" channel="cctv15">
         <title lang="zh">全球中文音乐榜上榜-2023-精编5</title>
     </programme>
-    <programme start="20231109155700" stop="20231109163000" channel="cctv15">
+    <programme start="20231109155600" stop="20231109162900" channel="cctv15">
         <title lang="zh">乐游天下-2023-17 平遥随想</title>
     </programme>
-    <programme start="20231109163000" stop="20231109163300" channel="cctv15">
+    <programme start="20231109162900" stop="20231109163200" channel="cctv15">
         <title lang="zh">中国音乐电视-爱的天堂</title>
     </programme>
-    <programme start="20231109163300" stop="20231109170700" channel="cctv15">
+    <programme start="20231109163200" stop="20231109170800" channel="cctv15">
         <title lang="zh">风华国乐-2023-327</title>
     </programme>
-    <programme start="20231109170700" stop="20231109181700" channel="cctv15">
+    <programme start="20231109170800" stop="20231109181800" channel="cctv15">
         <title lang="zh">民歌·中国-2023-157家乡恋曲1</title>
     </programme>
-    <programme start="20231109181700" stop="20231109192900" channel="cctv15">
+    <programme start="20231109181800" stop="20231109192900" channel="cctv15">
         <title lang="zh">精彩音乐汇-2023-300</title>
     </programme>
     <programme start="20231109192900" stop="20231109202300" channel="cctv15">
@@ -4161,13 +4164,13 @@
     <programme start="20231110204300" stop="20231110204700" channel="cctv15">
         <title lang="zh">中国音乐电视-爱的天堂</title>
     </programme>
-    <programme start="20231110204700" stop="20231110220200" channel="cctv15">
-        <title lang="zh">合唱先锋2023-49-时光荏苒</title>
+    <programme start="20231110204700" stop="20231110221000" channel="cctv15">
+        <title lang="zh">丝路繁花——共建一带一路倡议十周年音乐会-1</title>
     </programme>
-    <programme start="20231110220200" stop="20231110225900" channel="cctv15">
+    <programme start="20231110221000" stop="20231110230700" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2023-238-名家名曲（170）</title>
     </programme>
-    <programme start="20231110225900" stop="20231110235900" channel="cctv15">
+    <programme start="20231110230700" stop="20231110235900" channel="cctv15">
         <title lang="zh">经典-2023-270</title>
     </programme>
     <programme start="20231108000500" stop="20231108013500" channel="cctv16">
