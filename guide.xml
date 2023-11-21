@@ -264,23 +264,23 @@
     <programme start="20231121180100" stop="20231121190000" channel="cctv1">
         <title lang="zh">航拍中国（第四季）-2</title>
     </programme>
-    <programme start="20231121190000" stop="20231121193900" channel="cctv1">
+    <programme start="20231121190000" stop="20231121193700" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20231121193900" stop="20231121200100" channel="cctv1">
+    <programme start="20231121193700" stop="20231121200100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20231121200100" stop="20231121200600" channel="cctv1">
         <title lang="zh">前情提要- 《此心安处是吾乡》第11集</title>
     </programme>
     <programme start="20231121200600" stop="20231121205600" channel="cctv1">
-        <title lang="zh">此心安处是吾乡11/32</title>
+        <title lang="zh">此心安处是吾乡第11集</title>
     </programme>
     <programme start="20231121205600" stop="20231121205900" channel="cctv1">
         <title lang="zh">前情提要- 《此心安处是吾乡》第12集</title>
     </programme>
     <programme start="20231121205900" stop="20231121220000" channel="cctv1">
-        <title lang="zh">此心安处是吾乡12/32</title>
+        <title lang="zh">此心安处是吾乡第12集</title>
     </programme>
     <programme start="20231121220000" stop="20231121223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -477,14 +477,17 @@
     <programme start="20231123162500" stop="20231123171600" channel="cctv1">
         <title lang="zh">爱拼会赢32/35</title>
     </programme>
-    <programme start="20231123171600" stop="20231123175900" channel="cctv1">
+    <programme start="20231123171600" stop="20231123175800" channel="cctv1">
         <title lang="zh">第一动画乐园-2023-591</title>
     </programme>
-    <programme start="20231123175900" stop="20231123180100" channel="cctv1">
+    <programme start="20231123175800" stop="20231123181900" channel="cctv1">
+        <title lang="zh">第一动画乐园-2023-593</title>
+    </programme>
+    <programme start="20231123181900" stop="20231123182100" channel="cctv1">
         <title lang="zh">2023秘境之眼-305</title>
     </programme>
-    <programme start="20231123180100" stop="20231123190000" channel="cctv1">
-        <title lang="zh">航拍中国（第四季）-4</title>
+    <programme start="20231123182100" stop="20231123190000" channel="cctv1">
+        <title lang="zh">寻宝-文脉春秋-1</title>
     </programme>
     <programme start="20231123190000" stop="20231123193900" channel="cctv1">
         <title lang="zh">新闻联播</title>
@@ -1071,14 +1074,14 @@
     <programme start="20231123144400" stop="20231123153900" channel="cctv3">
         <title lang="zh">我爱满堂彩-2023-29满堂喝彩</title>
     </programme>
-    <programme start="20231123153900" stop="20231123170600" channel="cctv3">
+    <programme start="20231123153900" stop="20231123170200" channel="cctv3">
         <title lang="zh">星光大道-2023-60</title>
     </programme>
-    <programme start="20231123170600" stop="20231123180000" channel="cctv3">
-        <title lang="zh">幸福账单-2023-46</title>
-    </programme>
-    <programme start="20231123180000" stop="20231123180500" channel="cctv3">
+    <programme start="20231123170200" stop="20231123170900" channel="cctv3">
         <title lang="zh">中国文艺报道-2023-405</title>
+    </programme>
+    <programme start="20231123170900" stop="20231123180500" channel="cctv3">
+        <title lang="zh">幸福账单-2023-46</title>
     </programme>
     <programme start="20231123180500" stop="20231123193000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-1448</title>
@@ -2572,13 +2575,13 @@
         <title lang="zh">无所畏惧40/40</title>
     </programme>
     <programme start="20231122212400" stop="20231122212900" channel="cctv8">
-        <title lang="zh">本集提要-《珠江人家》4/35</title>
+        <title lang="zh">本集提要- 《珠江人家》第4集</title>
     </programme>
     <programme start="20231122212900" stop="20231122222000" channel="cctv8">
         <title lang="zh">珠江人家第4集</title>
     </programme>
     <programme start="20231122222000" stop="20231122222100" channel="cctv8">
-        <title lang="zh">本集提要-《珠江人家》5/35</title>
+        <title lang="zh">本集提要- 《珠江人家》第5集</title>
     </programme>
     <programme start="20231122222100" stop="20231122231000" channel="cctv8">
         <title lang="zh">珠江人家第5集</title>
@@ -3525,16 +3528,19 @@
     <programme start="20231123190000" stop="20231123193000" channel="cctv11">
         <title lang="zh">典藏-2023-128</title>
     </programme>
-    <programme start="20231123193000" stop="20231123214800" channel="cctv11">
+    <programme start="20231123193000" stop="20231123210400" channel="cctv11">
         <title lang="zh">中央广播电视总台首届青年京剧演员大会-第二阶段第十一场</title>
     </programme>
-    <programme start="20231123214800" stop="20231123223800" channel="cctv11">
+    <programme start="20231123210400" stop="20231123215200" channel="cctv11">
+        <title lang="zh">电影《刘三姐》选段</title>
+    </programme>
+    <programme start="20231123215200" stop="20231123224200" channel="cctv11">
         <title lang="zh">姥姥的饺子馆25/40</title>
     </programme>
-    <programme start="20231123223800" stop="20231123232900" channel="cctv11">
+    <programme start="20231123224200" stop="20231123233300" channel="cctv11">
         <title lang="zh">姥姥的饺子馆26/40</title>
     </programme>
-    <programme start="20231123232900" stop="20231123235900" channel="cctv11">
+    <programme start="20231123233300" stop="20231123235900" channel="cctv11">
         <title lang="zh">姥姥的饺子馆27/40</title>
     </programme>
     <programme start="20231121001100" stop="20231121010400" channel="cctv12">
