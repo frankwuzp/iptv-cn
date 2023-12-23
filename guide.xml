@@ -1023,16 +1023,16 @@
     <programme start="20231225025900" stop="20231225035000" channel="cctv3">
         <title lang="zh">回声嘹亮-2023-48</title>
     </programme>
-    <programme start="20231225035000" stop="20231225050100" channel="cctv3">
+    <programme start="20231225035000" stop="20231225044200" channel="cctv3">
         <title lang="zh">原声天籁——中国民歌盛典-2</title>
     </programme>
-    <programme start="20231225050100" stop="20231225052300" channel="cctv3">
-        <title lang="zh">中国文艺报道-2023-342</title>
+    <programme start="20231225044200" stop="20231225052300" channel="cctv3">
+        <title lang="zh">综艺盛典-2023-28来故居听书16</title>
     </programme>
-    <programme start="20231225052300" stop="20231225061600" channel="cctv3">
+    <programme start="20231225052300" stop="20231225061500" channel="cctv3">
         <title lang="zh">艺览天下-2023-52</title>
     </programme>
-    <programme start="20231225061600" stop="20231225064200" channel="cctv3">
+    <programme start="20231225061500" stop="20231225064200" channel="cctv3">
         <title lang="zh">天天把歌唱-2023-257</title>
     </programme>
     <programme start="20231225064200" stop="20231225073400" channel="cctv3">
@@ -3195,11 +3195,14 @@
     <programme start="20231225114600" stop="20231225120000" channel="cctv10">
         <title lang="zh">时尚科技秀-2023-359</title>
     </programme>
-    <programme start="20231225120000" stop="20231225133800" channel="cctv10">
-        <title lang="zh">2023年度国内国际十大科技新闻-1</title>
-    </programme>
-    <programme start="20231225133800" stop="20231225142700" channel="cctv10">
+    <programme start="20231225120000" stop="20231225124900" channel="cctv10">
         <title lang="zh">百家讲坛-2023-359</title>
+    </programme>
+    <programme start="20231225124900" stop="20231225132700" channel="cctv10">
+        <title lang="zh">透视新科技-2023-100</title>
+    </programme>
+    <programme start="20231225132700" stop="20231225142700" channel="cctv10">
+        <title lang="zh">2023大千世界-152</title>
     </programme>
     <programme start="20231225142700" stop="20231225143700" channel="cctv10">
         <title lang="zh">百家说故事--2023-359</title>
@@ -3216,17 +3219,8 @@
     <programme start="20231225144800" stop="20231225150200" channel="cctv10">
         <title lang="zh">时尚科技秀-2023-359</title>
     </programme>
-    <programme start="20231225150200" stop="20231225153900" channel="cctv10">
-        <title lang="zh">地理·中国-2023-358</title>
-    </programme>
-    <programme start="20231225153900" stop="20231225162200" channel="cctv10">
-        <title lang="zh">探索.发现-2023-371</title>
-    </programme>
-    <programme start="20231225162200" stop="20231225162700" channel="cctv10">
-        <title lang="zh">欣赏-2023-10</title>
-    </programme>
-    <programme start="20231225162700" stop="20231225163900" channel="cctv10">
-        <title lang="zh">百家说故事--2023-359</title>
+    <programme start="20231225150200" stop="20231225163900" channel="cctv10">
+        <title lang="zh">回望2023-国内 国际十大考古新闻-1</title>
     </programme>
     <programme start="20231225163900" stop="20231225170100" channel="cctv10">
         <title lang="zh">创新进行时-2023-255</title>
@@ -3253,7 +3247,7 @@
         <title lang="zh">创新进行时-2023-256</title>
     </programme>
     <programme start="20231225201000" stop="20231225215100" channel="cctv10">
-        <title lang="zh">回望2023-国内 国际十大考古新闻-1</title>
+        <title lang="zh">2023年度国内国际十大科技新闻-1</title>
     </programme>
     <programme start="20231225215100" stop="20231225225200" channel="cctv10">
         <title lang="zh">自然传奇-2023-299</title>
