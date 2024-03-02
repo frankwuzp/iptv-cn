@@ -468,11 +468,11 @@
     <programme start="20240304130700" stop="20240304134500" channel="cctv1">
         <title lang="zh">纪录片瞬间中国-农耕探文明1</title>
     </programme>
-    <programme start="20240304134500" stop="20240304151800" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20240304134500" stop="20240304154500" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20240304151800" stop="20240304160400" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20240304154500" stop="20240304160400" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20240304160400" stop="20240304163400" channel="cctv1">
         <title lang="zh">寻古中国-古滇记1</title>
@@ -1677,10 +1677,10 @@
     <programme start="20240302110000" stop="20240302140500" channel="cctv5plus">
         <title lang="zh">2023/2024赛季北美冰球职业联赛-常规赛49（新泽西魔鬼-阿纳海姆小鸭）</title>
     </programme>
-    <programme start="20240302140500" stop="20240302153500" channel="cctv5plus">
+    <programme start="20240302140500" stop="20240302152500" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界乒乓球团体锦标赛 男团比赛  2</title>
     </programme>
-    <programme start="20240302153500" stop="20240302173500" channel="cctv5plus">
+    <programme start="20240302152500" stop="20240302173500" channel="cctv5plus">
         <title lang="zh">2024年中国足协超级联赛-第1轮（沧州雄狮-北京国安）</title>
     </programme>
     <programme start="20240302173500" stop="20240302180000" channel="cctv5plus">
@@ -4396,10 +4396,10 @@
         <title lang="zh">17故事会-27-农耕技艺知多少-2</title>
     </programme>
     <programme start="20240303101700" stop="20240303110800" channel="cctv17">
-        <title lang="zh">娘亲舅大7/51</title>
+        <title lang="zh">娘亲舅大第7集</title>
     </programme>
     <programme start="20240303110800" stop="20240303120000" channel="cctv17">
-        <title lang="zh">娘亲舅大8/51</title>
+        <title lang="zh">娘亲舅大第8集</title>
     </programme>
     <programme start="20240303120000" stop="20240303123000" channel="cctv17">
         <title lang="zh">三农长短说</title>
@@ -4414,16 +4414,16 @@
         <title lang="zh">17故事会-30-农耕技艺知多少-3</title>
     </programme>
     <programme start="20240303133800" stop="20240303142800" channel="cctv17">
-        <title lang="zh">妈妈在等你4/47</title>
+        <title lang="zh">妈妈在等你第4集</title>
     </programme>
     <programme start="20240303142800" stop="20240303152000" channel="cctv17">
-        <title lang="zh">妈妈在等你5/47</title>
+        <title lang="zh">妈妈在等你第5集</title>
     </programme>
     <programme start="20240303152000" stop="20240303161100" channel="cctv17">
-        <title lang="zh">妈妈在等你6/47</title>
+        <title lang="zh">妈妈在等你第6集</title>
     </programme>
     <programme start="20240303161100" stop="20240303170000" channel="cctv17">
-        <title lang="zh">妈妈在等你7/47</title>
+        <title lang="zh">妈妈在等你第7集</title>
     </programme>
     <programme start="20240303170000" stop="20240303173000" channel="cctv17">
         <title lang="zh">乡理乡亲-2024-5</title>
@@ -4435,10 +4435,10 @@
         <title lang="zh">三农长短说</title>
     </programme>
     <programme start="20240303183500" stop="20240303192900" channel="cctv17">
-        <title lang="zh">娘亲舅大9/51</title>
+        <title lang="zh">娘亲舅大第9集</title>
     </programme>
     <programme start="20240303192900" stop="20240303201800" channel="cctv17">
-        <title lang="zh">娘亲舅大10/51</title>
+        <title lang="zh">娘亲舅大第10集</title>
     </programme>
     <programme start="20240303201800" stop="20240303205000" channel="cctv17">
         <title lang="zh">三农群英汇-2024-54</title>
@@ -4457,6 +4457,9 @@
     </programme>
     <programme start="20240303225000" stop="20240303235900" channel="cctv17">
         <title lang="zh">乡村大舞台-2024好物节2</title>
+    </programme>
+    <programme start="20240304002100" stop="20240304055500" channel="cctv17">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20240304055500" stop="20240304060000" channel="cctv17">
         <title lang="zh">村里来了钢铁侠-6</title>
@@ -4683,11 +4686,8 @@
     <programme start="20240302194100" stop="20240302194500" channel="cctv4k">
         <title lang="zh">听起来很好吃-7（4K）</title>
     </programme>
-    <programme start="20240302194500" stop="20240302195000" channel="cctv4k">
-        <title lang="zh">4K垫播节目-美丽中国-长白山</title>
-    </programme>
-    <programme start="20240302195000" stop="20240302195200" channel="cctv4k">
-        <title lang="zh">4K节目垫播-美丽中国-云南滇金丝猴（4K）</title>
+    <programme start="20240302194500" stop="20240302195200" channel="cctv4k">
+        <title lang="zh">千秋诗颂-闻官军收河南河北（4K）</title>
     </programme>
     <programme start="20240302195200" stop="20240302195600" channel="cctv4k">
         <title lang="zh">4K节目垫播-美丽中国-云南（4K）</title>
@@ -4938,14 +4938,14 @@
     <programme start="20240304084800" stop="20240304085300" channel="cctv4k">
         <title lang="zh">听起来很好吃-9（4K）</title>
     </programme>
-    <programme start="20240304085300" stop="20240304085800" channel="cctv4k">
-        <title lang="zh">听起来很好吃-10（4K）</title>
+    <programme start="20240304085300" stop="20240304085600" channel="cctv4k">
+        <title lang="zh">4K节目垫播-美丽中国-云南（4K）</title>
     </programme>
-    <programme start="20240304085800" stop="20240304085900" channel="cctv4k">
+    <programme start="20240304085600" stop="20240304085600" channel="cctv4k">
         <title lang="zh">4K宣传片-三餐四季</title>
     </programme>
-    <programme start="20240304085900" stop="20240304085900" channel="cctv4k">
-        <title lang="zh">4K宣传片-千秋诗颂</title>
+    <programme start="20240304085600" stop="20240304085900" channel="cctv4k">
+        <title lang="zh">4K宣传片-千秋诗颂2</title>
     </programme>
     <programme start="20240304085900" stop="20240304090000" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
@@ -4968,62 +4968,53 @@
     <programme start="20240304115000" stop="20240304115500" channel="cctv4k">
         <title lang="zh">中国微名片·世界遗产-1（4K）</title>
     </programme>
-    <programme start="20240304115500" stop="20240304115500" channel="cctv4k">
+    <programme start="20240304115500" stop="20240304115600" channel="cctv4k">
+        <title lang="zh">4K节目垫播-美丽中国:海南岛</title>
+    </programme>
+    <programme start="20240304115600" stop="20240304115700" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
     </programme>
-    <programme start="20240304115500" stop="20240304122200" channel="cctv4k">
-        <title lang="zh">军武零距离-2024-9精编(4K)</title>
-    </programme>
-    <programme start="20240304122200" stop="20240304122300" channel="cctv4k">
-        <title lang="zh">4K标识演绎-2019-1</title>
-    </programme>
-    <programme start="20240304122300" stop="20240304125300" channel="cctv4k">
-        <title lang="zh">味道-2023-79(4K)</title>
-    </programme>
-    <programme start="20240304125300" stop="20240304131800" channel="cctv4k">
+    <programme start="20240304115700" stop="20240304122200" channel="cctv4k">
         <title lang="zh">我的美丽乡村-2023-66(4K)</title>
     </programme>
-    <programme start="20240304131800" stop="20240304140000" channel="cctv4k">
+    <programme start="20240304122200" stop="20240304130400" channel="cctv4k">
         <title lang="zh">远方的家2023-89(4K)</title>
     </programme>
-    <programme start="20240304140000" stop="20240304144700" channel="cctv4k">
-        <title lang="zh">山河锦绣-（4K）-5/33</title>
+    <programme start="20240304130400" stop="20240304135400" channel="cctv4k">
+        <title lang="zh">航拍中国（第四季）-1(4K）</title>
     </programme>
-    <programme start="20240304144700" stop="20240304153300" channel="cctv4k">
-        <title lang="zh">山河锦绣-（4K）-6/33</title>
+    <programme start="20240304135400" stop="20240304135500" channel="cctv4k">
+        <title lang="zh">4K标识演绎-2019-2</title>
     </programme>
-    <programme start="20240304153300" stop="20240304153300" channel="cctv4k">
-        <title lang="zh">4K宣传片-千秋诗颂</title>
+    <programme start="20240304135500" stop="20240304154000" channel="cctv4k">
+        <title lang="zh">4K直播-两会240304</title>
     </programme>
-    <programme start="20240304153300" stop="20240304153400" channel="cctv4k">
-        <title lang="zh">4K宣传片-非遗里的中国</title>
-    </programme>
-    <programme start="20240304153400" stop="20240304153400" channel="cctv4k">
+    <programme start="20240304154000" stop="20240304154000" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
     </programme>
-    <programme start="20240304153400" stop="20240304160400" channel="cctv4k">
-        <title lang="zh">味道-2023-79(4K)</title>
+    <programme start="20240304154000" stop="20240304160800" channel="cctv4k">
+        <title lang="zh">记住乡愁2024-63(4K)</title>
     </programme>
-    <programme start="20240304160400" stop="20240304164900" channel="cctv4k">
+    <programme start="20240304160800" stop="20240304161100" channel="cctv4k">
+        <title lang="zh">4K宣传片-千秋诗颂2</title>
+    </programme>
+    <programme start="20240304161100" stop="20240304161100" channel="cctv4k">
+        <title lang="zh">4K宣传片-非遗里的中国</title>
+    </programme>
+    <programme start="20240304161100" stop="20240304161400" channel="cctv4k">
+        <title lang="zh">4K节目垫播-美丽中国:海南岛</title>
+    </programme>
+    <programme start="20240304161400" stop="20240304165900" channel="cctv4k">
         <title lang="zh">传承（第四季）-7（4K）</title>
     </programme>
-    <programme start="20240304164900" stop="20240304165900" channel="cctv4k">
+    <programme start="20240304165900" stop="20240304170900" channel="cctv4k">
         <title lang="zh">2024秘境之眼-熊猫森林(4K）</title>
-    </programme>
-    <programme start="20240304165900" stop="20240304170400" channel="cctv4k">
-        <title lang="zh">听起来很好吃-9（4K）</title>
-    </programme>
-    <programme start="20240304170400" stop="20240304170900" channel="cctv4k">
-        <title lang="zh">听起来很好吃-10（4K）</title>
-    </programme>
-    <programme start="20240304170900" stop="20240304170900" channel="cctv4k">
-        <title lang="zh">4K标识演绎-2019-1</title>
     </programme>
     <programme start="20240304170900" stop="20240304175900" channel="cctv4k">
         <title lang="zh">航拍中国（第四季）-3(4K)</title>
     </programme>
     <programme start="20240304175900" stop="20240304180000" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
     </programme>
     <programme start="20240304180000" stop="20240304183000" channel="cctv4k">
         <title lang="zh">味道-2023-80(4K)</title>
@@ -5037,17 +5028,17 @@
     <programme start="20240304185500" stop="20240304193700" channel="cctv4k">
         <title lang="zh">远方的家2023-1(4K)</title>
     </programme>
-    <programme start="20240304193700" stop="20240304194200" channel="cctv4k">
-        <title lang="zh">听起来很好吃(第二季)-1（4K）</title>
-    </programme>
-    <programme start="20240304194200" stop="20240304195700" channel="cctv4k">
+    <programme start="20240304193700" stop="20240304195200" channel="cctv4k">
         <title lang="zh">艺术里的奥林匹克-2024-13</title>
     </programme>
-    <programme start="20240304195700" stop="20240304195700" channel="cctv4k">
-        <title lang="zh">4K宣传片-三餐四季</title>
+    <programme start="20240304195200" stop="20240304195500" channel="cctv4k">
+        <title lang="zh">4K宣传片-千秋诗颂2</title>
     </programme>
-    <programme start="20240304195700" stop="20240304195900" channel="cctv4k">
+    <programme start="20240304195500" stop="20240304195500" channel="cctv4k">
         <title lang="zh">4K宣传片-非遗里的中国</title>
+    </programme>
+    <programme start="20240304195500" stop="20240304195900" channel="cctv4k">
+        <title lang="zh">4K节目垫播-美丽中国:海南岛</title>
     </programme>
     <programme start="20240304195900" stop="20240304204700" channel="cctv4k">
         <title lang="zh">鸣龙少年-4K-28/32</title>
