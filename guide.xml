@@ -483,14 +483,11 @@
     <programme start="20240305060000" stop="20240305074500" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20240305074500" stop="20240305091800" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20240305074500" stop="20240305115600" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20240305091800" stop="20240305105100" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
-    </programme>
-    <programme start="20240305105100" stop="20240305120000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20240305115600" stop="20240305120000" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20240305120000" stop="20240305123600" channel="cctv1">
         <title lang="zh">新闻30分</title>
@@ -1246,7 +1243,7 @@
         <title lang="zh">鲁健访谈-2024-4</title>
     </programme>
     <programme start="20240303235600" stop="20240303235900" channel="cctv4">
-        <title lang="zh">记住乡愁2024-12</title>
+        <title lang="zh">记住乡愁2024-16</title>
     </programme>
     <programme start="20240304002400" stop="20240304005400" channel="cctv4">
         <title lang="zh">记住乡愁2024-15</title>
@@ -1311,14 +1308,8 @@
     <programme start="20240304115000" stop="20240304134500" channel="cctv4">
         <title lang="zh">2024年全国两会直播报道-2</title>
     </programme>
-    <programme start="20240304134500" stop="20240304144500" channel="cctv4">
-        <title lang="zh">中国舆论场-2024-8</title>
-    </programme>
-    <programme start="20240304144500" stop="20240304154500" channel="cctv4">
-        <title lang="zh">环球综艺秀-2024-9</title>
-    </programme>
-    <programme start="20240304154500" stop="20240304160400" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-24</title>
+    <programme start="20240304134500" stop="20240304160400" channel="cctv4">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20240304160400" stop="20240304163200" channel="cctv4">
         <title lang="zh">共和国符号-6</title>
@@ -1365,16 +1356,16 @@
     <programme start="20240304233200" stop="20240304235900" channel="cctv4">
         <title lang="zh">记住乡愁2024-14</title>
     </programme>
-    <programme start="20240305000000" stop="20240305003100" channel="cctv4">
+    <programme start="20240305000000" stop="20240305003200" channel="cctv4">
         <title lang="zh">记住乡愁2024-22</title>
     </programme>
-    <programme start="20240305003100" stop="20240305011700" channel="cctv4">
+    <programme start="20240305003200" stop="20240305011800" channel="cctv4">
         <title lang="zh">远方的家2024-30</title>
     </programme>
-    <programme start="20240305011700" stop="20240305014700" channel="cctv4">
+    <programme start="20240305011800" stop="20240305014800" channel="cctv4">
         <title lang="zh">中国文艺-2024-46</title>
     </programme>
-    <programme start="20240305014700" stop="20240305020000" channel="cctv4">
+    <programme start="20240305014800" stop="20240305020000" channel="cctv4">
         <title lang="zh">记住乡愁2018片段展播-24</title>
     </programme>
     <programme start="20240305020000" stop="20240305023000" channel="cctv4">
@@ -1719,14 +1710,11 @@
     <programme start="20240303163000" stop="20240303180000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界乒乓球团体锦标赛 女团比赛  3</title>
     </programme>
-    <programme start="20240303180000" stop="20240303210000" channel="cctv5plus">
+    <programme start="20240303180000" stop="20240303220000" channel="cctv5plus">
         <title lang="zh">2024年世界室内田径锦标赛-男子跳高决赛等</title>
     </programme>
-    <programme start="20240303210000" stop="20240303220000" channel="cctv5plus">
-        <title lang="zh">实况录像-2024年世界泳联跳水世界杯 加拿大蒙特利尔站 男子10米台决赛（录播）</title>
-    </programme>
     <programme start="20240303220000" stop="20240303223000" channel="cctv5plus">
-        <title lang="zh">赛事集锦-2024年国际体联体操世界杯-科特布斯站 25分钟版1</title>
+        <title lang="zh">实况录像-2024年国际体联体操世界杯 开罗站</title>
     </programme>
     <programme start="20240303223000" stop="20240303235900" channel="cctv5plus">
         <title lang="zh">2023/2024德国足球甲级联赛-第24轮（科隆-勒沃库森）</title>
