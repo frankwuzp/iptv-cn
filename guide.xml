@@ -273,14 +273,14 @@
     <programme start="20240309193900" stop="20240309200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240309200600" stop="20240309213900" channel="cctv1">
+    <programme start="20240309200600" stop="20240309213800" channel="cctv1">
         <title lang="zh">美美与共-10</title>
     </programme>
-    <programme start="20240309213900" stop="20240309215600" channel="cctv1">
+    <programme start="20240309213800" stop="20240309215500" channel="cctv1">
         <title lang="zh">寻宝-文脉春秋宣传片（新版）</title>
     </programme>
-    <programme start="20240309215600" stop="20240309220000" channel="cctv1">
-        <title lang="zh">唐宋八大家-苏轼MV</title>
+    <programme start="20240309215500" stop="20240309220000" channel="cctv1">
+        <title lang="zh">宗师列传▪唐宋八大家-MV</title>
     </programme>
     <programme start="20240309220000" stop="20240309223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -343,7 +343,7 @@
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20240310100000" stop="20240310100600" channel="cctv1">
-        <title lang="zh">唐宋八大家-三苏MV</title>
+        <title lang="zh">宗师列传▪唐宋八大家-MV</title>
     </programme>
     <programme start="20240310100600" stop="20240310100700" channel="cctv1">
         <title lang="zh">纪录片瞬间中国-农耕探文明2</title>
@@ -421,7 +421,7 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme start="20240311015100" stop="20240311023800" channel="cctv1">
-        <title lang="zh">等着我-2023-44</title>
+        <title lang="zh">等着我-2023-48</title>
     </programme>
     <programme start="20240311023800" stop="20240311024300" channel="cctv1">
         <title lang="zh">精彩一刻-2024-160国宝四梅瓶</title>
@@ -1155,13 +1155,13 @@
     <programme start="20240309141500" stop="20240309145000" channel="cctv4">
         <title lang="zh">共和国符号-10</title>
     </programme>
-    <programme start="20240309145000" stop="20240309162400" channel="cctv4">
+    <programme start="20240309145000" stop="20240309170400" channel="cctv4">
         <title lang="zh">2024年全国两会直播报道-5</title>
     </programme>
-    <programme start="20240309162400" stop="20240309165100" channel="cctv4">
+    <programme start="20240309170400" stop="20240309173100" channel="cctv4">
         <title lang="zh">共和国符号-4</title>
     </programme>
-    <programme start="20240309165100" stop="20240309174300" channel="cctv4">
+    <programme start="20240309173100" stop="20240309174300" channel="cctv4">
         <title lang="zh">许你万家灯火第14集</title>
     </programme>
     <programme start="20240309174300" stop="20240309180000" channel="cctv4">
@@ -1239,29 +1239,20 @@
     <programme start="20240310063000" stop="20240310070000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20240310070000" stop="20240310073000" channel="cctv4">
+    <programme start="20240310070000" stop="20240310074500" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20240310073000" stop="20240310080000" channel="cctv4">
-        <title lang="zh">今日关注</title>
+    <programme start="20240310074500" stop="20240310095600" channel="cctv4">
+        <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20240310080000" stop="20240310090000" channel="cctv4">
-        <title lang="zh">今日环球</title>
+    <programme start="20240310095600" stop="20240310102600" channel="cctv4">
+        <title lang="zh">共和国符号-10</title>
     </programme>
-    <programme start="20240310090000" stop="20240310092900" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
+    <programme start="20240310102600" stop="20240310105600" channel="cctv4">
+        <title lang="zh">精彩一刻（香港版）-2023-271寻古中国稻谷记1港版</title>
     </programme>
-    <programme start="20240310092900" stop="20240310095800" channel="cctv4">
-        <title lang="zh">记住乡愁2024-27</title>
-    </programme>
-    <programme start="20240310095800" stop="20240310102600" channel="cctv4">
-        <title lang="zh">记住乡愁2024-28</title>
-    </programme>
-    <programme start="20240310102600" stop="20240310105400" channel="cctv4">
-        <title lang="zh">记住乡愁2024-29</title>
-    </programme>
-    <programme start="20240310105400" stop="20240310112600" channel="cctv4">
-        <title lang="zh">记住乡愁2024-30</title>
+    <programme start="20240310105600" stop="20240310112600" channel="cctv4">
+        <title lang="zh">精彩一刻（香港版）-2023-272寻古中国稻谷记2港版</title>
     </programme>
     <programme start="20240310112600" stop="20240310120000" channel="cctv4">
         <title lang="zh">海峡两岸-2024-69</title>
@@ -1389,23 +1380,11 @@
     <programme start="20240311131400" stop="20240311134500" channel="cctv4">
         <title lang="zh">共和国符号-3</title>
     </programme>
-    <programme start="20240311134500" stop="20240311135600" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-9</title>
-    </programme>
-    <programme start="20240311135600" stop="20240311144100" channel="cctv4">
-        <title lang="zh">远方的家2024-31</title>
-    </programme>
-    <programme start="20240311144100" stop="20240311152600" channel="cctv4">
-        <title lang="zh">远方的家2024-32</title>
-    </programme>
-    <programme start="20240311152600" stop="20240311161100" channel="cctv4">
-        <title lang="zh">远方的家2024-33</title>
-    </programme>
-    <programme start="20240311161100" stop="20240311170000" channel="cctv4">
-        <title lang="zh">远方的家2024-34</title>
+    <programme start="20240311134500" stop="20240311170000" channel="cctv4">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20240311170000" stop="20240311171500" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-9</title>
+        <title lang="zh">记住乡愁2018片段展播-56</title>
     </programme>
     <programme start="20240311171500" stop="20240311180000" channel="cctv4">
         <title lang="zh">远方的家2024-18(4K)</title>
@@ -4801,10 +4780,10 @@
         <title lang="zh">航拍中国（第四季）-9(4K)</title>
     </programme>
     <programme start="20240310140200" stop="20240310144900" channel="cctv4k">
-        <title lang="zh">山河锦绣-（4K）-17/33</title>
+        <title lang="zh">山河锦绣-（4K）-15/33</title>
     </programme>
     <programme start="20240310144900" stop="20240310153500" channel="cctv4k">
-        <title lang="zh">山河锦绣-（4K）-18/33</title>
+        <title lang="zh">山河锦绣-（4K）-16/33</title>
     </programme>
     <programme start="20240310153500" stop="20240310153500" channel="cctv4k">
         <title lang="zh">4K宣传片-三餐四季</title>
@@ -4870,7 +4849,7 @@
         <title lang="zh">军武零距离-2024-10精编(4K)</title>
     </programme>
     <programme start="20240310195700" stop="20240310195700" channel="cctv4k">
-        <title lang="zh">4K宣传片-三餐四季</title>
+        <title lang="zh">4K宣传片-2024中国诗词大会</title>
     </programme>
     <programme start="20240310195700" stop="20240310195900" channel="cctv4k">
         <title lang="zh">4K宣传片-非遗里的中国</title>
