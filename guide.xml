@@ -1002,8 +1002,11 @@
     <programme start="20240331005900" stop="20240331014500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-305 骄阳伴我12/36</title>
     </programme>
-    <programme start="20240331014500" stop="20240331030100" channel="cctv3">
+    <programme start="20240331014500" stop="20240331030000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-6</title>
+    </programme>
+    <programme start="20240331030000" stop="20240331030100" channel="cctv3">
+        <title lang="zh">我的艺术清单-2024-11</title>
     </programme>
     <programme start="20240331030100" stop="20240331035100" channel="cctv3">
         <title lang="zh">黄金100秒-2023-47</title>
@@ -1623,10 +1626,10 @@
     <programme start="20240329090500" stop="20240329100000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界短道速滑锦标赛 1</title>
     </programme>
-    <programme start="20240329100000" stop="20240329130000" channel="cctv5plus">
+    <programme start="20240329100000" stop="20240329124200" channel="cctv5plus">
         <title lang="zh">2023/2024赛季北美冰球职业联赛-常规赛57（达拉斯星-温哥华加人）</title>
     </programme>
-    <programme start="20240329130000" stop="20240329163500" channel="cctv5plus">
+    <programme start="20240329124200" stop="20240329163500" channel="cctv5plus">
         <title lang="zh">2024年世乒联冠军赛(韩国站)-单打第2轮 1</title>
     </programme>
     <programme start="20240329163500" stop="20240329180000" channel="cctv5plus">
@@ -2029,7 +2032,7 @@
         <title lang="zh">防务新观察-2024-64</title>
     </programme>
     <programme start="20240329204500" stop="20240329211900" channel="cctv7">
-        <title lang="zh">军事纪实-2024-65</title>
+        <title lang="zh">军事纪实-2024备播2</title>
     </programme>
     <programme start="20240329211900" stop="20240329215500" channel="cctv7">
         <title lang="zh">第二战场-2024-5</title>
@@ -2041,7 +2044,7 @@
         <title lang="zh">换了人间20/40</title>
     </programme>
     <programme start="20240329233100" stop="20240329235900" channel="cctv7">
-        <title lang="zh">军事纪实-2024-65</title>
+        <title lang="zh">军事纪实-2024备播2</title>
     </programme>
     <programme start="20240330000600" stop="20240330004400" channel="cctv7">
         <title lang="zh">兵器面面观-2024-65</title>
@@ -2050,7 +2053,7 @@
         <title lang="zh">再见</title>
     </programme>
     <programme start="20240330060300" stop="20240330063400" channel="cctv7">
-        <title lang="zh">军事纪实-2024-65</title>
+        <title lang="zh">军事纪实-2024备播2</title>
     </programme>
     <programme start="20240330063400" stop="20240330070400" channel="cctv7">
         <title lang="zh">砺剑-2024-13</title>
@@ -2068,7 +2071,7 @@
         <title lang="zh">防务新观察-2024-64</title>
     </programme>
     <programme start="20240330093500" stop="20240330100900" channel="cctv7">
-        <title lang="zh">军事纪实-2024-65</title>
+        <title lang="zh">军事纪实-2024备播2</title>
     </programme>
     <programme start="20240330100900" stop="20240330103800" channel="cctv7">
         <title lang="zh">兵器面面观-2024-65</title>
@@ -2199,11 +2202,8 @@
     <programme start="20240331155200" stop="20240331164200" channel="cctv7">
         <title lang="zh">黑白禁区1/42</title>
     </programme>
-    <programme start="20240331164200" stop="20240331174700" channel="cctv7">
+    <programme start="20240331164200" stop="20240331175400" channel="cctv7">
         <title lang="zh">老兵你好-2024-13</title>
-    </programme>
-    <programme start="20240331174700" stop="20240331175400" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-沙场追梦（2024）</title>
     </programme>
     <programme start="20240331175400" stop="20240331190000" channel="cctv7">
         <title lang="zh">讲武堂-2024-13</title>
@@ -2458,16 +2458,16 @@
         <title lang="zh">星推荐-2024年3月-30</title>
     </programme>
     <programme start="20240330192600" stop="20240330193000" channel="cctv8">
-        <title lang="zh">本集提要-《追风者》19/38</title>
+        <title lang="zh">本集提要- 《追风者》第19集</title>
     </programme>
     <programme start="20240330193000" stop="20240330202500" channel="cctv8">
-        <title lang="zh">追风者19/38</title>
+        <title lang="zh">追风者第19集</title>
     </programme>
     <programme start="20240330202500" stop="20240330203000" channel="cctv8">
-        <title lang="zh">本集提要-《追风者》20/38</title>
+        <title lang="zh">本集提要- 《追风者》第20集</title>
     </programme>
     <programme start="20240330203000" stop="20240330212500" channel="cctv8">
-        <title lang="zh">追风者20/38</title>
+        <title lang="zh">追风者第20集</title>
     </programme>
     <programme start="20240330212500" stop="20240330212800" channel="cctv8">
         <title lang="zh">本集提要- 《欢乐颂5》第26集</title>
