@@ -385,13 +385,13 @@
         <title lang="zh">前情提要- 《城中之城》第11集</title>
     </programme>
     <programme start="20240416200600" stop="20240416205400" channel="cctv1">
-        <title lang="zh">城中之城-（一套版）-11/40</title>
+        <title lang="zh">城中之城-（一套版）-第11集</title>
     </programme>
     <programme start="20240416205400" stop="20240416205700" channel="cctv1">
         <title lang="zh">前情提要- 《城中之城》第12集</title>
     </programme>
     <programme start="20240416205700" stop="20240416214600" channel="cctv1">
-        <title lang="zh">城中之城-（一套版）-12/40</title>
+        <title lang="zh">城中之城-（一套版）-第12集</title>
     </programme>
     <programme start="20240416214600" stop="20240416220000" channel="cctv1">
         <title lang="zh">精彩一刻-2024-175国宝三仕女俑</title>
@@ -510,10 +510,13 @@
     <programme start="20240417215000" stop="20240417220000" channel="cctv1">
         <title lang="zh">精彩一刻-2024-176国宝三立狮锦</title>
     </programme>
-    <programme start="20240417220000" stop="20240417223400" channel="cctv1">
+    <programme start="20240417220000" stop="20240417223500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20240417223400" stop="20240417235900" channel="cctv1">
+    <programme start="20240417223500" stop="20240417230900" channel="cctv1">
+        <title lang="zh">精彩一刻-2024-184文明风盛新时代2</title>
+    </programme>
+    <programme start="20240417230900" stop="20240417235900" channel="cctv1">
         <title lang="zh">非遗里的中国-8</title>
     </programme>
     <programme start="20240415005400" stop="20240415014000" channel="cctv2">
@@ -1194,11 +1197,8 @@
     <programme start="20240415210000" stop="20240415213000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20240415213000" stop="20240415220000" channel="cctv4">
+    <programme start="20240415213000" stop="20240415223000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20240415220000" stop="20240415223000" channel="cctv4">
-        <title lang="zh">走遍中国-2024-61</title>
     </programme>
     <programme start="20240415223000" stop="20240415230400" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1234,7 +1234,7 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20240416043000" stop="20240416050000" channel="cctv4">
-        <title lang="zh">今日关注</title>
+        <title lang="zh">记住乡愁2024-1</title>
     </programme>
     <programme start="20240416050000" stop="20240416053000" channel="cctv4">
         <title lang="zh">国家记忆-2024-11</title>
@@ -1248,11 +1248,11 @@
     <programme start="20240416063000" stop="20240416070000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20240416070000" stop="20240416073000" channel="cctv4">
+    <programme start="20240416070000" stop="20240416073100" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20240416073000" stop="20240416080000" channel="cctv4">
-        <title lang="zh">今日关注</title>
+    <programme start="20240416073100" stop="20240416080000" channel="cctv4">
+        <title lang="zh">走遍中国-2024-61</title>
     </programme>
     <programme start="20240416080000" stop="20240416090200" channel="cctv4">
         <title lang="zh">今日环球</title>
@@ -1672,7 +1672,7 @@
         <title lang="zh">2024年国际乒联单打世界杯-小组赛第1轮 3</title>
     </programme>
     <programme start="20240415193000" stop="20240415215000" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季中国男子篮球职业联赛-12进8 第三场1</title>
+        <title lang="zh">2023/2024赛季中国男子篮球职业联赛-12进8 第三场 深圳马可波罗VS北京控股</title>
     </programme>
     <programme start="20240415215000" stop="20240415224000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2024年世界泳联花样游泳世界杯 北京站1（4K）</title>
@@ -2539,7 +2539,7 @@
         <title lang="zh">本集提要- 《我们的队伍向太阳》第25集</title>
     </programme>
     <programme start="20240416221600" stop="20240416230500" channel="cctv8">
-        <title lang="zh">我们的队伍向太阳25/33</title>
+        <title lang="zh">我们的队伍向太阳第25集</title>
     </programme>
     <programme start="20240416230500" stop="20240416235100" channel="cctv8">
         <title lang="zh">他是谁第2集</title>
