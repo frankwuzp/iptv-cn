@@ -390,13 +390,13 @@
     <programme start="20240420190000" stop="20240420193700" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240420193700" stop="20240420200600" channel="cctv1">
+    <programme start="20240420193700" stop="20240420200200" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240420200600" stop="20240420215200" channel="cctv1">
+    <programme start="20240420200200" stop="20240420214900" channel="cctv1">
         <title lang="zh">2024中国诗词大会-7</title>
     </programme>
-    <programme start="20240420215200" stop="20240420220000" channel="cctv1">
+    <programme start="20240420214900" stop="20240420220000" channel="cctv1">
         <title lang="zh">精彩一刻-2024-174国宝三金步摇</title>
     </programme>
     <programme start="20240420220000" stop="20240420223400" channel="cctv1">
@@ -495,10 +495,10 @@
     <programme start="20240421193800" stop="20240421200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240421200600" stop="20240421214800" channel="cctv1">
-        <title lang="zh">简牍探中华-5</title>
+    <programme start="20240421200600" stop="20240421214400" channel="cctv1">
+        <title lang="zh">中国中医药大会-8</title>
     </programme>
-    <programme start="20240421214800" stop="20240421220000" channel="cctv1">
+    <programme start="20240421214400" stop="20240421220000" channel="cctv1">
         <title lang="zh">精彩一刻-2024-179国宝三黄河铁牛</title>
     </programme>
     <programme start="20240421220000" stop="20240421223400" channel="cctv1">
@@ -1002,16 +1002,16 @@
     <programme start="20240421023100" stop="20240421032900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-191乐龄唱响-5</title>
     </programme>
-    <programme start="20240421032900" stop="20240421050300" channel="cctv3">
+    <programme start="20240421032900" stop="20240421050100" channel="cctv3">
         <title lang="zh">经典咏流传-正青春-13</title>
     </programme>
-    <programme start="20240421050300" stop="20240421052000" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2024-349 国家宝藏系列专题节目 8</title>
+    <programme start="20240421050100" stop="20240421052600" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2024-359</title>
     </programme>
-    <programme start="20240421052000" stop="20240421065200" channel="cctv3">
+    <programme start="20240421052600" stop="20240421065700" channel="cctv3">
         <title lang="zh">拿手好戏-7重播版</title>
     </programme>
-    <programme start="20240421065200" stop="20240421074300" channel="cctv3">
+    <programme start="20240421065700" stop="20240421074300" channel="cctv3">
         <title lang="zh">我的艺术清单-2024-10</title>
     </programme>
     <programme start="20240421074300" stop="20240421084500" channel="cctv3">
@@ -1033,7 +1033,7 @@
         <title lang="zh">你好生活-你好民歌-2</title>
     </programme>
     <programme start="20240421154000" stop="20240421171100" channel="cctv3">
-        <title lang="zh">开门大吉-2024-12</title>
+        <title lang="zh">星光大道-2024-12</title>
     </programme>
     <programme start="20240421171100" stop="20240421181400" channel="cctv3">
         <title lang="zh">我爱满堂彩-2024-12满堂喝彩</title>
@@ -1042,7 +1042,7 @@
         <title lang="zh">非常6+1-2024-5</title>
     </programme>
     <programme start="20240421193000" stop="20240421205200" channel="cctv3">
-        <title lang="zh">星光大道-2024-12</title>
+        <title lang="zh">开门大吉-2024-12</title>
     </programme>
     <programme start="20240421205200" stop="20240421221300" channel="cctv3">
         <title lang="zh">向幸福出发-2024-13</title>
@@ -1152,11 +1152,8 @@
     <programme start="20240419171500" stop="20240419180000" channel="cctv4">
         <title lang="zh">远方的家2024-46</title>
     </programme>
-    <programme start="20240419180000" stop="20240419183000" channel="cctv4">
+    <programme start="20240419180000" stop="20240419190000" channel="cctv4">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20240419183000" stop="20240419190000" channel="cctv4">
-        <title lang="zh">中国文艺-2024-80</title>
     </programme>
     <programme start="20240419190000" stop="20240419193000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1173,11 +1170,8 @@
     <programme start="20240419210000" stop="20240419213000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20240419213000" stop="20240419220000" channel="cctv4">
+    <programme start="20240419213000" stop="20240419223000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20240419220000" stop="20240419223000" channel="cctv4">
-        <title lang="zh">鲁健访谈-2024-16</title>
     </programme>
     <programme start="20240419223000" stop="20240419230400" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1213,7 +1207,7 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20240420043000" stop="20240420050000" channel="cctv4">
-        <title lang="zh">今日关注</title>
+        <title lang="zh">记住乡愁2024-2</title>
     </programme>
     <programme start="20240420050000" stop="20240420053000" channel="cctv4">
         <title lang="zh">国家记忆-2024-15</title>
@@ -1227,11 +1221,8 @@
     <programme start="20240420063000" stop="20240420070000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20240420070000" stop="20240420073000" channel="cctv4">
+    <programme start="20240420070000" stop="20240420080000" channel="cctv4">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20240420073000" stop="20240420080000" channel="cctv4">
-        <title lang="zh">今日关注</title>
     </programme>
     <programme start="20240420080000" stop="20240420090000" channel="cctv4">
         <title lang="zh">今日环球</title>
@@ -1251,35 +1242,38 @@
     <programme start="20240420120000" stop="20240420130200" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20240420130200" stop="20240420133000" channel="cctv4">
+    <programme start="20240420130200" stop="20240420133100" channel="cctv4">
         <title lang="zh">华人故事-2024-16</title>
     </programme>
-    <programme start="20240420133000" stop="20240420135800" channel="cctv4">
-        <title lang="zh">记住乡愁2024-18</title>
-    </programme>
-    <programme start="20240420135800" stop="20240420140900" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-15</title>
-    </programme>
-    <programme start="20240420140900" stop="20240420145200" channel="cctv4">
+    <programme start="20240420133100" stop="20240420141400" channel="cctv4">
         <title lang="zh">浴血十四年-（四套）-13/40</title>
     </programme>
-    <programme start="20240420145200" stop="20240420153400" channel="cctv4">
+    <programme start="20240420141400" stop="20240420145600" channel="cctv4">
         <title lang="zh">浴血十四年-（四套）-14/40</title>
     </programme>
-    <programme start="20240420153400" stop="20240420161600" channel="cctv4">
+    <programme start="20240420145600" stop="20240420153800" channel="cctv4">
         <title lang="zh">浴血十四年-（四套）-15/40</title>
     </programme>
-    <programme start="20240420161600" stop="20240420165800" channel="cctv4">
+    <programme start="20240420153800" stop="20240420162000" channel="cctv4">
         <title lang="zh">浴血十四年-（四套）-16/40</title>
     </programme>
-    <programme start="20240420165800" stop="20240420174300" channel="cctv4">
+    <programme start="20240420162000" stop="20240420170200" channel="cctv4">
         <title lang="zh">浴血十四年-（四套）-17/40</title>
     </programme>
-    <programme start="20240420174300" stop="20240420180200" channel="cctv4">
+    <programme start="20240420170200" stop="20240420173000" channel="cctv4">
+        <title lang="zh">记住乡愁2024-18</title>
+    </programme>
+    <programme start="20240420173000" stop="20240420174300" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-15</title>
+    </programme>
+    <programme start="20240420174300" stop="20240420180000" channel="cctv4">
         <title lang="zh">平凡匠心-2024-32</title>
     </programme>
-    <programme start="20240420180200" stop="20240420193000" channel="cctv4">
-        <title lang="zh">中国中医药大会-8</title>
+    <programme start="20240420180000" stop="20240420190000" channel="cctv4">
+        <title lang="zh">中国新闻</title>
+    </programme>
+    <programme start="20240420190000" stop="20240420193000" channel="cctv4">
+        <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20240420193000" stop="20240420200000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
@@ -1413,20 +1407,17 @@
     <programme start="20240421210000" stop="20240421213000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20240421213000" stop="20240421220000" channel="cctv4">
+    <programme start="20240421213000" stop="20240421223000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20240421220000" stop="20240421223000" channel="cctv4">
-        <title lang="zh">中国缘-2024-16</title>
     </programme>
     <programme start="20240421223000" stop="20240421230400" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240421230400" stop="20240421233000" channel="cctv4">
-        <title lang="zh">国宝发现-2024-16</title>
+    <programme start="20240421230400" stop="20240421235400" channel="cctv4">
+        <title lang="zh">共赢—中葡论坛20年-1</title>
     </programme>
-    <programme start="20240421233000" stop="20240421235900" channel="cctv4">
-        <title lang="zh">我最爱的家人9/39</title>
+    <programme start="20240421235400" stop="20240421235900" channel="cctv4">
+        <title lang="zh">国宝发现-2024-16</title>
     </programme>
     <programme start="20240419013500" stop="20240419023600" channel="cctv5">
         <title lang="zh">实况录像-2024年国际体联体操世界杯 巴库站 1</title>
@@ -1479,20 +1470,14 @@
     <programme start="20240419173000" stop="20240419180000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20240419180000" stop="20240419210000" channel="cctv5">
+    <programme start="20240419180000" stop="20240419220000" channel="cctv5">
         <title lang="zh">2024年国际乒联单打世界杯-1/4决赛</title>
     </programme>
-    <programme start="20240419210000" stop="20240419214500" channel="cctv5">
-        <title lang="zh">2024卡塔尔U23亚洲杯-小组赛B组（中国队-韩国队）</title>
-    </programme>
-    <programme start="20240419214500" stop="20240419220000" channel="cctv5">
+    <programme start="20240419220000" stop="20240419223000" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20240419220000" stop="20240419230000" channel="cctv5">
-        <title lang="zh">2024卡塔尔U23亚洲杯-小组赛B组（中国队-韩国队）</title>
-    </programme>
-    <programme start="20240419230000" stop="20240419232500" channel="cctv5">
-        <title lang="zh">实况录像-2024年全国游泳冠军赛 男、女400米自由泳决赛等</title>
+    <programme start="20240419223000" stop="20240419232500" channel="cctv5">
+        <title lang="zh">实况录像-2024年全国游泳冠军赛男、女400米自由泳决赛等（录播）</title>
     </programme>
     <programme start="20240419232500" stop="20240419235900" channel="cctv5">
         <title lang="zh">2024卡塔尔U23亚洲杯-小组赛B组（阿联酋队-日本队）</title>
@@ -1519,7 +1504,7 @@
         <title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合 多特蒙德—马德里竞技</title>
     </programme>
     <programme start="20240420093000" stop="20240420120000" channel="cctv5">
-        <title lang="zh">2023/2024赛季美国职业篮球联赛-附加赛2</title>
+        <title lang="zh">2023/2024赛季美国职业篮球联赛附加赛 鹈鹕vs国王</title>
     </programme>
     <programme start="20240420120000" stop="20240420123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1548,11 +1533,11 @@
     <programme start="20240420190000" stop="20240420210000" channel="cctv5">
         <title lang="zh">2024年世界田联钻石联赛-厦门站</title>
     </programme>
-    <programme start="20240420210000" stop="20240420230000" channel="cctv5">
-        <title lang="zh">2024卡塔尔U23亚洲杯-小组赛D组（马来西亚队-越南队）</title>
+    <programme start="20240420210000" stop="20240420215000" channel="cctv5">
+        <title lang="zh">2024年全国游泳冠军赛-男子400米个人混合泳决赛等</title>
     </programme>
-    <programme start="20240420230000" stop="20240420232500" channel="cctv5">
-        <title lang="zh">实况录像-2024年国际篮联三人篮球亚洲杯  3</title>
+    <programme start="20240420215000" stop="20240420232500" channel="cctv5">
+        <title lang="zh">实况录像-2024年国际乒联单打世界杯 半决赛等（录播）</title>
     </programme>
     <programme start="20240420232500" stop="20240420235900" channel="cctv5">
         <title lang="zh">2024卡塔尔U23亚洲杯-小组赛D组（科威特队-乌兹别克斯坦队）</title>
@@ -1566,17 +1551,11 @@
     <programme start="20240421040000" stop="20240421060000" channel="cctv5">
         <title lang="zh">2024年世界男子冰壶锦标赛- 金牌赛</title>
     </programme>
-    <programme start="20240421060000" stop="20240421073000" channel="cctv5">
+    <programme start="20240421060000" stop="20240421072400" channel="cctv5">
         <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 12进8 第六场</title>
     </programme>
-    <programme start="20240421073000" stop="20240421080000" channel="cctv5">
-        <title lang="zh">健身动起来</title>
-    </programme>
-    <programme start="20240421080000" stop="20240421090100" channel="cctv5">
-        <title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-索菲亚站2</title>
-    </programme>
-    <programme start="20240421090100" stop="20240421103000" channel="cctv5">
-        <title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合 拜仁慕尼黑—阿森纳</title>
+    <programme start="20240421072400" stop="20240421103000" channel="cctv5">
+        <title lang="zh">现场直播-2024年青岛马拉松</title>
     </programme>
     <programme start="20240421103000" stop="20240421120000" channel="cctv5">
         <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛（录播）</title>
@@ -1605,11 +1584,11 @@
     <programme start="20240421193000" stop="20240421213000" channel="cctv5">
         <title lang="zh">2024年国际乒联单打世界杯-决赛</title>
     </programme>
-    <programme start="20240421213000" stop="20240421215500" channel="cctv5">
-        <title lang="zh">实况录像-2024年世界泳联跳水世界杯总决赛 男子10米台决赛（录播）</title>
+    <programme start="20240421213000" stop="20240421230000" channel="cctv5">
+        <title lang="zh">2024年全国游泳冠军赛-女子400米个人混合泳决赛等</title>
     </programme>
-    <programme start="20240421215500" stop="20240421235900" channel="cctv5">
-        <title lang="zh">2023/2024英格兰足球超级联赛-第34轮（水晶宫-西汉姆联）</title>
+    <programme start="20240421230000" stop="20240421235900" channel="cctv5">
+        <title lang="zh">实况录像-2024年世界泳联跳水世界杯总决赛男子10米台决赛（录播）</title>
     </programme>
     <programme start="20240419010500" stop="20240419023500" channel="cctv5plus">
         <title lang="zh">赛事集锦-2023年中国羽毛球大师赛1</title>
@@ -1650,14 +1629,20 @@
     <programme start="20240419180000" stop="20240419193000" channel="cctv5plus">
         <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛 1</title>
     </programme>
-    <programme start="20240419193000" stop="20240419215000" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季中国男子篮球职业联赛-1/4决赛 新疆伊力特vs广州龙狮</title>
+    <programme start="20240419193000" stop="20240419200000" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2024-24-2024年国际体联蹦床世界杯-科特布斯站25分钟版1</title>
     </programme>
-    <programme start="20240419215000" stop="20240419225000" channel="cctv5plus">
+    <programme start="20240419200000" stop="20240419205000" channel="cctv5plus">
+        <title lang="zh">2024年世界泳联跳水世界杯总决赛- 女子双人10米跳台决赛</title>
+    </programme>
+    <programme start="20240419205000" stop="20240419230500" channel="cctv5plus">
+        <title lang="zh">2024卡塔尔U23亚洲杯-小组赛B组（中国队-韩国队）</title>
+    </programme>
+    <programme start="20240419230500" stop="20240419235900" channel="cctv5plus">
         <title lang="zh">实况录像-2024年举重世界杯  男子61公斤级决赛</title>
     </programme>
-    <programme start="20240419225000" stop="20240419235900" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季欧洲篮球联赛-第34轮（博洛尼亚—巴斯克尼亚）</title>
+    <programme start="20240420000500" stop="20240420001500" channel="cctv5plus">
+        <title lang="zh">实况录像-2023/2024赛季斯诺克世界公开赛 舒尔第的147</title>
     </programme>
     <programme start="20240420001500" stop="20240420010500" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2024年世界泳联花样游泳世界杯 北京站1（4K）</title>
@@ -1677,8 +1662,11 @@
     <programme start="20240420070000" stop="20240420080000" channel="cctv5plus">
         <title lang="zh">赛事集锦-2024年国际体联蹦床世界杯-科特布斯站2</title>
     </programme>
-    <programme start="20240420080000" stop="20240420105000" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季北美冰球职业联赛-季后赛1</title>
+    <programme start="20240420080000" stop="20240420092800" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年ATP1000男子网球大师赛 蒙特卡洛站 半决赛</title>
+    </programme>
+    <programme start="20240420092800" stop="20240420105000" channel="cctv5plus">
+        <title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合 曼城—皇家马德里</title>
     </programme>
     <programme start="20240420105000" stop="20240420121000" channel="cctv5plus">
         <title lang="zh">2024年世界一级方程式锦标赛-中国大奖赛 冲刺赛</title>
@@ -1728,11 +1716,14 @@
     <programme start="20240421070000" stop="20240421073000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年国际篮联三人篮球亚洲杯  1</title>
     </programme>
-    <programme start="20240421073000" stop="20240421090000" channel="cctv5plus">
-        <title lang="zh">实况录像-2024年ATP1000男子网球大师赛 蒙特卡洛站 半决赛</title>
+    <programme start="20240421073000" stop="20240421080000" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年国际篮联三人篮球亚洲杯  2</title>
     </programme>
-    <programme start="20240421090000" stop="20240421120500" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季北美冰球职业联赛-季后赛2</title>
+    <programme start="20240421080000" stop="20240421110500" channel="cctv5plus">
+        <title lang="zh">2023/2024赛季北美冰球职业联赛斯坦利杯-季后赛1（多伦多枫叶-波士顿棕熊）</title>
+    </programme>
+    <programme start="20240421110500" stop="20240421120500" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年举重世界杯  女子49公斤级决赛</title>
     </programme>
     <programme start="20240421120500" stop="20240421133500" channel="cctv5plus">
         <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛 2</title>
@@ -4657,13 +4648,16 @@
         <title lang="zh">艺术里的奥林匹克-2024-23</title>
     </programme>
     <programme start="20240420085800" stop="20240420085800" channel="cctv4k">
-        <title lang="zh">4K宣传片-三餐四季</title>
+        <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
+    </programme>
+    <programme start="20240420085800" stop="20240420085800" channel="cctv4k">
+        <title lang="zh">4K宣传片-记住乡愁1</title>
     </programme>
     <programme start="20240420085800" stop="20240420085900" channel="cctv4k">
-        <title lang="zh">4K宣传片-2024中国诗词大会</title>
+        <title lang="zh">4K宣传片-字从遇见你</title>
     </programme>
     <programme start="20240420085900" stop="20240420090000" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+        <title lang="zh">4K宣传片-2024中国诗词大会</title>
     </programme>
     <programme start="20240420090000" stop="20240420090000" channel="cctv4k">
         <title lang="zh">4K节目预告</title>
@@ -4717,7 +4711,7 @@
         <title lang="zh">小满生活-（4K）-27/38</title>
     </programme>
     <programme start="20240420153500" stop="20240420153600" channel="cctv4k">
-        <title lang="zh">4K宣传片-千秋诗颂（新版）</title>
+        <title lang="zh">4K宣传片-字从遇见你</title>
     </programme>
     <programme start="20240420153600" stop="20240420153600" channel="cctv4k">
         <title lang="zh">4K宣传片-非遗里的中国</title>
@@ -4801,12 +4795,15 @@
         <title lang="zh">记住乡愁2024-63(4K)</title>
     </programme>
     <programme start="20240420224100" stop="20240420224200" channel="cctv4k">
+        <title lang="zh">4K宣传片-谷雨</title>
+    </programme>
+    <programme start="20240420224200" stop="20240420224200" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎3</title>
     </programme>
-    <programme start="20240420224200" stop="20240420233100" channel="cctv4k">
+    <programme start="20240420224200" stop="20240420233200" channel="cctv4k">
         <title lang="zh">澳门之味-4（4K )</title>
     </programme>
-    <programme start="20240420233100" stop="20240420235600" channel="cctv4k">
+    <programme start="20240420233200" stop="20240420235600" channel="cctv4k">
         <title lang="zh">我的温暖人间-6（4K）</title>
     </programme>
     <programme start="20240420235600" stop="20240420235900" channel="cctv4k">
@@ -4964,6 +4961,9 @@
     </programme>
     <programme start="20240421192700" stop="20240421192800" channel="cctv4k">
         <title lang="zh">4K节目垫播-美丽中国-云南滇金丝猴（4K）</title>
+    </programme>
+    <programme start="20240421192800" stop="20240421192800" channel="cctv4k">
+        <title lang="zh">4K宣传片-来龙去脉</title>
     </programme>
     <programme start="20240421192800" stop="20240421192900" channel="cctv4k">
         <title lang="zh">4K宣传片-记住乡愁2</title>
