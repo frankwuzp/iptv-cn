@@ -390,16 +390,16 @@
     <programme start="20240503200100" stop="20240503200600" channel="cctv1">
         <title lang="zh">前情提要- 《城中之城》第37集</title>
     </programme>
-    <programme start="20240503200600" stop="20240503205600" channel="cctv1">
+    <programme start="20240503200600" stop="20240503205500" channel="cctv1">
         <title lang="zh">城中之城-（一套版）-第37集</title>
     </programme>
-    <programme start="20240503205600" stop="20240503205800" channel="cctv1">
+    <programme start="20240503205500" stop="20240503205800" channel="cctv1">
         <title lang="zh">前情提要- 《城中之城》第38集</title>
     </programme>
-    <programme start="20240503205800" stop="20240503214500" channel="cctv1">
+    <programme start="20240503205800" stop="20240503214700" channel="cctv1">
         <title lang="zh">城中之城-（一套版）-第38集</title>
     </programme>
-    <programme start="20240503214500" stop="20240503220000" channel="cctv1">
+    <programme start="20240503214700" stop="20240503220000" channel="cctv1">
         <title lang="zh">精彩一刻-2024-189国宝方升</title>
     </programme>
     <programme start="20240503220000" stop="20240503223600" channel="cctv1">
@@ -1060,7 +1060,7 @@
         <title lang="zh">越战越勇-2024-16</title>
     </programme>
     <programme start="20240504024600" stop="20240504033700" channel="cctv3">
-        <title lang="zh">幸福账单-2024-2</title>
+        <title lang="zh">幸福账单-2024-4</title>
     </programme>
     <programme start="20240504033700" stop="20240504050500" channel="cctv3">
         <title lang="zh">喜剧的喜聚-5</title>
@@ -1761,11 +1761,14 @@
     <programme start="20240503053000" stop="20240503070000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年国际乒联单打世界杯 2</title>
     </programme>
-    <programme start="20240503070000" stop="20240503090000" channel="cctv5plus">
-        <title lang="zh">2024年世界女子冰壶锦标赛-铜牌赛</title>
+    <programme start="20240503070000" stop="20240503080000" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2024年世界泳联跳水世界杯总决赛 女子10米台决赛（4K）</title>
     </programme>
-    <programme start="20240503090000" stop="20240503120500" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季北美冰球职业联赛-季后赛6</title>
+    <programme start="20240503080000" stop="20240503110500" channel="cctv5plus">
+        <title lang="zh">2023/2024赛季北美冰球职业联赛-季后赛6（波士顿棕熊-多伦多枫叶）第六场</title>
+    </programme>
+    <programme start="20240503110500" stop="20240503120500" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2024-43-2024年国际体联艺术体操世界杯-塔什干站1</title>
     </programme>
     <programme start="20240503120500" stop="20240503133500" channel="cctv5plus">
         <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 半决赛 2</title>
@@ -1809,13 +1812,13 @@
     <programme start="20240504070000" stop="20240504090000" channel="cctv5plus">
         <title lang="zh">2024年世界女子冰壶锦标赛-决赛</title>
     </programme>
-    <programme start="20240504090000" stop="20240504120500" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季北美冰球职业联赛-季后赛7</title>
+    <programme start="20240504090000" stop="20240504100000" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2024-44-2024年国际体联艺术体操世界杯-塔什干站2</title>
     </programme>
-    <programme start="20240504120500" stop="20240504123500" channel="cctv5plus">
-        <title lang="zh">赛事集锦(高清体育)-2024-45-2024年国际体联艺术体操世界杯-塔什干站 25分钟版1</title>
+    <programme start="20240504100000" stop="20240504130000" channel="cctv5plus">
+        <title lang="zh">2023/2024赛季北美冰球职业联赛-季后赛7（达拉斯星-维加斯金骑士）第六场</title>
     </programme>
-    <programme start="20240504123500" stop="20240504140000" channel="cctv5plus">
+    <programme start="20240504130000" stop="20240504140000" channel="cctv5plus">
         <title lang="zh">2024年国际冰球联合会男子冰球世锦赛-甲级B组（中国队—爱沙尼亚队）</title>
     </programme>
     <programme start="20240504140000" stop="20240504160000" channel="cctv5plus">
@@ -2175,40 +2178,40 @@
     <programme start="20240503102500" stop="20240503120000" channel="cctv7">
         <title lang="zh">五星剧场-小兵张嘎(高清文件)</title>
     </programme>
-    <programme start="20240503120000" stop="20240503123300" channel="cctv7">
+    <programme start="20240503120000" stop="20240503124300" channel="cctv7">
         <title lang="zh">正午国防军事</title>
     </programme>
-    <programme start="20240503123300" stop="20240503131000" channel="cctv7">
+    <programme start="20240503124300" stop="20240503131500" channel="cctv7">
         <title lang="zh">防务新观察-2024-94</title>
     </programme>
-    <programme start="20240503131000" stop="20240503134500" channel="cctv7">
+    <programme start="20240503131500" stop="20240503135000" channel="cctv7">
         <title lang="zh">军迷行天下-2024-18</title>
     </programme>
-    <programme start="20240503134500" stop="20240503141200" channel="cctv7">
+    <programme start="20240503135000" stop="20240503141700" channel="cctv7">
         <title lang="zh">兵器面面观-2024-89</title>
     </programme>
-    <programme start="20240503141200" stop="20240503144000" channel="cctv7">
+    <programme start="20240503141700" stop="20240503144500" channel="cctv7">
         <title lang="zh">军事纪录-2024-84</title>
     </programme>
-    <programme start="20240503144000" stop="20240503152800" channel="cctv7">
+    <programme start="20240503144500" stop="20240503153300" channel="cctv7">
         <title lang="zh">猎手17/40</title>
     </programme>
-    <programme start="20240503152800" stop="20240503161400" channel="cctv7">
+    <programme start="20240503153300" stop="20240503161900" channel="cctv7">
         <title lang="zh">猎手18/40</title>
     </programme>
-    <programme start="20240503161400" stop="20240503170000" channel="cctv7">
+    <programme start="20240503161900" stop="20240503170500" channel="cctv7">
         <title lang="zh">猎手19/40</title>
     </programme>
-    <programme start="20240503170000" stop="20240503172700" channel="cctv7">
+    <programme start="20240503170500" stop="20240503173200" channel="cctv7">
         <title lang="zh">世界战史-2024-74</title>
     </programme>
-    <programme start="20240503172700" stop="20240503175200" channel="cctv7">
+    <programme start="20240503173200" stop="20240503175700" channel="cctv7">
         <title lang="zh">军事纪录-2024-85</title>
     </programme>
-    <programme start="20240503175200" stop="20240503175900" channel="cctv7">
+    <programme start="20240503175700" stop="20240503180400" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-风吹沙（2024年）</title>
     </programme>
-    <programme start="20240503175900" stop="20240503182900" channel="cctv7">
+    <programme start="20240503180400" stop="20240503182900" channel="cctv7">
         <title lang="zh">兵器面面观-2024-90</title>
     </programme>
     <programme start="20240503182900" stop="20240503190000" channel="cctv7">
@@ -3199,7 +3202,7 @@
         <title lang="zh">生命长江-3</title>
     </programme>
     <programme start="20240503221800" stop="20240503224500" channel="cctv10">
-        <title lang="zh">创新进行时-2024-90</title>
+        <title lang="zh">创新进行时-2024-119</title>
     </programme>
     <programme start="20240503224500" stop="20240503233800" channel="cctv10">
         <title lang="zh">2024大千世界-52</title>
