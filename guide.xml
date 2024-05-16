@@ -474,13 +474,16 @@
     <programme start="20240518162800" stop="20240518171500" channel="cctv1">
         <title lang="zh">梦中的那片海19/38</title>
     </programme>
-    <programme start="20240518171500" stop="20240518172700" channel="cctv1">
+    <programme start="20240518171500" stop="20240518172500" channel="cctv1">
         <title lang="zh">2024秘境之眼-阿里秘境(4K)</title>
     </programme>
-    <programme start="20240518172700" stop="20240518173200" channel="cctv1">
+    <programme start="20240518172500" stop="20240518172900" channel="cctv1">
+        <title lang="zh">非遗里的中国-花▪馔</title>
+    </programme>
+    <programme start="20240518172900" stop="20240518173400" channel="cctv1">
         <title lang="zh">非遗里的中国-扬帆</title>
     </programme>
-    <programme start="20240518173200" stop="20240518185000" channel="cctv1">
+    <programme start="20240518173400" stop="20240518185000" channel="cctv1">
         <title lang="zh">星光大道-2024-23</title>
     </programme>
     <programme start="20240518185000" stop="20240518190000" channel="cctv1">
@@ -1170,22 +1173,19 @@
     <programme start="20240516145500" stop="20240516150000" channel="cctv4">
         <title lang="zh">国家公园精彩片段-1</title>
     </programme>
-    <programme start="20240516150000" stop="20240516160200" channel="cctv4">
+    <programme start="20240516150000" stop="20240516163200" channel="cctv4">
         <title lang="zh">2024年国新办发布会-35</title>
     </programme>
-    <programme start="20240516160200" stop="20240516162800" channel="cctv4">
+    <programme start="20240516163200" stop="20240516165800" channel="cctv4">
         <title lang="zh">走遍中国-2024-79</title>
     </programme>
-    <programme start="20240516162800" stop="20240516165600" channel="cctv4">
-        <title lang="zh">记住乡愁2024-11</title>
-    </programme>
-    <programme start="20240516165600" stop="20240516170400" channel="cctv4">
+    <programme start="20240516165800" stop="20240516170600" channel="cctv4">
         <title lang="zh">国家公园精彩片段-11</title>
     </programme>
-    <programme start="20240516170400" stop="20240516170900" channel="cctv4">
+    <programme start="20240516170600" stop="20240516171100" channel="cctv4">
         <title lang="zh">国家公园精彩片段-6</title>
     </programme>
-    <programme start="20240516170900" stop="20240516171500" channel="cctv4">
+    <programme start="20240516171100" stop="20240516171500" channel="cctv4">
         <title lang="zh">国家公园精彩片段-4</title>
     </programme>
     <programme start="20240516171500" stop="20240516180000" channel="cctv4">
@@ -1419,38 +1419,29 @@
     <programme start="20240518120000" stop="20240518130200" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20240518130200" stop="20240518133100" channel="cctv4">
-        <title lang="zh">华人故事-2024-20</title>
+    <programme start="20240518130200" stop="20240518135200" channel="cctv4">
+        <title lang="zh">长城之歌-3</title>
     </programme>
-    <programme start="20240518133100" stop="20240518141800" channel="cctv4">
-        <title lang="zh">有你才有家34/50</title>
+    <programme start="20240518135200" stop="20240518143900" channel="cctv4">
+        <title lang="zh">有你才有家29/50</title>
     </programme>
-    <programme start="20240518141800" stop="20240518150400" channel="cctv4">
-        <title lang="zh">有你才有家35/50</title>
+    <programme start="20240518143900" stop="20240518152600" channel="cctv4">
+        <title lang="zh">有你才有家30/50</title>
     </programme>
-    <programme start="20240518150400" stop="20240518155000" channel="cctv4">
-        <title lang="zh">有你才有家36/50</title>
+    <programme start="20240518152600" stop="20240518161200" channel="cctv4">
+        <title lang="zh">有你才有家31/50</title>
     </programme>
-    <programme start="20240518155000" stop="20240518163700" channel="cctv4">
-        <title lang="zh">有你才有家37/50</title>
+    <programme start="20240518161200" stop="20240518165500" channel="cctv4">
+        <title lang="zh">有你才有家32/50</title>
     </programme>
-    <programme start="20240518163700" stop="20240518172400" channel="cctv4">
-        <title lang="zh">有你才有家38/50</title>
+    <programme start="20240518165500" stop="20240518174300" channel="cctv4">
+        <title lang="zh">有你才有家33/50</title>
     </programme>
-    <programme start="20240518172400" stop="20240518173200" channel="cctv4">
-        <title lang="zh">国家公园精彩片段-12</title>
-    </programme>
-    <programme start="20240518173200" stop="20240518174300" channel="cctv4">
-        <title lang="zh">国家公园精彩片段-11</title>
-    </programme>
-    <programme start="20240518174300" stop="20240518180000" channel="cctv4">
+    <programme start="20240518174300" stop="20240518180200" channel="cctv4">
         <title lang="zh">平凡匠心-2024-40</title>
     </programme>
-    <programme start="20240518180000" stop="20240518190000" channel="cctv4">
-        <title lang="zh">中国文艺-致敬经典2024-20</title>
-    </programme>
-    <programme start="20240518190000" stop="20240518193000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20240518180200" stop="20240518193000" channel="cctv4">
+        <title lang="zh">中国中医药大会-10</title>
     </programme>
     <programme start="20240518193000" stop="20240518200000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
@@ -1732,7 +1723,7 @@
         <title lang="zh">2024年世界女子排球联赛-巴西站 (多米尼加队—加拿大队)</title>
     </programme>
     <programme start="20240517100000" stop="20240517130500" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季北美冰球职业联赛-季后赛12</title>
+        <title lang="zh">2023/2024赛季北美冰球职业联赛-季后赛12（埃德蒙顿油人-温哥华加人）第五场</title>
     </programme>
     <programme start="20240517130500" stop="20240517143500" channel="cctv5plus">
         <title lang="zh">实况录像-2024年田径世界接力赛</title>
@@ -2545,22 +2536,22 @@
         <title lang="zh">庆余年第二季3/36</title>
     </programme>
     <programme start="20240517202600" stop="20240517203100" channel="cctv8">
-        <title lang="zh">本集提要-《庆余年第二季》4/36</title>
+        <title lang="zh">本集提要- 《庆余年第二季》第4集</title>
     </programme>
     <programme start="20240517203100" stop="20240517212400" channel="cctv8">
         <title lang="zh">庆余年第二季4/36</title>
     </programme>
     <programme start="20240517212400" stop="20240517212800" channel="cctv8">
-        <title lang="zh">本集提要-《漫长的季节》3/18</title>
+        <title lang="zh">本集提要- 《漫长的季节》第3集</title>
     </programme>
     <programme start="20240517212800" stop="20240517221700" channel="cctv8">
-        <title lang="zh">漫长的季节3/18</title>
+        <title lang="zh">漫长的季节第3集</title>
     </programme>
     <programme start="20240517221700" stop="20240517221800" channel="cctv8">
         <title lang="zh">本集提要-《漫长的季节》4/18</title>
     </programme>
     <programme start="20240517221800" stop="20240517230700" channel="cctv8">
-        <title lang="zh">漫长的季节4/18</title>
+        <title lang="zh">漫长的季节第4集</title>
     </programme>
     <programme start="20240517230700" stop="20240517235300" channel="cctv8">
         <title lang="zh">好事成双第23集</title>
@@ -2776,13 +2767,13 @@
         <title lang="zh">特别呈现2024-137</title>
     </programme>
     <programme start="20240516210000" stop="20240516220000" channel="cctvjilu">
-        <title lang="zh">寰宇视野2024-137</title>
+        <title lang="zh">寰宇视野2024-118</title>
     </programme>
     <programme start="20240516220000" stop="20240516225900" channel="cctvjilu">
         <title lang="zh">故事中国2024-126</title>
     </programme>
     <programme start="20240516225900" stop="20240516235900" channel="cctvjilu">
-        <title lang="zh">寰宇视野2024-137</title>
+        <title lang="zh">寰宇视野2024-118</title>
     </programme>
     <programme start="20240517000300" stop="20240517005900" channel="cctvjilu">
         <title lang="zh">全景自然2024-137</title>
@@ -2860,13 +2851,13 @@
         <title lang="zh">特别呈现2024-138</title>
     </programme>
     <programme start="20240517210000" stop="20240517220000" channel="cctvjilu">
-        <title lang="zh">寰宇视野2024-138</title>
+        <title lang="zh">寰宇视野2024-119</title>
     </programme>
     <programme start="20240517220000" stop="20240517225900" channel="cctvjilu">
         <title lang="zh">故事中国2024-127</title>
     </programme>
     <programme start="20240517225900" stop="20240517235900" channel="cctvjilu">
-        <title lang="zh">寰宇视野2024-138</title>
+        <title lang="zh">寰宇视野2024-119</title>
     </programme>
     <programme start="20240518000300" stop="20240518005900" channel="cctvjilu">
         <title lang="zh">全景自然2024-138</title>
