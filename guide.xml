@@ -384,13 +384,13 @@
     <programme start="20240520200600" stop="20240520205600" channel="cctv1">
         <title lang="zh">星星的故乡-（高清文件）一套版-4/25</title>
     </programme>
-    <programme start="20240520205600" stop="20240520205800" channel="cctv1">
+    <programme start="20240520205600" stop="20240520210000" channel="cctv1">
         <title lang="zh">前情提要- 《星星的故乡》第5集</title>
     </programme>
-    <programme start="20240520205800" stop="20240520214700" channel="cctv1">
+    <programme start="20240520210000" stop="20240520214900" channel="cctv1">
         <title lang="zh">星星的故乡-（高清文件）一套版-5/25</title>
     </programme>
-    <programme start="20240520214700" stop="20240520220000" channel="cctv1">
+    <programme start="20240520214900" stop="20240520220000" channel="cctv1">
         <title lang="zh">精彩一刻-2024-196国宝鎏金银壶</title>
     </programme>
     <programme start="20240520220000" stop="20240520223500" channel="cctv1">
@@ -942,44 +942,41 @@
     <programme start="20240520023200" stop="20240520032300" channel="cctv3">
         <title lang="zh">艺览天下-2024-14</title>
     </programme>
-    <programme start="20240520032300" stop="20240520044900" channel="cctv3">
+    <programme start="20240520032300" stop="20240520045800" channel="cctv3">
         <title lang="zh">喜剧的喜聚-1</title>
     </programme>
-    <programme start="20240520044900" stop="20240520051000" channel="cctv3">
+    <programme start="20240520045800" stop="20240520052900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-569</title>
     </programme>
-    <programme start="20240520051000" stop="20240520053600" channel="cctv3">
+    <programme start="20240520052900" stop="20240520055500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-570</title>
     </programme>
-    <programme start="20240520053600" stop="20240520070600" channel="cctv3">
+    <programme start="20240520055500" stop="20240520061100" channel="cctv3">
+        <title lang="zh">中国文艺报道-2024-55《村节—守护昂玛突节》</title>
+    </programme>
+    <programme start="20240520061100" stop="20240520074500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-442</title>
     </programme>
-    <programme start="20240520070600" stop="20240520082700" channel="cctv3">
-        <title lang="zh">星光大道-2024-21</title>
-    </programme>
-    <programme start="20240520082700" stop="20240520083300" channel="cctv3">
+    <programme start="20240520074500" stop="20240520075100" channel="cctv3">
         <title lang="zh">开心日历-8</title>
     </programme>
-    <programme start="20240520083300" stop="20240520094900" channel="cctv3">
+    <programme start="20240520075100" stop="20240520090700" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-545</title>
     </programme>
-    <programme start="20240520094900" stop="20240520111100" channel="cctv3">
-        <title lang="zh">开门大吉-2024-20</title>
+    <programme start="20240520090700" stop="20240520102600" channel="cctv3">
+        <title lang="zh">星光大道-2024-23</title>
     </programme>
-    <programme start="20240520111100" stop="20240520111600" channel="cctv3">
+    <programme start="20240520102600" stop="20240520103200" channel="cctv3">
         <title lang="zh">开心日历-8</title>
     </programme>
-    <programme start="20240520111600" stop="20240520113800" channel="cctv3">
+    <programme start="20240520103200" stop="20240520115700" channel="cctv3">
+        <title lang="zh">开门大吉-2024-20</title>
+    </programme>
+    <programme start="20240520115700" stop="20240520122200" channel="cctv3">
         <title lang="zh">文化十分-2024-109</title>
     </programme>
-    <programme start="20240520113800" stop="20240520124500" channel="cctv3">
+    <programme start="20240520122200" stop="20240520132600" channel="cctv3">
         <title lang="zh">越战越勇-2024-19</title>
-    </programme>
-    <programme start="20240520124500" stop="20240520125300" channel="cctv3">
-        <title lang="zh">越战越勇-2024-20宝贝第一赛后小课堂1</title>
-    </programme>
-    <programme start="20240520125300" stop="20240520132600" channel="cctv3">
-        <title lang="zh">TOP音乐咖-1</title>
     </programme>
     <programme start="20240520132600" stop="20240520133200" channel="cctv3">
         <title lang="zh">开心日历-8</title>
@@ -1005,10 +1002,10 @@
     <programme start="20240520193000" stop="20240520205100" channel="cctv3">
         <title lang="zh">开门大吉-2024-21</title>
     </programme>
-    <programme start="20240520205100" stop="20240520205500" channel="cctv3">
+    <programme start="20240520205100" stop="20240520205600" channel="cctv3">
         <title lang="zh">开心日历-8</title>
     </programme>
-    <programme start="20240520205500" stop="20240520215300" channel="cctv3">
+    <programme start="20240520205600" stop="20240520215300" channel="cctv3">
         <title lang="zh">绽放吧！妈妈-2</title>
     </programme>
     <programme start="20240520215300" stop="20240520222800" channel="cctv3">
@@ -1101,8 +1098,11 @@
     <programme start="20240521220200" stop="20240521225800" channel="cctv3">
         <title lang="zh">我爱满堂彩-2024-15妙语连珠</title>
     </programme>
-    <programme start="20240521225800" stop="20240521234700" channel="cctv3">
+    <programme start="20240521225800" stop="20240521234600" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-463 亲爱的自己19/45</title>
+    </programme>
+    <programme start="20240521234600" stop="20240521234700" channel="cctv3">
+        <title lang="zh">国家宝藏第四季-先导片</title>
     </programme>
     <programme start="20240521234700" stop="20240521235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-464 亲爱的自己20/45</title>
