@@ -372,10 +372,10 @@
     <programme start="20240616193800" stop="20240616200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240616200600" stop="20240616214800" channel="cctv1">
+    <programme start="20240616200600" stop="20240616214400" channel="cctv1">
         <title lang="zh">简牍探中华-11</title>
     </programme>
-    <programme start="20240616214800" stop="20240616220000" channel="cctv1">
+    <programme start="20240616214400" stop="20240616220000" channel="cctv1">
         <title lang="zh">精彩一刻-2024-150国宝四漆器</title>
     </programme>
     <programme start="20240616220000" stop="20240616223600" channel="cctv1">
@@ -3078,31 +3078,34 @@
     <programme start="20240616193100" stop="20240616203100" channel="cctv10">
         <title lang="zh">自然传奇-2024-156</title>
     </programme>
-    <programme start="20240616203100" stop="20240616221400" channel="cctv10">
-        <title lang="zh">全民健康大会-2</title>
-    </programme>
-    <programme start="20240616221400" stop="20240616230400" channel="cctv10">
+    <programme start="20240616203100" stop="20240616212000" channel="cctv10">
         <title lang="zh">探索·发现-2024-168</title>
     </programme>
-    <programme start="20240616230400" stop="20240616235900" channel="cctv10">
+    <programme start="20240616212000" stop="20240616221800" channel="cctv10">
+        <title lang="zh">探索.发现-奥秘2024-20</title>
+    </programme>
+    <programme start="20240616221800" stop="20240616231600" channel="cctv10">
         <title lang="zh">2024大千世界-72</title>
     </programme>
-    <programme start="20240617000100" stop="20240617003100" channel="cctv10">
+    <programme start="20240616231600" stop="20240616235200" channel="cctv10">
         <title lang="zh">实验现场-2024-24</title>
     </programme>
-    <programme start="20240617003100" stop="20240617010100" channel="cctv10">
+    <programme start="20240616235200" stop="20240616235900" channel="cctv10">
         <title lang="zh">味道-2024-98</title>
     </programme>
-    <programme start="20240617010100" stop="20240617014100" channel="cctv10">
+    <programme start="20240617002300" stop="20240617010300" channel="cctv10">
         <title lang="zh">探索·发现-2024-168</title>
     </programme>
-    <programme start="20240617014100" stop="20240617021100" channel="cctv10">
+    <programme start="20240617010300" stop="20240617015300" channel="cctv10">
+        <title lang="zh">探索.发现-奥秘2024-20</title>
+    </programme>
+    <programme start="20240617015300" stop="20240617022300" channel="cctv10">
         <title lang="zh">地理·中国-2024-168</title>
     </programme>
-    <programme start="20240617021100" stop="20240617025100" channel="cctv10">
+    <programme start="20240617022300" stop="20240617030300" channel="cctv10">
         <title lang="zh">百家讲坛-2024-168</title>
     </programme>
-    <programme start="20240617025100" stop="20240617060000" channel="cctv10">
+    <programme start="20240617030300" stop="20240617060000" channel="cctv10">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20240617060000" stop="20240617061000" channel="cctv10">
