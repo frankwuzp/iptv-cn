@@ -3426,19 +3426,19 @@
     <programme start="20240725212000" stop="20240725214800" channel="cctv10">
         <title lang="zh">中国诗词大会放映室-4</title>
     </programme>
-    <programme start="20240725214800" stop="20240725221000" channel="cctv10">
+    <programme start="20240725214800" stop="20240725220000" channel="cctv10">
+        <title lang="zh">美术里的中国-41</title>
+    </programme>
+    <programme start="20240725220000" stop="20240725222600" channel="cctv10">
         <title lang="zh">创新进行时-2024-152</title>
     </programme>
-    <programme start="20240725221000" stop="20240725222500" channel="cctv10">
-        <title lang="zh">时尚科技秀-2024-207</title>
-    </programme>
-    <programme start="20240725222500" stop="20240725223500" channel="cctv10">
+    <programme start="20240725222600" stop="20240725223600" channel="cctv10">
         <title lang="zh">红色烙印（第三季）-4</title>
     </programme>
-    <programme start="20240725223500" stop="20240725233100" channel="cctv10">
+    <programme start="20240725223600" stop="20240725233200" channel="cctv10">
         <title lang="zh">2024大千世界-87</title>
     </programme>
-    <programme start="20240725233100" stop="20240725235900" channel="cctv10">
+    <programme start="20240725233200" stop="20240725235900" channel="cctv10">
         <title lang="zh">味道-2024-137</title>
     </programme>
     <programme start="20240723000100" stop="20240723005200" channel="cctv11">
@@ -4173,11 +4173,11 @@
     <programme start="20240725135000" stop="20240725150500" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2024-177</title>
     </programme>
-    <programme start="20240725150500" stop="20240725154400" channel="cctv15">
+    <programme start="20240725150500" stop="20240725154500" channel="cctv15">
         <title lang="zh">风华国乐-2024-218</title>
     </programme>
-    <programme start="20240725154400" stop="20240725165900" channel="cctv15">
-        <title lang="zh">影视留声机-2024-49</title>
+    <programme start="20240725154500" stop="20240725165900" channel="cctv15">
+        <title lang="zh">乐游天下-2024-18 剑阁随想</title>
     </programme>
     <programme start="20240725165900" stop="20240725181500" channel="cctv15">
         <title lang="zh">民歌·中国-2024-115乡情乡音45</title>
@@ -4357,7 +4357,7 @@
         <title lang="zh">实况录像（奥林匹克）-2024年国际乒联单打世界杯 男单决赛 马龙-林高远</title>
     </programme>
     <programme start="20240724191000" stop="20240724195000" channel="cctv16">
-        <title lang="zh">五环纪事-绽放巴黎-25精编）</title>
+        <title lang="zh">五环纪事-绽放巴黎-25精编</title>
     </programme>
     <programme start="20240724195000" stop="20240724200000" channel="cctv16">
         <title lang="zh">从北京到巴黎 中国艺术大展行-31</title>
@@ -4438,7 +4438,7 @@
         <title lang="zh">实况录像（奥林匹克）-2024年国际乒联单打世界杯 决赛</title>
     </programme>
     <programme start="20240725190000" stop="20240725195000" channel="cctv16">
-        <title lang="zh">五环纪事-绽放巴黎-12精编）</title>
+        <title lang="zh">五环纪事-绽放巴黎-12精编</title>
     </programme>
     <programme start="20240725195000" stop="20240725195500" channel="cctv16">
         <title lang="zh">从北京到巴黎 中国艺术大展行-32</title>
@@ -4450,7 +4450,7 @@
         <title lang="zh">艺术里的奥林匹克-2024-54</title>
     </programme>
     <programme start="20240725202500" stop="20240725210500" channel="cctv16">
-        <title lang="zh">五环纪事-绽放巴黎-9精编）</title>
+        <title lang="zh">五环纪事-绽放巴黎-9精编</title>
     </programme>
     <programme start="20240725210500" stop="20240725212500" channel="cctv16">
         <title lang="zh">跟着名画游法国-9</title>
@@ -5185,13 +5185,13 @@
         <title lang="zh">4K宣传片-非遗里的中国</title>
     </programme>
     <programme start="20240725090000" stop="20240725090000" channel="cctv4k">
-        <title lang="zh">4K节目预告</title>
+        <title lang="zh">4K节目预告-垫播</title>
     </programme>
     <programme start="20240725090000" stop="20240725094600" channel="cctv4k">
         <title lang="zh">我的阿勒泰-(4K)-1/8</title>
     </programme>
     <programme start="20240725094600" stop="20240725103200" channel="cctv4k">
-        <title lang="zh">星星的故乡-（4K）-2/25</title>
+        <title lang="zh">我的阿勒泰-(4K)-2/8</title>
     </programme>
     <programme start="20240725103200" stop="20240725103300" channel="cctv4k">
         <title lang="zh">4K标识演绎-2019-1</title>
