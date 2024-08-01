@@ -1437,16 +1437,10 @@
     <programme start="20240802180000" stop="20240802193000" channel="cctv5">
         <title lang="zh">体育新闻-全景奥运</title>
     </programme>
-    <programme start="20240802193000" stop="20240802195000" channel="cctv5">
+    <programme start="20240802193000" stop="20240802213000" channel="cctv5">
         <title lang="zh">直播：巴黎奥运会-乒乓球男单、女单半决赛</title>
     </programme>
-    <programme start="20240802195000" stop="20240802213000" channel="cctv5">
-        <title lang="zh">直播：巴黎奥运会-蹦床女子决赛</title>
-    </programme>
-    <programme start="20240802213000" stop="20240802214000" channel="cctv5">
-        <title lang="zh">录像：巴黎奥运会-跳水男子双人3米板</title>
-    </programme>
-    <programme start="20240802214000" stop="20240802221000" channel="cctv5">
+    <programme start="20240802213000" stop="20240802221000" channel="cctv5">
         <title lang="zh">直播：巴黎奥运会-水翼帆板女子、男子决赛</title>
     </programme>
     <programme start="20240802221000" stop="20240802231500" channel="cctv5">
@@ -1542,8 +1536,14 @@
     <programme start="20240804190000" stop="20240804235900" channel="cctv5">
         <title lang="zh">巴黎奥运会-乒乓球男单铜牌赛、决赛、田径决赛、游泳决赛等</title>
     </programme>
-    <programme start="20240802030000" stop="20240802050000" channel="cctv5plus">
+    <programme start="20240802004000" stop="20240802030000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-乒乓球1/4决赛</title>
+    </programme>
+    <programme start="20240802030000" stop="20240802042000" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-女排小组赛 法国-中国</title>
+    </programme>
+    <programme start="20240802042000" stop="20240802050000" channel="cctv5plus">
+        <title lang="zh">录播：巴黎奥运会-自由式小轮车 女子公园赛</title>
     </programme>
     <programme start="20240802050000" stop="20240802053000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 射击比赛2（4K）</title>
@@ -1579,16 +1579,13 @@
         <title lang="zh">直播：巴黎奥运会-蹦床女子资格赛、决赛</title>
     </programme>
     <programme start="20240802203000" stop="20240802231500" channel="cctv5plus">
-        <title lang="zh">直播：巴黎奥运会-射箭混合团体1/4、半决赛、决赛</title>
+        <title lang="zh">直播：巴黎奥运会-射箭混合团体1/4决赛、半决赛、决赛</title>
     </programme>
     <programme start="20240802231500" stop="20240802235900" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-男篮小组赛 加拿大-西班牙</title>
     </programme>
-    <programme start="20240803010000" stop="20240803041000" channel="cctv5plus">
-        <title lang="zh">直播：巴黎奥运会-羽毛球男单1/4决赛</title>
-    </programme>
-    <programme start="20240803041000" stop="20240803050000" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 游泳比赛2（4K）</title>
+    <programme start="20240803010000" stop="20240803050000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-网球男单半决赛、混双决赛</title>
     </programme>
     <programme start="20240803050000" stop="20240803053000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 射击比赛3（4K）</title>
@@ -3816,8 +3813,11 @@
     <programme start="20240802000000" stop="20240802023000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-三人篮球小组赛 女子 中国-西班牙、德国-阿塞拜疆、男子 立陶宛-美国、中国-波兰</title>
     </programme>
-    <programme start="20240802023000" stop="20240802050000" channel="cctv16">
+    <programme start="20240802023000" stop="20240802040000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-羽毛球混合双打半决赛</title>
+    </programme>
+    <programme start="20240802040000" stop="20240802050000" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-沙滩排球女子小组赛 中国-美国</title>
     </programme>
     <programme start="20240802050000" stop="20240802055500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 游泳比赛1</title>
@@ -3874,7 +3874,7 @@
         <title lang="zh">直播：巴黎奥运会-柔道女子78公斤以上级决赛、男子100公斤以上级半决赛、铜牌赛、决赛</title>
     </programme>
     <programme start="20240803010000" stop="20240803020500" channel="cctv16">
-        <title lang="zh">录像：巴黎奥运会-羽毛球混双决赛</title>
+        <title lang="zh">直播：巴黎奥运会-羽毛球男单1/4决赛</title>
     </programme>
     <programme start="20240803020500" stop="20240803033000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-女子水球小组赛 中国-匈牙利</title>
