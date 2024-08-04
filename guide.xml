@@ -351,19 +351,19 @@
     <programme start="20240805190000" stop="20240805193900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240805193900" stop="20240805200100" channel="cctv1">
+    <programme start="20240805193900" stop="20240805200000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240805200100" stop="20240805200600" channel="cctv1">
+    <programme start="20240805200000" stop="20240805200600" channel="cctv1">
         <title lang="zh">前情提要-梦想城-第35集</title>
     </programme>
-    <programme start="20240805200600" stop="20240805205600" channel="cctv1">
+    <programme start="20240805200600" stop="20240805205700" channel="cctv1">
         <title lang="zh">梦想城第35集</title>
     </programme>
-    <programme start="20240805205600" stop="20240805205800" channel="cctv1">
+    <programme start="20240805205700" stop="20240805210100" channel="cctv1">
         <title lang="zh">前情提要-梦想城-第36集</title>
     </programme>
-    <programme start="20240805205800" stop="20240805220000" channel="cctv1">
+    <programme start="20240805210100" stop="20240805220000" channel="cctv1">
         <title lang="zh">梦想城第36集</title>
     </programme>
     <programme start="20240805220000" stop="20240805224000" channel="cctv1">
@@ -1545,14 +1545,20 @@
     <programme start="20240805070000" stop="20240805090500" channel="cctv5">
         <title lang="zh">体坛晨报-巴黎晨报</title>
     </programme>
-    <programme start="20240805090500" stop="20240805120000" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事录播8.5-1</title>
+    <programme start="20240805090500" stop="20240805100000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-乒乓球男单决赛</title>
+    </programme>
+    <programme start="20240805100000" stop="20240805110000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-女排小组赛 中国-塞尔维亚</title>
+    </programme>
+    <programme start="20240805110000" stop="20240805120000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-游泳多项决赛</title>
     </programme>
     <programme start="20240805120000" stop="20240805130500" channel="cctv5">
         <title lang="zh">体坛快讯-巴黎最前沿</title>
     </programme>
     <programme start="20240805130500" stop="20240805135500" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事录播8.5-2</title>
+        <title lang="zh">录像：巴黎奥运会-田径多项决赛</title>
     </programme>
     <programme start="20240805135500" stop="20240805142000" channel="cctv5">
         <title lang="zh">2024年巴黎奥运会报道-巴黎会客厅-5</title>
@@ -1560,11 +1566,11 @@
     <programme start="20240805142000" stop="20240805144500" channel="cctv5">
         <title lang="zh">2024年巴黎奥运会报道-巴黎会客厅-6</title>
     </programme>
-    <programme start="20240805144500" stop="20240805150000" channel="cctv5">
+    <programme start="20240805144500" stop="20240805154500" channel="cctv5">
         <title lang="zh">2024年巴黎奥运会报道-遇见巴黎-24(4K)</title>
     </programme>
-    <programme start="20240805150000" stop="20240805180000" channel="cctv5">
-        <title lang="zh">巴黎奥运会-羽毛球女单铜牌赛、决赛等</title>
+    <programme start="20240805154500" stop="20240805180000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-羽毛球女单铜牌赛、决赛</title>
     </programme>
     <programme start="20240805180000" stop="20240805190000" channel="cctv5">
         <title lang="zh">体育新闻-全景奥运</title>
@@ -1650,8 +1656,11 @@
     <programme start="20240804133000" stop="20240804150000" channel="cctv5plus">
         <title lang="zh">录像：巴黎奥运会-羽毛球女双决赛</title>
     </programme>
-    <programme start="20240804150000" stop="20240804170000" channel="cctv5plus">
+    <programme start="20240804150000" stop="20240804162500" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-女排小组赛 意大利-土耳其</title>
+    </programme>
+    <programme start="20240804162500" stop="20240804170000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-游泳多项决赛</title>
     </programme>
     <programme start="20240804170000" stop="20240804190000" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-田径多项预赛</title>
@@ -1983,14 +1992,14 @@
     <programme start="20240805060300" stop="20240805063400" channel="cctv7">
         <title lang="zh">第二战场-2024-23</title>
     </programme>
-    <programme start="20240805063400" stop="20240805065900" channel="cctv7">
+    <programme start="20240805063400" stop="20240805070000" channel="cctv7">
         <title lang="zh">国防故事-2024-78</title>
     </programme>
-    <programme start="20240805065900" stop="20240805070200" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-当祖国召唤的时候</title>
-    </programme>
-    <programme start="20240805070200" stop="20240805073000" channel="cctv7">
+    <programme start="20240805070000" stop="20240805072500" channel="cctv7">
         <title lang="zh">世界战史-2024-62</title>
+    </programme>
+    <programme start="20240805072500" stop="20240805073000" channel="cctv7">
+        <title lang="zh">国防微视频-军歌嘹亮-当祖国召唤的时候</title>
     </programme>
     <programme start="20240805073000" stop="20240805075800" channel="cctv7">
         <title lang="zh">国防军事早报</title>
@@ -4030,18 +4039,18 @@
         <title lang="zh">直播：巴黎奥运会-女篮小组赛 日本-比利时</title>
     </programme>
     <programme start="20240804190000" stop="20240804210000" channel="cctv16">
-        <title lang="zh">直播：巴黎奥运会-射箭男子个人1/4、半决赛、决赛</title>
+        <title lang="zh">直播：巴黎奥运会-网球男单决赛 德约科维奇-阿尔卡拉斯</title>
     </programme>
     <programme start="20240804210000" stop="20240804213000" channel="cctv16">
         <title lang="zh">录像：巴黎奥运会-游泳各项决赛</title>
     </programme>
-    <programme start="20240804213000" stop="20240804224500" channel="cctv16">
+    <programme start="20240804213000" stop="20240804221000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-射击飞碟女子双向决赛</title>
     </programme>
-    <programme start="20240804224500" stop="20240804231500" channel="cctv16">
-        <title lang="zh">录像：巴黎奥运会-田径各项决赛</title>
+    <programme start="20240804221000" stop="20240804234500" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-羽毛球男双决赛</title>
     </programme>
-    <programme start="20240804231500" stop="20240804235900" channel="cctv16">
+    <programme start="20240804234500" stop="20240804235900" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-女篮小组赛 德国-美国</title>
     </programme>
     <programme start="20240805010000" stop="20240805030500" channel="cctv16">
