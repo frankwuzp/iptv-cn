@@ -366,14 +366,14 @@
     <programme start="20240806200100" stop="20240806200600" channel="cctv1">
         <title lang="zh">前情提要-梦想城-第37集</title>
     </programme>
-    <programme start="20240806200600" stop="20240806205700" channel="cctv1">
-        <title lang="zh">梦想城37/39</title>
+    <programme start="20240806200600" stop="20240806205800" channel="cctv1">
+        <title lang="zh">梦想城第37集</title>
     </programme>
-    <programme start="20240806205700" stop="20240806210000" channel="cctv1">
+    <programme start="20240806205800" stop="20240806210200" channel="cctv1">
         <title lang="zh">前情提要-梦想城-第38集</title>
     </programme>
-    <programme start="20240806210000" stop="20240806220000" channel="cctv1">
-        <title lang="zh">梦想城38/39</title>
+    <programme start="20240806210200" stop="20240806220000" channel="cctv1">
+        <title lang="zh">梦想城第38集</title>
     </programme>
     <programme start="20240806220000" stop="20240806224000" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -651,14 +651,14 @@
     <programme start="20240806120000" stop="20240806130600" channel="cctv2">
         <title lang="zh">天下财经</title>
     </programme>
-    <programme start="20240806130600" stop="20240806142700" channel="cctv2">
-        <title lang="zh">澳门双行线-3</title>
+    <programme start="20240806130600" stop="20240806144200" channel="cctv2">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 羽毛球女双决赛（4K）</title>
     </programme>
-    <programme start="20240806142700" stop="20240806143700" channel="cctv2">
-        <title lang="zh">周末特供2023-蔬菜改变生活1-5分版</title>
+    <programme start="20240806144200" stop="20240806145200" channel="cctv2">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 奥运典藏2（4K）</title>
     </programme>
-    <programme start="20240806143700" stop="20240806150000" channel="cctv2">
-        <title lang="zh">周末特供2024-154</title>
+    <programme start="20240806145200" stop="20240806150000" channel="cctv2">
+        <title lang="zh">周末特供2023-万物滋养3-7分版</title>
     </programme>
     <programme start="20240806150000" stop="20240806153000" channel="cctv2">
         <title lang="zh">正点财经</title>
@@ -967,7 +967,7 @@
         <title lang="zh">文化十分-2024-165</title>
     </programme>
     <programme start="20240806130700" stop="20240806141100" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2024-768</title>
+        <title lang="zh">综艺喜乐汇-2024-769</title>
     </programme>
     <programme start="20240806141100" stop="20240806152500" channel="cctv3">
         <title lang="zh">国风超有戏-6</title>
@@ -1008,17 +1008,17 @@
     <programme start="20240806232300" stop="20240806235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-852鸣龙少年 16/30</title>
     </programme>
-    <programme start="20240807001100" stop="20240807005700" channel="cctv3">
+    <programme start="20240807001100" stop="20240807005800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-853鸣龙少年 17/30</title>
     </programme>
-    <programme start="20240807005700" stop="20240807014300" channel="cctv3">
+    <programme start="20240807005800" stop="20240807014400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-854鸣龙少年 18/30</title>
     </programme>
-    <programme start="20240807014300" stop="20240807030000" channel="cctv3">
+    <programme start="20240807014400" stop="20240807030100" channel="cctv3">
         <title lang="zh">星光大道-2024-19</title>
     </programme>
-    <programme start="20240807030000" stop="20240807035100" channel="cctv3">
-        <title lang="zh">艺览天下-2024-16</title>
+    <programme start="20240807030100" stop="20240807035100" channel="cctv3">
+        <title lang="zh">我爱满堂彩-2024-25一笑一周</title>
     </programme>
     <programme start="20240807035100" stop="20240807051800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-105</title>
@@ -1563,14 +1563,20 @@
     <programme start="20240806070000" stop="20240806090500" channel="cctv5">
         <title lang="zh">体坛晨报-巴黎晨报</title>
     </programme>
-    <programme start="20240806090500" stop="20240806120000" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事录播8.6-1</title>
+    <programme start="20240806090500" stop="20240806103000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-体操单项决赛</title>
+    </programme>
+    <programme start="20240806103000" stop="20240806110000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-场地自行车决赛</title>
+    </programme>
+    <programme start="20240806110000" stop="20240806120000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-田径多项决赛</title>
     </programme>
     <programme start="20240806120000" stop="20240806130500" channel="cctv5">
         <title lang="zh">体坛快讯-巴黎最前沿</title>
     </programme>
     <programme start="20240806130500" stop="20240806135500" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事录播8.6-2</title>
+        <title lang="zh">录像：巴黎奥运会-羽毛球女单决赛</title>
     </programme>
     <programme start="20240806135500" stop="20240806142000" channel="cctv5">
         <title lang="zh">2024年巴黎奥运会报道-巴黎会客厅-7</title>
@@ -1581,17 +1587,35 @@
     <programme start="20240806144500" stop="20240806150000" channel="cctv5">
         <title lang="zh">2024年巴黎奥运会报道-遇见巴黎-25(4K)</title>
     </programme>
-    <programme start="20240806150000" stop="20240806180000" channel="cctv5">
-        <title lang="zh">巴黎奥运会-田径预赛1 等</title>
+    <programme start="20240806150000" stop="20240806170000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-女排1/4决赛 中国-土耳其</title>
+    </programme>
+    <programme start="20240806170000" stop="20240806180000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-花样游泳集体技术自选</title>
     </programme>
     <programme start="20240806180000" stop="20240806190000" channel="cctv5">
         <title lang="zh">体育新闻-全景奥运</title>
     </programme>
-    <programme start="20240806190000" stop="20240806235900" channel="cctv5">
-        <title lang="zh">巴黎奥运会-跳水女子10米台决赛、田径决赛等</title>
+    <programme start="20240806190000" stop="20240806200000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-攀岩男子速度资格赛排位赛</title>
+    </programme>
+    <programme start="20240806200000" stop="20240806210000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-乒乓球男团 中国-印度</title>
+    </programme>
+    <programme start="20240806210000" stop="20240806230000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-女子10米跳台跳水决赛</title>
+    </programme>
+    <programme start="20240806230000" stop="20240806235900" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-女排1/4决赛 美国-波兰</title>
+    </programme>
+    <programme start="20240807010000" stop="20240807013000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-滑板女子碗池赛决赛</title>
+    </programme>
+    <programme start="20240807013000" stop="20240807040000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-田径多项半决赛、决赛</title>
     </programme>
     <programme start="20240807040000" stop="20240807053000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 体操单项决赛1（4K）</title>
+        <title lang="zh">直播：巴黎奥运会-拳击女子50公斤级半决赛、女子66公斤级半决赛、女子60公斤级决赛</title>
     </programme>
     <programme start="20240807053000" stop="20240807060000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 射击比赛4（4K）</title>
@@ -1707,8 +1731,41 @@
     <programme start="20240806080000" stop="20240806090000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 乒乓球男单决赛（4K）</title>
     </programme>
-    <programme start="20240806090000" stop="20240806235900" channel="cctv5plus">
-        <title lang="zh">巴黎奥运会-赛事直播14</title>
+    <programme start="20240806090000" stop="20240806103000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-乒乓球女团 中国-埃及</title>
+    </programme>
+    <programme start="20240806103000" stop="20240806113000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-花样游泳集体技术自选</title>
+    </programme>
+    <programme start="20240806113000" stop="20240806130000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-体操单项决赛</title>
+    </programme>
+    <programme start="20240806130000" stop="20240806150000" channel="cctv5plus">
+        <title lang="zh">录像-巴黎奥运会篮球3对3男子、女子铜牌赛、决赛</title>
+    </programme>
+    <programme start="20240806150000" stop="20240806160000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-羽毛球男单决赛</title>
+    </programme>
+    <programme start="20240806160000" stop="20240806173000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-乒乓球男团 中国-印度</title>
+    </programme>
+    <programme start="20240806173000" stop="20240806181000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-田径多项决赛</title>
+    </programme>
+    <programme start="20240806181000" stop="20240806210000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-女子四人皮艇预赛、男子四人皮艇500米1/4决赛、女子双人划艇500米1/4决赛、男子双人皮艇500米1/4决赛、男子双人皮艇500米1/4决赛</title>
+    </programme>
+    <programme start="20240806210000" stop="20240806223000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-乒乓球团体1/4决赛</title>
+    </programme>
+    <programme start="20240806223000" stop="20240806235900" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会：女排1/4决赛 中国-土耳其</title>
+    </programme>
+    <programme start="20240807000000" stop="20240807020000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-男篮1/4决赛 法国-加拿大</title>
+    </programme>
+    <programme start="20240807020000" stop="20240807050000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-乒乓球团体1/4决赛</title>
     </programme>
     <programme start="20240807050000" stop="20240807063000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 羽毛球女单决赛（4K）</title>
@@ -2329,13 +2386,13 @@
         <title lang="zh">星推荐-2024年8月-5</title>
     </programme>
     <programme start="20240805192700" stop="20240805193000" channel="cctv8">
-        <title lang="zh">本集提要-小夫妻-11/36</title>
+        <title lang="zh">本集提要-小夫妻-第11集</title>
     </programme>
     <programme start="20240805193000" stop="20240805202300" channel="cctv8">
         <title lang="zh">小夫妻第11集</title>
     </programme>
     <programme start="20240805202300" stop="20240805202800" channel="cctv8">
-        <title lang="zh">本集提要-小夫妻-12/36</title>
+        <title lang="zh">本集提要-小夫妻-第12集</title>
     </programme>
     <programme start="20240805202800" stop="20240805212000" channel="cctv8">
         <title lang="zh">小夫妻第12集</title>
@@ -2458,7 +2515,7 @@
         <title lang="zh">本集提要-小夫妻-13/36</title>
     </programme>
     <programme start="20240806193000" stop="20240806202300" channel="cctv8">
-        <title lang="zh">小夫妻13/36</title>
+        <title lang="zh">小夫妻第13集</title>
     </programme>
     <programme start="20240806202300" stop="20240806202800" channel="cctv8">
         <title lang="zh">本集提要-小夫妻-14/36</title>
@@ -3298,7 +3355,7 @@
         <title lang="zh">谯国夫人第8集</title>
     </programme>
     <programme start="20240806132600" stop="20240806144500" channel="cctv11">
-        <title lang="zh">梨园闯关我挂帅-2024-31</title>
+        <title lang="zh">梨园闯关我挂帅-2024-30</title>
     </programme>
     <programme start="20240806144500" stop="20240806171300" channel="cctv11">
         <title lang="zh">中国戏曲像音像集萃-2024-4京剧《王宝钏》</title>
@@ -4122,8 +4179,32 @@
     <programme start="20240806133000" stop="20240806150000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 体操单项决赛1</title>
     </programme>
-    <programme start="20240806150000" stop="20240806235900" channel="cctv16">
-        <title lang="zh">2024年巴黎奥运会-赛事直播 8.6</title>
+    <programme start="20240806150000" stop="20240806160000" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-花样游泳集体技术自选</title>
+    </programme>
+    <programme start="20240806160000" stop="20240806190000" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-田径多项资格赛、复活赛</title>
+    </programme>
+    <programme start="20240806190000" stop="20240806203000" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-女排1/4决赛 巴西-多米尼加</title>
+    </programme>
+    <programme start="20240806203000" stop="20240806223000" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-体操单项决赛</title>
+    </programme>
+    <programme start="20240806223000" stop="20240806235900" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-乒乓球男团 中国-印度</title>
+    </programme>
+    <programme start="20240807000000" stop="20240807020000" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-男篮1/4决赛 法国-加拿大</title>
+    </programme>
+    <programme start="20240807020000" stop="20240807021500" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-场地自行车男子团体竞速铜牌赛、决赛</title>
+    </programme>
+    <programme start="20240807021500" stop="20240807033000" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-跳水女子10米台</title>
+    </programme>
+    <programme start="20240807033000" stop="20240807053000" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-男篮1/4决赛 巴西-美国</title>
     </programme>
     <programme start="20240807053000" stop="20240807070000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 田径比赛1</title>
@@ -4554,14 +4635,26 @@
     <programme start="20240806060000" stop="20240806060100" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎4</title>
     </programme>
-    <programme start="20240806060100" stop="20240806063100" channel="cctv4k">
-        <title lang="zh">味道-2023-105(4K)</title>
+    <programme start="20240806060100" stop="20240806062600" channel="cctv4k">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 赛艇比赛2（4K）</title>
     </programme>
-    <programme start="20240806063100" stop="20240806072100" channel="cctv4k">
-        <title lang="zh">航拍中国（第四季）-5(4K)</title>
+    <programme start="20240806062600" stop="20240806071900" channel="cctv4k">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 跳水男子双人3米板决赛（4K）</title>
+    </programme>
+    <programme start="20240806071900" stop="20240806071900" channel="cctv4k">
+        <title lang="zh">4K超清精品-巴黎奥运会夺金时刻17</title>
+    </programme>
+    <programme start="20240806071900" stop="20240806072000" channel="cctv4k">
+        <title lang="zh">4K超清精品-巴黎奥运会夺金时刻19</title>
+    </programme>
+    <programme start="20240806072000" stop="20240806072000" channel="cctv4k">
+        <title lang="zh">4K超清精品-巴黎奥运会夺金时刻20</title>
+    </programme>
+    <programme start="20240806072000" stop="20240806072100" channel="cctv4k">
+        <title lang="zh">4K超清精品-巴黎奥运会夺金时刻21</title>
     </programme>
     <programme start="20240806072100" stop="20240806072100" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
+        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
     </programme>
     <programme start="20240806072100" stop="20240806080100" channel="cctv4k">
         <title lang="zh">探索·发现（4K）-2024-141</title>
@@ -4611,20 +4704,26 @@
     <programme start="20240806131400" stop="20240806133100" channel="cctv4k">
         <title lang="zh">艺术里的奥林匹克-2024-48</title>
     </programme>
-    <programme start="20240806133100" stop="20240806133600" channel="cctv4k">
-        <title lang="zh">来龙去脉-2（4K）</title>
-    </programme>
-    <programme start="20240806133600" stop="20240806134100" channel="cctv4k">
-        <title lang="zh">如果国宝会说话（第三季）-4（4K）</title>
-    </programme>
-    <programme start="20240806134100" stop="20240806143100" channel="cctv4k">
-        <title lang="zh">航拍中国（第四季）-5(4K)</title>
-    </programme>
-    <programme start="20240806143100" stop="20240806145500" channel="cctv4k">
-        <title lang="zh">遇见最极致的中国-7（4K）</title>
-    </programme>
-    <programme start="20240806145500" stop="20240806145900" channel="cctv4k">
+    <programme start="20240806133100" stop="20240806133100" channel="cctv4k">
         <title lang="zh">4K节目垫播-美丽中国:海南岛</title>
+    </programme>
+    <programme start="20240806133100" stop="20240806144100" channel="cctv4k">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女排小组赛 中国队-塞尔维亚队（4K）</title>
+    </programme>
+    <programme start="20240806144100" stop="20240806144500" channel="cctv4k">
+        <title lang="zh">4K超清精品-奥运典藏羽毛球混合双打决赛</title>
+    </programme>
+    <programme start="20240806144500" stop="20240806145000" channel="cctv4k">
+        <title lang="zh">4K超清精品-奥运会乒乓球女单决赛</title>
+    </programme>
+    <programme start="20240806145000" stop="20240806145500" channel="cctv4k">
+        <title lang="zh">4K超清精品-奥运典藏羽毛球女双决赛</title>
+    </programme>
+    <programme start="20240806145500" stop="20240806145700" channel="cctv4k">
+        <title lang="zh">4K超清精品-巴黎奥运会DAY9</title>
+    </programme>
+    <programme start="20240806145700" stop="20240806145900" channel="cctv4k">
+        <title lang="zh">4K超清精品-巴黎奥运会DAY10</title>
     </programme>
     <programme start="20240806145900" stop="20240806150000" channel="cctv4k">
         <title lang="zh">4K标识演绎-2019-1</title>
