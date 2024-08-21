@@ -274,13 +274,13 @@
         <title lang="zh">前情提要-幸福草-第23集</title>
     </programme>
     <programme start="20240821200600" stop="20240821205700" channel="cctv1">
-        <title lang="zh">幸福草23/24</title>
+        <title lang="zh">幸福草第23集</title>
     </programme>
     <programme start="20240821205700" stop="20240821210100" channel="cctv1">
         <title lang="zh">前情提要-幸福草-第24集</title>
     </programme>
     <programme start="20240821210100" stop="20240821220000" channel="cctv1">
-        <title lang="zh">幸福草24/24</title>
+        <title lang="zh">幸福草第24集</title>
     </programme>
     <programme start="20240821220000" stop="20240821223700" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -399,13 +399,13 @@
     <programme start="20240822200100" stop="20240822200600" channel="cctv1">
         <title lang="zh">前情提要-电视剧（高清文件）</title>
     </programme>
-    <programme start="20240822200600" stop="20240822205500" channel="cctv1">
+    <programme start="20240822200600" stop="20240822205700" channel="cctv1">
         <title lang="zh">电视剧-（高清文件）</title>
     </programme>
-    <programme start="20240822205500" stop="20240822205800" channel="cctv1">
+    <programme start="20240822205700" stop="20240822210200" channel="cctv1">
         <title lang="zh">前情提要-电视剧（高清文件）</title>
     </programme>
-    <programme start="20240822205800" stop="20240822220000" channel="cctv1">
+    <programme start="20240822210200" stop="20240822220000" channel="cctv1">
         <title lang="zh">电视剧-（高清文件）</title>
     </programme>
     <programme start="20240822220000" stop="20240822223700" channel="cctv1">
@@ -952,7 +952,7 @@
         <title lang="zh">异曲同“功”-3</title>
     </programme>
     <programme start="20240821220400" stop="20240821225800" channel="cctv3">
-        <title lang="zh">回声嘹亮-2024-9</title>
+        <title lang="zh">艺览天下-2024-21</title>
     </programme>
     <programme start="20240821225800" stop="20240821234600" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-814 天才基本法28/34</title>
@@ -975,8 +975,11 @@
     <programme start="20240822050300" stop="20240822052900" channel="cctv3">
         <title lang="zh">天天把歌唱-毛不易</title>
     </programme>
-    <programme start="20240822052900" stop="20240822062900" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2024-766</title>
+    <programme start="20240822052900" stop="20240822062600" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2024-635</title>
+    </programme>
+    <programme start="20240822062600" stop="20240822062900" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2024-830 我看见</title>
     </programme>
     <programme start="20240822062900" stop="20240822064900" channel="cctv3">
         <title lang="zh">文化十分-2024-176</title>
@@ -1998,58 +2001,64 @@
     <programme start="20240822015000" stop="20240822032500" channel="cctv6">
         <title lang="zh">时尚女神</title>
     </programme>
-    <programme start="20240822032500" stop="20240822061000" channel="cctv6">
+    <programme start="20240822032500" stop="20240822044900" channel="cctv6">
         <title lang="zh">古墓兽影</title>
     </programme>
-    <programme start="20240822061000" stop="20240822075100" channel="cctv6">
+    <programme start="20240822044900" stop="20240822061300" channel="cctv6">
+        <title lang="zh">大圣伏妖</title>
+    </programme>
+    <programme start="20240822061300" stop="20240822075300" channel="cctv6">
         <title lang="zh">甲骨文密码</title>
     </programme>
-    <programme start="20240822075100" stop="20240822095000" channel="cctv6">
+    <programme start="20240822075300" stop="20240822095200" channel="cctv6">
         <title lang="zh">28岁未成年</title>
     </programme>
-    <programme start="20240822095000" stop="20240822114000" channel="cctv6">
+    <programme start="20240822095200" stop="20240822114100" channel="cctv6">
         <title lang="zh">天下第一针</title>
     </programme>
-    <programme start="20240822114000" stop="20240822114600" channel="cctv6">
+    <programme start="20240822114100" stop="20240822115200" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20240822114600" stop="20240822135200" channel="cctv6">
-        <title lang="zh">邓小平</title>
-    </programme>
-    <programme start="20240822135200" stop="20240822160500" channel="cctv6">
-        <title lang="zh">绝地战警：疾速追击</title>
-    </programme>
-    <programme start="20240822160500" stop="20240822180600" channel="cctv6">
-        <title lang="zh">我说的都是真的</title>
-    </programme>
-    <programme start="20240822180600" stop="20240822200500" channel="cctv6">
+    <programme start="20240822115200" stop="20240822135100" channel="cctv6">
         <title lang="zh">青云之梦</title>
     </programme>
-    <programme start="20240822200500" stop="20240822201700" channel="cctv6">
+    <programme start="20240822135100" stop="20240822160300" channel="cctv6">
+        <title lang="zh">绝地战警：疾速追击</title>
+    </programme>
+    <programme start="20240822160300" stop="20240822180800" channel="cctv6">
+        <title lang="zh">我说的都是真的</title>
+    </programme>
+    <programme start="20240822180800" stop="20240822200200" channel="cctv6">
+        <title lang="zh">特警队</title>
+    </programme>
+    <programme start="20240822200200" stop="20240822201200" channel="cctv6">
         <title lang="zh">今日影评2024-235</title>
     </programme>
-    <programme start="20240822201700" stop="20240822220000" channel="cctv6">
-        <title lang="zh">八卦掌之亢龙有悔</title>
+    <programme start="20240822201200" stop="20240822220000" channel="cctv6">
+        <title lang="zh">邓小平小道</title>
     </programme>
     <programme start="20240822220000" stop="20240822222200" channel="cctv6">
         <title lang="zh">中国电影报道2024-235</title>
     </programme>
-    <programme start="20240822222200" stop="20240822235900" channel="cctv6">
-        <title lang="zh">法兰西组曲</title>
+    <programme start="20240822222200" stop="20240822230000" channel="cctv6">
+        <title lang="zh">法兰西组曲（上）</title>
     </programme>
-    <programme start="20240823000700" stop="20240823001200" channel="cctv6">
+    <programme start="20240822230000" stop="20240822230200" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2024-08-22</title>
     </programme>
-    <programme start="20240823001200" stop="20240823002600" channel="cctv6">
+    <programme start="20240822230200" stop="20240822235900" channel="cctv6">
+        <title lang="zh">法兰西组曲（下）</title>
+    </programme>
+    <programme start="20240823000800" stop="20240823002100" channel="cctv6">
         <title lang="zh">今日影评2024-235</title>
     </programme>
-    <programme start="20240823002600" stop="20240823020700" channel="cctv6">
+    <programme start="20240823002100" stop="20240823015800" channel="cctv6">
         <title lang="zh">功夫战斗机</title>
     </programme>
-    <programme start="20240823020700" stop="20240823033700" channel="cctv6">
+    <programme start="20240823015800" stop="20240823032700" channel="cctv6">
         <title lang="zh">快乐俏天使</title>
     </programme>
-    <programme start="20240823033700" stop="20240823053700" channel="cctv6">
+    <programme start="20240823032700" stop="20240823053700" channel="cctv6">
         <title lang="zh">勇闯大都市</title>
     </programme>
     <programme start="20240823053700" stop="20240823061400" channel="cctv6">
@@ -2668,28 +2677,28 @@
         <title lang="zh">星推荐-2024年8月-22</title>
     </programme>
     <programme start="20240822192700" stop="20240822193000" channel="cctv8">
-        <title lang="zh">本集提要-前途无量-9/26</title>
+        <title lang="zh">本集提要-前途无量-第9集</title>
     </programme>
     <programme start="20240822193000" stop="20240822202500" channel="cctv8">
-        <title lang="zh">前途无量9/26</title>
+        <title lang="zh">前途无量第9集</title>
     </programme>
     <programme start="20240822202500" stop="20240822203000" channel="cctv8">
-        <title lang="zh">本集提要-前途无量-10/26</title>
+        <title lang="zh">本集提要-前途无量-第10集</title>
     </programme>
     <programme start="20240822203000" stop="20240822212100" channel="cctv8">
-        <title lang="zh">前途无量10/26</title>
+        <title lang="zh">前途无量第10集</title>
     </programme>
     <programme start="20240822212100" stop="20240822212600" channel="cctv8">
         <title lang="zh">本集提要-《爱在平凡》9/30</title>
     </programme>
     <programme start="20240822212600" stop="20240822221500" channel="cctv8">
-        <title lang="zh">爱在平凡9/30</title>
+        <title lang="zh">爱在平凡第9集</title>
     </programme>
     <programme start="20240822221500" stop="20240822221700" channel="cctv8">
         <title lang="zh">本集提要-《爱在平凡》10/30</title>
     </programme>
     <programme start="20240822221700" stop="20240822230700" channel="cctv8">
-        <title lang="zh">爱在平凡10/30</title>
+        <title lang="zh">爱在平凡第10集</title>
     </programme>
     <programme start="20240822230700" stop="20240822235300" channel="cctv8">
         <title lang="zh">大侠霍元甲第4集</title>
@@ -5038,7 +5047,7 @@
         <title lang="zh">4K宣传片-美术里的中国</title>
     </programme>
     <programme start="20240822153600" stop="20240822153600" channel="cctv4k">
-        <title lang="zh">4K宣传片-非遗总宣</title>
+        <title lang="zh">4K宣传片-处暑</title>
     </programme>
     <programme start="20240822153600" stop="20240822153600" channel="cctv4k">
         <title lang="zh">4K标识演绎-2019-1</title>
