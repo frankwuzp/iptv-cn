@@ -381,16 +381,16 @@
     <programme start="20240826200100" stop="20240826200600" channel="cctv1">
         <title lang="zh">前情提要-走向大西南-第3集</title>
     </programme>
-    <programme start="20240826200600" stop="20240826205600" channel="cctv1">
+    <programme start="20240826200600" stop="20240826205800" channel="cctv1">
         <title lang="zh">走向大西南3/24</title>
     </programme>
-    <programme start="20240826205600" stop="20240826205800" channel="cctv1">
+    <programme start="20240826205800" stop="20240826210200" channel="cctv1">
         <title lang="zh">前情提要-走向大西南-第4集</title>
     </programme>
-    <programme start="20240826205800" stop="20240826214600" channel="cctv1">
+    <programme start="20240826210200" stop="20240826215000" channel="cctv1">
         <title lang="zh">走向大西南4/24</title>
     </programme>
-    <programme start="20240826214600" stop="20240826220000" channel="cctv1">
+    <programme start="20240826215000" stop="20240826220000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20240826220000" stop="20240826223600" channel="cctv1">
@@ -972,44 +972,47 @@
     <programme start="20240826052400" stop="20240826052900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-830 我看见</title>
     </programme>
-    <programme start="20240826052900" stop="20240826062100" channel="cctv3">
+    <programme start="20240826052900" stop="20240826062200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-637</title>
     </programme>
-    <programme start="20240826062100" stop="20240826072500" channel="cctv3">
+    <programme start="20240826062200" stop="20240826072500" channel="cctv3">
         <title lang="zh">综艺盛典-2024-14选对健康14</title>
     </programme>
-    <programme start="20240826072500" stop="20240826080100" channel="cctv3">
+    <programme start="20240826072500" stop="20240826080400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-579</title>
     </programme>
-    <programme start="20240826080100" stop="20240826080700" channel="cctv3">
-        <title lang="zh">黄金100秒-TOP音乐咖-等风停</title>
-    </programme>
-    <programme start="20240826080700" stop="20240826091200" channel="cctv3">
+    <programme start="20240826080400" stop="20240826090900" channel="cctv3">
         <title lang="zh">民歌·中国-2024-126唱得幸福落满坡1</title>
     </programme>
-    <programme start="20240826091200" stop="20240826100700" channel="cctv3">
+    <programme start="20240826090900" stop="20240826100400" channel="cctv3">
         <title lang="zh">幸福账单-勇者之战-2024-1</title>
     </programme>
-    <programme start="20240826100700" stop="20240826113000" channel="cctv3">
+    <programme start="20240826100400" stop="20240826112400" channel="cctv3">
         <title lang="zh">开门大吉-2024-32</title>
     </programme>
-    <programme start="20240826113000" stop="20240826115200" channel="cctv3">
+    <programme start="20240826112400" stop="20240826112900" channel="cctv3">
+        <title lang="zh">悦读一夏-清塘荷韵</title>
+    </programme>
+    <programme start="20240826112900" stop="20240826115100" channel="cctv3">
         <title lang="zh">文化十分-2024-179</title>
     </programme>
-    <programme start="20240826115200" stop="20240826131200" channel="cctv3">
+    <programme start="20240826115100" stop="20240826131100" channel="cctv3">
         <title lang="zh">向幸福出发-2024-34</title>
     </programme>
-    <programme start="20240826131200" stop="20240826133900" channel="cctv3">
+    <programme start="20240826131100" stop="20240826133900" channel="cctv3">
         <title lang="zh">绽放吧！妈妈-33大山妈妈</title>
     </programme>
-    <programme start="20240826133900" stop="20240826143400" channel="cctv3">
+    <programme start="20240826133900" stop="20240826143300" channel="cctv3">
         <title lang="zh">我爱满堂彩-2024-28一笑一周</title>
     </programme>
-    <programme start="20240826143400" stop="20240826154400" channel="cctv3">
+    <programme start="20240826143300" stop="20240826154200" channel="cctv3">
         <title lang="zh">会唱歌的院子-2</title>
     </programme>
-    <programme start="20240826154400" stop="20240826170600" channel="cctv3">
+    <programme start="20240826154200" stop="20240826170200" channel="cctv3">
         <title lang="zh">星光大道-2024-33（这一站星光9）</title>
+    </programme>
+    <programme start="20240826170200" stop="20240826170600" channel="cctv3">
+        <title lang="zh">悦读一夏-清塘荷韵</title>
     </programme>
     <programme start="20240826170600" stop="20240826180800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-757</title>
@@ -1630,10 +1633,16 @@
         <title lang="zh">体坛晨报</title>
     </programme>
     <programme start="20240826090500" stop="20240826103000" channel="cctv5">
-        <title lang="zh">2024年ATP1000男子网球大师赛-辛辛那提站 决赛（4K）</title>
-    </programme>
-    <programme start="20240826103000" stop="20240826120000" channel="cctv5">
         <title lang="zh">实况录像-2024年世界田联钻石联赛 洛桑站</title>
+    </programme>
+    <programme start="20240826103000" stop="20240826113000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 跳水女子双人10米台决赛（4K）</title>
+    </programme>
+    <programme start="20240826113000" stop="20240826114500" channel="cctv5">
+        <title lang="zh">五环纪事-全红婵 陈芋汐（4K）</title>
+    </programme>
+    <programme start="20240826114500" stop="20240826120000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 奥运典藏3（4K）</title>
     </programme>
     <programme start="20240826120000" stop="20240826123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1713,11 +1722,14 @@
     <programme start="20240827125500" stop="20240827130000" channel="cctv5">
         <title lang="zh">从北京到巴黎 中国艺术大展行-49(4K)</title>
     </programme>
-    <programme start="20240827130000" stop="20240827140000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 跳水女子10米台决赛（4K）</title>
+    <programme start="20240827130000" stop="20240827143000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 网球比赛1（4K）</title>
     </programme>
-    <programme start="20240827140000" stop="20240827150100" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 举重男子61公斤级决赛（4K）</title>
+    <programme start="20240827143000" stop="20240827144500" channel="cctv5">
+        <title lang="zh">五环纪事-现场见证 郑钦文创造历史（4K）</title>
+    </programme>
+    <programme start="20240827144500" stop="20240827150100" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 奥运典藏9（4K）</title>
     </programme>
     <programme start="20240827150100" stop="20240827163100" channel="cctv5">
         <title lang="zh">国际足球赛场-24-25赛季英格兰足球超级联赛第2轮 伯恩茅斯—纽卡斯尔联</title>
