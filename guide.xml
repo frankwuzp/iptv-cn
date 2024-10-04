@@ -282,34 +282,28 @@
     <programme start="20241004220000" stop="20241004223600" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20241004223600" stop="20241004225600" channel="cctv1">
+    <programme start="20241004223600" stop="20241004231400" channel="cctv1">
         <title lang="zh">国之颂-5（播出版）</title>
     </programme>
-    <programme start="20241004225600" stop="20241004231000" channel="cctv1">
-        <title lang="zh">国之颂-5（播出版）</title>
-    </programme>
-    <programme start="20241004231000" stop="20241004235900" channel="cctv1">
+    <programme start="20241004231400" stop="20241004235900" channel="cctv1">
         <title lang="zh">三餐四季-4</title>
     </programme>
-    <programme start="20241005004900" stop="20241005011800" channel="cctv1">
+    <programme start="20241005005300" stop="20241005012200" channel="cctv1">
         <title lang="zh">人与自然-2024-179</title>
     </programme>
-    <programme start="20241005011800" stop="20241005014800" channel="cctv1">
+    <programme start="20241005012200" stop="20241005015200" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20241005014800" stop="20241005022000" channel="cctv1">
+    <programme start="20241005015200" stop="20241005022400" channel="cctv1">
         <title lang="zh">寻宝-文脉春秋-6</title>
     </programme>
-    <programme start="20241005022000" stop="20241005023000" channel="cctv1">
+    <programme start="20241005022400" stop="20241005023400" channel="cctv1">
         <title lang="zh">2024秘境之眼-岷山秘岭(4K)</title>
     </programme>
-    <programme start="20241005023000" stop="20241005024000" channel="cctv1">
+    <programme start="20241005023400" stop="20241005024500" channel="cctv1">
         <title lang="zh">2024秘境之眼-珠峰下的家园(4K)</title>
     </programme>
-    <programme start="20241005024000" stop="20241005024400" channel="cctv1">
-        <title lang="zh">非遗里的中国-MV</title>
-    </programme>
-    <programme start="20241005024400" stop="20241005025100" channel="cctv1">
+    <programme start="20241005024500" stop="20241005025100" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
     </programme>
     <programme start="20241005025100" stop="20241005042300" channel="cctv1">
@@ -1020,11 +1014,14 @@
     <programme start="20241005193000" stop="20241005210500" channel="cctv3">
         <title lang="zh">乐在旅途第二季-8</title>
     </programme>
-    <programme start="20241005210500" stop="20241005213300" channel="cctv3">
+    <programme start="20241005210500" stop="20241005212800" channel="cctv3">
         <title lang="zh">国之颂-4（播出版）</title>
     </programme>
-    <programme start="20241005213300" stop="20241005222700" channel="cctv3">
+    <programme start="20241005212800" stop="20241005222600" channel="cctv3">
         <title lang="zh">综艺盛典-2024-21选对健康21</title>
+    </programme>
+    <programme start="20241005222600" stop="20241005222700" channel="cctv3">
+        <title lang="zh">国之颂-4（播出版）</title>
     </programme>
     <programme start="20241005222700" stop="20241005235900" channel="cctv3">
         <title lang="zh">会唱歌的院子-5</title>
