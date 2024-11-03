@@ -1617,17 +1617,17 @@
     <programme start="20241104180000" stop="20241104183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20241104183500" stop="20241104200000" channel="cctv5">
+    <programme start="20241104183500" stop="20241104203000" channel="cctv5">
         <title lang="zh">天下足球</title>
     </programme>
-    <programme start="20241104200000" stop="20241104213000" channel="cctv5">
-        <title lang="zh">2024年世乒联冠军赛(德国站)-第1轮2</title>
+    <programme start="20241104203000" stop="20241104223000" channel="cctv5">
+        <title lang="zh">2024年WTA年终总决赛-小组赛（莱巴金娜-郑钦文）</title>
     </programme>
-    <programme start="20241104213000" stop="20241104220000" channel="cctv5">
+    <programme start="20241104223000" stop="20241104230500" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20241104220000" stop="20241104233500" channel="cctv5">
-        <title lang="zh">2024年世乒联冠军赛(德国站)-第1轮2</title>
+    <programme start="20241104230500" stop="20241104233500" channel="cctv5">
+        <title lang="zh">五环纪事-五环之约-布云朝克特(4K)</title>
     </programme>
     <programme start="20241104233500" stop="20241104235900" channel="cctv5">
         <title lang="zh">实况录像-2024年世界职业拳王争霸赛 16</title>
@@ -1762,31 +1762,37 @@
         <title lang="zh">实况录像-2024/2025中国男子篮球职业联赛常规赛第10轮 南京头排苏酒—青岛国信制药</title>
     </programme>
     <programme start="20241104133000" stop="20241104150000" channel="cctv5plus">
-        <title lang="zh">2024年ATP1000男子网球大师赛-上海站 决赛（4K）</title>
+        <title lang="zh">国际足球赛场-24-25赛季英超联赛第10轮 利物浦—布赖顿</title>
     </programme>
     <programme start="20241104150000" stop="20241104163000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-24-25赛季英超联赛第10轮 利物浦—布赖顿</title>
+        <title lang="zh">2024年ATP1000男子网球大师赛-上海站 决赛（4K）</title>
     </programme>
     <programme start="20241104163000" stop="20241104172900" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界场地自行车锦标赛 1</title>
     </programme>
     <programme start="20241104172900" stop="20241104180000" channel="cctv5plus">
-        <title lang="zh">赛事集锦(高清体育)-2024-92-2024年射箭世界杯总决赛2（4K）</title>
+        <title lang="zh">赛事集锦(高清体育)-2024年射箭世界杯总决赛2（4K）</title>
     </programme>
-    <programme start="20241104180000" stop="20241104193000" channel="cctv5plus">
-        <title lang="zh">实况录像-2024年世乒联冠军赛 德国站 第1轮（录播）1</title>
+    <programme start="20241104180000" stop="20241104184500" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2024年全国男子举重冠军赛1（4K）</title>
     </programme>
-    <programme start="20241104193000" stop="20241104223500" channel="cctv5plus">
-        <title lang="zh">2024/2025赛季斯诺克国际锦标赛-第一轮</title>
+    <programme start="20241104184500" stop="20241104190000" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年世界健美操锦标赛 五人操决赛</title>
     </programme>
-    <programme start="20241104223500" stop="20241104232500" channel="cctv5plus">
+    <programme start="20241104190000" stop="20241104194500" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛 加拿大第二站 1</title>
     </programme>
-    <programme start="20241104232500" stop="20241104234000" channel="cctv5plus">
+    <programme start="20241104194500" stop="20241104200000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界泳联游泳世界杯 新加坡站10分钟版</title>
     </programme>
-    <programme start="20241104234000" stop="20241104235900" channel="cctv5plus">
+    <programme start="20241104200000" stop="20241104233500" channel="cctv5plus">
+        <title lang="zh">2024年世乒联冠军赛(德国站)-第1轮1</title>
+    </programme>
+    <programme start="20241104233500" stop="20241104235900" channel="cctv5plus">
         <title lang="zh">2024年ATP1000男子网球大师赛巴黎站-1/4决赛（4K）</title>
+    </programme>
+    <programme start="20241105005800" stop="20241105010800" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年世界技巧运动锦标赛 女子集体全能决赛、男子集体全能决赛</title>
     </programme>
     <programme start="20241105010800" stop="20241105023600" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛常规赛 第8轮 浙江稠州金租—上海久事</title>
@@ -3528,52 +3534,49 @@
     <programme start="20241103160600" stop="20241103164700" channel="cctv12">
         <title lang="zh">一线-2024-207</title>
     </programme>
-    <programme start="20241103164700" stop="20241103171700" channel="cctv12">
-        <title lang="zh">天网-2024-209</title>
+    <programme start="20241103164700" stop="20241103172300" channel="cctv12">
+        <title lang="zh">从心开始-2024-43</title>
     </programme>
-    <programme start="20241103171700" stop="20241103180900" channel="cctv12">
+    <programme start="20241103172300" stop="20241103181600" channel="cctv12">
         <title lang="zh">方圆剧阵2024-307</title>
     </programme>
-    <programme start="20241103180900" stop="20241103182000" channel="cctv12">
-        <title lang="zh">振兴有我-6</title>
-    </programme>
-    <programme start="20241103182000" stop="20241103185000" channel="cctv12">
+    <programme start="20241103181600" stop="20241103184600" channel="cctv12">
         <title lang="zh">热话-2024-44</title>
     </programme>
-    <programme start="20241103185000" stop="20241103192200" channel="cctv12">
+    <programme start="20241103184600" stop="20241103191800" channel="cctv12">
         <title lang="zh">法律讲堂-2024-308</title>
     </programme>
-    <programme start="20241103192200" stop="20241103200500" channel="cctv12">
+    <programme start="20241103191800" stop="20241103200100" channel="cctv12">
         <title lang="zh">从心开始-2024-44</title>
     </programme>
-    <programme start="20241103200500" stop="20241103205700" channel="cctv12">
+    <programme start="20241103200100" stop="20241103205300" channel="cctv12">
         <title lang="zh">方圆剧阵2024-308</title>
     </programme>
-    <programme start="20241103205700" stop="20241103211900" channel="cctv12">
+    <programme start="20241103205300" stop="20241103211500" channel="cctv12">
         <title lang="zh">道德观察(日播版)-2024-308</title>
     </programme>
-    <programme start="20241103211900" stop="20241103220000" channel="cctv12">
+    <programme start="20241103211500" stop="20241103215600" channel="cctv12">
         <title lang="zh">见证-2024-44</title>
     </programme>
-    <programme start="20241103220000" stop="20241103224500" channel="cctv12">
+    <programme start="20241103215600" stop="20241103224100" channel="cctv12">
         <title lang="zh">现场-2024-46</title>
     </programme>
-    <programme start="20241103224500" stop="20241103231500" channel="cctv12">
+    <programme start="20241103224100" stop="20241103231100" channel="cctv12">
         <title lang="zh">法律讲堂-2024-91</title>
     </programme>
-    <programme start="20241103231500" stop="20241103235800" channel="cctv12">
+    <programme start="20241103231100" stop="20241103235400" channel="cctv12">
         <title lang="zh">一线-2024-169</title>
     </programme>
-    <programme start="20241103235800" stop="20241103235900" channel="cctv12">
+    <programme start="20241103235400" stop="20241103235900" channel="cctv12">
         <title lang="zh">从心开始-2024-44</title>
     </programme>
-    <programme start="20241104004100" stop="20241104012400" channel="cctv12">
+    <programme start="20241104003700" stop="20241104012000" channel="cctv12">
         <title lang="zh">见证-2024-44</title>
     </programme>
-    <programme start="20241104012400" stop="20241104021500" channel="cctv12">
+    <programme start="20241104012000" stop="20241104021100" channel="cctv12">
         <title lang="zh">方圆剧阵2024-308</title>
     </programme>
-    <programme start="20241104021500" stop="20241104060300" channel="cctv12">
+    <programme start="20241104021100" stop="20241104060300" channel="cctv12">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20241104060300" stop="20241104063600" channel="cctv12">
