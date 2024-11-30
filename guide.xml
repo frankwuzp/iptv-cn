@@ -378,10 +378,10 @@
     <programme start="20241201193800" stop="20241201200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20241201200600" stop="20241201214400" channel="cctv1">
+    <programme start="20241201200600" stop="20241201214600" channel="cctv1">
         <title lang="zh">城市风华录-1</title>
     </programme>
-    <programme start="20241201214400" stop="20241201220000" channel="cctv1">
+    <programme start="20241201214600" stop="20241201220000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20241201220000" stop="20241201223400" channel="cctv1">
@@ -963,8 +963,11 @@
     <programme start="20241201081000" stop="20241201090100" channel="cctv3">
         <title lang="zh">幸福账单-勇者之战-2024-10</title>
     </programme>
-    <programme start="20241201090100" stop="20241201090500" channel="cctv3">
-        <title lang="zh">悦读一夏-爆炒米花</title>
+    <programme start="20241201090100" stop="20241201090300" channel="cctv3">
+        <title lang="zh">悦读一夏-火晶柿子</title>
+    </programme>
+    <programme start="20241201090300" stop="20241201090500" channel="cctv3">
+        <title lang="zh">中国文艺报道-2024-108 艺瞬间 春晚主题主标识</title>
     </programme>
     <programme start="20241201090500" stop="20241201100400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-761</title>
@@ -972,11 +975,14 @@
     <programme start="20241201100400" stop="20241201100800" channel="cctv3">
         <title lang="zh">黄金100秒-TOP音乐咖-雪之念</title>
     </programme>
-    <programme start="20241201100800" stop="20241201111100" channel="cctv3">
+    <programme start="20241201100800" stop="20241201111000" channel="cctv3">
         <title lang="zh">综艺盛典-2024-29选对健康29</title>
     </programme>
-    <programme start="20241201111100" stop="20241201111500" channel="cctv3">
-        <title lang="zh">悦读一夏-爆炒米花</title>
+    <programme start="20241201111000" stop="20241201111200" channel="cctv3">
+        <title lang="zh">悦读一夏-从前慢</title>
+    </programme>
+    <programme start="20241201111200" stop="20241201111500" channel="cctv3">
+        <title lang="zh">中国文艺报道-2024-108  艺瞬间 春晚主题主标识</title>
     </programme>
     <programme start="20241201111500" stop="20241201123600" channel="cctv3">
         <title lang="zh">开门大吉-2024-30</title>
