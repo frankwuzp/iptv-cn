@@ -465,23 +465,23 @@
     <programme start="20241228131200" stop="20241228140000" channel="cctv1">
         <title lang="zh">我们的队伍向太阳22/33</title>
     </programme>
-    <programme start="20241228140000" stop="20241228145300" channel="cctv1">
+    <programme start="20241228140000" stop="20241228145400" channel="cctv1">
         <title lang="zh">我们的队伍向太阳23/33</title>
     </programme>
-    <programme start="20241228145300" stop="20241228154300" channel="cctv1">
+    <programme start="20241228145400" stop="20241228154400" channel="cctv1">
         <title lang="zh">我们的队伍向太阳24/33</title>
     </programme>
-    <programme start="20241228154300" stop="20241228163100" channel="cctv1">
+    <programme start="20241228154400" stop="20241228163500" channel="cctv1">
         <title lang="zh">我们的队伍向太阳25/33</title>
     </programme>
-    <programme start="20241228163100" stop="20241228172100" channel="cctv1">
-        <title lang="zh">我们的队伍向太阳26/33</title>
-    </programme>
-    <programme start="20241228172100" stop="20241228173000" channel="cctv1">
+    <programme start="20241228163500" stop="20241228170000" channel="cctv1">
         <title lang="zh">第一动画乐园-2024-537</title>
     </programme>
-    <programme start="20241228173000" stop="20241228184800" channel="cctv1">
+    <programme start="20241228170000" stop="20241228181800" channel="cctv1">
         <title lang="zh">星光大道-2024-56(这一站星光32）</title>
+    </programme>
+    <programme start="20241228181800" stop="20241228184800" channel="cctv1">
+        <title lang="zh">大国基石（第二季）-3</title>
     </programme>
     <programme start="20241228184800" stop="20241228190000" channel="cctv1">
         <title lang="zh">2024秘境之眼-352</title>
@@ -1992,43 +1992,49 @@
     <programme start="20241228022200" stop="20241228035000" channel="cctv6">
         <title lang="zh">少北宗师</title>
     </programme>
-    <programme start="20241228035000" stop="20241228061300" channel="cctv6">
+    <programme start="20241228035000" stop="20241228051800" channel="cctv6">
         <title lang="zh">彩票也疯狂</title>
     </programme>
-    <programme start="20241228061300" stop="20241228075400" channel="cctv6">
+    <programme start="20241228051800" stop="20241228055400" channel="cctv6">
+        <title lang="zh">我和我的父辈：乘风</title>
+    </programme>
+    <programme start="20241228055400" stop="20241228062500" channel="cctv6">
+        <title lang="zh">我和我的父辈：鸭先知</title>
+    </programme>
+    <programme start="20241228062500" stop="20241228080600" channel="cctv6">
         <title lang="zh">现场直播</title>
     </programme>
-    <programme start="20241228075400" stop="20241228092800" channel="cctv6">
+    <programme start="20241228080600" stop="20241228094200" channel="cctv6">
         <title lang="zh">神秘世界历险记</title>
     </programme>
-    <programme start="20241228092800" stop="20241228110500" channel="cctv6">
+    <programme start="20241228094200" stop="20241228111700" channel="cctv6">
         <title lang="zh">马达加斯加</title>
     </programme>
-    <programme start="20241228110500" stop="20241228111100" channel="cctv6">
+    <programme start="20241228111700" stop="20241228112500" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20241228111100" stop="20241228132000" channel="cctv6">
+    <programme start="20241228112500" stop="20241228133500" channel="cctv6">
         <title lang="zh">逆战</title>
     </programme>
-    <programme start="20241228132000" stop="20241228134300" channel="cctv6">
+    <programme start="20241228133500" stop="20241228135600" channel="cctv6">
         <title lang="zh">《1905影视频》2024-052</title>
     </programme>
-    <programme start="20241228134300" stop="20241228153200" channel="cctv6">
+    <programme start="20241228135600" stop="20241228154500" channel="cctv6">
         <title lang="zh">农民院士</title>
     </programme>
-    <programme start="20241228153200" stop="20241228172200" channel="cctv6">
+    <programme start="20241228154500" stop="20241228173500" channel="cctv6">
         <title lang="zh">英雄无语</title>
     </programme>
-    <programme start="20241228172200" stop="20241228175600" channel="cctv6">
+    <programme start="20241228173500" stop="20241228181200" channel="cctv6">
         <title lang="zh">世界电影之旅2024-052</title>
     </programme>
-    <programme start="20241228175600" stop="20241228200600" channel="cctv6">
+    <programme start="20241228181200" stop="20241228201600" channel="cctv6">
         <title lang="zh">巨额来电</title>
     </programme>
-    <programme start="20241228200600" stop="20241228201800" channel="cctv6">
+    <programme start="20241228201600" stop="20241228202600" channel="cctv6">
         <title lang="zh">今日影评2024-363</title>
     </programme>
-    <programme start="20241228201800" stop="20241228220000" channel="cctv6">
+    <programme start="20241228202600" stop="20241228220000" channel="cctv6">
         <title lang="zh">神机图</title>
     </programme>
     <programme start="20241228220000" stop="20241228222200" channel="cctv6">
@@ -2037,8 +2043,14 @@
     <programme start="20241228222200" stop="20241228223100" channel="cctv6">
         <title lang="zh">佳片有约周六推介版2024-052</title>
     </programme>
-    <programme start="20241228223100" stop="20241228235900" channel="cctv6">
-        <title lang="zh">大醉侠</title>
+    <programme start="20241228223100" stop="20241228230000" channel="cctv6">
+        <title lang="zh">大醉侠（上）</title>
+    </programme>
+    <programme start="20241228230000" stop="20241228230200" channel="cctv6">
+        <title lang="zh">中国体育彩票阳光开奖2024-12-28</title>
+    </programme>
+    <programme start="20241228230200" stop="20241228235900" channel="cctv6">
+        <title lang="zh">大醉侠（下）</title>
     </programme>
     <programme start="20241226000500" stop="20241226004300" channel="cctv7">
         <title lang="zh">兵器面面观-2024-258</title>
@@ -2455,13 +2467,13 @@
         <title lang="zh">本集提要-清明上河图密码-第20集</title>
     </programme>
     <programme start="20241226193000" stop="20241226202600" channel="cctv8">
-        <title lang="zh">清明上河图密码20/26</title>
+        <title lang="zh">清明上河图密码第20集</title>
     </programme>
     <programme start="20241226202600" stop="20241226203100" channel="cctv8">
-        <title lang="zh">本集提要-清明上河图密码-21/26</title>
+        <title lang="zh">本集提要-清明上河图密码-第21集</title>
     </programme>
     <programme start="20241226203100" stop="20241226212400" channel="cctv8">
-        <title lang="zh">清明上河图密码21/26</title>
+        <title lang="zh">清明上河图密码第21集</title>
     </programme>
     <programme start="20241226212400" stop="20241226212900" channel="cctv8">
         <title lang="zh">本集提要-凡人歌-第18集</title>
@@ -2578,7 +2590,7 @@
         <title lang="zh">星推荐-2024年12月-27</title>
     </programme>
     <programme start="20241227192700" stop="20241227193000" channel="cctv8">
-        <title lang="zh">本集提要-清明上河图密码-22/26</title>
+        <title lang="zh">本集提要-清明上河图密码-第22集</title>
     </programme>
     <programme start="20241227193000" stop="20241227202600" channel="cctv8">
         <title lang="zh">清明上河图密码22/26</title>
@@ -3760,7 +3772,7 @@
         <title lang="zh">道德观察(日播版)-2024-363</title>
     </programme>
     <programme start="20241228211900" stop="20241228220000" channel="cctv12">
-        <title lang="zh">现场-2024-25</title>
+        <title lang="zh">现场-2024-14</title>
     </programme>
     <programme start="20241228220000" stop="20241228224500" channel="cctv12">
         <title lang="zh">心理访谈-2024-52</title>
@@ -4837,7 +4849,7 @@
         <title lang="zh">人世间-（4K）-34/58</title>
     </programme>
     <programme start="20241227153600" stop="20241227153600" channel="cctv4k">
-        <title lang="zh">4K宣传片-山水间的家1</title>
+        <title lang="zh">4K宣传片-美美与共</title>
     </programme>
     <programme start="20241227153600" stop="20241227153700" channel="cctv4k">
         <title lang="zh">4K宣传片-大唐诗人传</title>
