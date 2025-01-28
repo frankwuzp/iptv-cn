@@ -796,16 +796,16 @@
         <title lang="zh">2024年春节联欢晚会-像你这样的朋友（4K）</title>
     </programme>
     <programme start="20250129085200" stop="20250129091600" channel="cctv3">
-        <title lang="zh">2025年春节联欢晚会-语言节目集锦（初一）直送1</title>
+        <title lang="zh">2025年春节联欢晚会-歌舞节目集锦（初一）直送1</title>
     </programme>
     <programme start="20250129091600" stop="20250129094000" channel="cctv3">
-        <title lang="zh">2025年春节联欢晚会-语言节目集锦（初一）直送2</title>
+        <title lang="zh">2025年春节联欢晚会-歌舞节目集锦（初一）直送2</title>
     </programme>
     <programme start="20250129094000" stop="20250129100500" channel="cctv3">
-        <title lang="zh">2025年春节联欢晚会-语言节目集锦（初一）直送3</title>
+        <title lang="zh">2025年春节联欢晚会-歌舞节目集锦（初一）直送3</title>
     </programme>
     <programme start="20250129100500" stop="20250129103000" channel="cctv3">
-        <title lang="zh">2025年春节联欢晚会-语言节目集锦（初一）直送4</title>
+        <title lang="zh">2025年春节联欢晚会-歌舞节目集锦（初一）直送4</title>
     </programme>
     <programme start="20250129103000" stop="20250129121100" channel="cctv3">
         <title lang="zh">开门迎春晚-1</title>
@@ -1098,11 +1098,8 @@
     <programme start="20250129103100" stop="20250129111700" channel="cctv4">
         <title lang="zh">2025年春节联欢晚会-（初一）直送3</title>
     </programme>
-    <programme start="20250129111700" stop="20250129120000" channel="cctv4">
+    <programme start="20250129111700" stop="20250129130000" channel="cctv4">
         <title lang="zh">2025年春节联欢晚会-（初一）直送4</title>
-    </programme>
-    <programme start="20250129120000" stop="20250129130000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20250129130000" stop="20250129134600" channel="cctv4">
         <title lang="zh">2025年春节联欢晚会-（初一）直送5</title>
@@ -6105,26 +6102,11 @@
     <programme start="20250129185400" stop="20250129190000" channel="btv1">
         <title lang="zh">北京天气预报</title>
     </programme>
-    <programme start="20250129190000" stop="20250129193300" channel="btv1">
+    <programme start="20250129190000" stop="20250129193100" channel="btv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250129193300" stop="20250129201900" channel="btv1">
-        <title lang="zh">电视剧</title>
-    </programme>
-    <programme start="20250129201900" stop="20250129210500" channel="btv1">
-        <title lang="zh">电视剧</title>
-    </programme>
-    <programme start="20250129210500" stop="20250129214900" channel="btv1">
-        <title lang="zh">大戏看北京</title>
-    </programme>
-    <programme start="20250129214900" stop="20250129221700" channel="btv1">
-        <title lang="zh">为你喝彩</title>
-    </programme>
-    <programme start="20250129221700" stop="20250129225900" channel="btv1">
-        <title lang="zh">电视剧</title>
-    </programme>
-    <programme start="20250129225900" stop="20250129235900" channel="btv1">
-        <title lang="zh">电视剧</title>
+    <programme start="20250129193100" stop="20250129235900" channel="btv1">
+        <title lang="zh">2025年北京广播电视台春节联欢晚会</title>
     </programme>
     <programme start="20250130000900" stop="20250130005200" channel="btv1">
         <title lang="zh">电视剧</title>
@@ -6975,23 +6957,17 @@
     <programme start="20250129185600" stop="20250129190000" channel="hunan">
         <title lang="zh">卫视气象站</title>
     </programme>
-    <programme start="20250129190000" stop="20250129193300" channel="hunan">
+    <programme start="20250129190000" stop="20250129193100" channel="hunan">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250129193300" stop="20250129200700" channel="hunan">
-        <title lang="zh">万物友灵</title>
+    <programme start="20250129193100" stop="20250129215000" channel="hunan">
+        <title lang="zh">2025湖南戏曲春晚</title>
     </programme>
-    <programme start="20250129200700" stop="20250129210500" channel="hunan">
-        <title lang="zh">电视剧：国色芳华(30)</title>
-    </programme>
-    <programme start="20250129210500" stop="20250129220000" channel="hunan">
-        <title lang="zh">电视剧：国色芳华(31)</title>
-    </programme>
-    <programme start="20250129220000" stop="20250129230000" channel="hunan">
-        <title lang="zh">电视剧:五福临门(5)</title>
+    <programme start="20250129215000" stop="20250129230000" channel="hunan">
+        <title lang="zh">电视剧</title>
     </programme>
     <programme start="20250129230000" stop="20250129235900" channel="hunan">
-        <title lang="zh">电视剧:五福临门(6)</title>
+        <title lang="zh">电视剧</title>
     </programme>
     <programme start="20250130000600" stop="20250130004400" channel="hunan">
         <title lang="zh">我是大美人</title>
@@ -7905,16 +7881,13 @@
     <programme start="20250129185200" stop="20250129190000" channel="jiangsu">
         <title lang="zh">时空气象站</title>
     </programme>
-    <programme start="20250129190000" stop="20250129193200" channel="jiangsu">
+    <programme start="20250129190000" stop="20250129193000" channel="jiangsu">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250129193200" stop="20250129202800" channel="jiangsu">
-        <title lang="zh">电视剧:蔷薇风暴(32)</title>
+    <programme start="20250129193000" stop="20250129213500" channel="jiangsu">
+        <title lang="zh">幸福合家欢-江苏卫视2025年春节联欢晚会</title>
     </programme>
-    <programme start="20250129202800" stop="20250129212000" channel="jiangsu">
-        <title lang="zh">电视剧:蔷薇风暴(33)</title>
-    </programme>
-    <programme start="20250129212000" stop="20250129220500" channel="jiangsu">
+    <programme start="20250129213500" stop="20250129220500" channel="jiangsu">
         <title lang="zh">最强大脑</title>
     </programme>
     <programme start="20250129220500" stop="20250129235000" channel="jiangsu">
@@ -13128,25 +13101,13 @@
     <programme start="20250129185600" stop="20250129190000" channel="tianjin">
         <title lang="zh">天津天气预报</title>
     </programme>
-    <programme start="20250129190000" stop="20250129193500" channel="tianjin">
+    <programme start="20250129190000" stop="20250129193000" channel="tianjin">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250129193500" stop="20250129203000" channel="tianjin">
-        <title lang="zh">电视剧</title>
+    <programme start="20250129193000" stop="20250129224000" channel="tianjin">
+        <title lang="zh">京津冀过大年-2025天津卫视相声春晚</title>
     </programme>
-    <programme start="20250129203000" stop="20250129212000" channel="tianjin">
-        <title lang="zh">电视剧</title>
-    </programme>
-    <programme start="20250129212000" stop="20250129220000" channel="tianjin">
-        <title lang="zh">群英会</title>
-    </programme>
-    <programme start="20250129220000" stop="20250129222500" channel="tianjin">
-        <title lang="zh">爱情保卫战</title>
-    </programme>
-    <programme start="20250129222500" stop="20250129223000" channel="tianjin">
-        <title lang="zh">天气预报</title>
-    </programme>
-    <programme start="20250129223000" stop="20250129233500" channel="tianjin">
+    <programme start="20250129224000" stop="20250129233500" channel="tianjin">
         <title lang="zh">你看谁来了</title>
     </programme>
     <programme start="20250129233500" stop="20250129235900" channel="tianjin">
