@@ -244,16 +244,19 @@
         <title lang="zh">玫瑰的故事第12集</title>
     </programme>
     <programme start="20250205165000" stop="20250205165400" channel="cctv1">
-        <title lang="zh">非遗里的中国（第二季）-戏满高台</title>
+        <title lang="zh">非遗里的中国（第二季）-绣梦苗乡</title>
     </programme>
-    <programme start="20250205165400" stop="20250205170100" channel="cctv1">
+    <programme start="20250205165400" stop="20250205165800" channel="cctv1">
         <title lang="zh">非遗里的中国（第二季）-玉影流光</title>
     </programme>
-    <programme start="20250205170100" stop="20250205170800" channel="cctv1">
-        <title lang="zh">大唐诗人传-孟浩然MV</title>
+    <programme start="20250205165800" stop="20250205171100" channel="cctv1">
+        <title lang="zh">非遗里的中国（第二季）-精编6</title>
     </programme>
-    <programme start="20250205170800" stop="20250205184900" channel="cctv1">
-        <title lang="zh">宗师列传·大唐诗人传-2</title>
+    <programme start="20250205171100" stop="20250205171800" channel="cctv1">
+        <title lang="zh">大唐诗人传-李白MV</title>
+    </programme>
+    <programme start="20250205171800" stop="20250205184900" channel="cctv1">
+        <title lang="zh">宗师列传·大唐诗人传-5</title>
     </programme>
     <programme start="20250205184900" stop="20250205190000" channel="cctv1">
         <title lang="zh">秘境之眼-2025-36</title>
@@ -342,14 +345,11 @@
     <programme start="20250206155500" stop="20250206164800" channel="cctv1">
         <title lang="zh">玫瑰的故事第15集</title>
     </programme>
-    <programme start="20250206164800" stop="20250206170100" channel="cctv1">
+    <programme start="20250206164800" stop="20250206170500" channel="cctv1">
         <title lang="zh">千秋诗颂-2025-1</title>
     </programme>
-    <programme start="20250206170100" stop="20250206170800" channel="cctv1">
-        <title lang="zh">大唐诗人传-王昌龄MV</title>
-    </programme>
-    <programme start="20250206170800" stop="20250206184900" channel="cctv1">
-        <title lang="zh">宗师列传·大唐诗人传-3</title>
+    <programme start="20250206170500" stop="20250206184900" channel="cctv1">
+        <title lang="zh">宗师列传·大唐诗人传-6</title>
     </programme>
     <programme start="20250206184900" stop="20250206190000" channel="cctv1">
         <title lang="zh">秘境之眼-2025-37</title>
@@ -448,7 +448,7 @@
         <title lang="zh">大唐诗人传-王维MV</title>
     </programme>
     <programme start="20250207170500" stop="20250207184900" channel="cctv1">
-        <title lang="zh">宗师列传·大唐诗人传-4</title>
+        <title lang="zh">专题节目-1</title>
     </programme>
     <programme start="20250207184900" stop="20250207190000" channel="cctv1">
         <title lang="zh">秘境之眼-2025-38</title>
@@ -934,7 +934,7 @@
         <title lang="zh">我爱满堂彩-2025-4一笑一周</title>
     </programme>
     <programme start="20250206070900" stop="20250206073000" channel="cctv3">
-        <title lang="zh">文化十分-2025-27</title>
+        <title lang="zh">文化十分-2025-30</title>
     </programme>
     <programme start="20250206073000" stop="20250206073500" channel="cctv3">
         <title lang="zh">中国文艺报道-2025-21 艺瞬间 封神</title>
@@ -987,8 +987,11 @@
     <programme start="20250206205700" stop="20250206215600" channel="cctv3">
         <title lang="zh">我的艺术清单-2025-4</title>
     </programme>
-    <programme start="20250206215600" stop="20250206230100" channel="cctv3">
+    <programme start="20250206215600" stop="20250206230000" channel="cctv3">
         <title lang="zh">万事大吉—2025新春游园会-2</title>
+    </programme>
+    <programme start="20250206230000" stop="20250206230100" channel="cctv3">
+        <title lang="zh">星光大道-2025-8 这一站星光1</title>
     </programme>
     <programme start="20250206230100" stop="20250206234700" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-98 许你万家灯火 4/32</title>
@@ -1015,7 +1018,7 @@
         <title lang="zh">非常6+1-2025-5萌娃问天下5</title>
     </programme>
     <programme start="20250207064500" stop="20250207070600" channel="cctv3">
-        <title lang="zh">文化十分-2025-28</title>
+        <title lang="zh">文化十分-2025-31</title>
     </programme>
     <programme start="20250207070600" stop="20250207075800" channel="cctv3">
         <title lang="zh">我的艺术清单-2025-4</title>
@@ -1039,7 +1042,7 @@
         <title lang="zh">悦读一夏-古村·古俗</title>
     </programme>
     <programme start="20250207114600" stop="20250207121000" channel="cctv3">
-        <title lang="zh">文化十分-2025-29</title>
+        <title lang="zh">文化十分-2025-32</title>
     </programme>
     <programme start="20250207121000" stop="20250207133400" channel="cctv3">
         <title lang="zh">开门大吉-2024-34</title>
@@ -2656,13 +2659,13 @@
         <title lang="zh">本集提要-无所畏惧之永不放弃-第19集</title>
     </programme>
     <programme start="20250206193000" stop="20250206202500" channel="cctv8">
-        <title lang="zh">无所畏惧之永不放弃19/38</title>
+        <title lang="zh">无所畏惧之永不放弃第19集</title>
     </programme>
     <programme start="20250206202500" stop="20250206203000" channel="cctv8">
         <title lang="zh">本集提要-无所畏惧之永不放弃-第20集</title>
     </programme>
     <programme start="20250206203000" stop="20250206212300" channel="cctv8">
-        <title lang="zh">无所畏惧之永不放弃20/38</title>
+        <title lang="zh">无所畏惧之永不放弃第20集</title>
     </programme>
     <programme start="20250206212300" stop="20250206212800" channel="cctv8">
         <title lang="zh">本集提要- 《承欢记》第36集</title>
@@ -3520,7 +3523,7 @@
         <title lang="zh">CCTV空中剧院-2024-153地方戏版 好戏连连看 评剧《金沙江畔》选场(精编)</title>
     </programme>
     <programme start="20250207071600" stop="20250207083100" channel="cctv11">
-        <title lang="zh">梨园闯关我挂帅-2025-8</title>
+        <title lang="zh">宝贝亮相吧-2025-6</title>
     </programme>
     <programme start="20250207083100" stop="20250207090500" channel="cctv11">
         <title lang="zh">名家书场-2022-161《隋唐演义》第157集</title>
