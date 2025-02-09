@@ -360,13 +360,13 @@
     <programme start="20250210200100" stop="20250210200600" channel="cctv1">
         <title lang="zh">前情提要-六姊妹-第13集</title>
     </programme>
-    <programme start="20250210200600" stop="20250210205700" channel="cctv1">
+    <programme start="20250210200600" stop="20250210205800" channel="cctv1">
         <title lang="zh">六姊妹13/38</title>
     </programme>
-    <programme start="20250210205700" stop="20250210210200" channel="cctv1">
+    <programme start="20250210205800" stop="20250210210300" channel="cctv1">
         <title lang="zh">前情提要-六姊妹-第14集</title>
     </programme>
-    <programme start="20250210210200" stop="20250210220000" channel="cctv1">
+    <programme start="20250210210300" stop="20250210220000" channel="cctv1">
         <title lang="zh">六姊妹14/38</title>
     </programme>
     <programme start="20250210220000" stop="20250210223400" channel="cctv1">
@@ -453,10 +453,10 @@
     <programme start="20250211193900" stop="20250211200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250211200600" stop="20250211214400" channel="cctv1">
+    <programme start="20250211200600" stop="20250211214600" channel="cctv1">
         <title lang="zh">宗师列传·大唐诗人传-10</title>
     </programme>
-    <programme start="20250211214400" stop="20250211220000" channel="cctv1">
+    <programme start="20250211214600" stop="20250211220000" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
     </programme>
     <programme start="20250211220000" stop="20250211223400" channel="cctv1">
@@ -1473,13 +1473,13 @@
     <programme start="20250209090000" stop="20250209100000" channel="cctv5">
         <title lang="zh">哈尔滨2025年亚冬会-赛事回顾2-1</title>
     </programme>
-    <programme start="20250209100000" stop="20250209131500" channel="cctv5">
+    <programme start="20250209100000" stop="20250209133500" channel="cctv5">
         <title lang="zh">哈尔滨2025年亚冬会自由式滑雪空中技巧女子/男子决赛等</title>
     </programme>
-    <programme start="20250209131500" stop="20250209135500" channel="cctv5">
+    <programme start="20250209133500" stop="20250209141000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20250209135500" stop="20250209142900" channel="cctv5">
+    <programme start="20250209141000" stop="20250209142900" channel="cctv5">
         <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道2-2</title>
     </programme>
     <programme start="20250209142900" stop="20250209150900" channel="cctv5">
@@ -1527,23 +1527,38 @@
     <programme start="20250210070000" stop="20250210090000" channel="cctv5">
         <title lang="zh">体坛晨报</title>
     </programme>
-    <programme start="20250210090000" stop="20250210110000" channel="cctv5">
-        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾3-1</title>
+    <programme start="20250210090000" stop="20250210100000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-哈尔滨2025年亚冬会 自由式滑雪U型场地决赛（4K）</title>
     </programme>
-    <programme start="20250210110000" stop="20250210123000" channel="cctv5">
-        <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道3-1</title>
+    <programme start="20250210100000" stop="20250210105500" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-哈尔滨2025年亚冬会 单板滑雪坡面障碍技巧决赛（4K）</title>
+    </programme>
+    <programme start="20250210105500" stop="20250210112000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会自由式滑雪空中技巧 混合团体决赛</title>
+    </programme>
+    <programme start="20250210112000" stop="20250210123000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾3-1</title>
     </programme>
     <programme start="20250210123000" stop="20250210133000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20250210133000" stop="20250210180000" channel="cctv5">
-        <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道3-2</title>
+    <programme start="20250210133000" stop="20250210141400" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾3-2</title>
+    </programme>
+    <programme start="20250210141400" stop="20250210142500" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会速度滑冰男子短距离团体追逐赛</title>
+    </programme>
+    <programme start="20250210142500" stop="20250210180000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾3-3</title>
     </programme>
     <programme start="20250210180000" stop="20250210190000" channel="cctv5">
         <title lang="zh">体育新闻  全景亚冬会</title>
     </programme>
-    <programme start="20250210190000" stop="20250210220000" channel="cctv5">
-        <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道3-3</title>
+    <programme start="20250210190000" stop="20250210200000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾3-4</title>
+    </programme>
+    <programme start="20250210200000" stop="20250210220000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会男子冰球A组 日本VS中国</title>
     </programme>
     <programme start="20250210220000" stop="20250210230500" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -1692,8 +1707,14 @@
     <programme start="20250210180000" stop="20250210200000" channel="cctv5plus">
         <title lang="zh">2024/2025赛季斯诺克威尔士公开赛-第一轮1</title>
     </programme>
-    <programme start="20250210200000" stop="20250210223500" channel="cctv5plus">
-        <title lang="zh">哈尔滨2025年亚冬会-男子冰球A组（中国队-日本队）</title>
+    <programme start="20250210200000" stop="20250210210500" channel="cctv5plus">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事精选2（录播）</title>
+    </programme>
+    <programme start="20250210210500" stop="20250210213500" channel="cctv5plus">
+        <title lang="zh">赛事集锦（奥林匹克）-2024/2025赛季雪车世界杯 德国温特贝格站 混合团体钢架雪车决赛（4K）</title>
+    </programme>
+    <programme start="20250210213500" stop="20250210223500" channel="cctv5plus">
+        <title lang="zh">实况录像-2024/2025赛季自由式滑雪世界杯 加拿大玻波特湖站 空中技巧第二场</title>
     </programme>
     <programme start="20250210223500" stop="20250210230500" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季雪车世界杯 挪威利勒哈默尔站 男子钢架雪车</title>
@@ -4065,8 +4086,11 @@
     <programme start="20250210075500" stop="20250210085500" channel="cctv16">
         <title lang="zh">2024/2025赛季自由式滑雪世界杯-奥地利克拉根福站 大跳台决赛</title>
     </programme>
-    <programme start="20250210085500" stop="20250210134000" channel="cctv16">
-        <title lang="zh">哈尔滨2025年亚冬会-赛事报道 4</title>
+    <programme start="20250210085500" stop="20250210125500" channel="cctv16">
+        <title lang="zh">哈尔滨2025年亚冬会冰壶女子单循环赛 卡塔尔VS中国</title>
+    </programme>
+    <programme start="20250210125500" stop="20250210134000" channel="cctv16">
+        <title lang="zh">哈尔滨2025年亚冬会速度滑冰女子3000米、男子短距离团体追逐赛等</title>
     </programme>
     <programme start="20250210134000" stop="20250210141000" channel="cctv16">
         <title lang="zh">奥林匹克典藏-东京奥运会射击女子10米气步枪决赛</title>
@@ -4689,56 +4713,32 @@
     <programme start="20250210064100" stop="20250210072300" channel="cctv4k">
         <title lang="zh">远方的家2024-79(4K)</title>
     </programme>
-    <programme start="20250210072300" stop="20250210072300" channel="cctv4k">
-        <title lang="zh">4K标识演绎-2019-2</title>
-    </programme>
-    <programme start="20250210072300" stop="20250210075300" channel="cctv4k">
+    <programme start="20250210072300" stop="20250210075400" channel="cctv4k">
         <title lang="zh">国家记忆-2024-35（4K）</title>
     </programme>
-    <programme start="20250210075300" stop="20250210084300" channel="cctv4k">
+    <programme start="20250210075400" stop="20250210084300" channel="cctv4k">
         <title lang="zh">跟着唐诗去旅行（第二季）-6（4K）</title>
     </programme>
-    <programme start="20250210084300" stop="20250210085300" channel="cctv4k">
-        <title lang="zh">2024秘境之眼-峭壁精灵黑叶猴(4K)</title>
-    </programme>
-    <programme start="20250210085300" stop="20250210085800" channel="cctv4k">
+    <programme start="20250210084300" stop="20250210084800" channel="cctv4k">
         <title lang="zh">听起来很好吃-2（4K）</title>
     </programme>
-    <programme start="20250210085800" stop="20250210085800" channel="cctv4k">
-        <title lang="zh">4K宣传片-简牍探中华1</title>
+    <programme start="20250210084800" stop="20250210084900" channel="cctv4k">
+        <title lang="zh">4K宣传片-成语探华夏</title>
     </programme>
-    <programme start="20250210085800" stop="20250210085900" channel="cctv4k">
+    <programme start="20250210084900" stop="20250210084900" channel="cctv4k">
         <title lang="zh">4K宣传片-澳门双行线</title>
     </programme>
-    <programme start="20250210085900" stop="20250210094600" channel="cctv4k">
-        <title lang="zh">日光之城-（4K）-16/21</title>
-    </programme>
-    <programme start="20250210094600" stop="20250210103200" channel="cctv4k">
-        <title lang="zh">日光之城-（4K）-17/21</title>
-    </programme>
-    <programme start="20250210103200" stop="20250210103200" channel="cctv4k">
+    <programme start="20250210084900" stop="20250210085000" channel="cctv4k">
         <title lang="zh">4K标识演绎-2019-1</title>
     </programme>
-    <programme start="20250210103200" stop="20250210112100" channel="cctv4k">
-        <title lang="zh">世界遗产漫步·大运河-2（4K）</title>
+    <programme start="20250210085000" stop="20250210120000" channel="cctv4k">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事报道 4</title>
     </programme>
-    <programme start="20250210112100" stop="20250210114600" channel="cctv4k">
-        <title lang="zh">遇见最极致的中国-4（4K）</title>
-    </programme>
-    <programme start="20250210114600" stop="20250210115500" channel="cctv4k">
-        <title lang="zh">千秋诗颂-小儿垂钓（4K）</title>
-    </programme>
-    <programme start="20250210115500" stop="20250210115900" channel="cctv4k">
-        <title lang="zh">听起来很好吃-3（4K）</title>
-    </programme>
-    <programme start="20250210115900" stop="20250210120000" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+    <programme start="20250210120000" stop="20250210120000" channel="cctv4k">
+        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
     </programme>
     <programme start="20250210120000" stop="20250210122700" channel="cctv4k">
         <title lang="zh">军武零距离-2025-6精编(4K)</title>
-    </programme>
-    <programme start="20250210122700" stop="20250210122700" channel="cctv4k">
-        <title lang="zh">4K频道宣传片-标识演绎3</title>
     </programme>
     <programme start="20250210122700" stop="20250210125700" channel="cctv4k">
         <title lang="zh">国家记忆-2024-35（4K）</title>
@@ -4753,10 +4753,10 @@
         <title lang="zh">听起来很好吃-2（4K）</title>
     </programme>
     <programme start="20250210140200" stop="20250210144800" channel="cctv4k">
-        <title lang="zh">小满生活-（4K）-36/38</title>
+        <title lang="zh">小满生活-（4K）-32/38</title>
     </programme>
     <programme start="20250210144800" stop="20250210153400" channel="cctv4k">
-        <title lang="zh">小满生活-（4K）-37/38</title>
+        <title lang="zh">小满生活-（4K）-33/38</title>
     </programme>
     <programme start="20250210153400" stop="20250210153500" channel="cctv4k">
         <title lang="zh">4K宣传片-美美与共</title>
