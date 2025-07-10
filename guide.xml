@@ -408,38 +408,29 @@
     <programme start="20250711220000" stop="20250711223500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20250711223500" stop="20250711230900" channel="cctv1">
+    <programme start="20250711223500" stop="20250711224800" channel="cctv1">
+        <title lang="zh">守望：红色保密往事-1隐秘而伟大</title>
+    </programme>
+    <programme start="20250711224800" stop="20250711230000" channel="cctv1">
+        <title lang="zh">守望：红色保密往事-2决定命运的秘密会议</title>
+    </programme>
+    <programme start="20250711230000" stop="20250711233300" channel="cctv1">
         <title lang="zh">寻古中国（第二季）-水下考古5</title>
     </programme>
-    <programme start="20250711230900" stop="20250711235900" channel="cctv1">
+    <programme start="20250711233300" stop="20250711235900" channel="cctv1">
         <title lang="zh">山水间的家（第三季）-8</title>
     </programme>
-    <programme start="20250712004700" stop="20250712011700" channel="cctv1">
+    <programme start="20250712011100" stop="20250712014100" channel="cctv1">
         <title lang="zh">今日说法-2025-133</title>
     </programme>
-    <programme start="20250712011700" stop="20250712014900" channel="cctv1">
+    <programme start="20250712014100" stop="20250712021100" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20250712014900" stop="20250712021900" channel="cctv1">
+    <programme start="20250712021100" stop="20250712024200" channel="cctv1">
         <title lang="zh">寻古中国（第二季）-水下考古5</title>
     </programme>
-    <programme start="20250712021900" stop="20250712022400" channel="cctv1">
-        <title lang="zh">精彩一刻-2024-164国宝四宋代海船</title>
-    </programme>
-    <programme start="20250712022400" stop="20250712022900" channel="cctv1">
-        <title lang="zh">精彩一刻-2024-167国宝四金丝翼善冠</title>
-    </programme>
-    <programme start="20250712022900" stop="20250712023400" channel="cctv1">
-        <title lang="zh">精彩一刻-2024-168国宝四黄花梨画案</title>
-    </programme>
-    <programme start="20250712023400" stop="20250712023700" channel="cctv1">
+    <programme start="20250712024200" stop="20250712024800" channel="cctv1">
         <title lang="zh">非遗里的中国（第二季）-竹生锦绣</title>
-    </programme>
-    <programme start="20250712023700" stop="20250712024100" channel="cctv1">
-        <title lang="zh">非遗里的中国（第二季）-竹风丝韵</title>
-    </programme>
-    <programme start="20250712024100" stop="20250712024800" channel="cctv1">
-        <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20250712024800" stop="20250712042000" channel="cctv1">
         <title lang="zh">山水间的家（第三季）-8</title>
@@ -519,10 +510,16 @@
     <programme start="20250712220000" stop="20250712223500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20250712223500" stop="20250712232400" channel="cctv1">
+    <programme start="20250712223500" stop="20250712224400" channel="cctv1">
+        <title lang="zh">守望：红色保密往事-3特科传奇</title>
+    </programme>
+    <programme start="20250712224400" stop="20250712225500" channel="cctv1">
+        <title lang="zh">守望：红色保密往事-4平凡而光荣</title>
+    </programme>
+    <programme start="20250712225500" stop="20250712234300" channel="cctv1">
         <title lang="zh">开讲啦-2025-23</title>
     </programme>
-    <programme start="20250712232400" stop="20250712235900" channel="cctv1">
+    <programme start="20250712234300" stop="20250712235900" channel="cctv1">
         <title lang="zh">星光大道-2025-29（这一站星光22）</title>
     </programme>
     <programme start="20250710000800" stop="20250710010600" channel="cctv2">
@@ -996,16 +993,16 @@
     <programme start="20250712032700" stop="20250712043400" channel="cctv3">
         <title lang="zh">声声入戏——中央广播电视总台首届京剧票友大会-19</title>
     </programme>
-    <programme start="20250712043400" stop="20250712045100" channel="cctv3">
-        <title lang="zh">向幸福出发-反正都是爱辩论赛-1</title>
+    <programme start="20250712043400" stop="20250712045000" channel="cctv3">
+        <title lang="zh">异曲同“功”-1</title>
     </programme>
-    <programme start="20250712045100" stop="20250712060800" channel="cctv3">
+    <programme start="20250712045000" stop="20250712060700" channel="cctv3">
         <title lang="zh">越战越勇-2025-24</title>
     </programme>
-    <programme start="20250712060800" stop="20250712062800" channel="cctv3">
+    <programme start="20250712060700" stop="20250712062700" channel="cctv3">
         <title lang="zh">文化十分-2025-144</title>
     </programme>
-    <programme start="20250712062800" stop="20250712073400" channel="cctv3">
+    <programme start="20250712062700" stop="20250712073400" channel="cctv3">
         <title lang="zh">向幸福出发-2025-18</title>
     </programme>
     <programme start="20250712073400" stop="20250712083600" channel="cctv3">
@@ -1483,7 +1480,7 @@
         <title lang="zh">体坛快讯</title>
     </programme>
     <programme start="20250710120800" stop="20250710130000" channel="cctv5">
-        <title lang="zh">2025年WTT美国大满贯-男子单打1/16决赛</title>
+        <title lang="zh">2025年WTT美国大满贯</title>
     </programme>
     <programme start="20250710130000" stop="20250710150000" channel="cctv5">
         <title lang="zh">第二十四届环大美青海国际公路自行车赛-祁连-刚察 赛段</title>
@@ -2404,13 +2401,13 @@
         <title lang="zh">本集提要-以法之名-第33集</title>
     </programme>
     <programme start="20250710193000" stop="20250710202400" channel="cctv8">
-        <title lang="zh">以法之名33/36</title>
+        <title lang="zh">以法之名第33集</title>
     </programme>
     <programme start="20250710202400" stop="20250710202900" channel="cctv8">
-        <title lang="zh">本集提要-以法之名-34/36</title>
+        <title lang="zh">本集提要-以法之名-第34集</title>
     </programme>
     <programme start="20250710202900" stop="20250710212000" channel="cctv8">
-        <title lang="zh">以法之名34/36</title>
+        <title lang="zh">以法之名第34集</title>
     </programme>
     <programme start="20250710212000" stop="20250710212400" channel="cctv8">
         <title lang="zh">本集提要-春晖-第18集</title>
@@ -2524,7 +2521,7 @@
         <title lang="zh">星推荐-2025年7月-11</title>
     </programme>
     <programme start="20250711192800" stop="20250711193000" channel="cctv8">
-        <title lang="zh">本集提要-以法之名-35/36</title>
+        <title lang="zh">本集提要-以法之名-第35集</title>
     </programme>
     <programme start="20250711193000" stop="20250711202400" channel="cctv8">
         <title lang="zh">以法之名35/36</title>
