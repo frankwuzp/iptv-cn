@@ -351,10 +351,10 @@
     <programme start="20251005193800" stop="20251005200400" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20251005200400" stop="20251005214600" channel="cctv1">
+    <programme start="20251005200400" stop="20251005214500" channel="cctv1">
         <title lang="zh">山水间的家（第四季）-5</title>
     </programme>
-    <programme start="20251005214600" stop="20251005220000" channel="cctv1">
+    <programme start="20251005214500" stop="20251005220000" channel="cctv1">
         <title lang="zh">非遗里的中国（第二季）-精编8</title>
     </programme>
     <programme start="20251005220000" stop="20251005223400" channel="cctv1">
@@ -847,7 +847,7 @@
         <title lang="zh">原声天籁——中国民歌盛典（山水篇）-1</title>
     </programme>
     <programme start="20251004203600" stop="20251004221400" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2025-1048 2025青春诗会</title>
+        <title lang="zh">综艺喜乐汇-2025-1148 青春诗会</title>
     </programme>
     <programme start="20251004221400" stop="20251004235900" channel="cctv3">
         <title lang="zh">跟着春晚游中国-1</title>
@@ -901,7 +901,7 @@
         <title lang="zh">原声天籁——中国民歌盛典（山水篇）-1</title>
     </programme>
     <programme start="20251005151700" stop="20251005165700" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2025-1048 2025青春诗会</title>
+        <title lang="zh">综艺喜乐汇-2025-1148 青春诗会</title>
     </programme>
     <programme start="20251005165700" stop="20251005175800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-1036</title>
@@ -987,11 +987,14 @@
     <programme start="20251006200000" stop="20251006220500" channel="cctv3">
         <title lang="zh">中央广播电视总台2025年中秋晚会-首播</title>
     </programme>
-    <programme start="20251006220500" stop="20251006232300" channel="cctv3">
+    <programme start="20251006220500" stop="20251006231300" channel="cctv3">
         <title lang="zh">沧海运河谣-4</title>
     </programme>
-    <programme start="20251006232300" stop="20251006235900" channel="cctv3">
+    <programme start="20251006231300" stop="20251006235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-1161 巡回检察组39/43</title>
+    </programme>
+    <programme start="20251006235900" stop="20251006235900" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2025-1162 巡回检察组40/43</title>
     </programme>
     <programme start="20251004002700" stop="20251004010900" channel="cctv4">
         <title lang="zh">远方的山楂树-(四套)-22/48</title>
@@ -4455,25 +4458,37 @@
     <programme start="20251004175900" stop="20251004180000" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
     </programme>
-    <programme start="20251004180000" stop="20251004220100" channel="cctv4k">
+    <programme start="20251004180000" stop="20251004200100" channel="cctv4k">
         <title lang="zh">2025年中国网球公开赛-女单、女双半决赛2</title>
     </programme>
-    <programme start="20251004220100" stop="20251004220400" channel="cctv4k">
+    <programme start="20251004200100" stop="20251004204700" channel="cctv4k">
+        <title lang="zh">驻站-（4K）-14/33</title>
+    </programme>
+    <programme start="20251004204700" stop="20251004213300" channel="cctv4k">
+        <title lang="zh">驻站-（4K）-15/33</title>
+    </programme>
+    <programme start="20251004213300" stop="20251004215800" channel="cctv4k">
+        <title lang="zh">遇见最极致的中国-6（4K）</title>
+    </programme>
+    <programme start="20251004215800" stop="20251004220300" channel="cctv4k">
+        <title lang="zh">魅力纪录2018-19-如果国宝会说话18（4K）</title>
+    </programme>
+    <programme start="20251004220300" stop="20251004220600" channel="cctv4k">
         <title lang="zh">4K宣传片-大国之翼同风起</title>
     </programme>
-    <programme start="20251004220400" stop="20251004225500" channel="cctv4k">
+    <programme start="20251004220600" stop="20251004225700" channel="cctv4k">
         <title lang="zh">舌尖上的中国 第四季-4（4K）</title>
     </programme>
-    <programme start="20251004225500" stop="20251004234500" channel="cctv4k">
+    <programme start="20251004225700" stop="20251004234700" channel="cctv4k">
         <title lang="zh">航拍中国（第四季）-4(4K)</title>
     </programme>
-    <programme start="20251004234500" stop="20251004235000" channel="cctv4k">
+    <programme start="20251004234700" stop="20251004235100" channel="cctv4k">
         <title lang="zh">中国微名片·世界遗产（第二季）-5（4K）</title>
     </programme>
-    <programme start="20251004235000" stop="20251004235500" channel="cctv4k">
+    <programme start="20251004235100" stop="20251004235600" channel="cctv4k">
         <title lang="zh">香港之味-2（4K）</title>
     </programme>
-    <programme start="20251004235500" stop="20251004235900" channel="cctv4k">
+    <programme start="20251004235600" stop="20251004235900" channel="cctv4k">
         <title lang="zh">4K垫播节目-2021丝绸之旅</title>
     </programme>
     <programme start="20251004235900" stop="20251004235900" channel="cctv4k">
@@ -4524,44 +4539,26 @@
     <programme start="20251005085900" stop="20251005090000" channel="cctv4k">
         <title lang="zh">4K宣传片-大宋词人传</title>
     </programme>
-    <programme start="20251005090000" stop="20251005094000" channel="cctv4k">
+    <programme start="20251005090000" stop="20251005090000" channel="cctv4k">
+        <title lang="zh">4K节目预告</title>
+    </programme>
+    <programme start="20251005090000" stop="20251005094600" channel="cctv4k">
+        <title lang="zh">驻站-（4K）-14/33</title>
+    </programme>
+    <programme start="20251005094600" stop="20251005103200" channel="cctv4k">
+        <title lang="zh">驻站-（4K）-15/33</title>
+    </programme>
+    <programme start="20251005103200" stop="20251005103300" channel="cctv4k">
+        <title lang="zh">4K频道宣传片-标识演绎3</title>
+    </programme>
+    <programme start="20251005103300" stop="20251005111300" channel="cctv4k">
         <title lang="zh">探索·发现（4K）-2024-21</title>
     </programme>
-    <programme start="20251005094000" stop="20251005094300" channel="cctv4k">
-        <title lang="zh">4K宣传片-大国之翼同风起</title>
-    </programme>
-    <programme start="20251005094300" stop="20251005094400" channel="cctv4k">
-        <title lang="zh">4K宣传片-花开中国</title>
-    </programme>
-    <programme start="20251005094400" stop="20251005094400" channel="cctv4k">
-        <title lang="zh">4K宣传片-窗外是蓝星</title>
-    </programme>
-    <programme start="20251005094400" stop="20251005094500" channel="cctv4k">
-        <title lang="zh">4K宣传片-秋分2025</title>
-    </programme>
-    <programme start="20251005094500" stop="20251005103500" channel="cctv4k">
+    <programme start="20251005111300" stop="20251005120300" channel="cctv4k">
         <title lang="zh">航拍中国（第四季）-4(4K)</title>
     </programme>
-    <programme start="20251005103500" stop="20251005104500" channel="cctv4k">
-        <title lang="zh">2024秘境之眼-秘境高黎贡(4K)</title>
-    </programme>
-    <programme start="20251005104500" stop="20251005105500" channel="cctv4k">
-        <title lang="zh">2024秘境之眼-秘境飞羽(4K)</title>
-    </programme>
-    <programme start="20251005105500" stop="20251005110000" channel="cctv4k">
-        <title lang="zh">魅力纪录2018-43-如果国宝会说话Ⅱ3（4K）</title>
-    </programme>
-    <programme start="20251005110000" stop="20251005110400" channel="cctv4k">
-        <title lang="zh">中国微名片·世界遗产（第二季）-6（4K）</title>
-    </programme>
-    <programme start="20251005110400" stop="20251005111300" channel="cctv4k">
-        <title lang="zh">营造之法5-这不是西游记这是晋祠（4K）</title>
-    </programme>
-    <programme start="20251005111300" stop="20251005120300" channel="cctv4k">
-        <title lang="zh">舌尖上的中国 第四季-5（4K）</title>
-    </programme>
     <programme start="20251005120300" stop="20251005120300" channel="cctv4k">
-        <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+        <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
     </programme>
     <programme start="20251005120300" stop="20251005120300" channel="cctv4k">
         <title lang="zh">4K节目预告</title>
@@ -4612,7 +4609,7 @@
         <title lang="zh">4K宣传片-秋分2025</title>
     </programme>
     <programme start="20251005153800" stop="20251005153900" channel="cctv4k">
-        <title lang="zh">驻站-第14集预告（4K）</title>
+        <title lang="zh">驻站-第16集预告（4K）</title>
     </programme>
     <programme start="20251005153900" stop="20251005153900" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎3</title>
@@ -4627,7 +4624,7 @@
         <title lang="zh">航拍中国（第四季）-4(4K)</title>
     </programme>
     <programme start="20251005175900" stop="20251005175900" channel="cctv4k">
-        <title lang="zh">驻站-第15集预告（4K）</title>
+        <title lang="zh">驻站-第17集预告（4K）</title>
     </programme>
     <programme start="20251005175900" stop="20251005182600" channel="cctv4k">
         <title lang="zh">军武零距离-2025-40精编(4K)</title>
@@ -4669,10 +4666,10 @@
         <title lang="zh">4K节目预告</title>
     </programme>
     <programme start="20251005210300" stop="20251005215000" channel="cctv4k">
-        <title lang="zh">驻站-（4K）-14/33</title>
+        <title lang="zh">驻站-（4K）-16/33</title>
     </programme>
     <programme start="20251005215000" stop="20251005223600" channel="cctv4k">
-        <title lang="zh">驻站-（4K）-15/33</title>
+        <title lang="zh">驻站-（4K）-17/33</title>
     </programme>
     <programme start="20251005223600" stop="20251005223600" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
