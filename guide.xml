@@ -276,29 +276,38 @@
     <programme start="20251012214600" stop="20251012220000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme start="20251012220000" stop="20251012223400" channel="cctv1">
+    <programme start="20251012220000" stop="20251012223200" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20251012223400" stop="20251012235900" channel="cctv1">
+    <programme start="20251012223200" stop="20251012234200" channel="cctv1">
         <title lang="zh">中国乡村音乐大会-山水绿境篇</title>
     </programme>
-    <programme start="20251013000900" stop="20251013010000" channel="cctv1">
+    <programme start="20251012234200" stop="20251012235900" channel="cctv1">
         <title lang="zh">开讲啦-2025-32</title>
     </programme>
-    <programme start="20251013010000" stop="20251013013200" channel="cctv1">
-        <title lang="zh">晚间新闻</title>
-    </programme>
-    <programme start="20251013013200" stop="20251013020400" channel="cctv1">
-        <title lang="zh">2024农耕探文明-6</title>
-    </programme>
-    <programme start="20251013020400" stop="20251013023400" channel="cctv1">
+    <programme start="20251013003300" stop="20251013010500" channel="cctv1">
         <title lang="zh">绿水青山中国答卷-11</title>
     </programme>
-    <programme start="20251013023400" stop="20251013024600" channel="cctv1">
+    <programme start="20251013010500" stop="20251013010900" channel="cctv1">
+        <title lang="zh">山水间的家-主题曲</title>
+    </programme>
+    <programme start="20251013010900" stop="20251013014000" channel="cctv1">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme start="20251013014000" stop="20251013021200" channel="cctv1">
+        <title lang="zh">2024农耕探文明-6</title>
+    </programme>
+    <programme start="20251013021200" stop="20251013022200" channel="cctv1">
+        <title lang="zh">非遗里的中国（第二季）-精编6</title>
+    </programme>
+    <programme start="20251013022200" stop="20251013023400" channel="cctv1">
+        <title lang="zh">非遗里的中国（第二季）-精编1</title>
+    </programme>
+    <programme start="20251013023400" stop="20251013024700" channel="cctv1">
         <title lang="zh">2024秘境之眼-龙鳞遗族(4K)</title>
     </programme>
-    <programme start="20251013024600" stop="20251013042000" channel="cctv1">
-        <title lang="zh">城市风华录（第二季）-1</title>
+    <programme start="20251013024700" stop="20251013042000" channel="cctv1">
+        <title lang="zh">非遗里的中国（第四季）-5</title>
     </programme>
     <programme start="20251013042000" stop="20251013045300" channel="cctv1">
         <title lang="zh">自然中国-2025-1向海而行-资源宝库</title>
@@ -372,10 +381,10 @@
     <programme start="20251013200100" stop="20251013200600" channel="cctv1">
         <title lang="zh">前情提要-阵地-第22集</title>
     </programme>
-    <programme start="20251013200600" stop="20251013205500" channel="cctv1">
+    <programme start="20251013200600" stop="20251013205400" channel="cctv1">
         <title lang="zh">阵地第22集</title>
     </programme>
-    <programme start="20251013205500" stop="20251013205800" channel="cctv1">
+    <programme start="20251013205400" stop="20251013205800" channel="cctv1">
         <title lang="zh">前情提要-阵地-第23集</title>
     </programme>
     <programme start="20251013205800" stop="20251013220000" channel="cctv1">
@@ -1002,16 +1011,16 @@
     <programme start="20251014044800" stop="20251014061700" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-1138 短视频大会 1</title>
     </programme>
-    <programme start="20251014061700" stop="20251014063700" channel="cctv3">
-        <title lang="zh">国宝音乐会-故宫篇-重播版5</title>
+    <programme start="20251014061700" stop="20251014064000" channel="cctv3">
+        <title lang="zh">国宝音乐会-故宫篇-重播版1</title>
     </programme>
-    <programme start="20251014063700" stop="20251014065700" channel="cctv3">
+    <programme start="20251014064000" stop="20251014070000" channel="cctv3">
         <title lang="zh">文化十分-2025-210</title>
     </programme>
-    <programme start="20251014065700" stop="20251014081700" channel="cctv3">
-        <title lang="zh">向幸福出发-2025-11</title>
+    <programme start="20251014070000" stop="20251014081300" channel="cctv3">
+        <title lang="zh">沧海运河谣-1</title>
     </programme>
-    <programme start="20251014081700" stop="20251014092500" channel="cctv3">
+    <programme start="20251014081300" stop="20251014092500" channel="cctv3">
         <title lang="zh">精彩音乐汇-我的爱对你说-2025-383</title>
     </programme>
     <programme start="20251014092500" stop="20251014100400" channel="cctv3">
@@ -2983,7 +2992,7 @@
         <title lang="zh">探索·发现-2025-285</title>
     </programme>
     <programme start="20251012212000" stop="20251012220700" channel="cctv10">
-        <title lang="zh">读书-2025-377</title>
+        <title lang="zh">读书-2025-375</title>
     </programme>
     <programme start="20251012220700" stop="20251012230500" channel="cctv10">
         <title lang="zh">2025大千世界-123</title>
@@ -4318,7 +4327,7 @@
         <title lang="zh">三农群英汇-2025-280</title>
     </programme>
     <programme start="20251013085900" stop="20251013092800" channel="cctv17">
-        <title lang="zh">田园帮帮团-2024-190</title>
+        <title lang="zh">田园帮帮团-2025-190</title>
     </programme>
     <programme start="20251013092800" stop="20251013101600" channel="cctv17">
         <title lang="zh">乡村剧场（栏目剧）-福鼎一家人（精编）-12/19</title>
@@ -4339,7 +4348,7 @@
         <title lang="zh">17故事会2025-神奇动物在哪里2</title>
     </programme>
     <programme start="20251013130400" stop="20251013133400" channel="cctv17">
-        <title lang="zh">田园帮帮团-2024-191</title>
+        <title lang="zh">田园帮帮团-2025-191</title>
     </programme>
     <programme start="20251013133400" stop="20251013142700" channel="cctv17">
         <title lang="zh">亲爱的孩子们第30集</title>
@@ -4399,7 +4408,7 @@
         <title lang="zh">村里来了钢铁侠-3</title>
     </programme>
     <programme start="20251014060200" stop="20251014062700" channel="cctv17">
-        <title lang="zh">田园帮帮团-2024-191</title>
+        <title lang="zh">田园帮帮团-2025-191</title>
     </programme>
     <programme start="20251014062700" stop="20251014063300" channel="cctv17">
         <title lang="zh">村里来了钢铁侠-4</title>
@@ -4423,7 +4432,7 @@
         <title lang="zh">三农群英汇-2025-281</title>
     </programme>
     <programme start="20251014085900" stop="20251014092900" channel="cctv17">
-        <title lang="zh">田园帮帮团-2024-191</title>
+        <title lang="zh">田园帮帮团-2025-191</title>
     </programme>
     <programme start="20251014092900" stop="20251014101600" channel="cctv17">
         <title lang="zh">乡村剧场（栏目剧）-福鼎一家人（精编）-13/19</title>
@@ -4444,7 +4453,7 @@
         <title lang="zh">17故事会2025-神奇动物在哪里3</title>
     </programme>
     <programme start="20251014130400" stop="20251014133400" channel="cctv17">
-        <title lang="zh">田园帮帮团-2024-192</title>
+        <title lang="zh">田园帮帮团-2025-192</title>
     </programme>
     <programme start="20251014133400" stop="20251014142700" channel="cctv17">
         <title lang="zh">亲爱的孩子们34/40</title>
