@@ -1017,14 +1017,20 @@
     <programme start="20260103133300" stop="20260103134600" channel="cctv3">
         <title lang="zh">国家宝藏-周游季-103</title>
     </programme>
-    <programme start="20260103134600" stop="20260103152300" channel="cctv3">
+    <programme start="20260103134600" stop="20260103151800" channel="cctv3">
         <title lang="zh">扬帆远航大湾区——2026新年音乐会-1</title>
     </programme>
-    <programme start="20260103152300" stop="20260103165200" channel="cctv3">
+    <programme start="20260103151800" stop="20260103152300" channel="cctv3">
+        <title lang="zh">中国文艺报道-2025-72-追光者MV</title>
+    </programme>
+    <programme start="20260103152300" stop="20260103165100" channel="cctv3">
         <title lang="zh">星光大道-2025-54（这一站星光47）</title>
     </programme>
-    <programme start="20260103165200" stop="20260103175400" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2025-1064</title>
+    <programme start="20260103165100" stop="20260103175000" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2025-1123</title>
+    </programme>
+    <programme start="20260103175000" stop="20260103175400" channel="cctv3">
+        <title lang="zh">精彩艺瞬间-3</title>
     </programme>
     <programme start="20260103175400" stop="20260103192100" channel="cctv3">
         <title lang="zh">越战越勇-2025-44</title>
@@ -1035,16 +1041,13 @@
     <programme start="20260103193000" stop="20260103211100" channel="cctv3">
         <title lang="zh">味你而来-9</title>
     </programme>
-    <programme start="20260103211100" stop="20260103230200" channel="cctv3">
+    <programme start="20260103211100" stop="20260103230400" channel="cctv3">
         <title lang="zh">笑有新生-4</title>
     </programme>
-    <programme start="20260103230200" stop="20260103234800" channel="cctv3">
+    <programme start="20260103230400" stop="20260103235100" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-210 小满生活11/38</title>
     </programme>
-    <programme start="20260103234800" stop="20260103234900" channel="cctv3">
-        <title lang="zh">笑有新生-4</title>
-    </programme>
-    <programme start="20260103234900" stop="20260103235900" channel="cctv3">
+    <programme start="20260103235100" stop="20260103235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-211 小满生活12/38</title>
     </programme>
     <programme start="20260101004500" stop="20260101013200" channel="cctv4">
@@ -3882,10 +3885,10 @@
     <programme start="20260102000200" stop="20260102004000" channel="cctv15">
         <title lang="zh">风华国乐-2026-2</title>
     </programme>
-    <programme start="20260102004000" stop="20260102013500" channel="cctv15">
+    <programme start="20260102004000" stop="20260102014300" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2026-1-名家名曲（1）</title>
     </programme>
-    <programme start="20260102013500" stop="20260102060000" channel="cctv15">
+    <programme start="20260102014300" stop="20260102060000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20260102060000" stop="20260102070100" channel="cctv15">
