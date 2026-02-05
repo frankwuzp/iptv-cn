@@ -990,10 +990,10 @@
     <programme start="20260206192200" stop="20260206193000" channel="cctv3">
         <title lang="zh">国家宝藏-周游季-138</title>
     </programme>
-    <programme start="20260206193000" stop="20260206205300" channel="cctv3">
+    <programme start="20260206193000" stop="20260206205200" channel="cctv3">
         <title lang="zh">2026年开门迎春晚-9</title>
     </programme>
-    <programme start="20260206205300" stop="20260206223700" channel="cctv3">
+    <programme start="20260206205200" stop="20260206223700" channel="cctv3">
         <title lang="zh">笑有新生-9</title>
     </programme>
     <programme start="20260206223700" stop="20260206232500" channel="cctv3">
@@ -1245,20 +1245,26 @@
     <programme start="20260206080000" stop="20260206090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20260206090000" stop="20260206092800" channel="cctv4">
+    <programme start="20260206090000" stop="20260206092700" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20260206092800" stop="20260206100000" channel="cctv4">
-        <title lang="zh">中国文艺-2026-26</title>
+    <programme start="20260206092700" stop="20260206095400" channel="cctv4">
+        <title lang="zh">国家记忆-2025-82</title>
     </programme>
-    <programme start="20260206100000" stop="20260206101000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20260206095400" stop="20260206102100" channel="cctv4">
+        <title lang="zh">国家记忆-2025-83</title>
     </programme>
-    <programme start="20260206101000" stop="20260206105500" channel="cctv4">
-        <title lang="zh">远方的家2026-31</title>
+    <programme start="20260206102100" stop="20260206104800" channel="cctv4">
+        <title lang="zh">国家记忆-2025-84</title>
     </programme>
-    <programme start="20260206105500" stop="20260206113000" channel="cctv4">
-        <title lang="zh">记住乡愁2026-23</title>
+    <programme start="20260206104800" stop="20260206111800" channel="cctv4">
+        <title lang="zh">国家记忆-2025-85</title>
+    </programme>
+    <programme start="20260206111800" stop="20260206112200" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-15</title>
+    </programme>
+    <programme start="20260206112200" stop="20260206113000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-36</title>
     </programme>
     <programme start="20260206113000" stop="20260206120000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-36</title>
@@ -1647,13 +1653,13 @@
     <programme start="20260205200500" stop="20260205203300" channel="cctv5plus">
         <title lang="zh">2025/2026英格兰足球超级联赛-第24轮集锦</title>
     </programme>
-    <programme start="20260205203300" stop="20260205213000" channel="cctv5plus">
+    <programme start="20260205203300" stop="20260205213500" channel="cctv5plus">
         <title lang="zh">实况录像-2026年四大洲花样滑冰锦标赛 双人自由滑</title>
     </programme>
-    <programme start="20260205213000" stop="20260205232000" channel="cctv5plus">
+    <programme start="20260205213500" stop="20260205231500" channel="cctv5plus">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会-冰壶混双（挪威队—加拿大队）</title>
     </programme>
-    <programme start="20260205232000" stop="20260205235900" channel="cctv5plus">
+    <programme start="20260205231500" stop="20260205235900" channel="cctv5plus">
         <title lang="zh">实况录像-2025/2026赛季斯诺克大师赛 2</title>
     </programme>
     <programme start="20260206005000" stop="20260206010600" channel="cctv5plus">
@@ -1875,37 +1881,43 @@
     <programme start="20260207002000" stop="20260207015200" channel="cctv6">
         <title lang="zh">黄金迷局</title>
     </programme>
-    <programme start="20260207015200" stop="20260207034200" channel="cctv6">
-        <title lang="zh">断·桥</title>
+    <programme start="20260207015200" stop="20260207032700" channel="cctv6">
+        <title lang="zh">求求你表扬我</title>
     </programme>
-    <programme start="20260207034200" stop="20260207064800" channel="cctv6">
+    <programme start="20260207032700" stop="20260207045900" channel="cctv6">
         <title lang="zh">冰雪11天</title>
     </programme>
-    <programme start="20260207064800" stop="20260207083400" channel="cctv6">
+    <programme start="20260207045900" stop="20260207062800" channel="cctv6">
+        <title lang="zh">黑莲疑案</title>
+    </programme>
+    <programme start="20260207062800" stop="20260207064300" channel="cctv6">
+        <title lang="zh">七人乐队：迷路</title>
+    </programme>
+    <programme start="20260207064300" stop="20260207082800" channel="cctv6">
         <title lang="zh">武林怪兽</title>
     </programme>
-    <programme start="20260207083400" stop="20260207103900" channel="cctv6">
+    <programme start="20260207082800" stop="20260207103300" channel="cctv6">
         <title lang="zh">疯狂的外星人</title>
     </programme>
-    <programme start="20260207103900" stop="20260207121000" channel="cctv6">
+    <programme start="20260207103300" stop="20260207120800" channel="cctv6">
         <title lang="zh">呆呆精灵与女巫城堡</title>
     </programme>
-    <programme start="20260207121000" stop="20260207121700" channel="cctv6">
+    <programme start="20260207120800" stop="20260207121400" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20260207121700" stop="20260207140000" channel="cctv6">
+    <programme start="20260207121400" stop="20260207140000" channel="cctv6">
         <title lang="zh">功夫小子闯情关</title>
     </programme>
-    <programme start="20260207140000" stop="20260207142300" channel="cctv6">
+    <programme start="20260207140000" stop="20260207142100" channel="cctv6">
         <title lang="zh">《1905影视频》2026-006</title>
     </programme>
-    <programme start="20260207142300" stop="20260207160600" channel="cctv6">
+    <programme start="20260207142100" stop="20260207160500" channel="cctv6">
         <title lang="zh">老捕快</title>
     </programme>
-    <programme start="20260207160600" stop="20260207175500" channel="cctv6">
+    <programme start="20260207160500" stop="20260207175700" channel="cctv6">
         <title lang="zh">冷雨剑潇潇</title>
     </programme>
-    <programme start="20260207175500" stop="20260207194100" channel="cctv6">
+    <programme start="20260207175700" stop="20260207194100" channel="cctv6">
         <title lang="zh">战狼</title>
     </programme>
     <programme start="20260207194100" stop="20260207220000" channel="cctv6">
@@ -1914,14 +1926,20 @@
     <programme start="20260207220000" stop="20260207221800" channel="cctv6">
         <title lang="zh">中国电影报道2026-038</title>
     </programme>
-    <programme start="20260207221800" stop="20260207222300" channel="cctv6">
+    <programme start="20260207221800" stop="20260207222200" channel="cctv6">
         <title lang="zh">中国福利彩票阳光开奖2026-02-07</title>
     </programme>
-    <programme start="20260207222300" stop="20260207223200" channel="cctv6">
+    <programme start="20260207222200" stop="20260207223100" channel="cctv6">
         <title lang="zh">佳片有约周六版2026-006</title>
     </programme>
-    <programme start="20260207223200" stop="20260207235900" channel="cctv6">
-        <title lang="zh">侏罗纪公园</title>
+    <programme start="20260207223100" stop="20260207230000" channel="cctv6">
+        <title lang="zh">侏罗纪公园（上）</title>
+    </programme>
+    <programme start="20260207230000" stop="20260207230100" channel="cctv6">
+        <title lang="zh">中国体育彩票阳光开奖2026-02-07</title>
+    </programme>
+    <programme start="20260207230100" stop="20260207235900" channel="cctv6">
+        <title lang="zh">侏罗纪公园（下）</title>
     </programme>
     <programme start="20260205000900" stop="20260205004700" channel="cctv7">
         <title lang="zh">兵器面面观-2026-25</title>
@@ -2020,7 +2038,7 @@
         <title lang="zh">防务新观察-2026-36</title>
     </programme>
     <programme start="20260205204300" stop="20260205211700" channel="cctv7">
-        <title lang="zh">军事纪实-2026-26</title>
+        <title lang="zh">军事纪实-2026-备播1</title>
     </programme>
     <programme start="20260205211700" stop="20260205215300" channel="cctv7">
         <title lang="zh">砺剑-2026-6</title>
@@ -2032,7 +2050,7 @@
         <title lang="zh">破冰行动12/43</title>
     </programme>
     <programme start="20260205233500" stop="20260205235900" channel="cctv7">
-        <title lang="zh">军事纪实-2026-26</title>
+        <title lang="zh">军事纪实-2026-备播1</title>
     </programme>
     <programme start="20260206001000" stop="20260206004800" channel="cctv7">
         <title lang="zh">兵器面面观-2026-26</title>
@@ -2041,7 +2059,7 @@
         <title lang="zh">再见</title>
     </programme>
     <programme start="20260206060300" stop="20260206063300" channel="cctv7">
-        <title lang="zh">军事纪实-2026-26</title>
+        <title lang="zh">军事纪实-2026-备播1</title>
     </programme>
     <programme start="20260206063300" stop="20260206065900" channel="cctv7">
         <title lang="zh">国防故事-2025-253</title>
@@ -2065,7 +2083,7 @@
         <title lang="zh">防务新观察-2026-36</title>
     </programme>
     <programme start="20260206093500" stop="20260206100500" channel="cctv7">
-        <title lang="zh">军事纪实-2026-26</title>
+        <title lang="zh">军事纪实-2026-备播1</title>
     </programme>
     <programme start="20260206100500" stop="20260206103300" channel="cctv7">
         <title lang="zh">兵器面面观-2026-26</title>
@@ -2347,19 +2365,19 @@
         <title lang="zh">本集提要-生命树-第13集</title>
     </programme>
     <programme start="20260205193000" stop="20260205202400" channel="cctv8">
-        <title lang="zh">生命树13/40</title>
+        <title lang="zh">生命树第13集</title>
     </programme>
     <programme start="20260205202400" stop="20260205202900" channel="cctv8">
         <title lang="zh">本集提要-生命树-第14集</title>
     </programme>
     <programme start="20260205202900" stop="20260205212200" channel="cctv8">
-        <title lang="zh">生命树14/40</title>
+        <title lang="zh">生命树第14集</title>
     </programme>
     <programme start="20260205212200" stop="20260205212700" channel="cctv8">
         <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第1集</title>
     </programme>
     <programme start="20260205212700" stop="20260205221700" channel="cctv8">
-        <title lang="zh">唐宫奇案之青雾风鸣1/34</title>
+        <title lang="zh">唐宫奇案之青雾风鸣第1集</title>
     </programme>
     <programme start="20260205221700" stop="20260205221800" channel="cctv8">
         <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第2集</title>
@@ -3996,13 +4014,13 @@
     <programme start="20260205170000" stop="20260205184000" channel="cctv16">
         <title lang="zh">2025/2026赛季中国手球联赛 男子联赛 重庆荣昌站-男子第一阶段 江苏-北京</title>
     </programme>
-    <programme start="20260205184000" stop="20260205190500" channel="cctv16">
+    <programme start="20260205184000" stop="20260205191000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-精品赛事记录-2025/2026赛季自由式滑雪世界杯 女子U型场地中国队比赛4K</title>
     </programme>
-    <programme start="20260205190500" stop="20260205213500" channel="cctv16">
+    <programme start="20260205191000" stop="20260205213000" channel="cctv16">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会-女子冰球预赛 瑞典-德国</title>
     </programme>
-    <programme start="20260205213500" stop="20260205220500" channel="cctv16">
+    <programme start="20260205213000" stop="20260205220500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-精品赛事记录-苏翊鸣获男子单板滑雪大跳台世界杯赛季总冠军</title>
     </programme>
     <programme start="20260205220500" stop="20260205230500" channel="cctv16">
