@@ -834,10 +834,10 @@
     <programme start="20260216200000" stop="20260216235900" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-直播</title>
     </programme>
-    <programme start="20260217003700" stop="20260217010200" channel="cctv3">
+    <programme start="20260217003700" stop="20260217010700" channel="cctv3">
         <title lang="zh">文化十分-2026-33</title>
     </programme>
-    <programme start="20260217010200" stop="20260217053200" channel="cctv3">
+    <programme start="20260217010700" stop="20260217053200" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-直播</title>
     </programme>
     <programme start="20260217053200" stop="20260217062000" channel="cctv3">
@@ -852,8 +852,11 @@
     <programme start="20260217083700" stop="20260217090700" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦2/4</title>
     </programme>
-    <programme start="20260217090700" stop="20260217101800" channel="cctv3">
+    <programme start="20260217090700" stop="20260217093600" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦3/4</title>
+    </programme>
+    <programme start="20260217093600" stop="20260217101800" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4/4</title>
     </programme>
     <programme start="20260217101800" stop="20260217120000" channel="cctv3">
         <title lang="zh">开门大吉-2026-2</title>
@@ -891,32 +894,35 @@
     <programme start="20260217182500" stop="20260217193000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-43</title>
     </programme>
-    <programme start="20260217193000" stop="20260217213400" channel="cctv3">
-        <title lang="zh">2026新春喜剧之夜-1</title>
+    <programme start="20260217193000" stop="20260217203600" channel="cctv3">
+        <title lang="zh">2026新春喜剧之夜-1/2</title>
     </programme>
-    <programme start="20260217213400" stop="20260217221800" channel="cctv3">
-        <title lang="zh">2026新春喜剧之夜-备用1</title>
+    <programme start="20260217203600" stop="20260217221300" channel="cctv3">
+        <title lang="zh">2026新春喜剧之夜-2/2</title>
     </programme>
-    <programme start="20260217221800" stop="20260217224200" channel="cctv3">
+    <programme start="20260217221300" stop="20260217223700" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦1/4</title>
     </programme>
-    <programme start="20260217224200" stop="20260217230700" channel="cctv3">
+    <programme start="20260217223700" stop="20260217230200" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦2/4</title>
     </programme>
-    <programme start="20260217230700" stop="20260217233000" channel="cctv3">
+    <programme start="20260217230200" stop="20260217232500" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦3/4</title>
     </programme>
-    <programme start="20260217233000" stop="20260217235500" channel="cctv3">
+    <programme start="20260217232500" stop="20260217235000" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦4/4</title>
     </programme>
-    <programme start="20260217235500" stop="20260217235900" channel="cctv3">
-        <title lang="zh">2026新春喜剧之夜-1</title>
+    <programme start="20260217235000" stop="20260217235900" channel="cctv3">
+        <title lang="zh">2026新春喜剧之夜-1/2</title>
     </programme>
-    <programme start="20260218015500" stop="20260218022700" channel="cctv3">
-        <title lang="zh">2026新春喜剧之夜-备用1</title>
+    <programme start="20260218005300" stop="20260218021700" channel="cctv3">
+        <title lang="zh">2026新春喜剧之夜-2/2</title>
     </programme>
-    <programme start="20260218022700" stop="20260218052700" channel="cctv3">
-        <title lang="zh">2026欢欢喜喜过大年-1</title>
+    <programme start="20260218021700" stop="20260218031600" channel="cctv3">
+        <title lang="zh">2026欢欢喜喜过大年-1/4</title>
+    </programme>
+    <programme start="20260218031600" stop="20260218052700" channel="cctv3">
+        <title lang="zh">2026欢欢喜喜过大年-2/4</title>
     </programme>
     <programme start="20260218052700" stop="20260218064900" channel="cctv3">
         <title lang="zh">扬帆远航大湾区——2026新年音乐会-1</title>
@@ -990,8 +996,20 @@
     <programme start="20260218225100" stop="20260218231400" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦3/4</title>
     </programme>
-    <programme start="20260218231400" stop="20260218234000" channel="cctv3">
+    <programme start="20260218231400" stop="20260218233900" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦4/4</title>
+    </programme>
+    <programme start="20260218233900" stop="20260218233900" channel="cctv3">
+        <title lang="zh">2026欢欢喜喜过大年-重播 1/4</title>
+    </programme>
+    <programme start="20260218233900" stop="20260218233900" channel="cctv3">
+        <title lang="zh">2026欢欢喜喜过大年-重播 2/4</title>
+    </programme>
+    <programme start="20260218233900" stop="20260218234000" channel="cctv3">
+        <title lang="zh">2026欢欢喜喜过大年-重播 3/4</title>
+    </programme>
+    <programme start="20260218234000" stop="20260218234000" channel="cctv3">
+        <title lang="zh">2026欢欢喜喜过大年-重播 4/4</title>
     </programme>
     <programme start="20260218234000" stop="20260218235900" channel="cctv3">
         <title lang="zh">2026年“团圆年· 家乡味” ——中国人的年夜饭春节特别节目-备播版</title>
@@ -4626,8 +4644,11 @@
     <programme start="20260217130400" stop="20260217131400" channel="cctv4k">
         <title lang="zh">2024秘境之眼-秘境飞羽(4K)</title>
     </programme>
-    <programme start="20260217131400" stop="20260217131900" channel="cctv4k">
-        <title lang="zh">5亿年，岩石里的生命奇迹 第一季-9（4K）</title>
+    <programme start="20260217131400" stop="20260217131700" channel="cctv4k">
+        <title lang="zh">4K垫播节目-美丽中国2025-云南1</title>
+    </programme>
+    <programme start="20260217131700" stop="20260217131900" channel="cctv4k">
+        <title lang="zh">4K宣传片-春晚的打开方式AI版2</title>
     </programme>
     <programme start="20260217131900" stop="20260217140100" channel="cctv4k">
         <title lang="zh">远方的家2024-116(4K)</title>
@@ -4653,8 +4674,11 @@
     <programme start="20260217161600" stop="20260217170600" channel="cctv4k">
         <title lang="zh">舌尖上的中国 第四季-7（4K）</title>
     </programme>
-    <programme start="20260217170600" stop="20260217171100" channel="cctv4k">
-        <title lang="zh">大国小鲜——石榴说-2（4K）</title>
+    <programme start="20260217170600" stop="20260217170800" channel="cctv4k">
+        <title lang="zh">4K垫播节目-美丽中国2025-云南1</title>
+    </programme>
+    <programme start="20260217170800" stop="20260217171100" channel="cctv4k">
+        <title lang="zh">4K宣传片-春晚的打开方式AI版2</title>
     </programme>
     <programme start="20260217171100" stop="20260217180000" channel="cctv4k">
         <title lang="zh">跟着唐诗去旅行（第二季）-3（4K）</title>
