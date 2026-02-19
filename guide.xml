@@ -1053,11 +1053,17 @@
     <programme start="20260221193000" stop="20260221212200" channel="cctv3">
         <title lang="zh">星光大道-2026-3</title>
     </programme>
-    <programme start="20260221212200" stop="20260221222600" channel="cctv3">
+    <programme start="20260221212200" stop="20260221215200" channel="cctv3">
+        <title lang="zh">2026我们的村节-1</title>
+    </programme>
+    <programme start="20260221215200" stop="20260221225200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-48</title>
     </programme>
-    <programme start="20260221222600" stop="20260221235900" channel="cctv3">
-        <title lang="zh">2026新春喜剧之夜-1</title>
+    <programme start="20260221225200" stop="20260221235400" channel="cctv3">
+        <title lang="zh">2026新春喜剧之夜-1/2</title>
+    </programme>
+    <programme start="20260221235400" stop="20260221235900" channel="cctv3">
+        <title lang="zh">2026新春喜剧之夜-2/2</title>
     </programme>
     <programme start="20260219003200" stop="20260219010000" channel="cctv4">
         <title lang="zh">记住乡愁2026-19</title>
@@ -1528,25 +1534,25 @@
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪空中技巧女子决赛</title>
     </programme>
     <programme start="20260219164700" stop="20260219172700" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子3组 冲刺赛预赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子3组 短距离赛预赛</title>
     </programme>
-    <programme start="20260219172700" stop="20260219175500" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子3组 冲刺赛预赛</title>
+    <programme start="20260219172700" stop="20260219180300" channel="cctv5">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子3组 短距离赛预赛</title>
     </programme>
-    <programme start="20260219175500" stop="20260219195500" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子U型池资格赛1、2</title>
+    <programme start="20260219180300" stop="20260219195500" channel="cctv5">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 北欧两项团体 跳台滑雪</title>
     </programme>
     <programme start="20260219195500" stop="20260219202500" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子冲刺赛半决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子短距离赛半决赛</title>
     </programme>
     <programme start="20260219202500" stop="20260219205200" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子冲刺赛半决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子短距离赛半决赛</title>
     </programme>
     <programme start="20260219205200" stop="20260219211200" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子冲刺赛决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子短距离赛决赛</title>
     </programme>
     <programme start="20260219211200" stop="20260219212000" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子冲刺赛决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子短距离赛决赛</title>
     </programme>
     <programme start="20260219212000" stop="20260219223000" channel="cctv5">
         <title lang="zh">体育世界-全景米兰</title>
@@ -1900,7 +1906,7 @@
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 越野滑雪男女团体短距离决赛（4K）</title>
     </programme>
     <programme start="20260221153000" stop="20260221160000" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 滑雪登山女子、男子短距离（4K）</title>
+        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 单板滑雪男子坡面障碍技巧决赛（4K）</title>
     </programme>
     <programme start="20260221160000" stop="20260221170000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛（4K）</title>
@@ -3876,29 +3882,32 @@
     <programme start="20260220192500" stop="20260220215000" channel="cctvchild">
         <title lang="zh">动画电影-哪吒之魔童闹海</title>
     </programme>
-    <programme start="20260220215000" stop="20260220222500" channel="cctvchild">
+    <programme start="20260220215000" stop="20260220222200" channel="cctvchild">
         <title lang="zh">2026年春节联欢晚会-1/8</title>
     </programme>
-    <programme start="20260220222500" stop="20260220230000" channel="cctvchild">
+    <programme start="20260220222200" stop="20260220225700" channel="cctvchild">
         <title lang="zh">2026年春节联欢晚会-2/8</title>
     </programme>
-    <programme start="20260220230000" stop="20260220233500" channel="cctvchild">
+    <programme start="20260220225700" stop="20260220233500" channel="cctvchild">
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
     <programme start="20260220233500" stop="20260220235900" channel="cctvchild">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
-    <programme start="20260221001000" stop="20260221004500" channel="cctvchild">
-        <title lang="zh">2026年春节联欢晚会-5/8</title>
+    <programme start="20260221001800" stop="20260221010000" channel="cctvchild">
+        <title lang="zh">2026年春节联欢晚会-5</title>
     </programme>
-    <programme start="20260221004500" stop="20260221012000" channel="cctvchild">
+    <programme start="20260221010000" stop="20260221013400" channel="cctvchild">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme start="20260221012000" stop="20260221015500" channel="cctvchild">
+    <programme start="20260221013400" stop="20260221020700" channel="cctvchild">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
-    <programme start="20260221015500" stop="20260221060000" channel="cctvchild">
-        <title lang="zh">2026年春节联欢晚会-8/8</title>
+    <programme start="20260221020700" stop="20260221023200" channel="cctvchild">
+        <title lang="zh">2026年春节联欢晚会-8</title>
+    </programme>
+    <programme start="20260221023200" stop="20260221060000" channel="cctvchild">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260221060000" stop="20260221074500" channel="cctvchild">
         <title lang="zh">动画大放映（周末早间版）-2026-15</title>
@@ -4312,7 +4321,7 @@
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬季两项女子10公里追逐</title>
     </programme>
     <programme start="20260221160000" stop="20260221170000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 越野滑雪男女团体短距离决赛</title>
+        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 短道速滑比赛1（4K）</title>
     </programme>
     <programme start="20260221170000" stop="20260221180000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子空中技巧决赛</title>
