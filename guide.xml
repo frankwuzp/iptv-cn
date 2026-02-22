@@ -351,10 +351,10 @@
     <programme start="20260223200100" stop="20260223200600" channel="cctv1">
         <title lang="zh">前情提要-好好的时光-第1集</title>
     </programme>
-    <programme start="20260223200600" stop="20260223205700" channel="cctv1">
+    <programme start="20260223200600" stop="20260223205600" channel="cctv1">
         <title lang="zh">好好的时光第1集</title>
     </programme>
-    <programme start="20260223205700" stop="20260223210000" channel="cctv1">
+    <programme start="20260223205600" stop="20260223210000" channel="cctv1">
         <title lang="zh">前情提要-好好的时光-第2集</title>
     </programme>
     <programme start="20260223210000" stop="20260223220000" channel="cctv1">
@@ -1506,8 +1506,11 @@
     <programme start="20260222140500" stop="20260222143000" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子障碍追逐决赛</title>
     </programme>
-    <programme start="20260222143000" stop="20260222160000" channel="cctv5">
+    <programme start="20260222143000" stop="20260222150000" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 速度滑冰男子、女子集体出发</title>
+    </programme>
+    <programme start="20260222150000" stop="20260222160000" channel="cctv5">
+        <title lang="zh">2026年米兰科尔蒂纳冬奥会及冬残奥会转播报道-破冰吧！冠军</title>
     </programme>
     <programme start="20260222160000" stop="20260222170000" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 花样滑冰 表演滑</title>
@@ -1516,7 +1519,7 @@
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车 男子4人第3轮</title>
     </programme>
     <programme start="20260222173000" stop="20260222191500" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型池决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型场地技巧决赛</title>
     </programme>
     <programme start="20260222191500" stop="20260222195700" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车 男子4人第4轮</title>
