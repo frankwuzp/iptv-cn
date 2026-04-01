@@ -391,13 +391,13 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260402195800" stop="20260402200300" channel="cctv1">
-        <title lang="zh">前情提要-家事法庭-13/26</title>
+        <title lang="zh">前情提要-家事法庭-第13集</title>
     </programme>
     <programme start="20260402200300" stop="20260402205300" channel="cctv1">
         <title lang="zh">家事法庭13/26</title>
     </programme>
     <programme start="20260402205300" stop="20260402205600" channel="cctv1">
-        <title lang="zh">前情提要-家事法庭-14/26</title>
+        <title lang="zh">前情提要-家事法庭-第14集</title>
     </programme>
     <programme start="20260402205600" stop="20260402214700" channel="cctv1">
         <title lang="zh">家事法庭14/26</title>
@@ -1200,11 +1200,8 @@
     <programme start="20260401210000" stop="20260401213000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260401213000" stop="20260401220000" channel="cctv4">
+    <programme start="20260401213000" stop="20260401223000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260401220000" stop="20260401223000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-52</title>
     </programme>
     <programme start="20260401223000" stop="20260401230200" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1246,12 +1243,12 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260402043000" stop="20260402050000" channel="cctv4">
-        <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260402050000" stop="20260402053000" channel="cctv4">
         <title lang="zh">国家记忆-2026-3</title>
     </programme>
-    <programme start="20260402053000" stop="20260402060000" channel="cctv4">
+    <programme start="20260402050000" stop="20260402053200" channel="cctv4">
+        <title lang="zh">中国文艺-2026-65</title>
+    </programme>
+    <programme start="20260402053200" stop="20260402060000" channel="cctv4">
         <title lang="zh">走遍中国-2026-52</title>
     </programme>
     <programme start="20260402060000" stop="20260402063000" channel="cctv4">
@@ -1260,11 +1257,8 @@
     <programme start="20260402063000" stop="20260402070000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20260402070000" stop="20260402073000" channel="cctv4">
+    <programme start="20260402070000" stop="20260402080000" channel="cctv4">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20260402073000" stop="20260402080000" channel="cctv4">
-        <title lang="zh">今日关注</title>
     </programme>
     <programme start="20260402080000" stop="20260402090000" channel="cctv4">
         <title lang="zh">今日环球</title>
@@ -1293,29 +1287,23 @@
     <programme start="20260402113000" stop="20260402120000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-91</title>
     </programme>
-    <programme start="20260402120000" stop="20260402130300" channel="cctv4">
+    <programme start="20260402120000" stop="20260402140300" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260402130300" stop="20260402134900" channel="cctv4">
+    <programme start="20260402140300" stop="20260402144900" channel="cctv4">
         <title lang="zh">浴血十四年第16集</title>
     </programme>
-    <programme start="20260402134900" stop="20260402143800" channel="cctv4">
+    <programme start="20260402144900" stop="20260402153800" channel="cctv4">
         <title lang="zh">浴血十四年第17集</title>
     </programme>
-    <programme start="20260402143800" stop="20260402152400" channel="cctv4">
+    <programme start="20260402153800" stop="20260402162400" channel="cctv4">
         <title lang="zh">浴血十四年第18集</title>
     </programme>
-    <programme start="20260402152400" stop="20260402161000" channel="cctv4">
+    <programme start="20260402162400" stop="20260402171000" channel="cctv4">
         <title lang="zh">浴血十四年第19集</title>
     </programme>
-    <programme start="20260402161000" stop="20260402165800" channel="cctv4">
+    <programme start="20260402171000" stop="20260402180000" channel="cctv4">
         <title lang="zh">浴血十四年第20集</title>
-    </programme>
-    <programme start="20260402165800" stop="20260402171500" channel="cctv4">
-        <title lang="zh">平凡匠心-2025-94</title>
-    </programme>
-    <programme start="20260402171500" stop="20260402180000" channel="cctv4">
-        <title lang="zh">远方的家2026-71</title>
     </programme>
     <programme start="20260402180000" stop="20260402190000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1539,11 +1527,14 @@
     <programme start="20260401160000" stop="20260401170000" channel="cctv5">
         <title lang="zh">运动一起赢</title>
     </programme>
-    <programme start="20260401170000" stop="20260401190000" channel="cctv5">
+    <programme start="20260401170000" stop="20260401174200" channel="cctv5">
         <title lang="zh">2026年国际乒联单打世界杯-小组赛第3轮1</title>
     </programme>
-    <programme start="20260401190000" stop="20260401193000" channel="cctv5">
+    <programme start="20260401174200" stop="20260401181200" channel="cctv5">
         <title lang="zh">体育新闻</title>
+    </programme>
+    <programme start="20260401181200" stop="20260401193000" channel="cctv5">
+        <title lang="zh">2026年国际乒联单打世界杯-小组赛第3轮1</title>
     </programme>
     <programme start="20260401193000" stop="20260401213000" channel="cctv5">
         <title lang="zh">2025/2026赛季中国男子篮球职业联赛常规赛-第33轮(辽宁本钢 - 新疆伊力特)</title>
@@ -1968,37 +1959,43 @@
     <programme start="20260403020600" stop="20260403033200" channel="cctv6">
         <title lang="zh">悬空12小时</title>
     </programme>
-    <programme start="20260403033200" stop="20260403065700" channel="cctv6">
+    <programme start="20260403033200" stop="20260403053500" channel="cctv6">
         <title lang="zh">黑猫白猫</title>
     </programme>
-    <programme start="20260403065700" stop="20260403083700" channel="cctv6">
+    <programme start="20260403053500" stop="20260403071600" channel="cctv6">
+        <title lang="zh">云南虫谷</title>
+    </programme>
+    <programme start="20260403071600" stop="20260403072200" channel="cctv6">
+        <title lang="zh">七人乐队：练功</title>
+    </programme>
+    <programme start="20260403072200" stop="20260403090200" channel="cctv6">
         <title lang="zh">南拳王</title>
     </programme>
-    <programme start="20260403083700" stop="20260403102000" channel="cctv6">
+    <programme start="20260403090200" stop="20260403104400" channel="cctv6">
         <title lang="zh">大闹天竺</title>
     </programme>
-    <programme start="20260403102000" stop="20260403122600" channel="cctv6">
+    <programme start="20260403104400" stop="20260403124700" channel="cctv6">
         <title lang="zh">武者</title>
     </programme>
-    <programme start="20260403122600" stop="20260403123200" channel="cctv6">
+    <programme start="20260403124700" stop="20260403125200" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20260403123200" stop="20260403141100" channel="cctv6">
+    <programme start="20260403125200" stop="20260403142900" channel="cctv6">
         <title lang="zh">猫妖奇谭</title>
     </programme>
-    <programme start="20260403141100" stop="20260403162300" channel="cctv6">
+    <programme start="20260403142900" stop="20260403163300" channel="cctv6">
         <title lang="zh">后天</title>
     </programme>
-    <programme start="20260403162300" stop="20260403181400" channel="cctv6">
+    <programme start="20260403163300" stop="20260403182100" channel="cctv6">
         <title lang="zh">命悬一枪</title>
     </programme>
-    <programme start="20260403181400" stop="20260403184200" channel="cctv6">
+    <programme start="20260403182100" stop="20260403184800" channel="cctv6">
         <title lang="zh">《1905影视频》2026-014</title>
     </programme>
-    <programme start="20260403184200" stop="20260403202700" channel="cctv6">
+    <programme start="20260403184800" stop="20260403202600" channel="cctv6">
         <title lang="zh">殊死一搏</title>
     </programme>
-    <programme start="20260403202700" stop="20260403220000" channel="cctv6">
+    <programme start="20260403202600" stop="20260403220000" channel="cctv6">
         <title lang="zh">血性山谷</title>
     </programme>
     <programme start="20260403220000" stop="20260403221800" channel="cctv6">
@@ -2007,10 +2004,10 @@
     <programme start="20260403221800" stop="20260403222300" channel="cctv6">
         <title lang="zh">中国福利彩票阳光开奖2026-04-03</title>
     </programme>
-    <programme start="20260403222300" stop="20260403225900" channel="cctv6">
+    <programme start="20260403222300" stop="20260403230000" channel="cctv6">
         <title lang="zh">烈焰（上）</title>
     </programme>
-    <programme start="20260403225900" stop="20260403230100" channel="cctv6">
+    <programme start="20260403230000" stop="20260403230100" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2026-04-03</title>
     </programme>
     <programme start="20260403230100" stop="20260403235900" channel="cctv6">
@@ -2476,7 +2473,7 @@
         <title lang="zh">本集提要-隐身的名字-第29集</title>
     </programme>
     <programme start="20260401212900" stop="20260401221900" channel="cctv8">
-        <title lang="zh">隐身的名字29/31</title>
+        <title lang="zh">隐身的名字第29集</title>
     </programme>
     <programme start="20260401221900" stop="20260401222100" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第30集</title>
@@ -2590,13 +2587,13 @@
         <title lang="zh">本集提要-冬去春来-第23集</title>
     </programme>
     <programme start="20260402193000" stop="20260402202500" channel="cctv8">
-        <title lang="zh">冬去春来23/32</title>
+        <title lang="zh">冬去春来第23集</title>
     </programme>
     <programme start="20260402202500" stop="20260402203000" channel="cctv8">
-        <title lang="zh">本集提要-冬去春来-24/32</title>
+        <title lang="zh">本集提要-冬去春来-第24集</title>
     </programme>
     <programme start="20260402203000" stop="20260402212400" channel="cctv8">
-        <title lang="zh">冬去春来24/32</title>
+        <title lang="zh">冬去春来第24集</title>
     </programme>
     <programme start="20260402212400" stop="20260402212900" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第31集</title>
@@ -4849,7 +4846,7 @@
         <title lang="zh">农耕探文明-2025-33（4K）</title>
     </programme>
     <programme start="20260402123000" stop="20260402124000" channel="cctv4k">
-        <title lang="zh">中华古树-黄山迎客松（4K）</title>
+        <title lang="zh">中华古树-红岩松（4K）</title>
     </programme>
     <programme start="20260402124000" stop="20260402130500" channel="cctv4k">
         <title lang="zh">青蘋之末-5（4K）</title>
