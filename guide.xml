@@ -381,19 +381,19 @@
     <programme start="20260409190000" stop="20260409193700" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260409193700" stop="20260409200000" channel="cctv1">
+    <programme start="20260409193700" stop="20260409195800" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260409200000" stop="20260409200400" channel="cctv1">
+    <programme start="20260409195800" stop="20260409200200" channel="cctv1">
         <title lang="zh">前情提要-家事法庭-第21集</title>
     </programme>
-    <programme start="20260409200400" stop="20260409205400" channel="cctv1">
+    <programme start="20260409200200" stop="20260409205100" channel="cctv1">
         <title lang="zh">家事法庭21/26</title>
     </programme>
-    <programme start="20260409205400" stop="20260409205600" channel="cctv1">
+    <programme start="20260409205100" stop="20260409205500" channel="cctv1">
         <title lang="zh">前情提要-家事法庭-第22集</title>
     </programme>
-    <programme start="20260409205600" stop="20260409215100" channel="cctv1">
+    <programme start="20260409205500" stop="20260409215100" channel="cctv1">
         <title lang="zh">家事法庭22/26</title>
     </programme>
     <programme start="20260409215100" stop="20260409220000" channel="cctv1">
@@ -1179,32 +1179,26 @@
     <programme start="20260408210000" stop="20260408213000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260408213000" stop="20260408220000" channel="cctv4">
+    <programme start="20260408213000" stop="20260408223000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260408220000" stop="20260408223000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-56</title>
     </programme>
     <programme start="20260408223000" stop="20260408230200" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260408230200" stop="20260408232900" channel="cctv4">
+    <programme start="20260408230200" stop="20260408232800" channel="cctv4">
+        <title lang="zh">今日亚洲</title>
+    </programme>
+    <programme start="20260408232800" stop="20260408235500" channel="cctv4">
         <title lang="zh">海峡两岸-2026-98</title>
     </programme>
-    <programme start="20260408232900" stop="20260408235900" channel="cctv4">
+    <programme start="20260408235500" stop="20260408235900" channel="cctv4">
         <title lang="zh">护宝寻踪第8集</title>
     </programme>
-    <programme start="20260409001500" stop="20260409010100" channel="cctv4">
+    <programme start="20260409004100" stop="20260409012700" channel="cctv4">
         <title lang="zh">护宝寻踪第9集</title>
     </programme>
-    <programme start="20260409010100" stop="20260409014700" channel="cctv4">
-        <title lang="zh">护宝寻踪第10集</title>
-    </programme>
-    <programme start="20260409014700" stop="20260409015200" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2025-7</title>
-    </programme>
-    <programme start="20260409015200" stop="20260409020000" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2025-9</title>
+    <programme start="20260409012700" stop="20260409020000" channel="cctv4">
+        <title lang="zh">中国文艺-2026-70</title>
     </programme>
     <programme start="20260409020000" stop="20260409023000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1263,29 +1257,23 @@
     <programme start="20260409113000" stop="20260409120000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-98</title>
     </programme>
-    <programme start="20260409120000" stop="20260409130300" channel="cctv4">
+    <programme start="20260409120000" stop="20260409140300" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260409130300" stop="20260409134900" channel="cctv4">
+    <programme start="20260409140300" stop="20260409144900" channel="cctv4">
         <title lang="zh">誓盟第11集</title>
     </programme>
-    <programme start="20260409134900" stop="20260409143800" channel="cctv4">
+    <programme start="20260409144900" stop="20260409153800" channel="cctv4">
         <title lang="zh">誓盟第12集</title>
     </programme>
-    <programme start="20260409143800" stop="20260409152400" channel="cctv4">
+    <programme start="20260409153800" stop="20260409162400" channel="cctv4">
         <title lang="zh">誓盟第13集</title>
     </programme>
-    <programme start="20260409152400" stop="20260409161100" channel="cctv4">
+    <programme start="20260409162400" stop="20260409171100" channel="cctv4">
         <title lang="zh">誓盟第14集</title>
     </programme>
-    <programme start="20260409161100" stop="20260409165900" channel="cctv4">
+    <programme start="20260409171100" stop="20260409180000" channel="cctv4">
         <title lang="zh">誓盟第15集</title>
-    </programme>
-    <programme start="20260409165900" stop="20260409171500" channel="cctv4">
-        <title lang="zh">平凡匠心-2025-87</title>
-    </programme>
-    <programme start="20260409171500" stop="20260409180000" channel="cctv4">
-        <title lang="zh">远方的家2026-76</title>
     </programme>
     <programme start="20260409180000" stop="20260409190000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1371,20 +1359,23 @@
     <programme start="20260410080000" stop="20260410090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20260410090000" stop="20260410092700" channel="cctv4">
-        <title lang="zh">国家记忆-2025-179</title>
+    <programme start="20260410090000" stop="20260410092600" channel="cctv4">
+        <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20260410092700" stop="20260410100000" channel="cctv4">
-        <title lang="zh">国家记忆-2025-180</title>
+    <programme start="20260410092600" stop="20260410095600" channel="cctv4">
+        <title lang="zh">国家记忆-2024-12</title>
     </programme>
-    <programme start="20260410100000" stop="20260410101000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20260410095600" stop="20260410102300" channel="cctv4">
+        <title lang="zh">国家记忆-2024-13</title>
     </programme>
-    <programme start="20260410101000" stop="20260410105500" channel="cctv4">
-        <title lang="zh">远方的家2026-76</title>
+    <programme start="20260410102300" stop="20260410105000" channel="cctv4">
+        <title lang="zh">国家记忆-2024-15</title>
     </programme>
-    <programme start="20260410105500" stop="20260410113000" channel="cctv4">
-        <title lang="zh">国家记忆-2025-181</title>
+    <programme start="20260410105000" stop="20260410112000" channel="cctv4">
+        <title lang="zh">国家记忆-2024-16</title>
+    </programme>
+    <programme start="20260410112000" stop="20260410113000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2025-22</title>
     </programme>
     <programme start="20260410113000" stop="20260410120000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-99</title>
@@ -1444,7 +1435,7 @@
         <title lang="zh">海峡两岸-2026-100</title>
     </programme>
     <programme start="20260410232900" stop="20260410235900" channel="cctv4">
-        <title lang="zh">护宝寻踪14/36</title>
+        <title lang="zh">护宝寻踪12/36</title>
     </programme>
     <programme start="20260408010500" stop="20260408020500" channel="cctv5">
         <title lang="zh">顶级赛事-围棋</title>
@@ -1564,7 +1555,7 @@
         <title lang="zh">实况录像-2026年世界花样滑冰锦标赛 双人滑</title>
     </programme>
     <programme start="20260409160000" stop="20260409165500" channel="cctv5">
-        <title lang="zh">2026年艺术体操世界杯-索菲亚站1（4K）</title>
+        <title lang="zh">实况录像-2026年世界室内田径锦标赛  1</title>
     </programme>
     <programme start="20260409165500" stop="20260409170000" channel="cctv5">
         <title lang="zh">健身动起来</title>
@@ -1633,7 +1624,7 @@
         <title lang="zh">艺术里的奥林匹克(4K)</title>
     </programme>
     <programme start="20260410125800" stop="20260410140000" channel="cctv5">
-        <title lang="zh">2026年艺术体操世界杯-索菲亚站2（4K）</title>
+        <title lang="zh">实况录像-2026年世界室内田径锦标赛  2</title>
     </programme>
     <programme start="20260410140000" stop="20260410165500" channel="cctv5">
         <title lang="zh">2026年亚洲羽毛球锦标赛-1/4决赛</title>
@@ -2545,13 +2536,13 @@
         <title lang="zh">星推荐-2026年4月-9</title>
     </programme>
     <programme start="20260409192600" stop="20260409193000" channel="cctv8">
-        <title lang="zh">本集提要-八千里路云和月-5/40</title>
+        <title lang="zh">本集提要-八千里路云和月-第5集</title>
     </programme>
     <programme start="20260409193000" stop="20260409202500" channel="cctv8">
         <title lang="zh">八千里路云和月5/40</title>
     </programme>
     <programme start="20260409202500" stop="20260409203000" channel="cctv8">
-        <title lang="zh">本集提要-八千里路云和月-6/40</title>
+        <title lang="zh">本集提要-八千里路云和月-第6集</title>
     </programme>
     <programme start="20260409203000" stop="20260409212400" channel="cctv8">
         <title lang="zh">八千里路云和月6/40</title>
@@ -4870,7 +4861,7 @@
         <title lang="zh">绿水青山中国答卷-6（4K）</title>
     </programme>
     <programme start="20260409183000" stop="20260409184000" channel="cctv4k">
-        <title lang="zh">中华古树-晋祠周柏（4K）</title>
+        <title lang="zh">中华古树-荣昌黄葛树古树群（4K）</title>
     </programme>
     <programme start="20260409184000" stop="20260409191000" channel="cctv4k">
         <title lang="zh">农耕探文明-2025-25（4K）</title>
