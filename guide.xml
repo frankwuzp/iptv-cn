@@ -531,8 +531,14 @@
     <programme start="20260419053200" stop="20260419055900" channel="cctv2">
         <title lang="zh">回家吃饭-2026-80</title>
     </programme>
-    <programme start="20260419055900" stop="20260419070000" channel="cctv2">
+    <programme start="20260419055900" stop="20260419065700" channel="cctv2">
         <title lang="zh">经济信息联播</title>
+    </programme>
+    <programme start="20260419065700" stop="20260419065900" channel="cctv2">
+        <title lang="zh">财经频道经济信息联播片头后（当周次日重播）_播出</title>
+    </programme>
+    <programme start="20260419065900" stop="20260419070000" channel="cctv2">
+        <title lang="zh">财经频道经济信息联播中插一（当周次日重播）_播出</title>
     </programme>
     <programme start="20260419070000" stop="20260419090100" channel="cctv2">
         <title lang="zh">第一时间</title>
