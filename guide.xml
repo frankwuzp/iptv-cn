@@ -387,17 +387,17 @@
     <programme start="20260530190000" stop="20260530193900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260530193900" stop="20260530200300" channel="cctv1">
+    <programme start="20260530193900" stop="20260530200100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260530200300" stop="20260530210500" channel="cctv1">
+    <programme start="20260530200100" stop="20260530210300" channel="cctv1">
         <title lang="zh">中国中医药大会（第三季）-5</title>
     </programme>
-    <programme start="20260530210500" stop="20260530210600" channel="cctv1">
+    <programme start="20260530210300" stop="20260530210400" channel="cctv1">
         <title lang="zh">前情提要-主角-第37集</title>
     </programme>
-    <programme start="20260530210600" stop="20260530220000" channel="cctv1">
-        <title lang="zh">主角37/48</title>
+    <programme start="20260530210400" stop="20260530220000" channel="cctv1">
+        <title lang="zh">主角第37集</title>
     </programme>
     <programme start="20260530220000" stop="20260530223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -490,7 +490,7 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260531200300" stop="20260531214500" channel="cctv1">
-        <title lang="zh">金石探文明-5</title>
+        <title lang="zh">金石探文明-何尊</title>
     </programme>
     <programme start="20260531214500" stop="20260531215500" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -975,8 +975,11 @@
     <programme start="20260530094800" stop="20260530111500" channel="cctv3">
         <title lang="zh">全民畅舞-3</title>
     </programme>
-    <programme start="20260530111500" stop="20260530124800" channel="cctv3">
+    <programme start="20260530111500" stop="20260530124100" channel="cctv3">
         <title lang="zh">开门大吉-2026-20</title>
+    </programme>
+    <programme start="20260530124100" stop="20260530124800" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-1040 歌曲《星河浩荡》</title>
     </programme>
     <programme start="20260530124800" stop="20260530134700" channel="cctv3">
         <title lang="zh">星光大道-2026-33（星光欢唱季3）</title>
@@ -2458,25 +2461,25 @@
         <title lang="zh">本集提要-家业-第27集</title>
     </programme>
     <programme start="20260530193000" stop="20260530202500" channel="cctv8">
-        <title lang="zh">家业27/42</title>
+        <title lang="zh">家业第27集</title>
     </programme>
     <programme start="20260530202500" stop="20260530203000" channel="cctv8">
         <title lang="zh">本集提要-家业-第28集</title>
     </programme>
     <programme start="20260530203000" stop="20260530212400" channel="cctv8">
-        <title lang="zh">家业28/42</title>
+        <title lang="zh">家业第28集</title>
     </programme>
     <programme start="20260530212400" stop="20260530212900" channel="cctv8">
         <title lang="zh">本集提要-雨霖铃-第30集</title>
     </programme>
     <programme start="20260530212900" stop="20260530221900" channel="cctv8">
-        <title lang="zh">雨霖铃30/37</title>
+        <title lang="zh">雨霖铃第30集</title>
     </programme>
     <programme start="20260530221900" stop="20260530222100" channel="cctv8">
-        <title lang="zh">本集提要-太行谣-5/24</title>
+        <title lang="zh">本集提要-太行谣-第5集</title>
     </programme>
     <programme start="20260530222100" stop="20260530231100" channel="cctv8">
-        <title lang="zh">太行谣5/24</title>
+        <title lang="zh">太行谣第5集</title>
     </programme>
     <programme start="20260530231100" stop="20260530235700" channel="cctv8">
         <title lang="zh">不期而遇的生活第32集</title>
