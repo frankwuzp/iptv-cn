@@ -366,14 +366,14 @@
     <programme start="20260531193800" stop="20260531200100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260531200100" stop="20260531213800" channel="cctv1">
+    <programme start="20260531200100" stop="20260531213200" channel="cctv1">
         <title lang="zh">金石探文明-何尊</title>
     </programme>
-    <programme start="20260531213800" stop="20260531215500" channel="cctv1">
-        <title lang="zh">三餐四季（第二季）-宣传片</title>
-    </programme>
-    <programme start="20260531215500" stop="20260531220000" channel="cctv1">
+    <programme start="20260531213200" stop="20260531214400" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
+    </programme>
+    <programme start="20260531214400" stop="20260531220000" channel="cctv1">
+        <title lang="zh">中华古树-小鸟天堂古榕树（4K）</title>
     </programme>
     <programme start="20260531220000" stop="20260531223600" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -2140,7 +2140,7 @@
         <title lang="zh">世界战史-2026-102</title>
     </programme>
     <programme start="20260601110000" stop="20260601112800" channel="cctv7">
-        <title lang="zh">国防故事-2026-61</title>
+        <title lang="zh">国防故事-2026-68</title>
     </programme>
     <programme start="20260601112800" stop="20260601115300" channel="cctv7">
         <title lang="zh">军事纪录-2026-102</title>
@@ -2185,7 +2185,7 @@
         <title lang="zh">兵器面面观-2026-108</title>
     </programme>
     <programme start="20260601182800" stop="20260601190000" channel="cctv7">
-        <title lang="zh">国防故事-2026-62</title>
+        <title lang="zh">国防故事-2026-72</title>
     </programme>
     <programme start="20260601190000" stop="20260601193300" channel="cctv7">
         <title lang="zh">新闻联播</title>
@@ -4705,7 +4705,7 @@
         <title lang="zh">4K节目预告</title>
     </programme>
     <programme start="20260531180000" stop="20260531182800" channel="cctv4k">
-        <title lang="zh">记住乡愁2025-30（4K）</title>
+        <title lang="zh">记住乡愁2026-4（4K）</title>
     </programme>
     <programme start="20260531182800" stop="20260531182900" channel="cctv4k">
         <title lang="zh">4K宣传片-2026品牌强国工程1</title>
@@ -4840,7 +4840,7 @@
         <title lang="zh">军武零距离-2026-22精编（4K）</title>
     </programme>
     <programme start="20260601122800" stop="20260601125600" channel="cctv4k">
-        <title lang="zh">记住乡愁2025-30（4K）</title>
+        <title lang="zh">记住乡愁2026-4（4K）</title>
     </programme>
     <programme start="20260601125600" stop="20260601132600" channel="cctv4k">
         <title lang="zh">文脉春秋-2025-42(4K)</title>
