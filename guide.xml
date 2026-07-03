@@ -405,16 +405,16 @@
     <programme start="20260704190000" stop="20260704193800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260704193800" stop="20260704200300" channel="cctv1">
+    <programme start="20260704193800" stop="20260704200100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260704200300" stop="20260704214200" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20260704200100" stop="20260704213700" channel="cctv1">
+        <title lang="zh">城市风华录（第二季）-沈阳篇</title>
     </programme>
-    <programme start="20260704214200" stop="20260704215200" channel="cctv1">
+    <programme start="20260704213700" stop="20260704214700" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260704215200" stop="20260704220000" channel="cctv1">
+    <programme start="20260704214700" stop="20260704220000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260704220000" stop="20260704223600" channel="cctv1">
@@ -508,7 +508,7 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260705200400" stop="20260705214100" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+        <title lang="zh">金石探文明-妇好鸮尊</title>
     </programme>
     <programme start="20260705214100" stop="20260705215100" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
@@ -1092,20 +1092,17 @@
     <programme start="20260705180900" stop="20260705193000" channel="cctv3">
         <title lang="zh">越战越勇-2026-24</title>
     </programme>
-    <programme start="20260705193000" stop="20260705205100" channel="cctv3">
-        <title lang="zh">开门大吉-2026-20</title>
+    <programme start="20260705193000" stop="20260705210200" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-629 梦响中国 音乐盛典 临沂站</title>
     </programme>
-    <programme start="20260705205100" stop="20260705214700" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2026-587</title>
+    <programme start="20260705210200" stop="20260705221200" channel="cctv3">
+        <title lang="zh">心中的歌儿献给党-文艺专题</title>
     </programme>
-    <programme start="20260705214700" stop="20260705224800" channel="cctv3">
+    <programme start="20260705221200" stop="20260705231400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-485</title>
     </programme>
-    <programme start="20260705224800" stop="20260705233400" channel="cctv3">
+    <programme start="20260705231400" stop="20260705235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-773 爱在青山绿水间16/33</title>
-    </programme>
-    <programme start="20260705233400" stop="20260705235900" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2026-774 爱在青山绿水间17/33</title>
     </programme>
     <programme start="20260703003500" stop="20260703012100" channel="cctv4">
         <title lang="zh">山河锦绣第25集</title>
@@ -1564,10 +1561,10 @@
         <title lang="zh">燃动金杯-2026年世界杯小组赛第三轮进球集锦</title>
     </programme>
     <programme start="20260704233000" stop="20260704235900" channel="cctv5">
-        <title lang="zh">2026世界杯-1/8决赛（W73—W75）</title>
+        <title lang="zh">2026世界杯-1/8决赛（加拿大—摩洛哥）</title>
     </programme>
     <programme start="20260705033000" stop="20260705073000" channel="cctv5">
-        <title lang="zh">2026世界杯-1/8决赛（W74—W77）</title>
+        <title lang="zh">2026世界杯-1/8决赛（巴拉圭—法国）</title>
     </programme>
     <programme start="20260705073000" stop="20260705080000" channel="cctv5">
         <title lang="zh">燃动金杯-2026年世界杯小组赛第二轮进球集锦</title>
@@ -2464,19 +2461,19 @@
         <title lang="zh">本集提要-问心2-第33集</title>
     </programme>
     <programme start="20260704193000" stop="20260704202500" channel="cctv8">
-        <title lang="zh">问心233/40</title>
+        <title lang="zh">问心2第33集</title>
     </programme>
     <programme start="20260704202500" stop="20260704203000" channel="cctv8">
         <title lang="zh">本集提要-问心2-第34集</title>
     </programme>
     <programme start="20260704203000" stop="20260704212400" channel="cctv8">
-        <title lang="zh">问心234/40</title>
+        <title lang="zh">问心2第34集</title>
     </programme>
     <programme start="20260704212400" stop="20260704212900" channel="cctv8">
         <title lang="zh">本集提要-悬案-第2集</title>
     </programme>
     <programme start="20260704212900" stop="20260704221900" channel="cctv8">
-        <title lang="zh">悬案2/19</title>
+        <title lang="zh">悬案第2集</title>
     </programme>
     <programme start="20260704221900" stop="20260704222100" channel="cctv8">
         <title lang="zh">本集提要-爱情有烟火-第36集</title>
@@ -4113,26 +4110,23 @@
     <programme start="20260705152000" stop="20260705154000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克2026-46</title>
     </programme>
-    <programme start="20260705154000" stop="20260705164000" channel="cctv16">
+    <programme start="20260705154000" stop="20260705163500" channel="cctv16">
         <title lang="zh">2026年亚洲体操锦标赛-女子单项决赛2</title>
     </programme>
-    <programme start="20260705164000" stop="20260705180200" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026年温布尔登网球锦标赛 第三轮 录播2</title>
+    <programme start="20260705163500" stop="20260705175500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2026年温布尔登网球锦标赛 第三轮 录播2（4K）</title>
     </programme>
-    <programme start="20260705180200" stop="20260705193000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-WTT美国大满贯2026 单打1/4决赛 录播</title>
+    <programme start="20260705175500" stop="20260705191500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-WTT美国大满贯2026 单打1/4决赛 录播（4K）</title>
     </programme>
-    <programme start="20260705193000" stop="20260705200000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026年国际篮联三人篮球世界杯 男子决赛</title>
+    <programme start="20260705191500" stop="20260705193000" channel="cctv16">
+        <title lang="zh">艺术里的奥林匹克2026-41(4K)</title>
     </programme>
-    <programme start="20260705200000" stop="20260705202000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克2026-41</title>
-    </programme>
-    <programme start="20260705202000" stop="20260705214500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026世界杯 1/16决赛12</title>
+    <programme start="20260705193000" stop="20260705214500" channel="cctv16">
+        <title lang="zh">2026中国足球超级联赛-第17轮  上海申花-浙江俱乐部绿城</title>
     </programme>
     <programme start="20260705214500" stop="20260705231000" channel="cctv16">
-        <title lang="zh">2027年国际篮联世界杯预选赛-中国队-日本队</title>
+        <title lang="zh">实况录像（奥林匹克）-2026世界杯 1/16决赛 葡萄牙队-克罗地亚队（4K）</title>
     </programme>
     <programme start="20260705231000" stop="20260705235900" channel="cctv16">
         <title lang="zh">2026年亚洲体操锦标赛-男子单项决赛2</title>
@@ -4986,13 +4980,13 @@
     <programme start="20260705213600" stop="20260705213600" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
     </programme>
-    <programme start="20260705213600" stop="20260705222500" channel="cctv4k">
-        <title lang="zh">舌尖上的中国 第四季-1（4K）</title>
+    <programme start="20260705213600" stop="20260705225600" channel="cctv4k">
+        <title lang="zh">实况录像（奥林匹克）-2026世界杯 1/16决赛 比利时队-塞内加尔队（4K）</title>
     </programme>
-    <programme start="20260705222500" stop="20260705230500" channel="cctv4k">
-        <title lang="zh">探索·发现（4K）-2024-203</title>
+    <programme start="20260705225600" stop="20260705230600" channel="cctv4k">
+        <title lang="zh">中华古树-东莞大王山古树群（4K）</title>
     </programme>
-    <programme start="20260705230500" stop="20260705235500" channel="cctv4k">
+    <programme start="20260705230600" stop="20260705235500" channel="cctv4k">
         <title lang="zh">跟着唐诗去旅行（第二季）-3（4K）</title>
     </programme>
     <programme start="20260705235500" stop="20260705235900" channel="cctv4k">
