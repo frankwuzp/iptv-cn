@@ -415,25 +415,22 @@
         <title lang="zh">寻古中国-寻秦记3</title>
     </programme>
     <programme start="20260708231200" stop="20260708235900" channel="cctv1">
-        <title lang="zh">山水间的家（第四季）-10</title>
+        <title lang="zh">山水间的家（第四季）-1</title>
     </programme>
-    <programme start="20260709004800" stop="20260709011800" channel="cctv1">
+    <programme start="20260709005100" stop="20260709012100" channel="cctv1">
         <title lang="zh">今日说法-2026-121</title>
     </programme>
-    <programme start="20260709011800" stop="20260709014800" channel="cctv1">
+    <programme start="20260709012100" stop="20260709015100" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260709014800" stop="20260709023000" channel="cctv1">
+    <programme start="20260709015100" stop="20260709023300" channel="cctv1">
         <title lang="zh">生活早参考-特别节目（生活圈）2026-184</title>
     </programme>
-    <programme start="20260709023000" stop="20260709024000" channel="cctv1">
+    <programme start="20260709023300" stop="20260709024500" channel="cctv1">
         <title lang="zh">中华古树-功勋树（4K）</title>
     </programme>
-    <programme start="20260709024000" stop="20260709024800" channel="cctv1">
-        <title lang="zh">非遗里的中国-MV</title>
-    </programme>
-    <programme start="20260709024800" stop="20260709042000" channel="cctv1">
-        <title lang="zh">山水间的家（第四季）-10</title>
+    <programme start="20260709024500" stop="20260709042000" channel="cctv1">
+        <title lang="zh">山水间的家（第四季）-1</title>
     </programme>
     <programme start="20260709042000" stop="20260709042200" channel="cctv1">
         <title lang="zh">泱泱中华-历史文化街区1</title>
@@ -829,7 +826,7 @@
         <title lang="zh">天下财经</title>
     </programme>
     <programme start="20260709130000" stop="20260709133100" channel="cctv2">
-        <title lang="zh">周末特供2025-海河1-30分版</title>
+        <title lang="zh">周末特供2022-中国传统建筑的智慧2-30分版</title>
     </programme>
     <programme start="20260709133100" stop="20260709140000" channel="cctv2">
         <title lang="zh">回家吃饭-2026-139</title>
@@ -1645,7 +1642,7 @@
         <title lang="zh">体育新闻</title>
     </programme>
     <programme start="20260709190500" stop="20260709203000" channel="cctv5">
-        <title lang="zh">2027年国际篮联世界杯预选赛-中国队-日本队（4K）</title>
+        <title lang="zh">2027年国际篮联世界杯预选赛-中国队—中国台北队（4K）</title>
     </programme>
     <programme start="20260709203000" stop="20260709223500" channel="cctv5">
         <title lang="zh">2026年世界女排联赛-中国香港站 (中国队-乌克兰队)</title>
@@ -1737,11 +1734,14 @@
     <programme start="20260708092600" stop="20260708104700" channel="cctv5plus">
         <title lang="zh">实况录像-2026年世界女排联赛 土耳其站  法国队—中国队</title>
     </programme>
-    <programme start="20260708104700" stop="20260708121800" channel="cctv5plus">
+    <programme start="20260708104700" stop="20260708121500" channel="cctv5plus">
         <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 2</title>
     </programme>
-    <programme start="20260708121800" stop="20260708134800" channel="cctv5plus">
-        <title lang="zh">实况录像-2026世界杯 1/8决赛 6</title>
+    <programme start="20260708121500" stop="20260708134300" channel="cctv5plus">
+        <title lang="zh">实况录像-2026世界杯 1/8决赛 美国队-比利时队</title>
+    </programme>
+    <programme start="20260708134300" stop="20260708134800" channel="cctv5plus">
+        <title lang="zh">健身动起来-2026-156</title>
     </programme>
     <programme start="20260708134800" stop="20260708141800" channel="cctv5plus">
         <title lang="zh">2026年世界泳联花样游泳世界杯总决赛-精彩</title>
@@ -5004,14 +5004,14 @@
     <programme start="20260709153500" stop="20260709162500" channel="cctv4k">
         <title lang="zh">舌尖上的中国 第四季-4（4K）</title>
     </programme>
-    <programme start="20260709162500" stop="20260709170500" channel="cctv4k">
-        <title lang="zh">探索·发现（4K）-2024-247</title>
+    <programme start="20260709162500" stop="20260709174500" channel="cctv4k">
+        <title lang="zh">实况录像（奥林匹克）-2026世界杯 1/8决赛 巴西队-挪威队（4K）</title>
     </programme>
-    <programme start="20260709170500" stop="20260709171000" channel="cctv4k">
-        <title lang="zh">中国微名片·世界遗产（第二季）-16（4K）</title>
+    <programme start="20260709174500" stop="20260709175500" channel="cctv4k">
+        <title lang="zh">中华古树-蕉城杉木王（4K）</title>
     </programme>
-    <programme start="20260709171000" stop="20260709175900" channel="cctv4k">
-        <title lang="zh">我们中国人-1（4K）</title>
+    <programme start="20260709175500" stop="20260709175900" channel="cctv4k">
+        <title lang="zh">4K垫播节目-美丽中国2025-四季1</title>
     </programme>
     <programme start="20260709175900" stop="20260709180000" channel="cctv4k">
         <title lang="zh">生命树-第37集预告（4K）</title>
@@ -5064,16 +5064,16 @@
     <programme start="20260709213600" stop="20260709213600" channel="cctv4k">
         <title lang="zh">4K标识演绎-2019-2</title>
     </programme>
-    <programme start="20260709213600" stop="20260709222600" channel="cctv4k">
-        <title lang="zh">舌尖上的中国 第四季-5（4K）</title>
+    <programme start="20260709213600" stop="20260709225600" channel="cctv4k">
+        <title lang="zh">实况录像（奥林匹克）-2026世界杯 1/8决赛 墨西哥队-英格兰队（4K）</title>
     </programme>
-    <programme start="20260709222600" stop="20260709230600" channel="cctv4k">
-        <title lang="zh">探索·发现（4K）-2024-248</title>
+    <programme start="20260709225600" stop="20260709230600" channel="cctv4k">
+        <title lang="zh">中华古树-蕉城杉木王（4K）</title>
     </programme>
-    <programme start="20260709230600" stop="20260709235500" channel="cctv4k">
+    <programme start="20260709230600" stop="20260709235600" channel="cctv4k">
         <title lang="zh">我们中国人-2（4K）</title>
     </programme>
-    <programme start="20260709235500" stop="20260709235900" channel="cctv4k">
+    <programme start="20260709235600" stop="20260709235900" channel="cctv4k">
         <title lang="zh">4K垫播节目-丝绸之旅2025</title>
     </programme>
     <programme start="20260709235900" stop="20260709235900" channel="cctv4k">
