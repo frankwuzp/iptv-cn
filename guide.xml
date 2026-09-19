@@ -363,13 +363,13 @@
     <programme start="20260920193900" stop="20260920200500" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260920200500" stop="20260920214300" channel="cctv1">
+    <programme start="20260920200500" stop="20260920214200" channel="cctv1">
         <title lang="zh">中华考工记（第二季）-1</title>
     </programme>
-    <programme start="20260920214300" stop="20260920215200" channel="cctv1">
+    <programme start="20260920214200" stop="20260920215100" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme start="20260920215200" stop="20260920220000" channel="cctv1">
+    <programme start="20260920215100" stop="20260920220000" channel="cctv1">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme start="20260920220000" stop="20260920223500" channel="cctv1">
@@ -646,7 +646,7 @@
         <title lang="zh">2026精品财经纪录-中国民居第三季-6</title>
     </programme>
     <programme start="20260920101000" stop="20260920102400" channel="cctv2">
-        <title lang="zh">精品财经汇-2026-638</title>
+        <title lang="zh">祁连山1-14分版</title>
     </programme>
     <programme start="20260920102400" stop="20260920104700" channel="cctv2">
         <title lang="zh">精品财经汇-2026-618</title>
@@ -906,11 +906,14 @@
     <programme start="20260920002800" stop="20260920011400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-960 护宝寻踪22/36</title>
     </programme>
-    <programme start="20260920011400" stop="20260920025900" channel="cctv3">
-        <title lang="zh">影视留声机-2025-49-经典电影欣赏《渡江侦察记》</title>
+    <programme start="20260920011400" stop="20260920030200" channel="cctv3">
+        <title lang="zh">影视留声机-2026-119-经典电影欣赏《车水马龙》</title>
     </programme>
-    <programme start="20260920025900" stop="20260920042400" channel="cctv3">
-        <title lang="zh">国风超有戏·寻风季-8综艺频道</title>
+    <programme start="20260920030200" stop="20260920030700" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-1032 咏春</title>
+    </programme>
+    <programme start="20260920030700" stop="20260920042400" channel="cctv3">
+        <title lang="zh">全民畅舞-15</title>
     </programme>
     <programme start="20260920042400" stop="20260920055500" channel="cctv3">
         <title lang="zh">民歌·中国-2026-30开播吧！国潮（第三季）精编</title>
@@ -948,29 +951,32 @@
     <programme start="20260920180600" stop="20260920193000" channel="cctv3">
         <title lang="zh">开门大吉-2026-33</title>
     </programme>
-    <programme start="20260920193000" stop="20260920210700" channel="cctv3">
+    <programme start="20260920193000" stop="20260920210000" channel="cctv3">
         <title lang="zh">银龄欣风采-1</title>
     </programme>
-    <programme start="20260920210700" stop="20260920221500" channel="cctv3">
+    <programme start="20260920210000" stop="20260920220800" channel="cctv3">
         <title lang="zh">新花路放—最美的心愿之旅-5</title>
     </programme>
-    <programme start="20260920221500" stop="20260920230900" channel="cctv3">
+    <programme start="20260920220800" stop="20260920230200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-600</title>
     </programme>
-    <programme start="20260920230900" stop="20260920235500" channel="cctv3">
+    <programme start="20260920230200" stop="20260920234800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-961 护宝寻踪23/36</title>
     </programme>
-    <programme start="20260920235500" stop="20260920235900" channel="cctv3">
+    <programme start="20260920234800" stop="20260920235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-962 护宝寻踪24/36</title>
     </programme>
-    <programme start="20260921004100" stop="20260921012700" channel="cctv3">
+    <programme start="20260921003400" stop="20260921012000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-963 护宝寻踪25/36</title>
     </programme>
-    <programme start="20260921012700" stop="20260921030800" channel="cctv3">
-        <title lang="zh">影视留声机-2025-122-经典电影欣赏《董存瑞》</title>
+    <programme start="20260921012000" stop="20260921030800" channel="cctv3">
+        <title lang="zh">影视留声机-2026-97-经典电影欣赏《喜盈门》</title>
     </programme>
-    <programme start="20260921030800" stop="20260921043200" channel="cctv3">
-        <title lang="zh">国风超有戏·寻风季-9综艺频道</title>
+    <programme start="20260921030800" stop="20260921031200" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-1038 闪耀动起来</title>
+    </programme>
+    <programme start="20260921031200" stop="20260921043200" channel="cctv3">
+        <title lang="zh">CMG夏日歌会-陕西榆林站-重播版</title>
     </programme>
     <programme start="20260921043200" stop="20260921055000" channel="cctv3">
         <title lang="zh">你好时光（第二季）-3</title>
