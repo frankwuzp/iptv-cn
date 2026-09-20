@@ -372,10 +372,10 @@
     <programme start="20260921200900" stop="20260921205800" channel="cctv1">
         <title lang="zh">生逢其时第22集</title>
     </programme>
-    <programme start="20260921205800" stop="20260921210100" channel="cctv1">
+    <programme start="20260921205800" stop="20260921210300" channel="cctv1">
         <title lang="zh">前情提要-生逢其时-第23集</title>
     </programme>
-    <programme start="20260921210100" stop="20260921220000" channel="cctv1">
+    <programme start="20260921210300" stop="20260921220000" channel="cctv1">
         <title lang="zh">生逢其时第23集</title>
     </programme>
     <programme start="20260921220000" stop="20260921223500" channel="cctv1">
@@ -1251,25 +1251,25 @@
     <programme start="20260921120000" stop="20260921130500" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260921130500" stop="20260921135200" channel="cctv4">
+    <programme start="20260921130500" stop="20260921135100" channel="cctv4">
         <title lang="zh">天下同心第1集</title>
     </programme>
-    <programme start="20260921135200" stop="20260921143800" channel="cctv4">
+    <programme start="20260921135100" stop="20260921143800" channel="cctv4">
         <title lang="zh">天下同心第2集</title>
     </programme>
-    <programme start="20260921143800" stop="20260921152700" channel="cctv4">
+    <programme start="20260921143800" stop="20260921152600" channel="cctv4">
         <title lang="zh">天下同心第3集</title>
     </programme>
-    <programme start="20260921152700" stop="20260921161300" channel="cctv4">
+    <programme start="20260921152600" stop="20260921161300" channel="cctv4">
         <title lang="zh">天下同心第4集</title>
     </programme>
     <programme start="20260921161300" stop="20260921170100" channel="cctv4">
         <title lang="zh">天下同心第5集</title>
     </programme>
-    <programme start="20260921170100" stop="20260921171600" channel="cctv4">
-        <title lang="zh">平凡匠心-2026-1</title>
+    <programme start="20260921170100" stop="20260921171500" channel="cctv4">
+        <title lang="zh">平凡匠心-2025-1</title>
     </programme>
-    <programme start="20260921171600" stop="20260921180000" channel="cctv4">
+    <programme start="20260921171500" stop="20260921180000" channel="cctv4">
         <title lang="zh">远方的家2026-193</title>
     </programme>
     <programme start="20260921180000" stop="20260921190000" channel="cctv4">
@@ -1513,19 +1513,46 @@
         <title lang="zh">健身动起来</title>
     </programme>
     <programme start="20260921070000" stop="20260921080000" channel="cctv5">
-        <title lang="zh">体坛晨报-亚运晨报</title>
+        <title lang="zh">《亚运晨报》</title>
     </programme>
-    <programme start="20260921080000" stop="20260921121500" channel="cctv5">
-        <title lang="zh">2026年亚运会-赛事转播报道 2-1</title>
+    <programme start="20260921080000" stop="20260921090000" channel="cctv5">
+        <title lang="zh">录像：20日女排1/4决赛中国-越南</title>
+    </programme>
+    <programme start="20260921090000" stop="20260921100000" channel="cctv5">
+        <title lang="zh">直播：游泳预赛</title>
+    </programme>
+    <programme start="20260921100000" stop="20260921113000" channel="cctv5">
+        <title lang="zh">直播：女曲小组赛 中国-中国台北</title>
+    </programme>
+    <programme start="20260921113000" stop="20260921121500" channel="cctv5">
+        <title lang="zh">直播：射击男子10米气步枪决赛</title>
     </programme>
     <programme start="20260921121500" stop="20260921130000" channel="cctv5">
         <title lang="zh">体坛快讯-亚运最前沿</title>
     </programme>
-    <programme start="20260921130000" stop="20260921213000" channel="cctv5">
-        <title lang="zh">2026年亚运会-赛事转播报道 2-2</title>
+    <programme start="20260921130000" stop="20260921133000" channel="cctv5">
+        <title lang="zh">录像：20日游泳决赛</title>
+    </programme>
+    <programme start="20260921133000" stop="20260921160000" channel="cctv5">
+        <title lang="zh">直播：体操男子资格赛、个人全能决赛2</title>
+    </programme>
+    <programme start="20260921160000" stop="20260921174000" channel="cctv5">
+        <title lang="zh">直播：游泳决赛（男子50米仰泳、女子50米仰泳、男子50米自由泳、女子200米自由泳、男子100米蛙泳、女子200米个人混合泳、男子4*200米自由泳接力等）</title>
+    </programme>
+    <programme start="20260921174000" stop="20260921175500" channel="cctv5">
+        <title lang="zh">《亚运进行时》</title>
+    </programme>
+    <programme start="20260921175500" stop="20260921193000" channel="cctv5">
+        <title lang="zh">直播：女篮小组赛 中国-印度尼西亚</title>
+    </programme>
+    <programme start="20260921193000" stop="20260921200000" channel="cctv5">
+        <title lang="zh">录像：空手道女子决赛</title>
+    </programme>
+    <programme start="20260921200000" stop="20260921213000" channel="cctv5">
+        <title lang="zh">录像：女排半决赛 中国-泰国</title>
     </programme>
     <programme start="20260921213000" stop="20260921223500" channel="cctv5">
-        <title lang="zh">体育世界-全景亚运</title>
+        <title lang="zh">《全景亚运会》</title>
     </programme>
     <programme start="20260921223500" stop="20260921235900" channel="cctv5">
         <title lang="zh">2026/2027西班牙足球甲级联赛-第7轮（毕尔巴鄂竞技-阿拉维斯）（4K）</title>
@@ -1641,8 +1668,35 @@
     <programme start="20260921072500" stop="20260921085500" channel="cctv5plus">
         <title lang="zh">实况录像-2026年亚运会 女足小组赛 中国队—乌兹别克斯坦队</title>
     </programme>
-    <programme start="20260921085500" stop="20260921210500" channel="cctv5plus">
-        <title lang="zh">2026年亚运会-赛事直播2</title>
+    <programme start="20260921085500" stop="20260921103000" channel="cctv5plus">
+        <title lang="zh">直播：乒乓球女团小组赛 印度-巴基斯坦</title>
+    </programme>
+    <programme start="20260921103000" stop="20260921110000" channel="cctv5plus">
+        <title lang="zh">录像：游泳决赛</title>
+    </programme>
+    <programme start="20260921110000" stop="20260921121500" channel="cctv5plus">
+        <title lang="zh">直播：拳击男子70公斤级预赛</title>
+    </programme>
+    <programme start="20260921121500" stop="20260921143000" channel="cctv5plus">
+        <title lang="zh">录像：女排1/4决赛 中国-越南</title>
+    </programme>
+    <programme start="20260921143000" stop="20260921150000" channel="cctv5plus">
+        <title lang="zh">录像：射击女子10米气步枪决赛</title>
+    </programme>
+    <programme start="20260921150000" stop="20260921170000" channel="cctv5plus">
+        <title lang="zh">直播：女排半决赛1</title>
+    </programme>
+    <programme start="20260921170000" stop="20260921173000" channel="cctv5plus">
+        <title lang="zh">直播：空手道女子-61、男子-67、女子-68公斤级决赛</title>
+    </programme>
+    <programme start="20260921173000" stop="20260921182000" channel="cctv5plus">
+        <title lang="zh">录像：体操男子资格赛2暨男子全能</title>
+    </programme>
+    <programme start="20260921182000" stop="20260921200000" channel="cctv5plus">
+        <title lang="zh">直播：女排半决赛2</title>
+    </programme>
+    <programme start="20260921200000" stop="20260921210500" channel="cctv5plus">
+        <title lang="zh">录像：游泳决赛</title>
     </programme>
     <programme start="20260921210500" stop="20260921223400" channel="cctv5plus">
         <title lang="zh">2026/2027德国足球甲级联赛-第4轮（斯图加特-多特蒙德）（4K）</title>
@@ -3936,8 +3990,29 @@
     <programme start="20260921075500" stop="20260921085500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年亚运会 曲棍球男子小组赛 中国队—阿曼队</title>
     </programme>
-    <programme start="20260921085500" stop="20260921203500" channel="cctv16">
-        <title lang="zh">2026年亚运会-赛事报道 2</title>
+    <programme start="20260921085500" stop="20260921113000" channel="cctv16">
+        <title lang="zh">直播：体操男子资格赛1</title>
+    </programme>
+    <programme start="20260921113000" stop="20260921130000" channel="cctv16">
+        <title lang="zh">直播：乒乓球男团小组赛 卡塔尔-中国澳门</title>
+    </programme>
+    <programme start="20260921130000" stop="20260921140000" channel="cctv16">
+        <title lang="zh">录像：男篮铜牌赛 中国-伊朗</title>
+    </programme>
+    <programme start="20260921140000" stop="20260921145500" channel="cctv16">
+        <title lang="zh">录像：游泳决赛</title>
+    </programme>
+    <programme start="20260921145500" stop="20260921170000" channel="cctv16">
+        <title lang="zh">直播：女足小组赛 中国-菲律宾</title>
+    </programme>
+    <programme start="20260921170000" stop="20260921183000" channel="cctv16">
+        <title lang="zh">录像：女子曲棍球 中国-中国台北</title>
+    </programme>
+    <programme start="20260921183000" stop="20260921200000" channel="cctv16">
+        <title lang="zh">直播：男子手球 中国-卡塔尔</title>
+    </programme>
+    <programme start="20260921200000" stop="20260921203500" channel="cctv16">
+        <title lang="zh">录像：射击男子10米气步枪决赛</title>
     </programme>
     <programme start="20260921203500" stop="20260921220000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年亚运会 男篮半决赛1</title>
@@ -4299,49 +4374,46 @@
     <programme start="20260920085400" stop="20260920085500" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎3</title>
     </programme>
-    <programme start="20260920085500" stop="20260920203000" channel="cctv4k">
+    <programme start="20260920085500" stop="20260920203500" channel="cctv4k">
         <title lang="zh">2026年亚运会-赛事报道 1</title>
     </programme>
-    <programme start="20260920203000" stop="20260920203000" channel="cctv4k">
+    <programme start="20260920203500" stop="20260920203500" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎3</title>
     </programme>
-    <programme start="20260920203000" stop="20260920211600" channel="cctv4k">
+    <programme start="20260920203500" stop="20260920212100" channel="cctv4k">
         <title lang="zh">种墨园-（4K）-12/34</title>
     </programme>
-    <programme start="20260920211600" stop="20260920211900" channel="cctv4k">
+    <programme start="20260920212100" stop="20260920212400" channel="cctv4k">
         <title lang="zh">4K宣传片-大国之翼同风起</title>
     </programme>
-    <programme start="20260920211900" stop="20260920211900" channel="cctv4k">
+    <programme start="20260920212400" stop="20260920212400" channel="cctv4k">
         <title lang="zh">4K宣传片-交锋2</title>
     </programme>
-    <programme start="20260920211900" stop="20260920212000" channel="cctv4k">
+    <programme start="20260920212400" stop="20260920212500" channel="cctv4k">
         <title lang="zh">4K宣传片-第二届丝路之星国际音乐大赛</title>
     </programme>
-    <programme start="20260920212000" stop="20260920212000" channel="cctv4k">
+    <programme start="20260920212500" stop="20260920212500" channel="cctv4k">
         <title lang="zh">4K宣传片-白露2026</title>
     </programme>
-    <programme start="20260920212000" stop="20260920212100" channel="cctv4k">
+    <programme start="20260920212500" stop="20260920212600" channel="cctv4k">
         <title lang="zh">4K宣传片-生逢其时2</title>
     </programme>
-    <programme start="20260920212100" stop="20260920220700" channel="cctv4k">
+    <programme start="20260920212600" stop="20260920221200" channel="cctv4k">
         <title lang="zh">种墨园-（4K）-13/34</title>
     </programme>
-    <programme start="20260920220700" stop="20260920220700" channel="cctv4k">
+    <programme start="20260920221200" stop="20260920221200" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎3</title>
     </programme>
-    <programme start="20260920220700" stop="20260920233700" channel="cctv4k">
+    <programme start="20260920221200" stop="20260920234200" channel="cctv4k">
         <title lang="zh">赢在AI+（第二季）3-（4K）</title>
-    </programme>
-    <programme start="20260920233700" stop="20260920234200" channel="cctv4k">
-        <title lang="zh">美丽中国自然-2022-67</title>
     </programme>
     <programme start="20260920234200" stop="20260920235200" channel="cctv4k">
         <title lang="zh">中华古树-功勋树（4K）</title>
     </programme>
-    <programme start="20260920235200" stop="20260920235700" channel="cctv4k">
+    <programme start="20260920235200" stop="20260920235600" channel="cctv4k">
         <title lang="zh">听起来很好吃(第二季)-4（4K）</title>
     </programme>
-    <programme start="20260920235700" stop="20260920235900" channel="cctv4k">
+    <programme start="20260920235600" stop="20260920235900" channel="cctv4k">
         <title lang="zh">4K垫播节目-丝绸之旅2025</title>
     </programme>
     <programme start="20260920235900" stop="20260920235900" channel="cctv4k">
