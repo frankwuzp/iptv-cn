@@ -621,17 +621,20 @@
     <programme start="20260926055900" stop="20260926070000" channel="cctv2">
         <title lang="zh">经济信息联播</title>
     </programme>
-    <programme start="20260926070000" stop="20260926090100" channel="cctv2">
+    <programme start="20260926070000" stop="20260926090000" channel="cctv2">
         <title lang="zh">第一时间</title>
     </programme>
-    <programme start="20260926090100" stop="20260926093100" channel="cctv2">
-        <title lang="zh">天山通途-1</title>
+    <programme start="20260926090000" stop="20260926092800" channel="cctv2">
+        <title lang="zh">央视财经专访埃隆·马斯克</title>
     </programme>
-    <programme start="20260926093100" stop="20260926095600" channel="cctv2">
+    <programme start="20260926092800" stop="20260926095300" channel="cctv2">
         <title lang="zh">精品财经纪录-我们的丰收2</title>
     </programme>
-    <programme start="20260926095600" stop="20260926102200" channel="cctv2">
+    <programme start="20260926095300" stop="20260926101800" channel="cctv2">
         <title lang="zh">精品财经纪录-我们的丰收3</title>
+    </programme>
+    <programme start="20260926101800" stop="20260926102200" channel="cctv2">
+        <title lang="zh">大河之洲1-3分版</title>
     </programme>
     <programme start="20260926102200" stop="20260926103700" channel="cctv2">
         <title lang="zh">精品财经汇-2026-639</title>
@@ -669,32 +672,29 @@
     <programme start="20260926153000" stop="20260926161900" channel="cctv2">
         <title lang="zh">大黄河1-46分版</title>
     </programme>
-    <programme start="20260926161900" stop="20260926162100" channel="cctv2">
-        <title lang="zh">奇妙中国第二季1-2分版</title>
-    </programme>
-    <programme start="20260926162100" stop="20260926171300" channel="cctv2">
+    <programme start="20260926161900" stop="20260926171100" channel="cctv2">
         <title lang="zh">精品财经纪录-青海我们的国家公园2</title>
     </programme>
-    <programme start="20260926171300" stop="20260926174300" channel="cctv2">
+    <programme start="20260926171100" stop="20260926174100" channel="cctv2">
         <title lang="zh">2026精品财经纪录-味道大师7</title>
     </programme>
-    <programme start="20260926174300" stop="20260926181500" channel="cctv2">
+    <programme start="20260926174100" stop="20260926181300" channel="cctv2">
         <title lang="zh">2026精品财经纪录-味道大师8</title>
     </programme>
-    <programme start="20260926181500" stop="20260926184200" channel="cctv2">
+    <programme start="20260926181300" stop="20260926184000" channel="cctv2">
         <title lang="zh">川味第三季2-27分版</title>
     </programme>
-    <programme start="20260926184200" stop="20260926191300" channel="cctv2">
+    <programme start="20260926184000" stop="20260926191100" channel="cctv2">
         <title lang="zh">川味第三季3-30分30秒版</title>
     </programme>
-    <programme start="20260926191300" stop="20260926200100" channel="cctv2">
+    <programme start="20260926191100" stop="20260926200000" channel="cctv2">
         <title lang="zh">非改不可9-47分30秒版</title>
     </programme>
-    <programme start="20260926200100" stop="20260926201500" channel="cctv2">
-        <title lang="zh">精品财经汇-2026-616</title>
+    <programme start="20260926200000" stop="20260926202800" channel="cctv2">
+        <title lang="zh">央视财经专访埃隆·马斯克</title>
     </programme>
-    <programme start="20260926201500" stop="20260926203000" channel="cctv2">
-        <title lang="zh">精品财经汇-2026-644</title>
+    <programme start="20260926202800" stop="20260926203000" channel="cctv2">
+        <title lang="zh">奇妙中国第二季1-2分版</title>
     </programme>
     <programme start="20260926203000" stop="20260926213000" channel="cctv2">
         <title lang="zh">经济信息联播</title>
@@ -745,7 +745,7 @@
         <title lang="zh">第一时间</title>
     </programme>
     <programme start="20260927090100" stop="20260927093100" channel="cctv2">
-        <title lang="zh">天山通途-2</title>
+        <title lang="zh">天山通途-1</title>
     </programme>
     <programme start="20260927093100" stop="20260927095600" channel="cctv2">
         <title lang="zh">精品财经纪录-我们的丰收4</title>
@@ -975,13 +975,13 @@
     <programme start="20260926180500" stop="20260926193000" channel="cctv3">
         <title lang="zh">开门大吉-2026-36</title>
     </programme>
-    <programme start="20260926193000" stop="20260926211000" channel="cctv3">
+    <programme start="20260926193000" stop="20260926212500" channel="cctv3">
         <title lang="zh">喜满中秋-1</title>
     </programme>
-    <programme start="20260926211000" stop="20260926214800" channel="cctv3">
-        <title lang="zh">2026我们的村节-3</title>
+    <programme start="20260926212500" stop="20260926220300" channel="cctv3">
+        <title lang="zh">2026我们的村节-4</title>
     </programme>
-    <programme start="20260926214800" stop="20260926232000" channel="cctv3">
+    <programme start="20260926220300" stop="20260926232000" channel="cctv3">
         <title lang="zh">第十三届丝绸之路国际电影节-闭幕式-完整版</title>
     </programme>
     <programme start="20260926232000" stop="20260926235900" channel="cctv3">
@@ -4149,28 +4149,28 @@
     <programme start="20260925085400" stop="20260925085500" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
     </programme>
-    <programme start="20260925085500" stop="20260925190000" channel="cctv4k">
+    <programme start="20260925085500" stop="20260925190400" channel="cctv4k">
         <title lang="zh">2026年亚运会-赛事报道 6</title>
     </programme>
-    <programme start="20260925190000" stop="20260925190000" channel="cctv4k">
+    <programme start="20260925190400" stop="20260925190400" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
     </programme>
-    <programme start="20260925190000" stop="20260925190500" channel="cctv4k">
+    <programme start="20260925190400" stop="20260925190900" channel="cctv4k">
         <title lang="zh">美丽中国自然-2022-71</title>
     </programme>
-    <programme start="20260925190500" stop="20260925191500" channel="cctv4k">
+    <programme start="20260925190900" stop="20260925191900" channel="cctv4k">
         <title lang="zh">中华古树-绍兴古桂花群（4K）</title>
     </programme>
-    <programme start="20260925191500" stop="20260925193000" channel="cctv4k">
+    <programme start="20260925191900" stop="20260925193400" channel="cctv4k">
         <title lang="zh">谁调鼎中味-3（4K）</title>
     </programme>
-    <programme start="20260925193000" stop="20260925194500" channel="cctv4k">
+    <programme start="20260925193400" stop="20260925194900" channel="cctv4k">
         <title lang="zh">谁调鼎中味-4（4K）</title>
     </programme>
-    <programme start="20260925194500" stop="20260925195500" channel="cctv4k">
+    <programme start="20260925194900" stop="20260925195900" channel="cctv4k">
         <title lang="zh">中华古树-阳山唐桂（4K）</title>
     </programme>
-    <programme start="20260925195500" stop="20260925195900" channel="cctv4k">
+    <programme start="20260925195900" stop="20260925195900" channel="cctv4k">
         <title lang="zh">4K垫播节目-美丽中国2025-四季1</title>
     </programme>
     <programme start="20260925195900" stop="20260925200000" channel="cctv4k">
