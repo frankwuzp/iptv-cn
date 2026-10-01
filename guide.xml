@@ -376,13 +376,13 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme start="20261003022800" stop="20261003023200" channel="cctv1">
-        <title lang="zh">非遗里的中国-MV</title>
+        <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme start="20261003023200" stop="20261003024200" channel="cctv1">
         <title lang="zh">中华古树-湖南崇木凼古树群（4K）</title>
     </programme>
     <programme start="20261003024200" stop="20261003024900" channel="cctv1">
-        <title lang="zh">三餐四季-宣传片</title>
+        <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20261003024900" stop="20261003042000" channel="cctv1">
         <title lang="zh">三餐四季（第三季）-9北京</title>
@@ -1992,11 +1992,11 @@
     <programme start="20261003082700" stop="20261003100300" channel="cctv7">
         <title lang="zh">军歌嘹亮颂祖国-2026年国庆特别节目</title>
     </programme>
-    <programme start="20261003100300" stop="20261003115300" channel="cctv7">
-        <title lang="zh">五星剧场-英雄儿女(高清文件)</title>
-    </programme>
-    <programme start="20261003115300" stop="20261003120000" channel="cctv7">
+    <programme start="20261003100300" stop="20261003100900" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-我爱这蓝色的海洋（2026国庆）</title>
+    </programme>
+    <programme start="20261003100900" stop="20261003120000" channel="cctv7">
+        <title lang="zh">五星剧场-英雄儿女(高清文件)</title>
     </programme>
     <programme start="20261003120000" stop="20261003123600" channel="cctv7">
         <title lang="zh">正午国防军事</title>
