@@ -264,13 +264,22 @@
     <programme start="20261107190000" stop="20261107193800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20261107193800" stop="20261107200500" channel="cctv1">
+    <programme start="20261107193800" stop="20261107200100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20261107200500" stop="20261107214900" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20261107200100" stop="20261107200500" channel="cctv1">
+        <title lang="zh">前情提要-伟大的长征-第50集</title>
     </programme>
-    <programme start="20261107214900" stop="20261107220000" channel="cctv1">
+    <programme start="20261107200500" stop="20261107205300" channel="cctv1">
+        <title lang="zh">伟大的长征第50集</title>
+    </programme>
+    <programme start="20261107205300" stop="20261107205600" channel="cctv1">
+        <title lang="zh">前情提要-伟大的长征-第51集</title>
+    </programme>
+    <programme start="20261107205600" stop="20261107215100" channel="cctv1">
+        <title lang="zh">伟大的长征第51集</title>
+    </programme>
+    <programme start="20261107215100" stop="20261107220000" channel="cctv1">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme start="20261107220000" stop="20261107223700" channel="cctv1">
@@ -813,29 +822,26 @@
     <programme start="20261108032800" stop="20261108044500" channel="cctv3">
         <title lang="zh">全民畅舞-19</title>
     </programme>
-    <programme start="20261108044500" stop="20261108051100" channel="cctv3">
+    <programme start="20261108044500" stop="20261108051000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-1090 锦绣神州 歌曲集锦 4</title>
     </programme>
-    <programme start="20261108051100" stop="20261108062800" channel="cctv3">
+    <programme start="20261108051000" stop="20261108062800" channel="cctv3">
         <title lang="zh">全民畅舞-22</title>
     </programme>
-    <programme start="20261108062800" stop="20261108063100" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2026-1127 万疆</title>
+    <programme start="20261108062800" stop="20261108073300" channel="cctv3">
+        <title lang="zh">国音正青春-5</title>
     </programme>
-    <programme start="20261108063100" stop="20261108073600" channel="cctv3">
-        <title lang="zh">影视留声机-2026-118</title>
+    <programme start="20261108073300" stop="20261108084300" channel="cctv3">
+        <title lang="zh">新花路放—最美的心愿之旅-12</title>
     </programme>
-    <programme start="20261108073600" stop="20261108084300" channel="cctv3">
-        <title lang="zh">新花路放—最美的心愿之旅-12 1/2</title>
+    <programme start="20261108084300" stop="20261108102400" channel="cctv3">
+        <title lang="zh">笑有新生2026-1</title>
     </programme>
-    <programme start="20261108084300" stop="20261108101100" channel="cctv3">
-        <title lang="zh">越战越勇-2026-33</title>
-    </programme>
-    <programme start="20261108101100" stop="20261108114200" channel="cctv3">
+    <programme start="20261108102400" stop="20261108115500" channel="cctv3">
         <title lang="zh">开门大吉-2026-42</title>
     </programme>
-    <programme start="20261108114200" stop="20261108132600" channel="cctv3">
-        <title lang="zh">笑有新生2026-1</title>
+    <programme start="20261108115500" stop="20261108132600" channel="cctv3">
+        <title lang="zh">越战越勇-2026-33</title>
     </programme>
     <programme start="20261108132600" stop="20261108152000" channel="cctv3">
         <title lang="zh">第二届丝路之星国际音乐大赛-6</title>
@@ -10773,11 +10779,86 @@
     <programme start="20261109025500" stop="20261109042000" channel="xiamen">
         <title lang="zh">百万新娘之爱无悔（闽）   69-70</title>
     </programme>
-    <programme start="20261109042000" stop="20261109053000" channel="xiamen">
+    <programme start="20261109042000" stop="20261109044500" channel="xiamen">
         <title lang="zh">印象中国（闽）</title>
     </programme>
-    <programme start="20261109053000" stop="20261109235900" channel="xiamen">
+    <programme start="20261109044500" stop="20261109051500" channel="xiamen">
+        <title lang="zh">印象中国（闽）</title>
+    </programme>
+    <programme start="20261109051500" stop="20261109053000" channel="xiamen">
+        <title lang="zh">斗阵来讲古（重）</title>
+    </programme>
+    <programme start="20261109053000" stop="20261109054500" channel="xiamen">
         <title lang="zh">闽南通（重）</title>
+    </programme>
+    <programme start="20261109054500" stop="20261109061000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（重）</title>
+    </programme>
+    <programme start="20261109061000" stop="20261109070000" channel="xiamen">
+        <title lang="zh">斗阵来看戏（重）</title>
+    </programme>
+    <programme start="20261109070000" stop="20261109070500" channel="xiamen">
+        <title lang="zh">国歌</title>
+    </programme>
+    <programme start="20261109070500" stop="20261109073500" channel="xiamen">
+        <title lang="zh">两岸新新闻（重）</title>
+    </programme>
+    <programme start="20261109073500" stop="20261109081000" channel="xiamen">
+        <title lang="zh">闽南通（重）</title>
+    </programme>
+    <programme start="20261109081000" stop="20261109084000" channel="xiamen">
+        <title lang="zh">玲听两岸（重）</title>
+    </programme>
+    <programme start="20261109084000" stop="20261109092000" channel="xiamen">
+        <title lang="zh">印象中国（闽）</title>
+    </programme>
+    <programme start="20261109092000" stop="20261109120000" channel="xiamen">
+        <title lang="zh">全家福（闽）1-3</title>
+    </programme>
+    <programme start="20261109120000" stop="20261109130000" channel="xiamen">
+        <title lang="zh">斗阵来看戏（首）</title>
+    </programme>
+    <programme start="20261109130000" stop="20261109134000" channel="xiamen">
+        <title lang="zh">斗阵来讲古（首）</title>
+    </programme>
+    <programme start="20261109134000" stop="20261109152500" channel="xiamen">
+        <title lang="zh">我是杜拉拉（闽）35-36</title>
+    </programme>
+    <programme start="20261109152500" stop="20261109171500" channel="xiamen">
+        <title lang="zh">暗夜与黎明 18-19</title>
+    </programme>
+    <programme start="20261109171500" stop="20261109173500" channel="xiamen">
+        <title lang="zh">一脉茶香寻访两岸匠心茶人 1   绽放吧非遗第四季 9</title>
+    </programme>
+    <programme start="20261109173500" stop="20261109180000" channel="xiamen">
+        <title lang="zh">小海豚（首）</title>
+    </programme>
+    <programme start="20261109180000" stop="20261109183000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（首）</title>
+    </programme>
+    <programme start="20261109183000" stop="20261109190000" channel="xiamen">
+        <title lang="zh">厦视新闻</title>
+    </programme>
+    <programme start="20261109190000" stop="20261109193500" channel="xiamen">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20261109193500" stop="20261109211500" channel="xiamen">
+        <title lang="zh">天衣无缝 8-9</title>
+    </programme>
+    <programme start="20261109211500" stop="20261109213000" channel="xiamen">
+        <title lang="zh">一脉茶香寻访两岸匠心茶人 1   绽放吧非遗第四季 9</title>
+    </programme>
+    <programme start="20261109213000" stop="20261109220000" channel="xiamen">
+        <title lang="zh">两岸新新闻（首）</title>
+    </programme>
+    <programme start="20261109220000" stop="20261109223500" channel="xiamen">
+        <title lang="zh">两岸直航（首）</title>
+    </programme>
+    <programme start="20261109223500" stop="20261109232000" channel="xiamen">
+        <title lang="zh">两岸秘密档案</title>
+    </programme>
+    <programme start="20261109232000" stop="20261109235900" channel="xiamen">
+        <title lang="zh">镖门（闽）28-29</title>
     </programme>
     <programme start="20261107003300" stop="20261107012700" channel="yunnan">
         <title lang="zh">电视剧</title>
